@@ -4720,7 +4720,7 @@ http://download.vendedordesucesso.com.br/e/RCFServer3/ondemand/CAPTAMRC3.mp4?att
 
 
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/v9adgwf" group-title="Filmes | [COLOR green]Terrir[/COLOR]",It: Capítulo 2 (Dublado) - 2019 - 1080p
+#EXTINF:-1 tvg-logo="https://tinyurl.com/v9adgwf" group-title="Filmes | [COLOR green]Terror[/COLOR]",It: Capítulo 2 (Dublado) - 2019 - 1080p
 https://download.vendedordesucesso.com.br/e/RCFServer3/ondemand/ITCAP2.mp4?attachment=true
 
 

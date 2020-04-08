@@ -2210,7 +2210,7 @@ http://purpleserver.net:80/kUueKaQp/o6o2kaJS/18542
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/1CP" group-title="Canais | Variedades",A&E FHD
-http://purpleserver.net:80/kUueKaQp/o6o2kaJS/18858
+http://lb.kstream.org/aovivo/FHD_AE/video.m3u8?token=a84165bb1c6b23e1fbd82702bc4fc9ea
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/uuz" group-title="Canais | Variedades",A&E FHD [H265]

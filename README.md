@@ -2860,6 +2860,10 @@ http://purpleserver.net:80/a9PZfkzc/ECyHbZzM/33400
 
 
 
+#EXTINF:-1 tvg-logo="" group-title="Filmes | [COLOR red]Ação[/COLOR]",[COLOR red]OS FILMES ESTÃO OFFLINE AGUARDE![/COLOR]
+http://download.vendedordesucesso.com.br/e/RCFServer1/ondemand/VLZEFROSOS02.mp4?attachment=true
+
+
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ur4grpt" group-title="Filmes | [COLOR red]Ação[/COLOR]",+ Velozes + Furiosos (Dublado) - 2003 - 1080p
 http://download.vendedordesucesso.com.br/e/RCFServer1/ondemand/VLZEFROSOS02.mp4?attachment=true
 
@@ -4722,6 +4726,10 @@ http://download.vendedordesucesso.com.br/e/RCFServer3/ondemand/CAPTAMRC3.mp4?att
 ####################################################################################################
 
 
+#EXTINF:-1 tvg-logo="" group-title="Filmes | [COLOR aquamarine]Comédia[/COLOR]",[COLOR red]OS FILMES ESTÃO OFFLINE AGUARDE![/COLOR]
+http://download.vendedordesucesso.com.br/e/RCFServer1/ondemand/VLZEFROSOS02.mp4?attachment=true
+
+
 #EXTINF:-1 tvg-logo="https://tinyurl.com/qnrcw33" group-title="Filmes | [COLOR aquamarine]Comédia[/COLOR]",Deadpool 2 (Dublado) - 2018 - 1080p
 https://download.vendedordesucesso.com.br/d/RCFServer4/ondemand/DEADP2.mp4?attachment=true
 
@@ -4729,11 +4737,20 @@ https://download.vendedordesucesso.com.br/d/RCFServer4/ondemand/DEADP2.mp4?attac
 
 ####################################################################################################
 
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes | [COLOR aquamarine]Comédia[/COLOR]",[COLOR red]OS FILMES ESTÃO OFFLINE AGUARDE![/COLOR]
+http://download.vendedordesucesso.com.br/e/RCFServer1/ondemand/VLZEFROSOS02.mp4?attachment=true
+
+
 #EXTINF:-1 tvg-logo="https://tinyurl.com/v9adgwf" group-title="Filmes | [COLOR green]Terror[/COLOR]",It: Capítulo 2 (Dublado) - 2019 - 1080p
 https://download.vendedordesucesso.com.br/e/RCFServer3/ondemand/ITCAP2.mp4?attachment=true
 
 
 ####################################################################################################
+
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/rpp2f4s" group-title="Coleção | [COLOR goldenrod]Harry Potter[/COLOR]",[COLOR red]OS FILMES ESTÃO OFFLINE AGUARDE![/COLOR]
+http://download.vendedordesucesso.com.br/e/RCFServer1/ondemand/VLZEFROSOS02.mp4?attachment=true
 
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/rpp2f4s" group-title="Coleção | [COLOR goldenrod]Harry Potter[/COLOR]",Harry Potter e a Pedra Filosofal (Dublado) - 2001 - 1080p

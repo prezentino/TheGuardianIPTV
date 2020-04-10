@@ -72,64 +72,64 @@ http://purpleserver.net:80/hgvEcgZS/3sWweonK/18727
 http://purpleserver.net:80/hgvEcgZS/3sWweonK/18728
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR white]Abertos[/COLOR]",
+#EXTINF:-1 tvg-logo="http://z4.vc/0Tm" group-title="Canais | [COLOR white]Abertos[/COLOR]",Cancao Nova SD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18713
 
 
-
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR white]Abertos[/COLOR]",
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR white]Abertos[/COLOR]",
+#EXTINF:-1 tvg-logo="http://z4.vc/en6" group-title="Canais | [COLOR white]Abertos[/COLOR]",Futura FHD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/28198
 
 
-
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR white]Abertos[/COLOR]",
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR white]Abertos[/COLOR]",
+#EXTINF:-1 tvg-logo="http://z4.vc/en6" group-title="Canais | [COLOR white]Abertos[/COLOR]",Futura FHD [H265]
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/25302
 
 
-
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR white]Abertos[/COLOR]",
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR white]Abertos[/COLOR]",
+#EXTINF:-1 tvg-logo="http://z4.vc/en6" group-title="Canais | [COLOR white]Abertos[/COLOR]",Futura HD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18655
 
 
-
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR white]Abertos[/COLOR]",
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR white]Abertos[/COLOR]",
+#EXTINF:-1 tvg-logo="http://z4.vc/en6" group-title="Canais | [COLOR white]Abertos[/COLOR]",Futura SD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18656
 
 
-
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR white]Abertos[/COLOR]",
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR white]Abertos[/COLOR]",
+#EXTINF:-1 tvg-logo="http://z4.vc/97h" group-title="Canais | [COLOR white]Abertos[/COLOR]",NBR SD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18604
 
 
-
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR white]Abertos[/COLOR]",
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR white]Abertos[/COLOR]",
+#EXTINF:-1 tvg-logo="http://z4.vc/Tv1" group-title="Canais | [COLOR white]Abertos[/COLOR]",RecordTV BA HD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18496
 
 
+#EXTINF:-1 tvg-logo="http://z4.vc/Tv1" group-title="Canais | [COLOR white]Abertos[/COLOR]",RecordTV BA SD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18495
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR white]Abertos[/COLOR]",
+
+#EXTINF:-1 tvg-logo="http://z4.vc/mF2" group-title="Canais | [COLOR white]Abertos[/COLOR]",RecordTV DF HD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18494
 
 
+#EXTINF:-1 tvg-logo="http://z4.vc/mF2" group-title="Canais | [COLOR white]Abertos[/COLOR]",RecordTV DF SD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18493
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR white]Abertos[/COLOR]",
 
+#EXTINF:-1 tvg-logo="http://z4.vc/m2C" group-title="Canais | [COLOR white]Abertos[/COLOR]",RecordTV MG HD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18501
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/Kvw" group-title="Canais | [COLOR white]Abertos[/COLOR]",RecordTV PR HD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/22471
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/P7d" group-title="Canais | [COLOR white]Abertos[/COLOR]",RecordTV Rio FHD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18748
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/P7d" group-title="Canais | [COLOR white]Abertos[/COLOR]",RecordTV Rio HD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18503
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/P7d" group-title="Canais | [COLOR white]Abertos[/COLOR]",RecordTV Rio SD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18502
 
 
 #EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR white]Abertos[/COLOR]",

@@ -132,60 +132,60 @@ http://purpleserver.net:80/hgvEcgZS/3sWweonK/18503
 http://purpleserver.net:80/hgvEcgZS/3sWweonK/18502
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR white]Abertos[/COLOR]",
+#EXTINF:-1 tvg-logo="http://z4.vc/P7d" group-title="Canais | [COLOR white]Abertos[/COLOR]",RecordTV RS HD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18492
 
 
-
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR white]Abertos[/COLOR]",
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR white]Abertos[/COLOR]",
+#EXTINF:-1 tvg-logo="http://z4.vc/P7d" group-title="Canais | [COLOR white]Abertos[/COLOR]",RecordTV RS SD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18491
 
 
-
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR white]Abertos[/COLOR]",
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR white]Abertos[/COLOR]",
+#EXTINF:-1 tvg-logo="http://z4.vc/P7d" group-title="Canais | [COLOR white]Abertos[/COLOR]",RecordTV São José Rio Preto HD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/29021
 
 
-
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR white]Abertos[/COLOR]",
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR white]Abertos[/COLOR]",
+#EXTINF:-1 tvg-logo="http://z4.vc/P7d" group-title="Canais | [COLOR white]Abertos[/COLOR]",RecordTV SD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/22277
 
 
-
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR white]Abertos[/COLOR]",
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR white]Abertos[/COLOR]",
+#EXTINF:-1 tvg-logo="http://z4.vc/P7d" group-title="Canais | [COLOR white]Abertos[/COLOR]",RecordTV Sergipe HD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/22474
 
 
-
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR white]Abertos[/COLOR]",
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR white]Abertos[/COLOR]",
+#EXTINF:-1 tvg-logo="http://z4.vc/P7d" group-title="Canais | [COLOR white]Abertos[/COLOR]",RecordTV SP FHD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18765
 
 
-
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR white]Abertos[/COLOR]",
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR white]Abertos[/COLOR]",
+#EXTINF:-1 tvg-logo="http://z4.vc/P7d" group-title="Canais | [COLOR white]Abertos[/COLOR]",RecordTV SP FHD [H265]
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/25221
 
 
+#EXTINF:-1 tvg-logo="http://z4.vc/P7d" group-title="Canais | [COLOR white]Abertos[/COLOR]",RecordTV SP HD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18575
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR white]Abertos[/COLOR]",
 
+#EXTINF:-1 tvg-logo="http://z4.vc/P7d" group-title="Canais | [COLOR white]Abertos[/COLOR]",RecordTV SP SD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18579
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/RnA" group-title="Canais | [COLOR white]Abertos[/COLOR]",Rede Brasil SD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18574
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/SKJ" group-title="Canais | [COLOR white]Abertos[/COLOR]",RedeTV! [4K]
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/26183
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/SKJ" group-title="Canais | [COLOR white]Abertos[/COLOR]",RedeTV! FHD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18751
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/SKJ" group-title="Canais | [COLOR white]Abertos[/COLOR]",RedeTV! HD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18572
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/SKJ" group-title="Canais | [COLOR white]Abertos[/COLOR]",RedeTV! SD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18573
 
 
 #EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR white]Abertos[/COLOR]",

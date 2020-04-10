@@ -21,15 +21,15 @@
 ###################################################
 
 
-#############################################INFORMAÇÕES#################################################
+#############################################INFORMAÇeS#################################################
 
 
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/tqnaak8" group-title="Informações",[COLOR blue][B]THE GUARDIAN[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://tinyurl.com/tqnaak8" group-title="[COLOR paleturquoise]Informações[/COLOR]",[COLOR blue][B]THE GUARDIAN[/B][/COLOR]
 https://facebook.com/xx.ely.david.xx
 
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/wrzf2ze" group-title="Informações",[COLOR lightsalmon]SUPORTE VIA DISCORD: discord.gg/bVSswd[/COLOR]
+#EXTINF:-1 tvg-logo="https://tinyurl.com/wrzf2ze" group-title="[COLOR paleturquoise]Informações[/COLOR]",[COLOR lightsalmon]SUPORTE VIA DISCORD: discord.gg/bVSswd[/COLOR]
 https://facebook.com/xx.ely.david.xx
 
 
@@ -356,223 +356,223 @@ http://purpleserver.net:80/s45MMNgK/46mrc2rk/43545
 ############################################CANAIS DOCUMENTÁRIOS################################################
 
 
-#EXTINF:-1 tvg-logo="http://z4.vc/slU" group-title="Canais | [COLOR slateblue]Documentários[/COLOR]",ANIMAL PLANET [4K]
+#EXTINF:-1 tvg-logo="http://z4.vc/slU" group-title="Canais | [COLOR darkblue]Documentários[/COLOR]",ANIMAL PLANET [4K]
 http://purpleserver.net:80/hgvEcgZS/3sWweonK/26189
 
 
-#EXTINF:-1 tvg-logo="http://z4.vc/slU" group-title="Canais | [COLOR slateblue]Documentários[/COLOR]",Animal Planet FHD
+#EXTINF:-1 tvg-logo="http://z4.vc/slU" group-title="Canais | [COLOR DarkBlue]Documentários[/COLOR]",Animal Planet FHD
 http://purpleserver.net:80/hgvEcgZS/3sWweonK/18856
 
 
-#EXTINF:-1 tvg-logo="http://z4.vc/slU" group-title="Canais | [COLOR slateblue]Documentários[/COLOR]",Animal Planet FHD [H265]
+#EXTINF:-1 tvg-logo="http://z4.vc/slU" group-title="Canais | [COLOR DarkBlue]Documentários[/COLOR]",Animal Planet FHD [H265]
 http://purpleserver.net:80/hgvEcgZS/3sWweonK/22211
 
 
-#EXTINF:-1 tvg-logo="http://z4.vc/slU" group-title="Canais | [COLOR slateblue]Documentários[/COLOR]",Animal Planet HD
+#EXTINF:-1 tvg-logo="http://z4.vc/slU" group-title="Canais | [COLOR DarkBlue]Documentários[/COLOR]",Animal Planet HD
 http://purpleserver.net:80/hgvEcgZS/3sWweonK/18734
 
 
-#EXTINF:-1 tvg-logo="http://z4.vc/slU" group-title="Canais | [COLOR slateblue]Documentários[/COLOR]",Animal Planet SD
+#EXTINF:-1 tvg-logo="http://z4.vc/slU" group-title="Canais | [COLOR DarkBlue]Documentários[/COLOR]",Animal Planet SD
 http://purpleserver.net:80/hgvEcgZS/3sWweonK/18735
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR slateblue]Documentários[/COLOR]",
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR DarkBlue]Documentários[/COLOR]",
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR slateblue]Documentários[/COLOR]",
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR DarkBlue]Documentários[/COLOR]",
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR slateblue]Documentários[/COLOR]",
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR DarkBlue]Documentários[/COLOR]",
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR slateblue]Documentários[/COLOR]",
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR DarkBlue]Documentários[/COLOR]",
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR slateblue]Documentários[/COLOR]",
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR DarkBlue]Documentários[/COLOR]",
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR slateblue]Documentários[/COLOR]",
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR DarkBlue]Documentários[/COLOR]",
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR slateblue]Documentários[/COLOR]",
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR DarkBlue]Documentários[/COLOR]",
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR slateblue]Documentários[/COLOR]",
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR DarkBlue]Documentários[/COLOR]",
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR slateblue]Documentários[/COLOR]",
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR DarkBlue]Documentários[/COLOR]",
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR slateblue]Documentários[/COLOR]",
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR DarkBlue]Documentários[/COLOR]",
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR slateblue]Documentários[/COLOR]",
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR DarkBlue]Documentários[/COLOR]",
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR slateblue]Documentários[/COLOR]",
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR DarkBlue]Documentários[/COLOR]",
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR slateblue]Documentários[/COLOR]",
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR DarkBlue]Documentários[/COLOR]",
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR slateblue]Documentários[/COLOR]",
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR DarkBlue]Documentários[/COLOR]",
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR slateblue]Documentários[/COLOR]",
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR DarkBlue]Documentários[/COLOR]",
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR slateblue]Documentários[/COLOR]",
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR DarkBlue]Documentários[/COLOR]",
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR slateblue]Documentários[/COLOR]",
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR DarkBlue]Documentários[/COLOR]",
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR slateblue]Documentários[/COLOR]",
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR DarkBlue]Documentários[/COLOR]",
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR slateblue]Documentários[/COLOR]",
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR DarkBlue]Documentários[/COLOR]",
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR slateblue]Documentários[/COLOR]",
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR DarkBlue]Documentários[/COLOR]",
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR slateblue]Documentários[/COLOR]",
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR DarkBlue]Documentários[/COLOR]",
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR slateblue]Documentários[/COLOR]",
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR DarkBlue]Documentários[/COLOR]",
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR slateblue]Documentários[/COLOR]",
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR DarkBlue]Documentários[/COLOR]",
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR slateblue]Documentários[/COLOR]",
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR DarkBlue]Documentários[/COLOR]",
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR slateblue]Documentários[/COLOR]",
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR DarkBlue]Documentários[/COLOR]",
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR slateblue]Documentários[/COLOR]",
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR DarkBlue]Documentários[/COLOR]",
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR slateblue]Documentários[/COLOR]",
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR DarkBlue]Documentários[/COLOR]",
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR slateblue]Documentários[/COLOR]",
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR DarkBlue]Documentários[/COLOR]",
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR slateblue]Documentários[/COLOR]",
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR DarkBlue]Documentários[/COLOR]",
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR slateblue]Documentários[/COLOR]",
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR DarkBlue]Documentários[/COLOR]",
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR slateblue]Documentários[/COLOR]",
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR DarkBlue]Documentários[/COLOR]",
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR slateblue]Documentários[/COLOR]",
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR DarkBlue]Documentários[/COLOR]",
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR slateblue]Documentários[/COLOR]",
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR DarkBlue]Documentários[/COLOR]",
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR slateblue]Documentários[/COLOR]",
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR DarkBlue]Documentários[/COLOR]",
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR slateblue]Documentários[/COLOR]",
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR DarkBlue]Documentários[/COLOR]",
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR slateblue]Documentários[/COLOR]",
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR DarkBlue]Documentários[/COLOR]",
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR slateblue]Documentários[/COLOR]",
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR DarkBlue]Documentários[/COLOR]",
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR slateblue]Documentários[/COLOR]",
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR DarkBlue]Documentários[/COLOR]",
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR slateblue]Documentários[/COLOR]",
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR DarkBlue]Documentários[/COLOR]",
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR slateblue]Documentários[/COLOR]",
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR DarkBlue]Documentários[/COLOR]",
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR slateblue]Documentários[/COLOR]",
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR DarkBlue]Documentários[/COLOR]",
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR slateblue]Documentários[/COLOR]",
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR DarkBlue]Documentários[/COLOR]",
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR slateblue]Documentários[/COLOR]",
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR DarkBlue]Documentários[/COLOR]",
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR slateblue]Documentários[/COLOR]",
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR DarkBlue]Documentários[/COLOR]",
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR slateblue]Documentários[/COLOR]",
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR DarkBlue]Documentários[/COLOR]",
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR slateblue]Documentários[/COLOR]",
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR DarkBlue]Documentários[/COLOR]",
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR slateblue]Documentários[/COLOR]",
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR DarkBlue]Documentários[/COLOR]",
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR slateblue]Documentários[/COLOR]",
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR DarkBlue]Documentários[/COLOR]",
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR slateblue]Documentários[/COLOR]",
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR DarkBlue]Documentários[/COLOR]",
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR slateblue]Documentários[/COLOR]",
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR DarkBlue]Documentários[/COLOR]",
 
 
 

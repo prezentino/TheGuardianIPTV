@@ -456,123 +456,397 @@ http://purpleserver.net:80/s45MMNgK/46mrc2rk/18687
 http://purpleserver.net:80/s45MMNgK/46mrc2rk/18688
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR darkblue]Documentários[/COLOR]",
+#EXTINF:-1 tvg-logo="http://z4.vc/3Ee" group-title="Canais | [COLOR darkblue]Documentários[/COLOR]",HGTV FHD
+http://purpleserver.net:80/s45MMNgK/46mrc2rk/18845
 
 
+#EXTINF:-1 tvg-logo="http://z4.vc/3Ee" group-title="Canais | [COLOR darkblue]Documentários[/COLOR]",HGTV FHD [H265]
+http://purpleserver.net:80/s45MMNgK/46mrc2rk/22203
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR darkblue]Documentários[/COLOR]",
 
+#EXTINF:-1 tvg-logo="http://z4.vc/3Ee" group-title="Canais | [COLOR darkblue]Documentários[/COLOR]",HGTV HD
+http://purpleserver.net:80/s45MMNgK/46mrc2rk/18699
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR darkblue]Documentários[/COLOR]",
+#EXTINF:-1 tvg-logo="http://z4.vc/3Ee" group-title="Canais | [COLOR darkblue]Documentários[/COLOR]",HGTV SD
+http://purpleserver.net:80/s45MMNgK/46mrc2rk/18700
 
 
+#EXTINF:-1 tvg-logo="http://z4.vc/YVo" group-title="Canais | [COLOR darkblue]Documentários[/COLOR]",History Channel FHD
+http://purpleserver.net:80/s45MMNgK/46mrc2rk/18822
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR darkblue]Documentários[/COLOR]",
 
+#EXTINF:-1 tvg-logo="http://z4.vc/YVo" group-title="Canais | [COLOR darkblue]Documentários[/COLOR]",History Channel FHD [H265]
+http://purpleserver.net:80/s45MMNgK/46mrc2rk/22188
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR darkblue]Documentários[/COLOR]",
+#EXTINF:-1 tvg-logo="http://z4.vc/YVo" group-title="Canais | [COLOR darkblue]Documentários[/COLOR]",History Channel HD
+http://purpleserver.net:80/s45MMNgK/46mrc2rk/18631
 
 
+#EXTINF:-1 tvg-logo="http://z4.vc/YVo" group-title="Canais | [COLOR darkblue]Documentários[/COLOR]",History Channel SD
+http://purpleserver.net:80/s45MMNgK/46mrc2rk/18632
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR darkblue]Documentários[/COLOR]",
 
+#EXTINF:-1 tvg-logo="http://z4.vc/Yos" group-title="Canais | [COLOR darkblue]Documentários[/COLOR]",H2 FHD
+http://purpleserver.net:80/s45MMNgK/46mrc2rk/18826
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR darkblue]Documentários[/COLOR]",
+#EXTINF:-1 tvg-logo="http://z4.vc/Yos" group-title="Canais | [COLOR darkblue]Documentários[/COLOR]",H2 FHD [H265]
+http://purpleserver.net:80/s45MMNgK/46mrc2rk/22192
 
 
+#EXTINF:-1 tvg-logo="http://z4.vc/Yos" group-title="Canais | [COLOR darkblue]Documentários[/COLOR]",H2 HD
+http://purpleserver.net:80/s45MMNgK/46mrc2rk/18643
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR darkblue]Documentários[/COLOR]",
 
+#EXTINF:-1 tvg-logo="http://z4.vc/Yos" group-title="Canais | [COLOR darkblue]Documentários[/COLOR]",H2 SD
+http://purpleserver.net:80/s45MMNgK/46mrc2rk/22309
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR darkblue]Documentários[/COLOR]",
+#EXTINF:-1 tvg-logo="http://z4.vc/t2t" group-title="Canais | [COLOR darkblue]Documentários[/COLOR]",NatGeo Wild FHD
+http://purpleserver.net:80/s45MMNgK/46mrc2rk/18809
 
 
+#EXTINF:-1 tvg-logo="http://z4.vc/t2t" group-title="Canais | [COLOR darkblue]Documentários[/COLOR]",NatGeo Wild FHD [H265]
+http://purpleserver.net:80/s45MMNgK/46mrc2rk/22179
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR darkblue]Documentários[/COLOR]",
 
+#EXTINF:-1 tvg-logo="http://z4.vc/t2t" group-title="Canais | [COLOR darkblue]Documentários[/COLOR]",NatGeo Wild HD
+http://purpleserver.net:80/s45MMNgK/46mrc2rk/18606
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR darkblue]Documentários[/COLOR]",
+#EXTINF:-1 tvg-logo="http://z4.vc/t2t" group-title="Canais | [COLOR darkblue]Documentários[/COLOR]",NatGeo Wild SD
+http://purpleserver.net:80/s45MMNgK/46mrc2rk/18605
 
 
+#EXTINF:-1 tvg-logo="http://z4.vc/QKB" group-title="Canais | [COLOR darkblue]Documentários[/COLOR]",National Geographic [4K]
+http://purpleserver.net:80/s45MMNgK/46mrc2rk/26695
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR darkblue]Documentários[/COLOR]",
 
+#EXTINF:-1 tvg-logo="http://z4.vc/QKB" group-title="Canais | [COLOR darkblue]Documentários[/COLOR]",National Geographic FHD
+http://purpleserver.net:80/s45MMNgK/46mrc2rk/18811
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR darkblue]Documentários[/COLOR]",
+#EXTINF:-1 tvg-logo="http://z4.vc/QKB" group-title="Canais | [COLOR darkblue]Documentários[/COLOR]",National Geographic HD
+http://purpleserver.net:80/s45MMNgK/46mrc2rk/18609
 
 
+#EXTINF:-1 tvg-logo="http://z4.vc/QKB" group-title="Canais | [COLOR darkblue]Documentários[/COLOR]",National Geographic SD
+http://purpleserver.net:80/s45MMNgK/46mrc2rk/18610
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR darkblue]Documentários[/COLOR]",
 
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR darkblue]Documentários[/COLOR]",Smithsonian FHD
+http://purpleserver.net:80/s45MMNgK/46mrc2rk/26828
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR darkblue]Documentários[/COLOR]",
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR darkblue]Documentários[/COLOR]",Smithsonian FHD [H265]
+http://purpleserver.net:80/s45MMNgK/46mrc2rk/25202
 
 
+#EXTINF:-1 tvg-logo="http://z4.vc/EYp" group-title="Canais | [COLOR darkblue]Documentários[/COLOR]",TruTV FHD
+http://purpleserver.net:80/s45MMNgK/46mrc2rk/18794
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR darkblue]Documentários[/COLOR]",
 
+#EXTINF:-1 tvg-logo="http://z4.vc/EYp" group-title="Canais | [COLOR darkblue]Documentários[/COLOR]",TruTV FHD [H265]
+http://purpleserver.net:80/s45MMNgK/46mrc2rk/25200
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR darkblue]Documentários[/COLOR]",
+#EXTINF:-1 tvg-logo="http://z4.vc/EYp" group-title="Canais | [COLOR darkblue]Documentários[/COLOR]",TruTV HD
+http://purpleserver.net:80/s45MMNgK/46mrc2rk/18522
 
 
+#EXTINF:-1 tvg-logo="http://z4.vc/EYp" group-title="Canais | [COLOR darkblue]Documentários[/COLOR]",TruTV SD
+http://purpleserver.net:80/s45MMNgK/46mrc2rk/18523
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR darkblue]Documentários[/COLOR]",
 
+################################################################################################################
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR darkblue]Documentários[/COLOR]",
+############################################CANAIS DOCUMENTÁRIOS################################################
 
 
+#EXTINF:-1 tvg-logo="http://z4.vc/7yf" group-title="Canais | [COLOR lime]Esportes[/COLOR]",BandSports FHD
+http://purpleserver.net:80/s45MMNgK/46mrc2rk/18852
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR darkblue]Documentários[/COLOR]",
 
+#EXTINF:-1 tvg-logo="http://z4.vc/7yf" group-title="Canais | [COLOR lime]Esportes[/COLOR]",BandSports FHD [H265]
+http://purpleserver.net:80/s45MMNgK/46mrc2rk/22151
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR darkblue]Documentários[/COLOR]",
+#EXTINF:-1 tvg-logo="http://z4.vc/7yf" group-title="Canais | [COLOR lime]Esportes[/COLOR]",BandSports HD
+http://purpleserver.net:80/s45MMNgK/46mrc2rk/18723
 
 
+#EXTINF:-1 tvg-logo="http://z4.vc/7yf" group-title="Canais | [COLOR lime]Esportes[/COLOR]",BandSports SD
+http://purpleserver.net:80/s45MMNgK/46mrc2rk/18724
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR darkblue]Documentários[/COLOR]",
 
+#EXTINF:-1 tvg-logo="http://z4.vc/2Bh" group-title="Canais | [COLOR lime]Esportes[/COLOR]",COMBATE [4K]
+http://purpleserver.net:80/s45MMNgK/46mrc2rk/26180
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR darkblue]Documentários[/COLOR]",
+#EXTINF:-1 tvg-logo="http://z4.vc/2Bh" group-title="Canais | [COLOR lime]Esportes[/COLOR]",Combate FHD
+http://purpleserver.net:80/s45MMNgK/46mrc2rk/18784
 
 
+#EXTINF:-1 tvg-logo="http://z4.vc/2Bh" group-title="Canais | [COLOR lime]Esportes[/COLOR]",Combate FHD [H265]
+http://purpleserver.net:80/s45MMNgK/46mrc2rk/25312
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR darkblue]Documentários[/COLOR]",
 
+#EXTINF:-1 tvg-logo="http://z4.vc/2Bh" group-title="Canais | [COLOR lime]Esportes[/COLOR]",Combate HD
+http://purpleserver.net:80/s45MMNgK/46mrc2rk/18707
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR darkblue]Documentários[/COLOR]",
+#EXTINF:-1 tvg-logo="http://z4.vc/2Bh" group-title="Canais | [COLOR lime]Esportes[/COLOR]",Combate SD
+http://purpleserver.net:80/s45MMNgK/46mrc2rk/18708
 
 
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR lime]Esportes[/COLOR]",
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR darkblue]Documentários[/COLOR]",
 
 
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR lime]Esportes[/COLOR]",
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR darkblue]Documentários[/COLOR]",
 
 
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR lime]Esportes[/COLOR]",
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR darkblue]Documentários[/COLOR]",
 
 
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR lime]Esportes[/COLOR]",
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR darkblue]Documentários[/COLOR]",
 
 
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR lime]Esportes[/COLOR]",
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR darkblue]Documentários[/COLOR]",
+
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR lime]Esportes[/COLOR]",
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR lime]Esportes[/COLOR]",
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR lime]Esportes[/COLOR]",
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR lime]Esportes[/COLOR]",
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR lime]Esportes[/COLOR]",
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR lime]Esportes[/COLOR]",
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR lime]Esportes[/COLOR]",
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR lime]Esportes[/COLOR]",
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR lime]Esportes[/COLOR]",
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR lime]Esportes[/COLOR]",
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR lime]Esportes[/COLOR]",
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR lime]Esportes[/COLOR]",
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR lime]Esportes[/COLOR]",
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR lime]Esportes[/COLOR]",
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR lime]Esportes[/COLOR]",
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR lime]Esportes[/COLOR]",
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR lime]Esportes[/COLOR]",
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR lime]Esportes[/COLOR]",
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR lime]Esportes[/COLOR]",
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR lime]Esportes[/COLOR]",
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR lime]Esportes[/COLOR]",
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR lime]Esportes[/COLOR]",
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR lime]Esportes[/COLOR]",
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR lime]Esportes[/COLOR]",
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR lime]Esportes[/COLOR]",
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR lime]Esportes[/COLOR]",
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR lime]Esportes[/COLOR]",
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR lime]Esportes[/COLOR]",
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR lime]Esportes[/COLOR]",
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR lime]Esportes[/COLOR]",
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR lime]Esportes[/COLOR]",
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR lime]Esportes[/COLOR]",
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR lime]Esportes[/COLOR]",
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR lime]Esportes[/COLOR]",
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR lime]Esportes[/COLOR]",
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR lime]Esportes[/COLOR]",
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR lime]Esportes[/COLOR]",
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR lime]Esportes[/COLOR]",
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR lime]Esportes[/COLOR]",
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR lime]Esportes[/COLOR]",
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR lime]Esportes[/COLOR]",
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR lime]Esportes[/COLOR]",
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR lime]Esportes[/COLOR]",
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR lime]Esportes[/COLOR]",
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR lime]Esportes[/COLOR]",
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR lime]Esportes[/COLOR]",
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR lime]Esportes[/COLOR]",
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR lime]Esportes[/COLOR]",
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR lime]Esportes[/COLOR]",
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR lime]Esportes[/COLOR]",
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR lime]Esportes[/COLOR]",
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR lime]Esportes[/COLOR]",
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR lime]Esportes[/COLOR]",
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR lime]Esportes[/COLOR]",
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR lime]Esportes[/COLOR]",
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR lime]Esportes[/COLOR]",
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR lime]Esportes[/COLOR]",
 
 
 

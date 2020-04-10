@@ -610,112 +610,112 @@ http://purpleserver.net:80/s45MMNgK/46mrc2rk/22978
 http://purpleserver.net:80/s45MMNgK/46mrc2rk/26194
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR lime]Esportes[/COLOR]",
+#EXTINF:-1 tvg-logo="http://z4.vc/d9B" group-title="Canais | [COLOR lime]Esportes[/COLOR]",ESPN [4K]
+http://purpleserver.net:80/s45MMNgK/46mrc2rk/27130
 
 
+#EXTINF:-1 tvg-logo="http://z4.vc/d9B" group-title="Canais | [COLOR lime]Esportes[/COLOR]",ESPN FHD
+http://purpleserver.net:80/s45MMNgK/46mrc2rk/18780
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR lime]Esportes[/COLOR]",
 
+#EXTINF:-1 tvg-logo="http://z4.vc/d9B" group-title="Canais | [COLOR lime]Esportes[/COLOR]",ESPN FHD [H265]
+http://purpleserver.net:80/s45MMNgK/46mrc2rk/25237
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR lime]Esportes[/COLOR]",
+#EXTINF:-1 tvg-logo="http://z4.vc/d9B" group-title="Canais | [COLOR lime]Esportes[/COLOR]",ESPN HD
+http://purpleserver.net:80/s45MMNgK/46mrc2rk/18673
 
 
+#EXTINF:-1 tvg-logo="http://z4.vc/d9B" group-title="Canais | [COLOR lime]Esportes[/COLOR]",ESPN SD
+http://purpleserver.net:80/s45MMNgK/46mrc2rk/18680
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR lime]Esportes[/COLOR]",
 
+#EXTINF:-1 tvg-logo="http://z4.vc/Lkj" group-title="Canais | [COLOR lime]Esportes[/COLOR]",ESPN 2 FHD
+http://purpleserver.net:80/s45MMNgK/46mrc2rk/18837
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR lime]Esportes[/COLOR]",
+#EXTINF:-1 tvg-logo="http://z4.vc/Lkj" group-title="Canais | [COLOR lime]Esportes[/COLOR]",ESPN 2 FHD [H265]
+http://purpleserver.net:80/s45MMNgK/46mrc2rk/25309
 
 
+#EXTINF:-1 tvg-logo="http://z4.vc/Lkj" group-title="Canais | [COLOR lime]Esportes[/COLOR]",ESPN 2 HD
+http://purpleserver.net:80/s45MMNgK/46mrc2rk/18678
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR lime]Esportes[/COLOR]",
 
+#EXTINF:-1 tvg-logo="http://z4.vc/Lkj" group-title="Canais | [COLOR lime]Esportes[/COLOR]",ESPN 2 SD
+http://purpleserver.net:80/s45MMNgK/46mrc2rk/18679
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR lime]Esportes[/COLOR]",
+#EXTINF:-1 tvg-logo="http://z4.vc/a01" group-title="Canais | [COLOR lime]Esportes[/COLOR]",ESPN Brasil FHD
+http://purpleserver.net:80/s45MMNgK/46mrc2rk/18781
 
 
+#EXTINF:-1 tvg-logo="http://z4.vc/a01" group-title="Canais | [COLOR lime]Esportes[/COLOR]",ESPN Brasil FHD [H265]
+http://purpleserver.net:80/s45MMNgK/46mrc2rk/25238
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR lime]Esportes[/COLOR]",
 
+#EXTINF:-1 tvg-logo="http://z4.vc/a01" group-title="Canais | [COLOR lime]Esportes[/COLOR]",ESPN Brasil HD
+http://purpleserver.net:80/s45MMNgK/46mrc2rk/18676
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR lime]Esportes[/COLOR]",
+#EXTINF:-1 tvg-logo="http://z4.vc/a01" group-title="Canais | [COLOR lime]Esportes[/COLOR]",ESPN Brasil SD
+http://purpleserver.net:80/s45MMNgK/46mrc2rk/18677
 
 
+#EXTINF:-1 tvg-logo="http://z4.vc/TAv" group-title="Canais | [COLOR lime]Esportes[/COLOR]",ESPN Extra FHD
+http://purpleserver.net:80/s45MMNgK/46mrc2rk/18836
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR lime]Esportes[/COLOR]",
 
+#EXTINF:-1 tvg-logo="http://z4.vc/TAv" group-title="Canais | [COLOR lime]Esportes[/COLOR]",ESPN Extra FHD [H265]
+http://purpleserver.net:80/s45MMNgK/46mrc2rk/25308
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR lime]Esportes[/COLOR]",
+#EXTINF:-1 tvg-logo="http://z4.vc/TAv" group-title="Canais | [COLOR lime]Esportes[/COLOR]",ESPN Extra HD
+http://purpleserver.net:80/s45MMNgK/46mrc2rk/18674
 
 
+#EXTINF:-1 tvg-logo="http://z4.vc/TAv" group-title="Canais | [COLOR lime]Esportes[/COLOR]",ESPN Extra SD
+http://purpleserver.net:80/s45MMNgK/46mrc2rk/18675
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR lime]Esportes[/COLOR]",
 
+#EXTINF:-1 tvg-logo="http://z4.vc/iWc" group-title="Canais | [COLOR lime]Esportes[/COLOR]",FOX SPORTS [4K]
+http://purpleserver.net:80/s45MMNgK/46mrc2rk/26187
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR lime]Esportes[/COLOR]",
+#EXTINF:-1 tvg-logo="http://z4.vc/iWc" group-title="Canais | [COLOR lime]Esportes[/COLOR]",Fox Sports FHD
+http://purpleserver.net:80/s45MMNgK/46mrc2rk/18777
 
 
+#EXTINF:-1 tvg-logo="http://z4.vc/iWc" group-title="Canais | [COLOR lime]Esportes[/COLOR]",Fox Sports FHD [H265]
+http://purpleserver.net:80/s45MMNgK/46mrc2rk/28074
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR lime]Esportes[/COLOR]",
 
+#EXTINF:-1 tvg-logo="http://z4.vc/iWc" group-title="Canais | [COLOR lime]Esportes[/COLOR]",Fox Sports HD
+http://purpleserver.net:80/s45MMNgK/46mrc2rk/18659
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR lime]Esportes[/COLOR]",
+#EXTINF:-1 tvg-logo="http://z4.vc/iWc" group-title="Canais | [COLOR lime]Esportes[/COLOR]",Fox Sports SD
+http://purpleserver.net:80/s45MMNgK/46mrc2rk/18660
 
 
+#EXTINF:-1 tvg-logo="http://z4.vc/Pgs" group-title="Canais | [COLOR lime]Esportes[/COLOR]",FOX SPORTS 2 [4K]
+http://purpleserver.net:80/s45MMNgK/46mrc2rk/26406
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR lime]Esportes[/COLOR]",
 
+#EXTINF:-1 tvg-logo="http://z4.vc/Pgs" group-title="Canais | [COLOR lime]Esportes[/COLOR]",Fox Sports 2 FHD
+http://purpleserver.net:80/s45MMNgK/46mrc2rk/18778
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR lime]Esportes[/COLOR]",
+#EXTINF:-1 tvg-logo="http://z4.vc/Pgs" group-title="Canais | [COLOR lime]Esportes[/COLOR]",Fox Sports 2 FHD [H265]
+http://purpleserver.net:80/s45MMNgK/46mrc2rk/22196
 
 
+#EXTINF:-1 tvg-logo="http://z4.vc/Pgs" group-title="Canais | [COLOR lime]Esportes[/COLOR]",Fox Sports 2 HD
+http://purpleserver.net:80/s45MMNgK/46mrc2rk/18657
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR lime]Esportes[/COLOR]",
 
-
-
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR lime]Esportes[/COLOR]",
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR lime]Esportes[/COLOR]",
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR lime]Esportes[/COLOR]",
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR lime]Esportes[/COLOR]",
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR lime]Esportes[/COLOR]",
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR lime]Esportes[/COLOR]",
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR lime]Esportes[/COLOR]",
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR lime]Esportes[/COLOR]",
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR lime]Esportes[/COLOR]",
-
+#EXTINF:-1 tvg-logo="http://z4.vc/Pgs" group-title="Canais | [COLOR lime]Esportes[/COLOR]",Fox Sports 2 SD
+http://purpleserver.net:80/s45MMNgK/46mrc2rk/18658
 
 
 #EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR lime]Esportes[/COLOR]",

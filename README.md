@@ -602,12 +602,12 @@ http://purpleserver.net:80/s45MMNgK/46mrc2rk/18707
 http://purpleserver.net:80/s45MMNgK/46mrc2rk/18708
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR lime]Esportes[/COLOR]",
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y253gbwk" group-title="Canais | [COLOR lime]Esportes[/COLOR]",EI Plus 1 HD
+http://purpleserver.net:80/s45MMNgK/46mrc2rk/22978
 
 
-
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR lime]Esportes[/COLOR]",
-
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y253gbwk" group-title="Canais | [COLOR lime]Esportes[/COLOR]",EI Plus 1 SD
+http://purpleserver.net:80/s45MMNgK/46mrc2rk/26194
 
 
 #EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR lime]Esportes[/COLOR]",

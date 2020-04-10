@@ -272,319 +272,153 @@ http://purpleserver.net:80/hgvEcgZS/3sWweonK/28046
 http://purpleserver.net:80/hgvEcgZS/3sWweonK/33380
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR white]Abertos[/COLOR]",
+################################################################################################################
 
 
+############################################CANAIS BBB##########################################################
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR white]Abertos[/COLOR]",
 
+#EXTINF:-1 tvg-logo="https://tinyurl.com/qs2qpq9" group-title="Canais | [COLOR orange]BBB[/COLOR]",Big Brother Brasil [CAM001] HD
+http://purpleserver.net:80/p8carys3/ZGP8PCKv/27861
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR white]Abertos[/COLOR]",
+#EXTINF:-1 tvg-logo="https://tinyurl.com/qs2qpq9" group-title="Canais | [COLOR orange]BBB[/COLOR]",
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR white]Abertos[/COLOR]",
+#EXTINF:-1 tvg-logo="https://tinyurl.com/qs2qpq9" group-title="Canais | [COLOR orange]BBB[/COLOR]",
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR white]Abertos[/COLOR]",
+#EXTINF:-1 tvg-logo="https://tinyurl.com/qs2qpq9" group-title="Canais | [COLOR orange]BBB[/COLOR]",
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR white]Abertos[/COLOR]",
+#EXTINF:-1 tvg-logo="https://tinyurl.com/qs2qpq9" group-title="Canais | [COLOR orange]BBB[/COLOR]",
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR white]Abertos[/COLOR]",
+#EXTINF:-1 tvg-logo="https://tinyurl.com/qs2qpq9" group-title="Canais | [COLOR orange]BBB[/COLOR]",
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR white]Abertos[/COLOR]",
+#EXTINF:-1 tvg-logo="https://tinyurl.com/qs2qpq9" group-title="Canais | [COLOR orange]BBB[/COLOR]",
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR white]Abertos[/COLOR]",
+#EXTINF:-1 tvg-logo="https://tinyurl.com/qs2qpq9" group-title="Canais | [COLOR orange]BBB[/COLOR]",
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR white]Abertos[/COLOR]",
+#EXTINF:-1 tvg-logo="https://tinyurl.com/qs2qpq9" group-title="Canais | [COLOR orange]BBB[/COLOR]",
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR white]Abertos[/COLOR]",
+#EXTINF:-1 tvg-logo="https://tinyurl.com/qs2qpq9" group-title="Canais | [COLOR orange]BBB[/COLOR]",
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR white]Abertos[/COLOR]",
+#EXTINF:-1 tvg-logo="https://tinyurl.com/qs2qpq9" group-title="Canais | [COLOR orange]BBB[/COLOR]",
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR white]Abertos[/COLOR]",
+#EXTINF:-1 tvg-logo="https://tinyurl.com/qs2qpq9" group-title="Canais | [COLOR orange]BBB[/COLOR]",
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR white]Abertos[/COLOR]",
+#EXTINF:-1 tvg-logo="https://tinyurl.com/qs2qpq9" group-title="Canais | [COLOR orange]BBB[/COLOR]",
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR white]Abertos[/COLOR]",
+#EXTINF:-1 tvg-logo="https://tinyurl.com/qs2qpq9" group-title="Canais | [COLOR orange]BBB[/COLOR]",
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR white]Abertos[/COLOR]",
+#EXTINF:-1 tvg-logo="https://tinyurl.com/qs2qpq9" group-title="Canais | [COLOR orange]BBB[/COLOR]",
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR white]Abertos[/COLOR]",
+#EXTINF:-1 tvg-logo="https://tinyurl.com/qs2qpq9" group-title="Canais | [COLOR orange]BBB[/COLOR]",
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR white]Abertos[/COLOR]",
+#EXTINF:-1 tvg-logo="https://tinyurl.com/qs2qpq9" group-title="Canais | [COLOR orange]BBB[/COLOR]",
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR white]Abertos[/COLOR]",
+#EXTINF:-1 tvg-logo="https://tinyurl.com/qs2qpq9" group-title="Canais | [COLOR orange]BBB[/COLOR]",
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR white]Abertos[/COLOR]",
+#EXTINF:-1 tvg-logo="https://tinyurl.com/qs2qpq9" group-title="Canais | [COLOR orange]BBB[/COLOR]",
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR white]Abertos[/COLOR]",
+#EXTINF:-1 tvg-logo="https://tinyurl.com/qs2qpq9" group-title="Canais | [COLOR orange]BBB[/COLOR]",
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR white]Abertos[/COLOR]",
+#EXTINF:-1 tvg-logo="https://tinyurl.com/qs2qpq9" group-title="Canais | [COLOR orange]BBB[/COLOR]",
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR white]Abertos[/COLOR]",
+#EXTINF:-1 tvg-logo="https://tinyurl.com/qs2qpq9" group-title="Canais | [COLOR orange]BBB[/COLOR]",
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR white]Abertos[/COLOR]",
+#EXTINF:-1 tvg-logo="https://tinyurl.com/qs2qpq9" group-title="Canais | [COLOR orange]BBB[/COLOR]",
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR white]Abertos[/COLOR]",
+#EXTINF:-1 tvg-logo="https://tinyurl.com/qs2qpq9" group-title="Canais | [COLOR orange]BBB[/COLOR]",
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR white]Abertos[/COLOR]",
+#EXTINF:-1 tvg-logo="https://tinyurl.com/qs2qpq9" group-title="Canais | [COLOR orange]BBB[/COLOR]",
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR white]Abertos[/COLOR]",
+#EXTINF:-1 tvg-logo="https://tinyurl.com/qs2qpq9" group-title="Canais | [COLOR orange]BBB[/COLOR]",
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR white]Abertos[/COLOR]",
+#EXTINF:-1 tvg-logo="https://tinyurl.com/qs2qpq9" group-title="Canais | [COLOR orange]BBB[/COLOR]",
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR white]Abertos[/COLOR]",
+#EXTINF:-1 tvg-logo="https://tinyurl.com/qs2qpq9" group-title="Canais | [COLOR orange]BBB[/COLOR]",
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR white]Abertos[/COLOR]",
+#EXTINF:-1 tvg-logo="https://tinyurl.com/qs2qpq9" group-title="Canais | [COLOR orange]BBB[/COLOR]",
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR white]Abertos[/COLOR]",
+#EXTINF:-1 tvg-logo="https://tinyurl.com/qs2qpq9" group-title="Canais | [COLOR orange]BBB[/COLOR]",
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR white]Abertos[/COLOR]",
+#EXTINF:-1 tvg-logo="https://tinyurl.com/qs2qpq9" group-title="Canais | [COLOR orange]BBB[/COLOR]",
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR white]Abertos[/COLOR]",
+#EXTINF:-1 tvg-logo="https://tinyurl.com/qs2qpq9" group-title="Canais | [COLOR orange]BBB[/COLOR]",
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR white]Abertos[/COLOR]",
+#EXTINF:-1 tvg-logo="https://tinyurl.com/qs2qpq9" group-title="Canais | [COLOR orange]BBB[/COLOR]",
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR white]Abertos[/COLOR]",
+#EXTINF:-1 tvg-logo="https://tinyurl.com/qs2qpq9" group-title="Canais | [COLOR orange]BBB[/COLOR]",
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR white]Abertos[/COLOR]",
+#EXTINF:-1 tvg-logo="https://tinyurl.com/qs2qpq9" group-title="Canais | [COLOR orange]BBB[/COLOR]",
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR white]Abertos[/COLOR]",
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR white]Abertos[/COLOR]",
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR white]Abertos[/COLOR]",
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR white]Abertos[/COLOR]",
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR white]Abertos[/COLOR]",
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR white]Abertos[/COLOR]",
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR white]Abertos[/COLOR]",
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR white]Abertos[/COLOR]",
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR white]Abertos[/COLOR]",
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR white]Abertos[/COLOR]",
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR white]Abertos[/COLOR]",
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR white]Abertos[/COLOR]",
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR white]Abertos[/COLOR]",
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR white]Abertos[/COLOR]",
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR white]Abertos[/COLOR]",
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR white]Abertos[/COLOR]",
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR white]Abertos[/COLOR]",
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR white]Abertos[/COLOR]",
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR white]Abertos[/COLOR]",
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR white]Abertos[/COLOR]",
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR white]Abertos[/COLOR]",
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR white]Abertos[/COLOR]",
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR white]Abertos[/COLOR]",
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR white]Abertos[/COLOR]",
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR white]Abertos[/COLOR]",
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR white]Abertos[/COLOR]",
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR white]Abertos[/COLOR]",
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR white]Abertos[/COLOR]",
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR white]Abertos[/COLOR]",
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR white]Abertos[/COLOR]",
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR white]Abertos[/COLOR]",
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR white]Abertos[/COLOR]",
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR white]Abertos[/COLOR]",
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR white]Abertos[/COLOR]",
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR white]Abertos[/COLOR]",
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR white]Abertos[/COLOR]",
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR white]Abertos[/COLOR]",
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR white]Abertos[/COLOR]",
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR white]Abertos[/COLOR]",
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR white]Abertos[/COLOR]",
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR white]Abertos[/COLOR]",
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR white]Abertos[/COLOR]",
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR white]Abertos[/COLOR]",
+#EXTINF:-1 tvg-logo="https://tinyurl.com/qs2qpq9" group-title="Canais | [COLOR orange]BBB[/COLOR]",
 
 
 

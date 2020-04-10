@@ -188,72 +188,72 @@ http://purpleserver.net:80/hgvEcgZS/3sWweonK/18572
 http://purpleserver.net:80/hgvEcgZS/3sWweonK/18573
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR white]Abertos[/COLOR]",
+#EXTINF:-1 tvg-logo="http://z4.vc/G2I" group-title="Canais | [COLOR white]Abertos[/COLOR]",SBT FHD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18764
 
 
-
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR white]Abertos[/COLOR]",
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR white]Abertos[/COLOR]",
+#EXTINF:-1 tvg-logo="http://z4.vc/G2I" group-title="Canais | [COLOR white]Abertos[/COLOR]",SBT FHD [H265]
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/25220
 
 
-
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR white]Abertos[/COLOR]",
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR white]Abertos[/COLOR]",
+#EXTINF:-1 tvg-logo="http://z4.vc/G2I" group-title="Canais | [COLOR white]Abertos[/COLOR]",SBT HD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18569
 
 
-
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR white]Abertos[/COLOR]",
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR white]Abertos[/COLOR]",
+#EXTINF:-1 tvg-logo="http://z4.vc/G2I" group-title="Canais | [COLOR white]Abertos[/COLOR]",SBT PR SD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/22470
 
 
-
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR white]Abertos[/COLOR]",
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR white]Abertos[/COLOR]",
+#EXTINF:-1 tvg-logo="http://z4.vc/G2I" group-title="Canais | [COLOR white]Abertos[/COLOR]",SBT Rio HD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/22458
 
 
-
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR white]Abertos[/COLOR]",
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR white]Abertos[/COLOR]",
+#EXTINF:-1 tvg-logo="http://z4.vc/X0C" group-title="Canais | [COLOR white]Abertos[/COLOR]",SBT SD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18570
 
 
-
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR white]Abertos[/COLOR]",
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR white]Abertos[/COLOR]",
+#EXTINF:-1 tvg-logo="http://z4.vc/X0C" group-title="Canais | [COLOR white]Abertos[/COLOR]",SBT Sergipe HD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/22473
 
 
-
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR white]Abertos[/COLOR]",
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR white]Abertos[/COLOR]",
+#EXTINF:-1 tvg-logo="http://z4.vc/poc" group-title="Canais | [COLOR white]Abertos[/COLOR]",Terra Viva SD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18540
 
 
+#EXTINF:-1 tvg-logo="http://z4.vc/Bti" group-title="Canais | [COLOR white]Abertos[/COLOR]",TV Aparecida FHD [H265]
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/25199
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR white]Abertos[/COLOR]",
+
+#EXTINF:-1 tvg-logo="http://z4.vc/0Eb" group-title="Canais | [COLOR white]Abertos[/COLOR]",TV Aparecida SD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18530
 
 
+#EXTINF:-1 tvg-logo="http://z4.vc/XKO" group-title="Canais | [COLOR white]Abertos[/COLOR]",Tv Aratu SBT Bahia SD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/28059
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR white]Abertos[/COLOR]",
 
+#EXTINF:-1 tvg-logo="http://z4.vc/83l" group-title="Canais | [COLOR white]Abertos[/COLOR]",TV Brasil SD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18529
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/PVk" group-title="Canais | [COLOR white]Abertos[/COLOR]",TV Camara SD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18528
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/MJK" group-title="Canais | [COLOR white]Abertos[/COLOR]",TV Cultura FHD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18752
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/GU9" group-title="Canais | [COLOR white]Abertos[/COLOR]",TV Cultura FHD [H265]
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/25198
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/GU9" group-title="Canais | [COLOR white]Abertos[/COLOR]",TV Cultura HD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18505
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/GU9" group-title="Canais | [COLOR white]Abertos[/COLOR]",TV Cultura SD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18506
 
 
 #EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR white]Abertos[/COLOR]",

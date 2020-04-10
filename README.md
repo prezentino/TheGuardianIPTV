@@ -357,55 +357,55 @@ http://purpleserver.net:80/s45MMNgK/46mrc2rk/43545
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/slU" group-title="Canais | [COLOR darkblue]Documentários[/COLOR]",ANIMAL PLANET [4K]
-http://purpleserver.net:80/hgvEcgZS/3sWweonK/26189
+http://purpleserver.net:80/s45MMNgK/46mrc2rk/26189
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/slU" group-title="Canais | [COLOR darkblue]Documentários[/COLOR]",Animal Planet FHD
-http://purpleserver.net:80/hgvEcgZS/3sWweonK/18856
+http://purpleserver.net:80/s45MMNgK/46mrc2rk/18856
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/slU" group-title="Canais | [COLOR darkblue]Documentários[/COLOR]",Animal Planet FHD [H265]
-http://purpleserver.net:80/hgvEcgZS/3sWweonK/22211
+http://purpleserver.net:80/s45MMNgK/46mrc2rk/22211
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/slU" group-title="Canais | [COLOR darkblue]Documentários[/COLOR]",Animal Planet HD
-http://purpleserver.net:80/hgvEcgZS/3sWweonK/18734
+http://purpleserver.net:80/s45MMNgK/46mrc2rk/18734
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/slU" group-title="Canais | [COLOR darkblue]Documentários[/COLOR]",Animal Planet SD
-http://purpleserver.net:80/hgvEcgZS/3sWweonK/18735
+http://purpleserver.net:80/s45MMNgK/46mrc2rk/18735
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR darkblue]Documentários[/COLOR]",
+#EXTINF:-1 tvg-logo="http://z4.vc/I6b" group-title="Canais | [COLOR darkblue]Documentários[/COLOR]",Arte 1 FHD
+http://purpleserver.net:80/s45MMNgK/46mrc2rk/18855
 
 
-
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR darkblue]Documentários[/COLOR]",
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR darkblue]Documentários[/COLOR]",
+#EXTINF:-1 tvg-logo="http://z4.vc/I6b" group-title="Canais | [COLOR darkblue]Documentários[/COLOR]",Arte 1 FHD [H265]
+http://purpleserver.net:80/s45MMNgK/46mrc2rk/25196
 
 
-
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR darkblue]Documentários[/COLOR]",
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR darkblue]Documentários[/COLOR]",
+#EXTINF:-1 tvg-logo="http://z4.vc/I6b" group-title="Canais | [COLOR darkblue]Documentários[/COLOR]",Arte 1 HD
+http://purpleserver.net:80/s45MMNgK/46mrc2rk/27884
 
 
-
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR darkblue]Documentários[/COLOR]",
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR darkblue]Documentários[/COLOR]",
+#EXTINF:-1 tvg-logo="http://z4.vc/I6b" group-title="Canais | [COLOR darkblue]Documentários[/COLOR]",Arte 1 SD
+http://purpleserver.net:80/s45MMNgK/46mrc2rk/18733
 
 
+#EXTINF:-1 tvg-logo="http://z4.vc/ItW" group-title="Canais | [COLOR darkblue]Documentários[/COLOR]",AXN FHD
+http://purpleserver.net:80/s45MMNgK/46mrc2rk/18854
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR darkblue]Documentários[/COLOR]",
 
+#EXTINF:-1 tvg-logo="http://z4.vc/ItW" group-title="Canais | [COLOR darkblue]Documentários[/COLOR]",AXN FHD [H265]
+http://purpleserver.net:80/s45MMNgK/46mrc2rk/22210
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/ItW" group-title="Canais | [COLOR darkblue]Documentários[/COLOR]",AXN HD
+http://purpleserver.net:80/s45MMNgK/46mrc2rk/18730
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/ItW" group-title="Canais | [COLOR darkblue]Documentários[/COLOR]",AXN SD
+http://purpleserver.net:80/s45MMNgK/46mrc2rk/18731
 
 
 #EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR darkblue]Documentários[/COLOR]",

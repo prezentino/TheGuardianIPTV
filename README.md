@@ -2892,6 +2892,178 @@ http://purpleserver.net:80/trCBQgn9/46bs3F3R/33400
 http://purpleserver.net:80/p8carys3/ZGP8PCKv/27132
 
 
+#EXTINF:-1 tvg-logo="http://z4.vc/yMm" group-title="Canais | 24 Horas",[24H] As Meninas Superpoderosas
+http://purpleserver.net:80/p8carys3/ZGP8PCKv/19222
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/uKe" group-title="Canais | 24 Horas",[24H] As Tartarugas Ninjas
+http://purpleserver.net:80/p8carys3/ZGP8PCKv/19221
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/7CL" group-title="Canais | 24 Horas",[24H] Ben 10
+http://purpleserver.net:80/p8carys3/ZGP8PCKv/19219
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/3VU" group-title="Canais | 24 Horas",[24H] Bob Esponja
+http://purpleserver.net:80/p8carys3/ZGP8PCKv/19220
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/Cf6" group-title="Canais | 24 Horas",[24H] Bob Zoom
+http://purpleserver.net:80/p8carys3/ZGP8PCKv/19223
+
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Breaking Bag
+http://purpleserver.net:80/p8carys3/ZGP8PCKv/28070
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/wdu" group-title="Canais | 24 Horas",[24H] Caverna do Dragao
+http://purpleserver.net:80/p8carys3/ZGP8PCKv/19216
+
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Chapolin Colorado
+http://purpleserver.net:80/p8carys3/ZGP8PCKv/28071
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/lLk" group-title="Canais | 24 Horas",[24H] Chaves
+http://purpleserver.net:80/p8carys3/ZGP8PCKv/19218
+
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Classicos Disney
+http://purpleserver.net:80/p8carys3/ZGP8PCKv/24972
+
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Corrida Maluca
+http://purpleserver.net:80/p8carys3/ZGP8PCKv/24981
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/iKx" group-title="Canais | 24 Horas",[24H] Dennis - O Pimentinha
+http://purpleserver.net:80/p8carys3/ZGP8PCKv/19214
+
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Desenhos Biblicos
+http://purpleserver.net:80/p8carys3/ZGP8PCKv/28073
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/AHn" group-title="Canais | 24 Horas",[24H] Dois Homens e Meio
+http://purpleserver.net:80/p8carys3/ZGP8PCKv/19212
+
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Doug
+http://purpleserver.net:80/p8carys3/ZGP8PCKv/28201
+
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] DRAGON BALL
+http://purpleserver.net:80/p8carys3/ZGP8PCKv/28202
+
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] DRAGON BALL SUPER
+http://purpleserver.net:80/p8carys3/ZGP8PCKv/28203
+
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Dragon Ball Z
+http://purpleserver.net:80/p8carys3/ZGP8PCKv/19211
+
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Eu - A Patroa e as Criancas
+http://purpleserver.net:80/p8carys3/ZGP8PCKv/19177
+
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Família da Pesada
+http://purpleserver.net:80/p8carys3/ZGP8PCKv/24973
+
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Futurama
+http://purpleserver.net:80/p8carys3/ZGP8PCKv/24975
+
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] HOMEM ARANHA
+http://purpleserver.net:80/p8carys3/ZGP8PCKv/28206
+
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Homem de Ferro
+http://purpleserver.net:80/p8carys3/ZGP8PCKv/28207
+
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Kenan e Kel
+http://purpleserver.net:80/p8carys3/ZGP8PCKv/24982
+
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Luluzinha
+http://purpleserver.net:80/p8carys3/ZGP8PCKv/24976
+
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Mickey e Donald
+http://purpleserver.net:80/p8carys3/ZGP8PCKv/24977
+
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] O Maskara
+http://purpleserver.net:80/p8carys3/ZGP8PCKv/24983
+
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Os Cavaleiros do Zodiaco
+http://purpleserver.net:80/p8carys3/ZGP8PCKv/19197
+
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Os Flintstones
+http://purpleserver.net:80/p8carys3/ZGP8PCKv/19196
+
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Os Simpsons
+http://purpleserver.net:80/p8carys3/ZGP8PCKv/27897
+
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Os Trapalhões
+http://purpleserver.net:80/p8carys3/ZGP8PCKv/24978
+
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Peppa Pig
+http://purpleserver.net:80/p8carys3/ZGP8PCKv/24979
+
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Pernalonga
+http://purpleserver.net:80/p8carys3/ZGP8PCKv/19194
+
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Pica-Pau
+http://purpleserver.net:80/p8carys3/ZGP8PCKv/19192
+
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Pink-e-Cerebro
+http://purpleserver.net:80/p8carys3/ZGP8PCKv/28213
+
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Scooby Doo
+http://purpleserver.net:80/p8carys3/ZGP8PCKv/19190
+
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] South Park
+http://purpleserver.net:80/p8carys3/ZGP8PCKv/19189
+
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] The Big Bang Theory
+http://purpleserver.net:80/p8carys3/ZGP8PCKv/24984
+
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Thundercats
+http://purpleserver.net:80/p8carys3/ZGP8PCKv/19178
+
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Tico e Teco
+http://purpleserver.net:80/p8carys3/ZGP8PCKv/24985
+
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Todo Mundo Odeia o Chris
+http://purpleserver.net:80/p8carys3/ZGP8PCKv/19185
+
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Tom e Jerry
+http://purpleserver.net:80/p8carys3/ZGP8PCKv/19184
+
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Um Maluco no Pedaço
+http://purpleserver.net:80/p8carys3/ZGP8PCKv/19183
+
+
 ###################################################################################################
 
 

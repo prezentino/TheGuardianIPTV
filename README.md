@@ -35,235 +35,235 @@ https://facebook.com/xx.ely.david.xx
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/68l" group-title="Canais | Abertos",Band Bahia SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/28060
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/28060
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/SV1" group-title="Canais | Abertos",Band SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/22242
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/22242
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/68l" group-title="Canais | Abertos",Band Sergipe HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/22476
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/22476
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/ocG" group-title="Canais | Abertos",BAND [4K]
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/26179
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/26179
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/iGF" group-title="Canais | Abertos",Band SP FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18786
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18786
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/wHL" group-title="Canais | Abertos",Band SP FHD [H265]
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/25249
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/25249
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/X0u" group-title="Canais | Abertos",Band SP HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18727
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18727
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/xaf" group-title="Canais | Abertos",Band SP SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18728
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18728
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/0Tm" group-title="Canais | Abertos",Cancao Nova SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18713
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18713
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/en6" group-title="Canais | Abertos",Futura FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/28198
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/28198
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/en6" group-title="Canais | Abertos",Futura FHD [H265]
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/25302
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/25302
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/en6" group-title="Canais | Abertos",Futura HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18655
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18655
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/en6" group-title="Canais | Abertos",Futura SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18656
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18656
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/97h" group-title="Canais | Abertos",NBR SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18604
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18604
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/Tv1" group-title="Canais | Abertos",RecordTV BA HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18496
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18496
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/Tv1" group-title="Canais | Abertos",RecordTV BA SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18495
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18495
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/mF2" group-title="Canais | Abertos",RecordTV DF HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18494
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18494
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/mF2" group-title="Canais | Abertos",RecordTV DF SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18493
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18493
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/m2C" group-title="Canais | Abertos",RecordTV MG HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18501
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18501
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/Kvw" group-title="Canais | Abertos",RecordTV PR HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/22471
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/22471
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/P7d" group-title="Canais | Abertos",RecordTV Rio FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18748
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18748
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/iZP" group-title="Canais | Abertos",RecordTV Rio HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18503
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18503
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/a0f" group-title="Canais | Abertos",RecordTV Rio SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18502
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18502
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/IXu" group-title="Canais | Abertos",RecordTV RS HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18492
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18492
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/2GL" group-title="Canais | Abertos",RecordTV RS SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18491
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18491
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/Kvw" group-title="Canais | Abertos",RecordTV Sao Jose Rio Preto HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/29021
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/29021
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/qPi" group-title="Canais | Abertos",RecordTV SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/22277
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/22277
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/vRV" group-title="Canais | Abertos",RecordTV Sergipe HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/22474
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/22474
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/vUq" group-title="Canais | Abertos",RecordTV SP FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18765
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18765
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/DDD" group-title="Canais | Abertos",RecordTV SP FHD [H265]
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/25221
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/25221
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/MsE" group-title="Canais | Abertos",RecordTV SP HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18575
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18575
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/BKM" group-title="Canais | Abertos",RecordTV SP SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18579
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18579
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/RnA" group-title="Canais | Abertos",Rede Brasil SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18574
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18574
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/SKJ" group-title="Canais | Abertos",RedeTV! [4K]
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/26183
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/26183
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/SKJ" group-title="Canais | Abertos",RedeTV! FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18751
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18751
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/SKJ" group-title="Canais | Abertos",RedeTV! HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18572
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18572
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/SKJ" group-title="Canais | Abertos",RedeTV! SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18573
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18573
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/RXH" group-title="Canais | Abertos",SBT FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18764
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18764
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/RXH" group-title="Canais | Abertos",SBT FHD [H265]
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/25220
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/25220
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/G2I" group-title="Canais | Abertos",SBT HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18569
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18569
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/okI" group-title="Canais | Abertos",SBT PR SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/22470
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/22470
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/oyy" group-title="Canais | Abertos",SBT RJ HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/22458
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/22458
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/MSJ" group-title="Canais | Abertos",SBT SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18570
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18570
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/X0C" group-title="Canais | Abertos",SBT Sergipe HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/22473
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/22473
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/poc" group-title="Canais | Abertos",Terra Viva SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18540
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18540
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/Bti" group-title="Canais | Abertos",TV Aparecida FHD [H265]
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/25199
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/25199
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/0Eb" group-title="Canais | Abertos",TV Aparecida SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18530
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18530
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/XKO" group-title="Canais | Abertos",Tv Aratu SBT Bahia SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/28059
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/28059
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/83l" group-title="Canais | Abertos",TV Brasil SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18529
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18529
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/PVk" group-title="Canais | Abertos",TV Camara SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18528
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18528
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/MJK" group-title="Canais | Abertos",TV Cultura FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18752
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18752
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/GU9" group-title="Canais | Abertos",TV Cultura FHD [H265]
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/25198
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/25198
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/BEU" group-title="Canais | Abertos",TV Cultura HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18505
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18505
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/7FM" group-title="Canais | Abertos",TV Cultura SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18506
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18506
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/HLw" group-title="Canais | Abertos",TV Senado SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18532
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18532
 
 
 #EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",TVR Craiova
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/28048
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/28048
 
 
 #EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",TVR IASI
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/28046
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/28046
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/aZb" group-title="Canais | Abertos",Globo Inter TV Cabugi SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/33380
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/33380
 
 
 
@@ -271,804 +271,804 @@ http://purpleserver.net:80/p8carys3/ZGP8PCKv/33380
 
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/qs2qpq9" group-title="Canais | BBB",Big Brother Brasil [CAM001] HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/27861
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/27861
 
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/qs2qpq9" group-title="Canais | BBB",Big Brother Brasil [CAM001] [ALTER] HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/41935
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/41935
 
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/qs2qpq9" group-title="Canais | BBB",Big Brother Brasil [CAM001] SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/41937
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/41937
 
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/qs2qpq9" group-title="Canais | BBB",Big Brother Brasil [CAM002] FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/43543
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/43543
 
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/qs2qpq9" group-title="Canais | BBB",Big Brother Brasil [CAM003] HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/43723
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/43723
 
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/qs2qpq9" group-title="Canais | BBB",Big Brother Brasil [CAM003] SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/43722
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/43722
 
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/qs2qpq9" group-title="Canais | BBB",Big Brother Brasil [CAM004] HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/43720
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/43720
 
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/qs2qpq9" group-title="Canais | BBB",Big Brother Brasil [CAM004] SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/43721
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/43721
 
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/qs2qpq9" group-title="Canais | BBB",Big Brother Brasil [CAM005] HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/43551
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/43551
 
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/qs2qpq9" group-title="Canais | BBB",Big Brother Brasil [CAM005] SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/43552
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/43552
 
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/qs2qpq9" group-title="Canais | BBB",Big Brother Brasil [CAM006] HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/43554
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/43554
 
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/qs2qpq9" group-title="Canais | BBB",Big Brother Brasil [CAM006] SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/43553
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/43553
 
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/qs2qpq9" group-title="Canais | BBB",Big Brother Brasil [CAM007] HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/43719
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/43719
 
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/qs2qpq9" group-title="Canais | BBB",Big Brother Brasil [CAM007] SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/43718
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/43718
 
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/qs2qpq9" group-title="Canais | BBB",Big Brother Brasil [CAM008] HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/43550
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/43550
 
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/qs2qpq9" group-title="Canais | BBB",Big Brother Brasil [CAM008] SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/43549
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/43549
 
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/qs2qpq9" group-title="Canais | BBB",Big Brother Brasil [CAM009] HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/43548
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/43548
 
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/qs2qpq9" group-title="Canais | BBB",Big Brother Brasil [CAM009] SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/43547
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/43547
 
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/qs2qpq9" group-title="Canais | BBB",Big Brother Brasil [CAM010] SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/43545
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/43545
 
 
 #################################CANAIS DOCUMENTÁRIOS##############################################
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/s04" group-title="Canais | Documentários",ANIMAL PLANET [4K]
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/26189
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/26189
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/slU" group-title="Canais | Documentários",Animal Planet FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18856
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18856
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/slU" group-title="Canais | Documentários",Animal Planet FHD [H265]
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/22211
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/22211
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/slU" group-title="Canais | Documentários",Animal Planet HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18734
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18734
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/slU" group-title="Canais | Documentários",Animal Planet SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18735
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18735
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/I6b" group-title="Canais | Documentários",Arte 1 FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18855
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18855
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/I6b" group-title="Canais | Documentários",Arte 1 FHD [H265]
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/25196
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/25196
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/I6b" group-title="Canais | Documentários",Arte 1 HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/27884
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/27884
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/I6b" group-title="Canais | Documentários",Arte 1 SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18733
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18733
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/Y5D" group-title="Canais | Documentários",DISCOVERY CHANNEL [4K]
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/26185
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/26185
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/Y5D" group-title="Canais | Documentários",Discovery Channel FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18783
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18783
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/Y5D" group-title="Canais | Documentários",Discovery Channel FHD [H265]
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/22204
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/22204
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/Y5D" group-title="Canais | Documentários",Discovery Channel HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18701
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18701
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/Y5D" group-title="Canais | Documentários",Discovery Channel SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18702
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18702
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/bfd" group-title="Canais | Documentários",Discovery Science FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18842
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18842
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/bfd" group-title="Canais | Documentários",Discovery Science FHD [H265]
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/22201
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/22201
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/bfd" group-title="Canais | Documentários",Discovery Science HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18693
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18693
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/bfd" group-title="Canais | Documentários",Discovery Science SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18694
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18694
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/m7Y" group-title="Canais | Documentários",Discovery Theater FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18841
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18841
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/m7Y" group-title="Canais | Documentários",Discovery Theater FHD [H265]
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/22200
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/22200
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/m7Y" group-title="Canais | Documentários",Discovery Theater HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18691
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18691
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/m7Y" group-title="Canais | Documentários",Discovery Theater SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18692
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18692
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/4Yx" group-title="Canais | Documentários",Discovery World FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18839
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18839
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/4Yx" group-title="Canais | Documentários",Discovery World FHD [H265]
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/22130
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/22130
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/SxE" group-title="Canais | Documentários",Discovery World HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18687
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18687
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/x5l" group-title="Canais | Documentários",Discovery World SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18688
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18688
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/Yos" group-title="Canais | Documentários",H2 FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18826
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18826
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/Yos" group-title="Canais | Documentários",H2 FHD [H265]
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/22192
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/22192
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/Yos" group-title="Canais | Documentários",H2 HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18643
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18643
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/Yos" group-title="Canais | Documentários",H2 SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/22309
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/22309
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/TDO" group-title="Canais | Documentários",HGTV FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18845
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18845
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/TDO" group-title="Canais | Documentários",HGTV FHD [H265]
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/22203
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/22203
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/TDO" group-title="Canais | Documentários",HGTV HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18699
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18699
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/TDO" group-title="Canais | Documentários",HGTV SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18700
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18700
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/YVo" group-title="Canais | Documentários",History Channel FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18822
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18822
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/YVo" group-title="Canais | Documentários",History Channel FHD [H265]
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/22188
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/22188
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/YVo" group-title="Canais | Documentários",History Channel HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18631
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18631
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/YVo" group-title="Canais | Documentários",History Channel SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18632
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18632
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/aSn" group-title="Canais | Documentários",NatGeo Wild FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18809
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18809
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/aSn" group-title="Canais | Documentários",NatGeo Wild FHD [H265]
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/22179
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/22179
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/aSn" group-title="Canais | Documentários",NatGeo Wild HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18606
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18606
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/aSn" group-title="Canais | Documentários",NatGeo Wild SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18605
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18605
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/aSn" group-title="Canais | Documentários",NATGEO [4K]
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/26695
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/26695
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/QKB" group-title="Canais | Documentários",National Geographic FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18811
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18811
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/QKB" group-title="Canais | Documentários",National Geographic HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18609
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18609
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/QKB" group-title="Canais | Documentários",National Geographic SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18610
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18610
 
 
 #EXTINF:-1 tvg-logo="" group-title="Canais | Documentários",Smithsonian FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/26828
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/26828
 
 
 #EXTINF:-1 tvg-logo="" group-title="Canais | Documentários",Smithsonian FHD [H265]
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/25202
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/25202
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/EYp" group-title="Canais | Documentários",TruTV FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18794
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18794
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/EYp" group-title="Canais | Documentários",TruTV FHD [H265]
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/25200
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/25200
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/EYp" group-title="Canais | Documentários",TruTV HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18522
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18522
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/EYp" group-title="Canais | Documentários",TruTV SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18523
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18523
 
 
 ###########################################CANAIS ESPORTES#################################################
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/7yf" group-title="Canais | Esportes",BandSports FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18852
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18852
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/7yf" group-title="Canais | Esportes",BandSports FHD [H265]
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/22151
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/22151
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/7yf" group-title="Canais | Esportes",BandSports HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18723
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18723
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/7yf" group-title="Canais | Esportes",BandSports SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18724
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18724
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/7yf" group-title="Canais | Esportes",Combate [4K]
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/26180
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/26180
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/7yf" group-title="Canais | Esportes",Combate FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18784
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18784
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/7yf" group-title="Canais | Esportes",Combate FHD [H265]
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/25312
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/25312
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/7yf" group-title="Canais | Esportes",Combate HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18707
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18707
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/7yf" group-title="Canais | Esportes",Combate SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18708
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18708
 
 
 #EXTINF:-1 tvg-logo="" group-title="Canais | Esportes",EI Plus 1 HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/22978
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/22978
 
 
 #EXTINF:-1 tvg-logo="" group-title="Canais | Esportes",EI Plus 1 SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/26194
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/26194
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/Lkj" group-title="Canais | Esportes",ESPN 2 FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18837
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18837
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/Lkj" group-title="Canais | Esportes",ESPN 2 FHD [H265]
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/25309
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/25309
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/Lkj" group-title="Canais | Esportes",ESPN 2 HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18678
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18678
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/Lkj" group-title="Canais | Esportes",ESPN 2 SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18679
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18679
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/a01" group-title="Canais | Esportes",ESPN Brasil FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18781
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18781
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/a01" group-title="Canais | Esportes",ESPN Brasil FHD [H265]
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/25238
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/25238
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/a01" group-title="Canais | Esportes",ESPN Brasil HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18676
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18676
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/a01" group-title="Canais | Esportes",ESPN Brasil SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18677
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18677
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/TAv" group-title="Canais | Esportes",ESPN Extra FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18836
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18836
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/TAv" group-title="Canais | Esportes",ESPN Extra FHD [H265]
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/25308
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/25308
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/TAv" group-title="Canais | Esportes",ESPN Extra HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18674
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18674
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/TAv" group-title="Canais | Esportes",ESPN Extra SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18675
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18675
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/GbD" group-title="Canais | Esportes",ESPN [4K]
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/27130
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/27130
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/GbD" group-title="Canais | Esportes",ESPN FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18780
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18780
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/GbD" group-title="Canais | Esportes",ESPN FHD [H265]
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/25237
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/25237
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/GbD" group-title="Canais | Esportes",ESPN HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18673
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18673
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/GbD" group-title="Canais | Esportes",ESPN SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18680
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18680
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/nWk" group-title="Canais | Esportes",FOX SPORTS [4K]
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/26187
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/26187
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/nWk" group-title="Canais | Esportes",Fox Sports FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18777
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18777
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/nWk" group-title="Canais | Esportes",Fox Sports FHD [H265]
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/22195
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/22195
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/nWk" group-title="Canais | Esportes",Fox Sports HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18659
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18659
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/nWk" group-title="Canais | Esportes",Fox Sports SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18660
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18660
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/dEu" group-title="Canais | Esportes",FOX SPORTS 2 [4K]
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/26406
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/26406
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/dEu" group-title="Canais | Esportes",Fox Sports 2 FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18778
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18778
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/dEu" group-title="Canais | Esportes",Fox Sports 2 FHD [H265]
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/22196
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/22196
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/dEu" group-title="Canais | Esportes",Fox Sports 2 HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18657
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18657
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/dEu" group-title="Canais | Esportes",Fox Sports 2 SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18658
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18658
 
 
 ############################################CANAIS FILMES E SERIES###############################################
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/PFh" group-title="Canais | Filmes e Séries",AMC FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18857
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18857
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/PFh" group-title="Canais | Filmes e Séries",AMC FHD [H265]
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/22212
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/22212
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/PFh" group-title="Canais | Filmes e Séries",AMC HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18736
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18736
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/PFh" group-title="Canais | Filmes e Séries",AMC SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18737
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18737
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/rpV" group-title="Canais | Filmes e Séries",AXN FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18854
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18854
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/rpV" group-title="Canais | Filmes e Séries",AXN FHD [H265]
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/22210
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/22210
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/rpV" group-title="Canais | Filmes e Séries",AXN HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18730
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18730
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/rpV" group-title="Canais | Filmes e Séries",AXN SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18731
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18731
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/UqA" group-title="Canais | Filmes e Séries",Canal Brasil FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18753
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18753
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/UqA" group-title="Canais | Filmes e Séries",Canal Brasil FHD [H265]
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/25316
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/25316
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/UqA" group-title="Canais | Filmes e Séries",Canal Brasil HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18716
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18716
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/UqA" group-title="Canais | Filmes e Séries",Canal Brasil SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18717
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18717
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/IbR" group-title="Canais | Filmes e Séries",Cinemax FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18848
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18848
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/IbR" group-title="Canais | Filmes e Séries",Cinemax FHD [H265]
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/25313
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/25313
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/IbR" group-title="Canais | Filmes e Séries",Cinemax HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18709
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18709
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/IbR" group-title="Canais | Filmes e Séries",Cinemax SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18710
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18710
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/Gcu" group-title="Canais | Filmes e Séries",Fox FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18779
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18779
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/Gcu" group-title="Canais | Filmes e Séries",Fox FHD [H265]
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/22197
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/22197
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/Gcu" group-title="Canais | Filmes e Séries",Fox HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18667
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18667
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/OcS" group-title="Canais | Filmes e Séries",Fox SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18668
+https://stream.canais.info/s/a/hls/fox.m3u8?
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/efE" group-title="Canais | Filmes e Séries",Fox Premium 1 FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18832
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18832
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/efE" group-title="Canais | Filmes e Séries",Fox Premium 1 FHD [H265]
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/22144
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/22144
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/efE" group-title="Canais | Filmes e Séries",Fox Premium 1 HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18663
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18663
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/TCc" group-title="Canais | Filmes e Séries",Fox Premium 1 SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18664
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18664
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/A4M" group-title="Canais | Filmes e Séries",FX FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18829
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18829
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/A4M" group-title="Canais | Filmes e Séries",FX FHD [H265]
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/22194
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/22194
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/A4M" group-title="Canais | Filmes e Séries",FX HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18653
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18653
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/A4M" group-title="Canais | Filmes e Séries",FX SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18654
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18654
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/amW" group-title="Canais | Filmes e Séries",Max FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18819
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18819
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/amW" group-title="Canais | Filmes e Séries",Max FHD [H265]
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/22185
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/22185
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/amW" group-title="Canais | Filmes e Séries",Max HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18623
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18623
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/amW" group-title="Canais | Filmes e Séries",Max SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18624
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18624
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/Zzp" group-title="Canais | Filmes e Séries",Max Prime FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18818
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18818
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/Zzp" group-title="Canais | Filmes e Séries",Max Prime FHD [H265]
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/22184
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/22184
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/Zzp" group-title="Canais | Filmes e Séries",Max Prime HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18621
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18621
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/Zzp" group-title="Canais | Filmes e Séries",Max Prime SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18622
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18622
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/sJf" group-title="Canais | Filmes e Séries",Max UP FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18817
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18817
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/sJf" group-title="Canais | Filmes e Séries",Max UP FHD [H265]
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/22138
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/22138
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/sJf" group-title="Canais | Filmes e Séries",Max UP HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18619
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18619
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/sJf" group-title="Canais | Filmes e Séries",Max UP SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18620
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18620
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/jWK" group-title="Canais | Filmes e Séries",Megapix FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18816
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18816
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/jWK" group-title="Canais | Filmes e Séries",Megapix FHD [H265]
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/22137
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/22137
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/jWK" group-title="Canais | Filmes e Séries",Megapix HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18617
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18617
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/jWK" group-title="Canais | Filmes e Séries",Megapix SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18618
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18618
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/UeA" group-title="Canais | Filmes e Séries",Paramount Channel FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18805
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18805
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/UeA" group-title="Canais | Filmes e Séries",Paramount Channel FHD [H265]
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/22177
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/22177
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/UeA" group-title="Canais | Filmes e Séries",Paramount Channel HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18596
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18596
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/UeA" group-title="Canais | Filmes e Séries",Paramount Channel SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18597
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18597
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/YP8" group-title="Canais | Filmes e Séries",Sony FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18850
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18850
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/FM8" group-title="Canais | Filmes e Séries",Sony FHD [H265]
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/25315
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/25315
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/hkn" group-title="Canais | Filmes e Séries",Sony HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18714
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18714
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/npa" group-title="Canais | Filmes e Séries",Sony SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18715
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18715
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/kaZ" group-title="Canais | Filmes e Séries",Sony SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/22331
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/22331
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/t2m" group-title="Canais | Filmes e Séries",SPACE [4K]
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/27131
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/27131
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/hBI" group-title="Canais | Filmes e Séries",Space FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18802
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18802
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/ao2" group-title="Canais | Filmes e Séries",Space FHD [H265]
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/22169
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/22169
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/EPt" group-title="Canais | Filmes e Séries",Space HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18564
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18564
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/zXZ" group-title="Canais | Filmes e Séries",Space SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18565
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18565
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/8f1" group-title="Canais | Filmes e Séries",Studio Universal FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18801
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18801
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/8f1" group-title="Canais | Filmes e Séries",Studio Universal FHD [H265]
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/22165
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/22165
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/8f1" group-title="Canais | Filmes e Séries",Studio Universal HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18556
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18556
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/8f1" group-title="Canais | Filmes e Séries",Studio Universal SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18557
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18557
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/yZB" group-title="Canais | Filmes e Séries",Syfy FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18800
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18800
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/yZB" group-title="Canais | Filmes e Séries",Syfy FHD [H265]
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/22133
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/22133
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/yZB" group-title="Canais | Filmes e Séries",Syfy HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18566
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18566
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/yZB" group-title="Canais | Filmes e Séries",Syfy SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18567
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18567
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/RDY" group-title="Canais | Filmes e Séries",TBS FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18799
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18799
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/RDY" group-title="Canais | Filmes e Séries",TBS FHD [H265]
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/22164
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/22164
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/RDY" group-title="Canais | Filmes e Séries",TBS HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18554
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18554
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/RDY" group-title="Canais | Filmes e Séries",TBS SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18555
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18555
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/9cn" group-title="Canais | Filmes e Séries",TCM SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18553
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18553
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/SDg" group-title="Canais | Filmes e Séries",TNT [4K]
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/26186
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/26186
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/SDg" group-title="Canais | Filmes e Séries",TNT FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18796
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18796
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/SDg" group-title="Canais | Filmes e Séries",TNT FHD [H265]
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/22157
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/22157
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/SDg" group-title="Canais | Filmes e Séries",TNT HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18536
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18536
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/SDg" group-title="Canais | Filmes e Séries",TNT SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18537
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18537
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/8Sd" group-title="Canais | Filmes e Séries",TNT SERIES [4K]
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/26696
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/26696
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/8Sd" group-title="Canais | Filmes e Séries",TNT Series FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18795
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18795
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/8Sd" group-title="Canais | Filmes e Séries",TNT Series FHD [H265]
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/22156
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/22156
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/8Sd" group-title="Canais | Filmes e Séries",TNT Series HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18534
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18534
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/8Sd" group-title="Canais | Filmes e Séries",TNT Series SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18535
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18535
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/04y" group-title="Canais | Filmes e Séries",Universal Channel FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18792
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18792
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/04y" group-title="Canais | Filmes e Séries",Universal Channel FHD [H265]
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/22155
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/22155
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/04y" group-title="Canais | Filmes e Séries",Universal Channel HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18520
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18520
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/04y" group-title="Canais | Filmes e Séries",Universal Channel SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18521
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18521
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/4dc" group-title="Canais | Filmes e Séries",Warner Channel FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18790
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18790
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/4dc" group-title="Canais | Filmes e Séries",Warner Channel FHD [H265]
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/22153
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/22153
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/4dc" group-title="Canais | Filmes e Séries",Warner Channel HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18513
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18513
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/4dc" group-title="Canais | Filmes e Séries",Warner Channel SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18514
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18514
 
 
 
@@ -1076,503 +1076,503 @@ http://purpleserver.net:80/p8carys3/ZGP8PCKv/18514
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/aZb" group-title="Canais | Globo",Globo Brasilia FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/28390
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/28390
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/Vli" group-title="Canais | Globo",Globo Brasilia HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18434
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18434
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/aZb" group-title="Canais | Globo",Globo Brasilia SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18435
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18435
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/CsO" group-title="Canais | Globo",Globo Campinas FHD [H265]
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/25210
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/25210
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/5XU" group-title="Canais | Globo",Globo EPTV Araraquara SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18433
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18433
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/n8G" group-title="Canais | Globo",Globo EPTV Campinas SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18431
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18431
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/pqb" group-title="Canais | Globo",Globo EPTV Ribeirao Preto HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18430
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18430
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/5Uj" group-title="Canais | Globo",Globo EPTV Ribeirao Preto SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18429
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18429
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/nrI" group-title="Canais | Globo",Globo EPTV Sao Carlos SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18428
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18428
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/pzi" group-title="Canais | Globo",GLOBO INTER TV ALTO LITORAL FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/28079
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/28079
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/CCo" group-title="Canais | Globo",Globo Inter TV Alto Litoral FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18358
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18358
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/hmV" group-title="Canais | Globo",Globo Inter TV Alto Litoral HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18357
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18357
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/t4S" group-title="Canais | Globo",Globo Inter TV Alto Litoral SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18356
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18356
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/eQR" group-title="Canais | Globo",Globo Inter TV dos Vales FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18355
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18355
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/42v" group-title="Canais | Globo",Globo Inter TV dos Vales HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18354
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18354
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/q6B" group-title="Canais | Globo",Globo Inter TV dos Vales SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18353
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18353
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/gfx" group-title="Canais | Globo",Globo Inter TV Grande Minas FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18352
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18352
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/BEQ" group-title="Canais | Globo",Globo Inter TV Grande Minas HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18351
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18351
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/6dU" group-title="Canais | Globo",Globo Inter TV Grande Minas SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18350
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18350
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/mVk" group-title="Canais | Globo",Globo Inter TV Natal SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18427
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18427
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/dlF" group-title="Canais | Globo",Globo Inter TV Serra Mar FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18349
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18349
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/0jO" group-title="Canais | Globo",Globo Inter TV Serra Mar HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18348
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18348
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/4BA" group-title="Canais | Globo",Globo Inter TV Serra Mar SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18347
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18347
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/aZb" group-title="Canais | Globo",Globo Mato Grosso FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/28394
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/28394
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/aZb" group-title="Canais | Globo",Globo Mato Grosso HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/28393
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/28393
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/KxL" group-title="Canais | Globo",Globo Minas FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18377
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18377
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/KZ2" group-title="Canais | Globo",Globo Minas FHD [H265]
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/25209
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/25209
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/4YI" group-title="Canais | Globo",Globo Minas HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18425
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18425
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/ep1" group-title="Canais | Globo",Globo Minas SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18426
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18426
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/97A" group-title="Canais | Globo",Globo Nordeste FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18376
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18376
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/Qrd" group-title="Canais | Globo",Globo Nordeste FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18423
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18423
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/ft1" group-title="Canais | Globo",Globo Nordeste FHD [H265]
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/25208
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/25208
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/p5d" group-title="Canais | Globo",Globo Nordeste SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18424
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18424
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/gY7" group-title="Canais | Globo",Globo NSC TV Blumenau FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18346
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18346
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/5W5" group-title="Canais | Globo",Globo NSC TV Blumenau HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18345
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18345
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/hEE" group-title="Canais | Globo",Globo NSC TV Blumenau SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18344
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18344
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/svh" group-title="Canais | Globo",Globo NSC TV Chapeco FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18394
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18394
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/JTq" group-title="Canais | Globo",Globo NSC TV Chapeco HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18393
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18393
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/G4s" group-title="Canais | Globo",Globo NSC TV Chapeco SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18392
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18392
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/Vey" group-title="Canais | Globo",Globo NSC TV Florianopolis FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18375
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18375
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/5Kj" group-title="Canais | Globo",Globo NSC TV Florianopolis HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18421
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18421
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/cHX" group-title="Canais | Globo",Globo NSC TV Florianopolis SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18422
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18422
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/urQ" group-title="Canais | Globo",Globo NSC TV Joinville FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18340
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18340
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/ihU" group-title="Canais | Globo",Globo NSC TV Joinville HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18339
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18339
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/e5c" group-title="Canais | Globo",Globo NSC TV Joinville SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18338
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18338
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/sLB" group-title="Canais | Globo",Globo RBS Porto Alegre FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18374
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18374
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/kga" group-title="Canais | Globo",Globo RBS TV Caxias do Sul FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18343
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18343
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/Plw" group-title="Canais | Globo",Globo RBS TV Caxias do Sul HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18342
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18342
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/h4k" group-title="Canais | Globo",Globo RBS TV Caxias do Sul SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18341
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18341
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/Pwb" group-title="Canais | Globo",Globo RBS TV Pelotas FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18337
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18337
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/iZY" group-title="Canais | Globo",Globo RBS TV Pelotas HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18336
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18336
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/GMl" group-title="Canais | Globo",Globo RBS TV Pelotas SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18335
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18335
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/wJx" group-title="Canais | Globo",Globo RBS TV Porto Alegre HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18419
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18419
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/CX5" group-title="Canais | Globo",Globo RBS TV Porto Alegre SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18420
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18420
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/X3N" group-title="Canais | Globo",Globo Rede Amazonas Manaus SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18418
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18418
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/k7r" group-title="Canais | Globo",Globo RJ FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18415
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18415
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/pzi" group-title="Canais | Globo",Globo RJ FHD [H265]
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/25232
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/25232
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/CpN" group-title="Canais | Globo",Globo RJ HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18416
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18416
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/FYM" group-title="Canais | Globo",Globo RJ SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18417
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18417
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/8Bl" group-title="Canais | Globo",Globo RPC Curitiba HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18413
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18413
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/F32" group-title="Canais | Globo",Globo RPC Curitiba SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18412
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18412
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/HQs" group-title="Canais | Globo",Globo RPC Curitiba SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18414
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18414
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/Fwm" group-title="Canais | Globo",Globo RPC Foz do Iguacu FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18390
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18390
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/acv" group-title="Canais | Globo",Globo RPC Foz do Iguacu HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18389
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18389
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/4u4" group-title="Canais | Globo",Globo RPC Foz do Iguacu SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18391
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18391
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/JTq" group-title="Canais | Globo",GLOBO RPC MARINGA FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/28156
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/28156
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/G4s" group-title="Canais | Globo",GLOBO RPC MARINGA HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/28155
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/28155
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/G4s" group-title="Canais | Globo",GLOBO RPC MARINGA SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/28154
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/28154
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/rtl" group-title="Canais | Globo",Globo Sao Jose dos Campos SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/22448
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/22448
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/rxr" group-title="Canais | Globo",GLOBO SP [4K]
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/26181
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/26181
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/pzi" group-title="Canais | Globo",Globo SP FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/28068
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/28068
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/NDg" group-title="Canais | Globo",Globo SP FHD [H265]
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/25231
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/25231
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/Vlx" group-title="Canais | Globo",Globo SP HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18410
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18410
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/tlB" group-title="Canais | Globo",Globo SP SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18411
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18411
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/9N9" group-title="Canais | Globo",Globo TV Anhanguera FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18373
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18373
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/o8M" group-title="Canais | Globo",Globo TV Anhanguera HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18407
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18407
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/Lu3" group-title="Canais | Globo",Globo TV Anhanguera SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18408
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18408
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/TEc" group-title="Canais | Globo",Globo TV Bahia FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18372
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18372
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/2HU" group-title="Canais | Globo",Globo TV Bahia HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18405
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18405
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/ORA" group-title="Canais | Globo",Globo TV Bahia SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18406
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18406
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/Ew0" group-title="Canais | Globo",Globo TV C. America Cuiaba SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18404
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18404
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/VCk" group-title="Canais | Globo",Globo TV Cabo Branco FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18334
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18334
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/jIh" group-title="Canais | Globo",Globo TV Cabo Branco HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18333
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18333
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/V9M" group-title="Canais | Globo",Globo TV Cabo Branco SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18332
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18332
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/GNp" group-title="Canais | Globo",Globo TV Clube Teresina FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18387
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18387
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/Qhi" group-title="Canais | Globo",Globo TV Clube Teresina HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18386
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18386
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/hiL" group-title="Canais | Globo",Globo TV Clube Teresina SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18388
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18388
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/3yp" group-title="Canais | Globo",Globo TV Diario Fortaleza FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18740
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18740
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/JPA" group-title="Canais | Globo",Globo TV Diario Fortaleza HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18490
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18490
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/i2a" group-title="Canais | Globo",Globo TV Diario Fortaleza SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18489
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18489
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/P3s" group-title="Canais | Globo",Globo TV Gazeta Alagoas FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18363
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18363
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/rVZ" group-title="Canais | Globo",Globo TV Gazeta Alagoas HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18362
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18362
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/0wh" group-title="Canais | Globo",Globo TV Gazeta Alagoas SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18364
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18364
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/hex" group-title="Canais | Globo",Globo TV Gazeta Sul ES FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18361
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18361
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/R14" group-title="Canais | Globo",Globo TV Gazeta Sul ES HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18360
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18360
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/Ri9" group-title="Canais | Globo",Globo TV Gazeta Vitoria FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18384
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18384
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/pM2" group-title="Canais | Globo",Globo TV Gazeta Vitoria HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18383
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18383
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/PMO" group-title="Canais | Globo",Globo TV Gazeta Vitoria SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18385
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18385
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/y1y" group-title="Canais | Globo",Globo TV Liberal Belem SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18403
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18403
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/iWH" group-title="Canais | Globo",Globo TV Mirante Sao Luis FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18371
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18371
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/XMT" group-title="Canais | Globo",Globo TV Mirante Sao Luis HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18370
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18370
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/k9T" group-title="Canais | Globo",Globo TV Mirante Sao Luis SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18369
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18369
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/Qju" group-title="Canais | Globo",Globo TV Moreno Campo Grande FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18368
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18368
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/Auq" group-title="Canais | Globo",Globo TV Moreno Campo Grande HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18367
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18367
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/jZD" group-title="Canais | Globo",Globo TV Moreno Campo Grande SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18366
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18366
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/1ax" group-title="Canais | Globo",Globo TV Rio Sul FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18331
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18331
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/l2H" group-title="Canais | Globo",Globo TV Rio Sul HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18330
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18330
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/k1z" group-title="Canais | Globo",Globo TV Rio Sul SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18329
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18329
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/RhF" group-title="Canais | Globo",Globo TV Santa Cruz FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18328
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18328
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/jUt" group-title="Canais | Globo",Globo TV Santa Cruz HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18327
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18327
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/ZoM" group-title="Canais | Globo",Globo TV Santa Cruz SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18326
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18326
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/0ho" group-title="Canais | Globo",Globo TV Sergipe HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18381
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18381
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/PSf" group-title="Canais | Globo",Globo TV Sergipe HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18380
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18380
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/ERo" group-title="Canais | Globo",Globo TV Sergipe HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/22475
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/22475
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/Pj1" group-title="Canais | Globo",Globo TV Sergipe SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18382
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18382
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/zfQ" group-title="Canais | Globo",Globo TV TEM Bauru SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18402
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18402
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/c9W" group-title="Canais | Globo",Globo TV TEM S. J. do Rio Preto HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18400
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18400
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/tLN" group-title="Canais | Globo",Globo TV TEM S. J. do Rio Preto SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18399
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18399
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/5rA" group-title="Canais | Globo",Globo TV TEM S. J. Rio Preto FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18365
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18365
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/F7c" group-title="Canais | Globo",Globo TV TEM Sorocaba SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18401
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18401
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/B32" group-title="Canais | Globo",Globo TV Tribuna Santas SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18398
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18398
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/crH" group-title="Canais | Globo",Globo TV Vanguarda S. J. dos Campos SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18397
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18397
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/osc" group-title="Canais | Globo",Globo TV Verdes Mares Fortaleza HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/28395
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/28395
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/osc" group-title="Canais | Globo",Globo TV Verdes Mares Fortaleza SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18396
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18396
 
 
 #EXTINF:-1 tvg-logo="" group-title="Canais | Globo",Globo EPTV Campinas FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/33738
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/33738
 
 
 
@@ -1580,1280 +1580,1280 @@ http://purpleserver.net:80/p8carys3/ZGP8PCKv/33738
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/xDI" group-title="Canais | HBO",HBO FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18773
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18773
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/Tjb" group-title="Canais | HBO",HBO FHD [H265]
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/22139
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/22139
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/z1Y" group-title="Canais | HBO",HBO HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18637
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18637
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/ncl" group-title="Canais | HBO",HBO SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18642
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18642
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/jVz" group-title="Canais | HBO",HBO 2 FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18774
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18774
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/8E9" group-title="Canais | HBO",HBO 2 FHD [H265]
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/22189
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/22189
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/0PM" group-title="Canais | HBO",HBO 2 HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18640
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18640
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/zwf" group-title="Canais | HBO",HBO 2 SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18641
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18641
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/VUR" group-title="Canais | HBO",HBO Family FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18825
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18825
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/kwk" group-title="Canais | HBO",HBO Family FHD [H265]
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/22140
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/22140
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/JtC" group-title="Canais | HBO",HBO Family HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18638
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18638
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/vKg" group-title="Canais | HBO",HBO Family SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18639
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18639
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/97M" group-title="Canais | HBO",HBO Signature FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18823
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18823
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/1lN" group-title="Canais | HBO",HBO Signature FHD [H265]
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/22190
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/22190
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/ICL" group-title="Canais | HBO",HBO Signature HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18633
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18633
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/CPt" group-title="Canais | HBO",HBO Signature SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18634
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18634
 
 
 ###########################################CANAIS INFANTIS###########################################
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/k3q" group-title="Canais | Infantis",BabyTV SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18729
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18729
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/6f2" group-title="Canais | Infantis",Boomerang FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18851
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18851
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/DAg" group-title="Canais | Infantis",Boomerang FHD [H265]
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/25317
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/25317
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/BLS" group-title="Canais | Infantis",Boomerang HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18718
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18718
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/H1Y" group-title="Canais | Infantis",Boomerang SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18719
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18719
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/Mqt" group-title="Canais | Infantis",CARTOON NETWORK [4K]
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/26408
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/26408
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/gGw" group-title="Canais | Infantis",Cartoon Network FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18849
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18849
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/6WN" group-title="Canais | Infantis",Cartoon Network FHD [H265]
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/25314
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/25314
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/Brc" group-title="Canais | Infantis",Cartoon Network HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18711
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18711
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/BjV" group-title="Canais | Infantis",Cartoon Network SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18712
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18712
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/oNt" group-title="Canais | Infantis",Discovery Kids FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18843
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18843
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/Eoe" group-title="Canais | Infantis",Discovery Kids FHD [H265]
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/22202
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/22202
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/p3E" group-title="Canais | Infantis",Discovery Kids HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18695
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18695
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/s9P" group-title="Canais | Infantis",Discovery Kids SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18696
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18696
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/N8Y" group-title="Canais | Infantis",Discovery Kids SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/22325
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/22325
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/eri" group-title="Canais | Infantis",Disney FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18782
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18782
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/k3R" group-title="Canais | Infantis",Disney FHD [H265]
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/22147
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/22147
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/COA" group-title="Canais | Infantis",Disney HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18685
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18685
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/Cgg" group-title="Canais | Infantis",Disney Junior FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18788
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18788
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/pw6" group-title="Canais | Infantis",Disney Junior FHD [H265]
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/22146
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/22146
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/67y" group-title="Canais | Infantis",Disney Junior HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18509
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18509
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/3Vd" group-title="Canais | Infantis",Disney Junior SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18684
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18684
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/Vjj" group-title="Canais | Infantis",Disney SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18686
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18686
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/6MT" group-title="Canais | Infantis",Disney SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/22323
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/22323
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/H7Y" group-title="Canais | Infantis",Disney XD FHD [H265]
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/25211
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/25211
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/n2T" group-title="Canais | Infantis",Disney XD SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/22321
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/22321
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/dOF" group-title="Canais | Infantis",Gloob FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18775
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18775
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/EuT" group-title="Canais | Infantis",Gloob FHD [H265]
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/22142
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/22142
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/uDI" group-title="Canais | Infantis",Gloob HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18649
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18649
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/K5g" group-title="Canais | Infantis",Gloob SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18650
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18650
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/KhW" group-title="Canais | Infantis",Gloob SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/22310
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/22310
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/IBp" group-title="Canais | Infantis",Gloobinho FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18828
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18828
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/i0a" group-title="Canais | Infantis",Gloobinho FHD [H265]
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/25205
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/25205
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/sf3" group-title="Canais | Infantis",Gloobinho HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18648
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18648
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/QOP" group-title="Canais | Infantis",Gloobinho SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18647
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18647
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/j0A" group-title="Canais | Infantis",NatGeo Kids FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18810
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18810
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/yTi" group-title="Canais | Infantis",NatGeo Kids FHD [H265]
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/22180
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/22180
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/4kC" group-title="Canais | Infantis",NatGeo Kids HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18607
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18607
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/3yZ" group-title="Canais | Infantis",NatGeo Kids SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18608
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18608
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/pI8" group-title="Canais | Infantis",Nick Jr FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18808
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18808
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/HZk" group-title="Canais | Infantis",Nick Jr FHD [H265]
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/22178
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/22178
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/Xp5" group-title="Canais | Infantis",Nick Jr HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18602
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18602
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/kuz" group-title="Canais | Infantis",Nick Jr SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18603
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18603
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/9Ti" group-title="Canais | Infantis",Nickelodeon FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18807
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18807
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/NFO" group-title="Canais | Infantis",Nickelodeon FHD [H265]
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/22136
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/22136
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/6RD" group-title="Canais | Infantis",Nickelodeon HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18600
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18600
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/Ad6" group-title="Canais | Infantis",Nickelodeon SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18601
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18601
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/XYx" group-title="Canais | Infantis",PlayKids FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18747
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18747
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/zrG" group-title="Canais | Infantis",PlayKids HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18499
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18499
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/z3I" group-title="Canais | Infantis",PlayKids SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18498
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18498
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/7YA" group-title="Canais | Infantis",Tooncast SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18533
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18533
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/S4M" group-title="Canais | Infantis",TV Ra-Tim-Bum FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18793
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18793
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/I7O" group-title="Canais | Infantis",TV Ra-Tim-Bum FHD [H265]
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/25256
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/25256
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/0Yb" group-title="Canais | Infantis",TV Ra-Tim-Bum HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18524
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18524
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/zvq" group-title="Canais | Infantis",TV Ra-Tim-Bum SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18525
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18525
 
 
 #EXTINF:-1 tvg-logo="" group-title="Canais | Infantis",ZooMoo SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/28199
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/28199
 
 
 ##############################################CANAIS NOTICIAS###############################################
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/jeQ" group-title="Canais | Notícias",BandNews FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18853
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18853
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/vx0" group-title="Canais | Notícias",BandNews FHD [H265]
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/22152
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/22152
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/COC" group-title="Canais | Notícias",BandNews HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18725
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18725
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/mps" group-title="Canais | Notícias",BandNews SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18726
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18726
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/qOs" group-title="Canais | Notícias",Globo News FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18776
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18776
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/5tp" group-title="Canais | Notícias",Globo News FHD [H265]
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/22193
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/22193
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/4gV" group-title="Canais | Notícias",Globo News HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18651
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18651
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/lKc" group-title="Canais | Notícias",Globo News SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18652
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18652
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/PJi" group-title="Canais | Notícias",Record News FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18803
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18803
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/s1i" group-title="Canais | Notícias",Record News FHD [H265]
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/25204
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/25204
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/Ncd" group-title="Canais | Notícias",Record News HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18577
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18577
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/JOU" group-title="Canais | Notícias",Record News SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18578
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18578
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/xeN" group-title="Canais | Notícias",RecordTV News SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/22216
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/22216
 
 
 #############################################CANAIS PREMIERE#################################################
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/Jtt" group-title="Canais | Premiere",Premiere Clubes 4K
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18438
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18438
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/A2U" group-title="Canais | Premiere",Premiere Clubes FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18766
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18766
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/Ke5" group-title="Canais | Premiere",Premiere Clubes FHD [H265]
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/22170
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/22170
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/CQb" group-title="Canais | Premiere",Premiere Clubes HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18582
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18582
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/URo" group-title="Canais | Premiere",Premiere Clubes SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18583
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18583
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/B3z" group-title="Canais | Premiere",Premiere 2 FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18772
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18772
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/JZf" group-title="Canais | Premiere",Premiere 2 FHD [H265]
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/22176
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/22176
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/7TJ" group-title="Canais | Premiere",Premiere 2 HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18594
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18594
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/Dw5" group-title="Canais | Premiere",Premiere 2 SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18595
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18595
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/zhT" group-title="Canais | Premiere",Premiere 3 FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18771
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18771
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/3MT" group-title="Canais | Premiere",Premiere 3 FHD [H265]
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/22175
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/22175
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/Eov" group-title="Canais | Premiere",Premiere 3 HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18592
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18592
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/pYW" group-title="Canais | Premiere",Premiere 3 SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18593
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18593
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/l5p" group-title="Canais | Premiere",Premiere 4 FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18770
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18770
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/GQj" group-title="Canais | Premiere",Premiere 4 FHD [H265]
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/22174
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/22174
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/3yh" group-title="Canais | Premiere",Premiere 4 HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18590
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18590
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/rHH" group-title="Canais | Premiere",Premiere 4 SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18591
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18591
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/9fk" group-title="Canais | Premiere",Premiere 5 FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18769
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18769
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/gzL" group-title="Canais | Premiere",Premiere 5 FHD [H265]
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/22173
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/22173
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/mTm" group-title="Canais | Premiere",Premiere 5 HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18588
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18588
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/EKB" group-title="Canais | Premiere",Premiere 5 SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18589
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18589
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/MWj" group-title="Canais | Premiere",Premiere 6 FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18768
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18768
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/zX5" group-title="Canais | Premiere",Premiere 6 FHD [H265]
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/22172
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/22172
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/6nM" group-title="Canais | Premiere",Premiere 6 HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18586
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18586
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/QT6" group-title="Canais | Premiere",Premiere 6 SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18587
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18587
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/hJk" group-title="Canais | Premiere",Premiere 7 FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18767
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18767
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/zwc" group-title="Canais | Premiere",Premiere 7 FHD [H265]
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/22171
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/22171
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/xrN" group-title="Canais | Premiere",Premiere 7 HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18584
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18584
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/1i8" group-title="Canais | Premiere",Premiere 7 SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18585
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18585
 
 
 #EXTINF:-1 tvg-logo="" group-title="Canais | Premiere",Premiere 8 SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/28064
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/28064
 
 
 #EXTINF:-1 tvg-logo="" group-title="Canais | Premiere",Premiere 9 SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/28063
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/28063
 
 
 #############################################CANAIS SPORTV##################################################
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/y9H" group-title="Canais | SporTV",SporTV 4K
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18439
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18439
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/ftu" group-title="Canais | SporTV",SporTV FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18761
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18761
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/SlI" group-title="Canais | SporTV",SporTV FHD [H265]
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/22166
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/22166
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/ygd" group-title="Canais | SporTV",SporTV HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18558
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18558
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/Ffl" group-title="Canais | SporTV",SporTV SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18563
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18563
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/Fl2" group-title="Canais | SporTV",SporTV 2 FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18763
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18763
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/JSJ" group-title="Canais | SporTV",SporTV 2 FHD [H265]
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/22168
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/22168
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/7lY" group-title="Canais | SporTV",SporTV 2 HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18561
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18561
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/P0b" group-title="Canais | SporTV",SporTV 2 SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18562
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18562
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/dyY" group-title="Canais | SporTV",SporTV 3 FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18762
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18762
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/Ya4" group-title="Canais | SporTV",SporTV 3 FHD [H265]
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/22167
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/22167
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/PUQ" group-title="Canais | SporTV",SporTV 3 HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18559
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18559
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/GGG" group-title="Canais | SporTV",SporTV 3 SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18560
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18560
 
 
 ############################################CANAIS TELECINE##################################################
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/cyv" group-title="Canais | Telecine",Telecine Action FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18760
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18760
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/bKl" group-title="Canais | Telecine",Telecine Action FHD [H265]
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/22163
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/22163
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/wYg" group-title="Canais | Telecine",Telecine Action HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18551
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18551
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/2ne" group-title="Canais | Telecine",Telecine Action SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18552
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18552
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/KyT" group-title="Canais | Telecine",Telecine Cult FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18798
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18798
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/JWO" group-title="Canais | Telecine",Telecine Cult FHD [H265]
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/22162
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/22162
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/cuv" group-title="Canais | Telecine",Telecine Cult HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18549
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18549
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/BeC" group-title="Canais | Telecine",Telecine Cult SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18550
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18550
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/d5H" group-title="Canais | Telecine",Telecine Fun FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18759
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18759
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/y6K" group-title="Canais | Telecine",Telecine Fun FHD [H265]
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/22161
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/22161
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/7vJ" group-title="Canais | Telecine",Telecine Fun HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18547
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18547
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/dpl" group-title="Canais | Telecine",Telecine Fun SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18548
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18548
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/Sq4" group-title="Canais | Telecine",Telecine Pipoca FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18758
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18758
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/dl3" group-title="Canais | Telecine",Telecine Pipoca FHD [H265]
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/22160
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/22160
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/8dT" group-title="Canais | Telecine",Telecine Pipoca HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18545
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18545
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/qp8" group-title="Canais | Telecine",Telecine Pipoca SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18546
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18546
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/ZYg" group-title="Canais | Telecine",Telecine Premium FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18757
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18757
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/4S2" group-title="Canais | Telecine",Telecine Premium FHD [H265]
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/22159
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/22159
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/RwJ" group-title="Canais | Telecine",Telecine Premium HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18543
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18543
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/jgo" group-title="Canais | Telecine",Telecine Premium SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18544
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18544
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/lMo" group-title="Canais | Telecine",Telecine Touch FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18756
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18756
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/OhL" group-title="Canais | Telecine",Telecine Touch FHD [H265]
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/22158
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/22158
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/jJj" group-title="Canais | Telecine",Telecine Touch HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18541
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18541
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/c1M" group-title="Canais | Telecine",Telecine Touch SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18542
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18542
 
 
 ############################################CANAIS VARIEDADES####################################################
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/1CP" group-title="Canais | Variedades",A&E FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18858
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18858
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/uuz" group-title="Canais | Variedades",A&E FHD [H265]
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/22213
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/22213
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/SDH" group-title="Canais | Variedades",A&E HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18738
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18738
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/o9i" group-title="Canais | Variedades",A&E SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18739
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18739
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/UIf" group-title="Canais | Variedades",Bis FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18785
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18785
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/XaE" group-title="Canais | Variedades",Bis FHD [H265]
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/22150
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/22150
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/PAl" group-title="Canais | Variedades",Bis HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18721
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18721
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/ybv" group-title="Canais | Variedades",Bis SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18722
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18722
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/NWe" group-title="Canais | Variedades",Comedy Central FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18847
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18847
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/0Ww" group-title="Canais | Variedades",Comedy Central FHD [H265]
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/25311
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/25311
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/qUw" group-title="Canais | Variedades",Comedy Central HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18705
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18705
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/RrZ" group-title="Canais | Variedades",Comedy Central SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18706
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18706
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/PYh" group-title="Canais | Variedades",Curta! FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18846
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18846
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/r7r" group-title="Canais | Variedades",Curta! FHD [H265]
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/25310
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/25310
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/GnA" group-title="Canais | Variedades",Curta! HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18703
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18703
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/fVn" group-title="Canais | Variedades",Curta! SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18704
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18704
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/cEF" group-title="Canais | Variedades",Discovery H&H FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18844
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18844
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/y3l" group-title="Canais | Variedades",Discovery H&H FHD [H265]
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/22148
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/22148
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/nXL" group-title="Canais | Variedades",Discovery H&H HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18697
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18697
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/91r" group-title="Canais | Variedades",Discovery H&H SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18698
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18698
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/oAo" group-title="Canais | Variedades",Discovery Turbo FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18840
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18840
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/1cS" group-title="Canais | Variedades",Discovery Turbo FHD [H265]
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/22131
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/22131
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/AsO" group-title="Canais | Variedades",Discovery Turbo HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18689
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18689
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/Vy0" group-title="Canais | Variedades",Discovery Turbo SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18690
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18690
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/L5h" group-title="Canais | Variedades",Dog TV FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/28001
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/28001
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/6nk" group-title="Canais | Variedades",Dog TV HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/28000
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/28000
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/7nN" group-title="Canais | Variedades",E! FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18838
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18838
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/HbJ" group-title="Canais | Variedades",E! FHD [H265]
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/22145
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/22145
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/PCy" group-title="Canais | Variedades",E! HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18681
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18681
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/Z05" group-title="Canais | Variedades",E! SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18682
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18682
 
 
 #EXTINF:-1 tvg-logo="" group-title="Canais | Variedades",FASHION TV [H265]
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/25236
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/25236
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/T5S" group-title="Canais | Variedades",Film & Arts SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18497
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18497
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/7MZ" group-title="Canais | Variedades",Fish TV FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18835
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18835
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/ILy" group-title="Canais | Variedades",Fish TV FHD [H265]
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/22199
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/22199
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/VxE" group-title="Canais | Variedades",Fish TV HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18671
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18671
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/Rxi" group-title="Canais | Variedades",Fish TV SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18672
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18672
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/Iv6" group-title="Canais | Variedades",Food Network FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18834
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18834
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/rgy" group-title="Canais | Variedades",Food Network FHD [H265]
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/22198
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/22198
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/fYt" group-title="Canais | Variedades",Food Network HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18669
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18669
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/2cT" group-title="Canais | Variedades",Food Network SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18670
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18670
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/EsS" group-title="Canais | Variedades",Fox Life FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18833
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18833
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/3nL" group-title="Canais | Variedades",Fox Life FHD [H265]
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/25305
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/25305
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/9pz" group-title="Canais | Variedades",Fox Life HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18665
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18665
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/E0q" group-title="Canais | Variedades",Fox Life SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18666
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18666
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/EsS" group-title="Canais | Variedades",Fox Life FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18833
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18833
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/3nL" group-title="Canais | Variedades",Fox Life FHD [H265]
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/25305
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/25305
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/9pz" group-title="Canais | Variedades",Fox Life HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18665
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18665
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/E0q" group-title="Canais | Variedades",Fox Life SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18666
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18666
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/e4t" group-title="Canais | Variedades",GloboSat FHD [H265]
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/22129
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/22129
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/KG5" group-title="Canais | Variedades",GloboSat SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/22311
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/22311
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/ibf" group-title="Canais | Variedades",GNT FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18827
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18827
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/Z8a" group-title="Canais | Variedades",GNT FHD [H265]
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/22141
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/22141
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/6ya" group-title="Canais | Variedades",GNT HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18645
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18645
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/Dat" group-title="Canais | Variedades",GNT SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18646
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18646
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/13M" group-title="Canais | Variedades",ID: Investigacao Discovery FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18821
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18821
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/vS4" group-title="Canais | Variedades",ID: Investigacao Discovery FHD [H265]
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/22187
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/22187
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/q6F" group-title="Canais | Variedades",ID: Investigacao Discovery HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18629
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18629
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/dAy" group-title="Canais | Variedades",ID: Investigacao Discovery SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18630
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18630
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/jgf" group-title="Canais | Variedades",Lifetime FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18820
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18820
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/ELX" group-title="Canais | Variedades",Lifetime FHD [H265]
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/22186
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/22186
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/a4s" group-title="Canais | Variedades",Lifetime HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18627
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18627
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/Eyw" group-title="Canais | Variedades",Lifetime SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18628
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18628
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/DiW" group-title="Canais | Variedades",Mais GloboSat FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18754
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18754
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/9d1" group-title="Canais | Variedades",Mais GloboSat FHD [H265]
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/25291
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/25291
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/0yY" group-title="Canais | Variedades",Mais GloboSat HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18625
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18625
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/QSP" group-title="Canais | Variedades",Mais GloboSat SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18626
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18626
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/1kJ" group-title="Canais | Variedades",MTV FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18815
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18815
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/zg9" group-title="Canais | Variedades",MTV FHD [H265]
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/22183
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/22183
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/sTl" group-title="Canais | Variedades",MTV HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18615
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18615
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/PWM" group-title="Canais | Variedades",MTV Live FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18814
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18814
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/1ND" group-title="Canais | Variedades",MTV Live FHD [H265]
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/25227
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/25227
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/u8U" group-title="Canais | Variedades",MTV Live HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18507
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18507
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/JCl" group-title="Canais | Variedades",MTV Live SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18508
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18508
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/MWq" group-title="Canais | Variedades",MTV SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18616
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18616
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/7vt" group-title="Canais | Variedades",Multishow FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18813
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18813
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/6Yx" group-title="Canais | Variedades",Multishow FHD [H265]
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/22182
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/22182
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/Oev" group-title="Canais | Variedades",Multishow HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18613
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18613
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/0j3" group-title="Canais | Variedades",Multishow SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18614
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18614
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/2VC" group-title="Canais | Variedades",MULTISHOW [4K]
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/26191
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/26191
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/FRj" group-title="Canais | Variedades",Music Box Brasil FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18812
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18812
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/TJW" group-title="Canais | Variedades",Music Box Brasil FHD [H265]
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/25285
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/25285
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/odD" group-title="Canais | Variedades",Music Box Brasil HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18611
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18611
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/SEn" group-title="Canais | Variedades",Music Box Brasil SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18612
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18612
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/DH2" group-title="Canais | Variedades",OFF FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18806
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18806
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/F6G" group-title="Canais | Variedades",OFF FHD [H265]
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/22135
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/22135
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/L2Z" group-title="Canais | Variedades",OFF HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18598
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18598
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/dGv" group-title="Canais | Variedades",OFF SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18599
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18599
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/jN0" group-title="Canais | Variedades",Play TV SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/22288
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/22288
 
 
 #EXTINF:-1 tvg-logo="" group-title="Canais | Variedades",PolishopTV SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/28066
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/28066
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/XRY" group-title="Canais | Variedades",Prime Box Brazil FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18804
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18804
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/tEj" group-title="Canais | Variedades",Prime Box Brazil FHD [H265]
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/25273
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/25273
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/JY2" group-title="Canais | Variedades",Prime Box Brazil HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18580
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18580
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/3WB" group-title="Canais | Variedades",Prime Box Brazil SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18581
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18581
 
 
 #EXTINF:-1 tvg-logo="" group-title="Canais | Variedades",Shop Time HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/28404
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/28404
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/a9V" group-title="Canais | Variedades",TLC FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18797
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18797
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/WoP" group-title="Canais | Variedades",TLC FHD [H265]
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/22128
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/22128
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/fUs" group-title="Canais | Variedades",TLC HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18538
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18538
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/r69" group-title="Canais | Variedades",TLC SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18539
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18539
 
 
 #EXTINF:-1 tvg-logo="" group-title="Canais | Variedades",Travel Box Brasil FHD [H265]
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/25217
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/25217
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/xf5" group-title="Canais | Variedades",VH1 FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18791
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18791
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/InM" group-title="Canais | Variedades",VH1 FHD [H265]
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/22154
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/22154
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/6fr" group-title="Canais | Variedades",VH1 HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18518
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18518
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/Xhe" group-title="Canais | Variedades",VH1 MegaHits SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18517
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18517
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/KZh" group-title="Canais | Variedades",VH1 SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/22252
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/22252
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/VCv" group-title="Canais | Variedades",Viva FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18755
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18755
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/6NU" group-title="Canais | Variedades",Viva FHD [H265]
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/25253
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/25253
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/LVI" group-title="Canais | Variedades",Viva HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18515
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18515
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/Pte" group-title="Canais | Variedades",Viva SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18516
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18516
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/KZj" group-title="Canais | Variedades",Woohoo FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18789
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18789
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/HQF" group-title="Canais | Variedades",Woohoo FHD [H265]
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/22127
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/22127
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/6Z3" group-title="Canais | Variedades",Woohoo HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18511
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18511
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/fUJ" group-title="Canais | Variedades",Woohoo SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18512
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18512
 
 
 #############################################CANAIS ADULTOS###############################################
 
 
 #EXTINF:-1 tvg-logo="" group-title="",#EXTINF:-1 tvg-logo="http://z4.vc/4tq" group-title="Canais | Adultos",[XXX] Blue Hustler
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/27133
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/27133
 
 
 #EXTINF:-1 tvg-logo="" group-title="Canais | Adultos",[XXX] ADULT 006
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/27870
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/27870
 
 
 #EXTINF:-1 tvg-logo="" group-title="Canais | Adultos",[XXX] ADULT 011
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/27137
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/27137
 
 
 #EXTINF:-1 tvg-logo="" group-title="Canais | Adultos",[XXX] ADULT 013
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/22447
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/22447
 
 
 #EXTINF:-1 tvg-logo="" group-title="Canais | Adultos",[XXX] ADULT 003
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/27888
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/27888
 
 
 #EXTINF:-1 tvg-logo="" group-title="Canais | Adultos",[XXX] ADULT 010
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/27138
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/27138
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/vwE" group-title="Canais | Adultos",[XXX] ADULT 008
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/27141
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/27141
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/XLG" group-title="Canais | Adultos",[XXX] ADULT 009
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/27140
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/27140
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/5lj" group-title="Canais | Adultos",[XXX] PlayBoy FHD [H265]
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/25274
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/25274
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/Nz4" group-title="Canais | Adultos",[XXX] PlayBoy HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18787
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18787
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/0Ad" group-title="Canais | Adultos",[XXX] PlayBoy HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18487
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18487
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/XJB" group-title="Canais | Adultos",[XXX] PlayBoy SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18488
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18488
 
 
 #EXTINF:-1 tvg-logo="" group-title="Canais | Adultos",[XXX] ADULT 001
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/27890
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/27890
 
 
 #EXTINF:-1 tvg-logo="" group-title="Canais | Adultos",[XXX] Redlight HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/27886
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/27886
 
 
 #EXTINF:-1 tvg-logo="" group-title="Canais | Adultos",[XXX] ADULT 002
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/27889
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/27889
 
 
 #EXTINF:-1 tvg-logo="" group-title="Canais | Adultos",[XXX] ADULT 004
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/27879
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/27879
 
 
 #EXTINF:-1 tvg-logo="" group-title="Canais | Adultos",[XXX] ADULT 005
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/27878
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/27878
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/HoO" group-title="Canais | Adultos",[XXX] Sextreme SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18486
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18486
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/vay" group-title="Canais | Adultos",[XXX] SexyHot FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/25219
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/25219
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/svx" group-title="Canais | Adultos",[XXX] SexyHot HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18485
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18485
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/ktw" group-title="Canais | Adultos",[XXX] SexyHot SD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/22275
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/22275
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/7Pi" group-title="Canais | Adultos",[XXX] Venus FHD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/25215
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/25215
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/azC" group-title="Canais | Adultos",[XXX] Venus HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/18484
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/18484
 
 
 #EXTINF:-1 tvg-logo="" group-title="Canais | Adultos",[XXX] ADULT 007
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/27869
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/27869
 
 
 #EXTINF:-1 tvg-logo="" group-title="Canais | Adultos",[XXX] ADULT 012
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/27134
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/27134
 
 
 #EXTINF:-1 tvg-logo="" group-title="Canais | Adultos",[XXX] AST TV 1
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/27887
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/27887
 
 
 #EXTINF:-1 tvg-logo="" group-title="Canais | Adultos",[XXX] AST TV2
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/29032
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/29032
 
 
 #EXTINF:-1 tvg-logo="" group-title="Canais | Adultos",[XXX] ADULT 013
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/29377
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/29377
 
 
 #EXTINF:-1 tvg-logo="" group-title="Canais | Adultos",[XXX] ADULT 015
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/29378
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/29378
 
 
 #EXTINF:-1 tvg-logo="" group-title="Canais | Adultos",[XXX] BLUE HUSTLER
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/33381
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/33381
 
 
 #EXTINF:-1 tvg-logo="" group-title="Canais | Adultos",[XXX] BRAZZERS EUROPE
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/33382
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/33382
 
 
 #EXTINF:-1 tvg-logo="" group-title="Canais | Adultos",[XXX] CANDY
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/33383
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/33383
 
 
 #EXTINF:-1 tvg-logo="" group-title="Canais | Adultos",[XXX] CENTOXCENTO
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/33384
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/33384
 
 
 #EXTINF:-1 tvg-logo="" group-title="Canais | Adultos",[XXX] DORCEL TV
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/33385
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/33385
 
 
 #EXTINF:-1 tvg-logo="" group-title="Canais | Adultos",[XXX] EROXX
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/33386
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/33386
 
 
 #EXTINF:-1 tvg-logo="" group-title="Canais | Adultos",[XXX] PASSION
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/33387
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/33387
 
 
 #EXTINF:-1 tvg-logo="" group-title="Canais | Adultos",[XXX] PENTHOUSE BLACK
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/33388
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/33388
 
 
 #EXTINF:-1 tvg-logo="" group-title="Canais | Adultos",[XXX] PENTHOUSE QUICKIES
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/33389
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/33389
 
 
 #EXTINF:-1 tvg-logo="" group-title="Canais | Adultos",[XXX] PINK-O
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/33390
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/33390
 
 
 #EXTINF:-1 tvg-logo="" group-title="Canais | Adultos",[XXX] PLAYBOY
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/33391
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/33391
 
 
 #EXTINF:-1 tvg-logo="" group-title="Canais | Adultos",[XXX] PRIVATE HD
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/33392
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/33392
 
 
 #EXTINF:-1 tvg-logo="" group-title="Canais | Adultos",[XXX] REDLIGHT
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/33393
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/33393
 
 
 #EXTINF:-1 tvg-logo="" group-title="Canais | Adultos",[XXX] RUSNOCH
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/33394
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/33394
 
 
 #EXTINF:-1 tvg-logo="" group-title="Canais | Adultos",[XXX] SCT
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/33395
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/33395
 
 
 #EXTINF:-1 tvg-logo="" group-title="Canais | Adultos",[XXX] SEXT6SENSO
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/33396
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/33396
 
 
 #EXTINF:-1 tvg-logo="" group-title="Canais | Adultos",[XXX] SEXTREME
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/33397
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/33397
 
 
 #EXTINF:-1 tvg-logo="" group-title="Canais | Adultos",[XXX] SHALUN TV
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/33398
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/33398
 
 
 #EXTINF:-1 tvg-logo="" group-title="Canais | Adultos",[XXX] VENUS
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/33399
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/33399
 
 
 #EXTINF:-1 tvg-logo="" group-title="Canais | Adultos",[XXX] VIVID RED
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/33400
+http://purpleserver.net:80/trCBQgn9/46bs3F3R/33400
 
 
 ##########################################FILMES ACAO#############################################

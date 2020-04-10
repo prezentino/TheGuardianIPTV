@@ -282,143 +282,71 @@ http://purpleserver.net:80/hgvEcgZS/3sWweonK/33380
 http://purpleserver.net:80/p8carys3/ZGP8PCKv/27861
 
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/qs2qpq9" group-title="Canais | [COLOR orange]BBB[/COLOR]",
+#EXTINF:-1 tvg-logo="https://tinyurl.com/qs2qpq9" group-title="Canais | [COLOR orange]BBB[/COLOR]",Big Brother Brasil [CAM002] FHD
+http://purpleserver.net:80/p8carys3/ZGP8PCKv/43543
 
 
+#EXTINF:-1 tvg-logo="https://tinyurl.com/qs2qpq9" group-title="Canais | [COLOR orange]BBB[/COLOR]",Big Brother Brasil [CAM003] HD
+http://purpleserver.net:80/p8carys3/ZGP8PCKv/43723
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/qs2qpq9" group-title="Canais | [COLOR orange]BBB[/COLOR]",
 
+#EXTINF:-1 tvg-logo="https://tinyurl.com/qs2qpq9" group-title="Canais | [COLOR orange]BBB[/COLOR]",Big Brother Brasil [CAM003] SD
+http://purpleserver.net:80/p8carys3/ZGP8PCKv/43722
 
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/qs2qpq9" group-title="Canais | [COLOR orange]BBB[/COLOR]",
+#EXTINF:-1 tvg-logo="https://tinyurl.com/qs2qpq9" group-title="Canais | [COLOR orange]BBB[/COLOR]",Big Brother Brasil [CAM004] SD
+http://purpleserver.net:80/p8carys3/ZGP8PCKv/43721
 
 
+#EXTINF:-1 tvg-logo="https://tinyurl.com/qs2qpq9" group-title="Canais | [COLOR orange]BBB[/COLOR]",Big Brother Brasil [CAM004] HD
+http://purpleserver.net:80/p8carys3/ZGP8PCKv/43720
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/qs2qpq9" group-title="Canais | [COLOR orange]BBB[/COLOR]",
 
+#EXTINF:-1 tvg-logo="https://tinyurl.com/qs2qpq9" group-title="Canais | [COLOR orange]BBB[/COLOR]",Big Brother Brasil [CAM005] SD
+http://purpleserver.net:80/p8carys3/ZGP8PCKv/43552
 
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/qs2qpq9" group-title="Canais | [COLOR orange]BBB[/COLOR]",
+#EXTINF:-1 tvg-logo="https://tinyurl.com/qs2qpq9" group-title="Canais | [COLOR orange]BBB[/COLOR]",Big Brother Brasil [CAM005] HD
+http://purpleserver.net:80/p8carys3/ZGP8PCKv/43551
 
 
+#EXTINF:-1 tvg-logo="https://tinyurl.com/qs2qpq9" group-title="Canais | [COLOR orange]BBB[/COLOR]",Big Brother Brasil [CAM006] HD
+http://purpleserver.net:80/p8carys3/ZGP8PCKv/43554
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/qs2qpq9" group-title="Canais | [COLOR orange]BBB[/COLOR]",
 
+#EXTINF:-1 tvg-logo="https://tinyurl.com/qs2qpq9" group-title="Canais | [COLOR orange]BBB[/COLOR]",Big Brother Brasil [CAM006] SD
+http://purpleserver.net:80/p8carys3/ZGP8PCKv/43553
 
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/qs2qpq9" group-title="Canais | [COLOR orange]BBB[/COLOR]",
+#EXTINF:-1 tvg-logo="https://tinyurl.com/qs2qpq9" group-title="Canais | [COLOR orange]BBB[/COLOR]",Big Brother Brasil [CAM007] HD
+http://purpleserver.net:80/p8carys3/ZGP8PCKv/43719
 
 
+#EXTINF:-1 tvg-logo="https://tinyurl.com/qs2qpq9" group-title="Canais | [COLOR orange]BBB[/COLOR]",Big Brother Brasil [CAM007] SD
+http://purpleserver.net:80/p8carys3/ZGP8PCKv/43718
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/qs2qpq9" group-title="Canais | [COLOR orange]BBB[/COLOR]",
 
+#EXTINF:-1 tvg-logo="https://tinyurl.com/qs2qpq9" group-title="Canais | [COLOR orange]BBB[/COLOR]",Big Brother Brasil [CAM008] HD
+http://purpleserver.net:80/p8carys3/ZGP8PCKv/43550
 
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/qs2qpq9" group-title="Canais | [COLOR orange]BBB[/COLOR]",
+#EXTINF:-1 tvg-logo="https://tinyurl.com/qs2qpq9" group-title="Canais | [COLOR orange]BBB[/COLOR]",Big Brother Brasil [CAM008] SD
+http://purpleserver.net:80/p8carys3/ZGP8PCKv/43549
 
 
+#EXTINF:-1 tvg-logo="https://tinyurl.com/qs2qpq9" group-title="Canais | [COLOR orange]BBB[/COLOR]",Big Brother Brasil [CAM009] HD
+http://purpleserver.net:80/p8carys3/ZGP8PCKv/43548
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/qs2qpq9" group-title="Canais | [COLOR orange]BBB[/COLOR]",
 
+#EXTINF:-1 tvg-logo="https://tinyurl.com/qs2qpq9" group-title="Canais | [COLOR orange]BBB[/COLOR]",Big Brother Brasil [CAM009] SD
+http://purpleserver.net:80/p8carys3/ZGP8PCKv/43547
 
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/qs2qpq9" group-title="Canais | [COLOR orange]BBB[/COLOR]",
+#EXTINF:-1 tvg-logo="https://tinyurl.com/qs2qpq9" group-title="Canais | [COLOR orange]BBB[/COLOR]",Big Brother Brasil [CAM010] HD
+http://purpleserver.net:80/p8carys3/ZGP8PCKv/43546
 
 
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/qs2qpq9" group-title="Canais | [COLOR orange]BBB[/COLOR]",
-
-
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/qs2qpq9" group-title="Canais | [COLOR orange]BBB[/COLOR]",
-
-
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/qs2qpq9" group-title="Canais | [COLOR orange]BBB[/COLOR]",
-
-
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/qs2qpq9" group-title="Canais | [COLOR orange]BBB[/COLOR]",
-
-
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/qs2qpq9" group-title="Canais | [COLOR orange]BBB[/COLOR]",
-
-
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/qs2qpq9" group-title="Canais | [COLOR orange]BBB[/COLOR]",
-
-
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/qs2qpq9" group-title="Canais | [COLOR orange]BBB[/COLOR]",
-
-
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/qs2qpq9" group-title="Canais | [COLOR orange]BBB[/COLOR]",
-
-
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/qs2qpq9" group-title="Canais | [COLOR orange]BBB[/COLOR]",
-
-
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/qs2qpq9" group-title="Canais | [COLOR orange]BBB[/COLOR]",
-
-
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/qs2qpq9" group-title="Canais | [COLOR orange]BBB[/COLOR]",
-
-
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/qs2qpq9" group-title="Canais | [COLOR orange]BBB[/COLOR]",
-
-
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/qs2qpq9" group-title="Canais | [COLOR orange]BBB[/COLOR]",
-
-
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/qs2qpq9" group-title="Canais | [COLOR orange]BBB[/COLOR]",
-
-
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/qs2qpq9" group-title="Canais | [COLOR orange]BBB[/COLOR]",
-
-
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/qs2qpq9" group-title="Canais | [COLOR orange]BBB[/COLOR]",
-
-
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/qs2qpq9" group-title="Canais | [COLOR orange]BBB[/COLOR]",
-
-
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/qs2qpq9" group-title="Canais | [COLOR orange]BBB[/COLOR]",
-
-
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/qs2qpq9" group-title="Canais | [COLOR orange]BBB[/COLOR]",
-
-
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/qs2qpq9" group-title="Canais | [COLOR orange]BBB[/COLOR]",
-
-
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/qs2qpq9" group-title="Canais | [COLOR orange]BBB[/COLOR]",
-
-
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/qs2qpq9" group-title="Canais | [COLOR orange]BBB[/COLOR]",
-
-
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/qs2qpq9" group-title="Canais | [COLOR orange]BBB[/COLOR]",
-
-
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/qs2qpq9" group-title="Canais | [COLOR orange]BBB[/COLOR]",
-
+#EXTINF:-1 tvg-logo="https://tinyurl.com/qs2qpq9" group-title="Canais | [COLOR orange]BBB[/COLOR]",Big Brother Brasil [CAM010] SD
+http://purpleserver.net:80/p8carys3/ZGP8PCKv/43545
 
 

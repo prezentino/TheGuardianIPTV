@@ -29,5 +29,5 @@
 https://facebook.com/xx.ely.david.xx
 
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/wrzf2ze" group-title="Informações",[COLOR lightsalmon]SUPORTE VIA DISCORD: https://discord.gg/bVSswd
+#EXTINF:-1 tvg-logo="https://tinyurl.com/wrzf2ze" group-title="Informações",[COLOR lightsalmon]SUPORTE VIA DISCORD: https://discord.gg/bVSswd[/COLOR]
 https://facebook.com/xx.ely.david.xx

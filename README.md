@@ -1870,6 +1870,34 @@ http://purpleserver.net:80/trCBQgn9/46bs3F3R/18525
 http://purpleserver.net:80/trCBQgn9/46bs3F3R/28199
 
 
+################################################################################################
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/162" group-title="Canais | Jogos & Eventos",DAZN  CHANNEL 1
+http://purpleserver.net:80/p8carys3/ZGP8PCKv/26195
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/Pjc" group-title="Canais | Jogos & Eventos",DAZN CHANNEL 2
+http://purpleserver.net:80/p8carys3/ZGP8PCKv/26197
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/Wp3" group-title="Canais | Jogos & Eventos",DAZN CHANNEL 3
+http://purpleserver.net:80/p8carys3/ZGP8PCKv/26196
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/162" group-title="Canais | Jogos & Eventos",DAZN CHANNEL 4
+http://purpleserver.net:80/p8carys3/ZGP8PCKv/28387
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/162" group-title="Canais | Jogos & Eventos",DAZN CHANNEL 5
+http://purpleserver.net:80/p8carys3/ZGP8PCKv/28388
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/162" group-title="Canais | Jogos & Eventos",DAZN CHANNEL 6
+http://purpleserver.net:80/p8carys3/ZGP8PCKv/28389
+
+
+
 ##############################################CANAIS NOTICIAS###############################################
 
 
@@ -2854,6 +2882,141 @@ http://purpleserver.net:80/trCBQgn9/46bs3F3R/33399
 
 #EXTINF:-1 tvg-logo="" group-title="Canais | Adultos",[XXX] VIVID RED
 http://purpleserver.net:80/trCBQgn9/46bs3F3R/33400
+
+
+
+###################################################################################################
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/Alu" group-title="Canais | 24 Horas",[24H] Apenas Um Show
+http://purpleserver.net:80/p8carys3/ZGP8PCKv/27132
+
+
+###################################################################################################
+
+
+EXTINF:-1 tvg-logo="http://z4.vc/mJj" group-title="",Rick and Morty S01 E01
+http://purpleserver.net:80/series/p8carys3/ZGP8PCKv/23241.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/mJj" group-title="",Rick and Morty S01 E02
+http://purpleserver.net:80/series/p8carys3/ZGP8PCKv/23242.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/mJj" group-title="",Rick and Morty S01 E03
+http://purpleserver.net:80/series/p8carys3/ZGP8PCKv/23243.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/mJj" group-title="",Rick and Morty S01 E04
+http://purpleserver.net:80/series/p8carys3/ZGP8PCKv/23244.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/mJj" group-title="",Rick and Morty S01 E05
+http://purpleserver.net:80/series/p8carys3/ZGP8PCKv/23245.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/mJj" group-title="",Rick and Morty S01 E06
+http://purpleserver.net:80/series/p8carys3/ZGP8PCKv/23246.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/mJj" group-title="",Rick and Morty S01 E07
+http://purpleserver.net:80/series/p8carys3/ZGP8PCKv/23247.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/mJj" group-title="",Rick and Morty S01 E08
+http://purpleserver.net:80/series/p8carys3/ZGP8PCKv/23248.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/mJj" group-title="",Rick and Morty S01 E09
+http://purpleserver.net:80/series/p8carys3/ZGP8PCKv/23249.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/mJj" group-title="",Rick and Morty S01 E10
+http://purpleserver.net:80/series/p8carys3/ZGP8PCKv/23250.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/mJj" group-title="",Rick and Morty S01 E11
+http://purpleserver.net:80/series/p8carys3/ZGP8PCKv/23251.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/mJj" group-title="",Rick and Morty S02 E01
+http://purpleserver.net:80/series/p8carys3/ZGP8PCKv/23252.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/mJj" group-title="",Rick and Morty S02 E02
+http://purpleserver.net:80/series/p8carys3/ZGP8PCKv/23253.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/mJj" group-title="",Rick and Morty S02 E03
+http://purpleserver.net:80/series/p8carys3/ZGP8PCKv/23254.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/mJj" group-title="",Rick and Morty S02 E04
+http://purpleserver.net:80/series/p8carys3/ZGP8PCKv/23255.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/mJj" group-title="",Rick and Morty S02 E05
+http://purpleserver.net:80/series/p8carys3/ZGP8PCKv/23256.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/mJj" group-title="",Rick and Morty S02 E06
+http://purpleserver.net:80/series/p8carys3/ZGP8PCKv/23257.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/mJj" group-title="",Rick and Morty S02 E07
+http://purpleserver.net:80/series/p8carys3/ZGP8PCKv/23258.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/mJj" group-title="",Rick and Morty S02 E08
+http://purpleserver.net:80/series/p8carys3/ZGP8PCKv/23259.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/mJj" group-title="",Rick and Morty S02 E09
+http://purpleserver.net:80/series/p8carys3/ZGP8PCKv/23260.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/mJj" group-title="",Rick and Morty S02 E10
+http://purpleserver.net:80/series/p8carys3/ZGP8PCKv/23261.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/mJj" group-title="",Rick and Morty S03 E01
+http://purpleserver.net:80/series/p8carys3/ZGP8PCKv/23262.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/mJj" group-title="",Rick and Morty S03 E02
+http://purpleserver.net:80/series/p8carys3/ZGP8PCKv/23263.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/mJj" group-title="",Rick and Morty S03 E03
+http://purpleserver.net:80/series/p8carys3/ZGP8PCKv/23264.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/mJj" group-title="",Rick and Morty S03 E04
+http://purpleserver.net:80/series/p8carys3/ZGP8PCKv/23265.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/mJj" group-title="",Rick and Morty S03 E05
+http://purpleserver.net:80/series/p8carys3/ZGP8PCKv/23266.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/mJj" group-title="",Rick and Morty S03 E06
+http://purpleserver.net:80/series/p8carys3/ZGP8PCKv/23267.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/mJj" group-title="",Rick and Morty S03 E07
+http://purpleserver.net:80/series/p8carys3/ZGP8PCKv/23268.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/mJj" group-title="",Rick and Morty S03 E08
+http://purpleserver.net:80/series/p8carys3/ZGP8PCKv/23269.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/mJj" group-title="",Rick and Morty S03 E09
+http://purpleserver.net:80/series/p8carys3/ZGP8PCKv/23270.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/mJj" group-title="",Rick and Morty S03 E10
+http://purpleserver.net:80/series/p8carys3/ZGP8PCKv/23271.mp4
 
 
 ##########################################FILMES ACAO#############################################

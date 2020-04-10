@@ -1874,27 +1874,27 @@ http://purpleserver.net:80/trCBQgn9/46bs3F3R/28199
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/162" group-title="Canais | Jogos & Eventos",DAZN  CHANNEL 1
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/26195
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/26195
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/Pjc" group-title="Canais | Jogos & Eventos",DAZN CHANNEL 2
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/26197
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/26197
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/Wp3" group-title="Canais | Jogos & Eventos",DAZN CHANNEL 3
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/26196
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/26196
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/162" group-title="Canais | Jogos & Eventos",DAZN CHANNEL 4
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/28387
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/28387
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/162" group-title="Canais | Jogos & Eventos",DAZN CHANNEL 5
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/28388
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/28388
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/162" group-title="Canais | Jogos & Eventos",DAZN CHANNEL 6
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/28389
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/28389
 
 
 
@@ -2889,306 +2889,306 @@ http://purpleserver.net:80/trCBQgn9/46bs3F3R/33400
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/Alu" group-title="Canais | 24 Horas",[24H] Apenas Um Show
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/27132
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/27132
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/yMm" group-title="Canais | 24 Horas",[24H] As Meninas Superpoderosas
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/19222
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/19222
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/uKe" group-title="Canais | 24 Horas",[24H] As Tartarugas Ninjas
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/19221
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/19221
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/7CL" group-title="Canais | 24 Horas",[24H] Ben 10
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/19219
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/19219
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/3VU" group-title="Canais | 24 Horas",[24H] Bob Esponja
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/19220
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/19220
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/Cf6" group-title="Canais | 24 Horas",[24H] Bob Zoom
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/19223
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/19223
 
 
 #EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Breaking Bag
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/28070
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/28070
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/wdu" group-title="Canais | 24 Horas",[24H] Caverna do Dragao
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/19216
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/19216
 
 
 #EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Chapolin Colorado
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/28071
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/28071
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/lLk" group-title="Canais | 24 Horas",[24H] Chaves
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/19218
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/19218
 
 
 #EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Classicos Disney
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/24972
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/24972
 
 
 #EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Corrida Maluca
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/24981
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/24981
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/iKx" group-title="Canais | 24 Horas",[24H] Dennis - O Pimentinha
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/19214
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/19214
 
 
 #EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Desenhos Biblicos
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/28073
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/28073
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/AHn" group-title="Canais | 24 Horas",[24H] Dois Homens e Meio
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/19212
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/19212
 
 
 #EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Doug
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/28201
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/28201
 
 
 #EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] DRAGON BALL
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/28202
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/28202
 
 
 #EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] DRAGON BALL SUPER
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/28203
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/28203
 
 
 #EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Dragon Ball Z
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/19211
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/19211
 
 
 #EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Eu - A Patroa e as Criancas
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/19177
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/19177
 
 
 #EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Família da Pesada
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/24973
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/24973
 
 
 #EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Futurama
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/24975
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/24975
 
 
 #EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] HOMEM ARANHA
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/28206
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/28206
 
 
 #EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Homem de Ferro
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/28207
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/28207
 
 
 #EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Kenan e Kel
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/24982
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/24982
 
 
 #EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Luluzinha
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/24976
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/24976
 
 
 #EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Mickey e Donald
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/24977
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/24977
 
 
 #EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] O Maskara
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/24983
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/24983
 
 
 #EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Os Cavaleiros do Zodiaco
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/19197
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/19197
 
 
 #EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Os Flintstones
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/19196
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/19196
 
 
 #EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Os Simpsons
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/27897
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/27897
 
 
 #EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Os Trapalhões
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/24978
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/24978
 
 
 #EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Peppa Pig
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/24979
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/24979
 
 
 #EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Pernalonga
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/19194
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/19194
 
 
 #EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Pica-Pau
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/19192
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/19192
 
 
 #EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Pink-e-Cerebro
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/28213
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/28213
 
 
 #EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Scooby Doo
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/19190
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/19190
 
 
 #EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] South Park
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/19189
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/19189
 
 
 #EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] The Big Bang Theory
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/24984
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/24984
 
 
 #EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Thundercats
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/19178
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/19178
 
 
 #EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Tico e Teco
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/24985
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/24985
 
 
 #EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Todo Mundo Odeia o Chris
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/19185
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/19185
 
 
 #EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Tom e Jerry
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/19184
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/19184
 
 
 #EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Um Maluco no Pedaço
-http://purpleserver.net:80/p8carys3/ZGP8PCKv/19183
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/19183
 
 
 ###################################################################################################
 
 
 EXTINF:-1 tvg-logo="http://z4.vc/mJj" group-title="",Rick and Morty S01 E01
-http://purpleserver.net:80/series/p8carys3/ZGP8PCKv/23241.mp4
+http://purpleserver.net:80/series/hgvEcgZS/3sWweonK/23241.mp4
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/mJj" group-title="",Rick and Morty S01 E02
-http://purpleserver.net:80/series/p8carys3/ZGP8PCKv/23242.mp4
+http://purpleserver.net:80/series/hgvEcgZS/3sWweonK/23242.mp4
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/mJj" group-title="",Rick and Morty S01 E03
-http://purpleserver.net:80/series/p8carys3/ZGP8PCKv/23243.mp4
+http://purpleserver.net:80/series/hgvEcgZS/3sWweonK/23243.mp4
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/mJj" group-title="",Rick and Morty S01 E04
-http://purpleserver.net:80/series/p8carys3/ZGP8PCKv/23244.mp4
+http://purpleserver.net:80/series/hgvEcgZS/3sWweonK/23244.mp4
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/mJj" group-title="",Rick and Morty S01 E05
-http://purpleserver.net:80/series/p8carys3/ZGP8PCKv/23245.mp4
+http://purpleserver.net:80/series/hgvEcgZS/3sWweonK/23245.mp4
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/mJj" group-title="",Rick and Morty S01 E06
-http://purpleserver.net:80/series/p8carys3/ZGP8PCKv/23246.mp4
+http://purpleserver.net:80/series/hgvEcgZS/3sWweonK/23246.mp4
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/mJj" group-title="",Rick and Morty S01 E07
-http://purpleserver.net:80/series/p8carys3/ZGP8PCKv/23247.mp4
+http://purpleserver.net:80/series/hgvEcgZS/3sWweonK/23247.mp4
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/mJj" group-title="",Rick and Morty S01 E08
-http://purpleserver.net:80/series/p8carys3/ZGP8PCKv/23248.mp4
+http://purpleserver.net:80/series/hgvEcgZS/3sWweonK/23248.mp4
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/mJj" group-title="",Rick and Morty S01 E09
-http://purpleserver.net:80/series/p8carys3/ZGP8PCKv/23249.mp4
+http://purpleserver.net:80/series/hgvEcgZS/3sWweonK/23249.mp4
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/mJj" group-title="",Rick and Morty S01 E10
-http://purpleserver.net:80/series/p8carys3/ZGP8PCKv/23250.mp4
+http://purpleserver.net:80/series/hgvEcgZS/3sWweonK/23250.mp4
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/mJj" group-title="",Rick and Morty S01 E11
-http://purpleserver.net:80/series/p8carys3/ZGP8PCKv/23251.mp4
+http://purpleserver.net:80/series/hgvEcgZS/3sWweonK/23251.mp4
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/mJj" group-title="",Rick and Morty S02 E01
-http://purpleserver.net:80/series/p8carys3/ZGP8PCKv/23252.mp4
+http://purpleserver.net:80/series/hgvEcgZS/3sWweonK/23252.mp4
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/mJj" group-title="",Rick and Morty S02 E02
-http://purpleserver.net:80/series/p8carys3/ZGP8PCKv/23253.mp4
+http://purpleserver.net:80/series/hgvEcgZS/3sWweonK/23253.mp4
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/mJj" group-title="",Rick and Morty S02 E03
-http://purpleserver.net:80/series/p8carys3/ZGP8PCKv/23254.mp4
+http://purpleserver.net:80/series/hgvEcgZS/3sWweonK/23254.mp4
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/mJj" group-title="",Rick and Morty S02 E04
-http://purpleserver.net:80/series/p8carys3/ZGP8PCKv/23255.mp4
+http://purpleserver.net:80/series/hgvEcgZS/3sWweonK/23255.mp4
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/mJj" group-title="",Rick and Morty S02 E05
-http://purpleserver.net:80/series/p8carys3/ZGP8PCKv/23256.mp4
+http://purpleserver.net:80/series/hgvEcgZS/3sWweonK/23256.mp4
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/mJj" group-title="",Rick and Morty S02 E06
-http://purpleserver.net:80/series/p8carys3/ZGP8PCKv/23257.mp4
+http://purpleserver.net:80/series/hgvEcgZS/3sWweonK/23257.mp4
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/mJj" group-title="",Rick and Morty S02 E07
-http://purpleserver.net:80/series/p8carys3/ZGP8PCKv/23258.mp4
+http://purpleserver.net:80/series/hgvEcgZS/3sWweonK/23258.mp4
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/mJj" group-title="",Rick and Morty S02 E08
-http://purpleserver.net:80/series/p8carys3/ZGP8PCKv/23259.mp4
+http://purpleserver.net:80/series/hgvEcgZS/3sWweonK/23259.mp4
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/mJj" group-title="",Rick and Morty S02 E09
-http://purpleserver.net:80/series/p8carys3/ZGP8PCKv/23260.mp4
+http://purpleserver.net:80/series/hgvEcgZS/3sWweonK/23260.mp4
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/mJj" group-title="",Rick and Morty S02 E10
-http://purpleserver.net:80/series/p8carys3/ZGP8PCKv/23261.mp4
+http://purpleserver.net:80/series/hgvEcgZS/3sWweonK/23261.mp4
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/mJj" group-title="",Rick and Morty S03 E01
-http://purpleserver.net:80/series/p8carys3/ZGP8PCKv/23262.mp4
+http://purpleserver.net:80/series/hgvEcgZS/3sWweonK/23262.mp4
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/mJj" group-title="",Rick and Morty S03 E02
-http://purpleserver.net:80/series/p8carys3/ZGP8PCKv/23263.mp4
+http://purpleserver.net:80/series/hgvEcgZS/3sWweonK/23263.mp4
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/mJj" group-title="",Rick and Morty S03 E03
-http://purpleserver.net:80/series/p8carys3/ZGP8PCKv/23264.mp4
+http://purpleserver.net:80/series/hgvEcgZS/3sWweonK/23264.mp4
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/mJj" group-title="",Rick and Morty S03 E04
-http://purpleserver.net:80/series/p8carys3/ZGP8PCKv/23265.mp4
+http://purpleserver.net:80/series/hgvEcgZS/3sWweonK/23265.mp4
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/mJj" group-title="",Rick and Morty S03 E05
-http://purpleserver.net:80/series/p8carys3/ZGP8PCKv/23266.mp4
+http://purpleserver.net:80/series/hgvEcgZS/3sWweonK/23266.mp4
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/mJj" group-title="",Rick and Morty S03 E06
-http://purpleserver.net:80/series/p8carys3/ZGP8PCKv/23267.mp4
+http://purpleserver.net:80/series/hgvEcgZS/3sWweonK/23267.mp4
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/mJj" group-title="",Rick and Morty S03 E07
-http://purpleserver.net:80/series/p8carys3/ZGP8PCKv/23268.mp4
+http://purpleserver.net:80/series/hgvEcgZS/3sWweonK/23268.mp4
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/mJj" group-title="",Rick and Morty S03 E08
-http://purpleserver.net:80/series/p8carys3/ZGP8PCKv/23269.mp4
+http://purpleserver.net:80/series/hgvEcgZS/3sWweonK/23269.mp4
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/mJj" group-title="",Rick and Morty S03 E09
-http://purpleserver.net:80/series/p8carys3/ZGP8PCKv/23270.mp4
+http://purpleserver.net:80/series/hgvEcgZS/3sWweonK/23270.mp4
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/mJj" group-title="",Rick and Morty S03 E10
-http://purpleserver.net:80/series/p8carys3/ZGP8PCKv/23271.mp4
+http://purpleserver.net:80/series/hgvEcgZS/3sWweonK/23271.mp4
 
 
 ##########################################FILMES ACAO#############################################

@@ -718,135 +718,281 @@ http://purpleserver.net:80/s45MMNgK/46mrc2rk/18657
 http://purpleserver.net:80/s45MMNgK/46mrc2rk/18658
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR lime]Esportes[/COLOR]",
+################################################################################################################
 
 
+############################################CANAIS FILMES E SÉRIES#############################################
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR lime]Esportes[/COLOR]",
 
+#EXTINF:-1 tvg-logo="http://z4.vc/PFh" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",AMC FHD
+http://purpleserver.net:80/s45MMNgK/46mrc2rk/18857
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR lime]Esportes[/COLOR]",
+#EXTINF:-1 tvg-logo="http://z4.vc/PFh" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",AMC FHD [H265]
+http://purpleserver.net:80/s45MMNgK/46mrc2rk/22212
 
 
+#EXTINF:-1 tvg-logo="http://z4.vc/PFh" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",AMC HD
+http://purpleserver.net:80/s45MMNgK/46mrc2rk/18736
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR lime]Esportes[/COLOR]",
 
+#EXTINF:-1 tvg-logo="http://z4.vc/PFh" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",AMC SD
+http://purpleserver.net:80/s45MMNgK/46mrc2rk/18737
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR lime]Esportes[/COLOR]",
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR lime]Esportes[/COLOR]",
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR lime]Esportes[/COLOR]",
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR lime]Esportes[/COLOR]",
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR lime]Esportes[/COLOR]",
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR lime]Esportes[/COLOR]",
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR lime]Esportes[/COLOR]",
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR lime]Esportes[/COLOR]",
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR lime]Esportes[/COLOR]",
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR lime]Esportes[/COLOR]",
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR lime]Esportes[/COLOR]",
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR lime]Esportes[/COLOR]",
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR lime]Esportes[/COLOR]",
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR lime]Esportes[/COLOR]",
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR lime]Esportes[/COLOR]",
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR lime]Esportes[/COLOR]",
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR lime]Esportes[/COLOR]",
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR lime]Esportes[/COLOR]",
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR lime]Esportes[/COLOR]",
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR lime]Esportes[/COLOR]",
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR lime]Esportes[/COLOR]",
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR lime]Esportes[/COLOR]",
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR lime]Esportes[/COLOR]",
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR lime]Esportes[/COLOR]",
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR lime]Esportes[/COLOR]",
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR lime]Esportes[/COLOR]",
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR lime]Esportes[/COLOR]",
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR lime]Esportes[/COLOR]",
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR lime]Esportes[/COLOR]",
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",
 
 
 

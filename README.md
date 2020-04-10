@@ -256,20 +256,20 @@ http://purpleserver.net:80/hgvEcgZS/3sWweonK/18505
 http://purpleserver.net:80/hgvEcgZS/3sWweonK/18506
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR white]Abertos[/COLOR]",
+#EXTINF:-1 tvg-logo="http://z4.vc/HLw" group-title="Canais | [COLOR white]Abertos[/COLOR]",TV Senado SD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18532
 
 
-
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR white]Abertos[/COLOR]",
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR white]Abertos[/COLOR]",
+#EXTINF:-1 tvg-logo="https://tinyurl.com/uf4ztjb" group-title="Canais | [COLOR white]Abertos[/COLOR]",TVR Craiova
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/28048
 
 
+#EXTINF:-1 tvg-logo="https://tinyurl.com/wsabd3t" group-title="Canais | [COLOR white]Abertos[/COLOR]",TVR IASI
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/28046
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR white]Abertos[/COLOR]",
 
+#EXTINF:-1 tvg-logo="http://z4.vc/aZb" group-title="Canais | [COLOR white]Abertos[/COLOR]",Globo Inter TV Cabugi SD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/33380
 
 
 #EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR white]Abertos[/COLOR]",

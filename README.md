@@ -392,52 +392,52 @@ http://purpleserver.net:80/s45MMNgK/46mrc2rk/27884
 http://purpleserver.net:80/s45MMNgK/46mrc2rk/18733
 
 
-#EXTINF:-1 tvg-logo="http://z4.vc/ItW" group-title="Canais | [COLOR darkblue]Documentários[/COLOR]",AXN FHD
-http://purpleserver.net:80/s45MMNgK/46mrc2rk/18854
+#EXTINF:-1 tvg-logo="http://z4.vc/Y5D" group-title="Canais | [COLOR darkblue]Documentários[/COLOR]",Discovery Channel FHD
+http://purpleserver.net:80/s45MMNgK/46mrc2rk/18783
 
 
-#EXTINF:-1 tvg-logo="http://z4.vc/ItW" group-title="Canais | [COLOR darkblue]Documentários[/COLOR]",AXN FHD [H265]
-http://purpleserver.net:80/s45MMNgK/46mrc2rk/22210
+#EXTINF:-1 tvg-logo="http://z4.vc/Y5D" group-title="Canais | [COLOR darkblue]Documentários[/COLOR]",Discovery Channel FHD [H265]
+http://purpleserver.net:80/s45MMNgK/46mrc2rk/22204
 
 
-#EXTINF:-1 tvg-logo="http://z4.vc/ItW" group-title="Canais | [COLOR darkblue]Documentários[/COLOR]",AXN HD
-http://purpleserver.net:80/s45MMNgK/46mrc2rk/18730
+#EXTINF:-1 tvg-logo="http://z4.vc/Y5D" group-title="Canais | [COLOR darkblue]Documentários[/COLOR]",Discovery Channel HD
+http://purpleserver.net:80/s45MMNgK/46mrc2rk/18701
 
 
-#EXTINF:-1 tvg-logo="http://z4.vc/ItW" group-title="Canais | [COLOR darkblue]Documentários[/COLOR]",AXN SD
-http://purpleserver.net:80/s45MMNgK/46mrc2rk/18731
+#EXTINF:-1 tvg-logo="http://z4.vc/Y5D" group-title="Canais | [COLOR darkblue]Documentários[/COLOR]",Discovery Channel SD
+http://purpleserver.net:80/s45MMNgK/46mrc2rk/18702
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR darkblue]Documentários[/COLOR]",
+#EXTINF:-1 tvg-logo="http://z4.vc/bfd" group-title="Canais | [COLOR darkblue]Documentários[/COLOR]",Discovery Science FHD
+http://purpleserver.net:80/s45MMNgK/46mrc2rk/18842
 
 
-
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR darkblue]Documentários[/COLOR]",
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR darkblue]Documentários[/COLOR]",
+#EXTINF:-1 tvg-logo="http://z4.vc/bfd" group-title="Canais | [COLOR darkblue]Documentários[/COLOR]",Discovery Science FHD [H265]
+http://purpleserver.net:80/s45MMNgK/46mrc2rk/22201
 
 
-
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR darkblue]Documentários[/COLOR]",
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR darkblue]Documentários[/COLOR]",
+#EXTINF:-1 tvg-logo="http://z4.vc/bfd" group-title="Canais | [COLOR darkblue]Documentários[/COLOR]",Discovery Science HD
+http://purpleserver.net:80/s45MMNgK/46mrc2rk/18693
 
 
-
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR darkblue]Documentários[/COLOR]",
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR darkblue]Documentários[/COLOR]",
+#EXTINF:-1 tvg-logo="http://z4.vc/bfd" group-title="Canais | [COLOR darkblue]Documentários[/COLOR]",Discovery Science SD
+http://purpleserver.net:80/s45MMNgK/46mrc2rk/18694
 
 
+#EXTINF:-1 tvg-logo="http://z4.vc/m7Y" group-title="Canais | [COLOR darkblue]Documentários[/COLOR]",Discovery Theater FHD
+http://purpleserver.net:80/s45MMNgK/46mrc2rk/18841
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR darkblue]Documentários[/COLOR]",
 
+#EXTINF:-1 tvg-logo="http://z4.vc/m7Y" group-title="Canais | [COLOR darkblue]Documentários[/COLOR]",Discovery Theater FHD [H265]
+http://purpleserver.net:80/s45MMNgK/46mrc2rk/22200
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/m7Y" group-title="Canais | [COLOR darkblue]Documentários[/COLOR]",Discovery Theater HD
+http://purpleserver.net:80/s45MMNgK/46mrc2rk/18691
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/m7Y" group-title="Canais | [COLOR darkblue]Documentários[/COLOR]",Discovery Theater SD
+http://purpleserver.net:80/s45MMNgK/46mrc2rk/18692
 
 
 #EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR darkblue]Documentários[/COLOR]",

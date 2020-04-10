@@ -440,20 +440,20 @@ http://purpleserver.net:80/s45MMNgK/46mrc2rk/18691
 http://purpleserver.net:80/s45MMNgK/46mrc2rk/18692
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR darkblue]Documentários[/COLOR]",
+#EXTINF:-1 tvg-logo="http://z4.vc/4Yx" group-title="Canais | [COLOR darkblue]Documentários[/COLOR]",Discovery World FHD
+http://purpleserver.net:80/s45MMNgK/46mrc2rk/18839
 
 
-
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR darkblue]Documentários[/COLOR]",
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR darkblue]Documentários[/COLOR]",
+#EXTINF:-1 tvg-logo="http://z4.vc/4Yx" group-title="Canais | [COLOR darkblue]Documentários[/COLOR]",Discovery World FHD [H265]
+http://purpleserver.net:80/s45MMNgK/46mrc2rk/22130
 
 
+#EXTINF:-1 tvg-logo="http://z4.vc/4Yx" group-title="Canais | [COLOR darkblue]Documentários[/COLOR]",Discovery World HD
+http://purpleserver.net:80/s45MMNgK/46mrc2rk/18687
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR darkblue]Documentários[/COLOR]",
 
+#EXTINF:-1 tvg-logo="http://z4.vc/4Yx" group-title="Canais | [COLOR darkblue]Documentários[/COLOR]",Discovery World SD
+http://purpleserver.net:80/s45MMNgK/46mrc2rk/18688
 
 
 #EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR darkblue]Documentários[/COLOR]",

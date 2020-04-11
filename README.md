@@ -1690,3 +1690,241 @@ http://purpleserver.net:80/kps3sbJ3/nH1PXS3k/18633
 #EXTINF:-1 tvg-logo="http://z4.vc/CPt" group-title="Canais |[COLOR mediumblue]HBO[/COLOR]",HBO Signature SD
 http://purpleserver.net:80/kps3sbJ3/nH1PXS3k/18634
 
+
+################################################################################################################
+
+
+
+##############################################CANAIS INFANTIS################################################
+
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/tqnaak8" group-title="Canais | [COLOR gray]Globo[/COLOR]",[COLOR blue][B]THE GUARDIAN[/B][/COLOR]
+https://facebook.com/xx.ely.david.xx
+
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/wrzf2ze" group-title="Canais | [COLOR gray]Globo[/COLOR]",[COLOR lightsalmon]SUPORTE VIA DISCORD: discord.gg/bVSswd[/COLOR]
+https://facebook.com/xx.ely.david.xx
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/k3q" group-title="Canais |[COLOR deeppink]Infantis[/COLOR]",BabyTV SD
+http://purpleserver.net:80/kps3sbJ3/nH1PXS3k/18729
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/6f2" group-title="Canais |[COLOR deeppink]Infantis[/COLOR]",Boomerang FHD
+http://purpleserver.net:80/kps3sbJ3/nH1PXS3k/18851
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/DAg" group-title="Canais |[COLOR deeppink]Infantis[/COLOR]",Boomerang FHD [H265]
+http://purpleserver.net:80/kps3sbJ3/nH1PXS3k/25317
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/BLS" group-title="Canais |[COLOR deeppink]Infantis[/COLOR]",Boomerang HD
+http://purpleserver.net:80/kps3sbJ3/nH1PXS3k/18718
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/H1Y" group-title="Canais |[COLOR deeppink]Infantis[/COLOR]",Boomerang SD
+http://purpleserver.net:80/kps3sbJ3/nH1PXS3k/18719
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/Mqt" group-title="Canais |[COLOR deeppink]Infantis[/COLOR]",CARTOON NETWORK [4K]
+http://purpleserver.net:80/kps3sbJ3/nH1PXS3k/26408
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/gGw" group-title="Canais |[COLOR deeppink]Infantis[/COLOR]",Cartoon Network FHD
+http://purpleserver.net:80/kps3sbJ3/nH1PXS3k/18849
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/6WN" group-title="Canais |[COLOR deeppink]Infantis[/COLOR]",Cartoon Network FHD [H265]
+http://purpleserver.net:80/kps3sbJ3/nH1PXS3k/25314
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/Brc" group-title="Canais |[COLOR deeppink]Infantis[/COLOR]",Cartoon Network HD
+http://purpleserver.net:80/kps3sbJ3/nH1PXS3k/18711
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/BjV" group-title="Canais |[COLOR deeppink]Infantis[/COLOR]",Cartoon Network SD
+http://purpleserver.net:80/kps3sbJ3/nH1PXS3k/18712
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/oNt" group-title="Canais |[COLOR deeppink]Infantis[/COLOR]",Discovery Kids FHD
+http://purpleserver.net:80/kps3sbJ3/nH1PXS3k/18843
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/Eoe" group-title="Canais |[COLOR deeppink]Infantis[/COLOR]",Discovery Kids FHD [H265]
+http://purpleserver.net:80/kps3sbJ3/nH1PXS3k/22202
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/p3E" group-title="Canais |[COLOR deeppink]Infantis[/COLOR]",Discovery Kids HD
+http://purpleserver.net:80/kps3sbJ3/nH1PXS3k/18695
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/s9P" group-title="Canais |[COLOR deeppink]Infantis[/COLOR]",Discovery Kids SD
+http://purpleserver.net:80/kps3sbJ3/nH1PXS3k/18696
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/N8Y" group-title="Canais |[COLOR deeppink]Infantis[/COLOR]",Discovery Kids SD
+http://purpleserver.net:80/kps3sbJ3/nH1PXS3k/22325
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/eri" group-title="Canais |[COLOR deeppink]Infantis[/COLOR]",Disney FHD
+http://purpleserver.net:80/kps3sbJ3/nH1PXS3k/18782
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/k3R" group-title="Canais |[COLOR deeppink]Infantis[/COLOR]",Disney FHD [H265]
+http://purpleserver.net:80/kps3sbJ3/nH1PXS3k/22147
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/COA" group-title="Canais |[COLOR deeppink]Infantis[/COLOR]",Disney HD
+http://purpleserver.net:80/kps3sbJ3/nH1PXS3k/18685
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/Cgg" group-title="Canais |[COLOR deeppink]Infantis[/COLOR]",Disney Junior FHD
+http://purpleserver.net:80/kps3sbJ3/nH1PXS3k/18788
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/pw6" group-title="Canais |[COLOR deeppink]Infantis[/COLOR]",Disney Junior FHD [H265]
+http://purpleserver.net:80/kps3sbJ3/nH1PXS3k/22146
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/67y" group-title="Canais |[COLOR deeppink]Infantis[/COLOR]",Disney Junior HD
+http://purpleserver.net:80/kps3sbJ3/nH1PXS3k/18509
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/3Vd" group-title="Canais |[COLOR deeppink]Infantis[/COLOR]",Disney Junior SD
+http://purpleserver.net:80/kps3sbJ3/nH1PXS3k/18684
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/Vjj" group-title="Canais |[COLOR deeppink]Infantis[/COLOR]",Disney SD
+http://purpleserver.net:80/kps3sbJ3/nH1PXS3k/18686
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/6MT" group-title="Canais |[COLOR deeppink]Infantis[/COLOR]",Disney SD
+http://purpleserver.net:80/kps3sbJ3/nH1PXS3k/22323
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/H7Y" group-title="Canais |[COLOR deeppink]Infantis[/COLOR]",Disney XD FHD [H265]
+http://purpleserver.net:80/kps3sbJ3/nH1PXS3k/25211
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/n2T" group-title="Canais |[COLOR deeppink]Infantis[/COLOR]",Disney XD SD
+http://purpleserver.net:80/kps3sbJ3/nH1PXS3k/22321
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/dOF" group-title="Canais |[COLOR deeppink]Infantis[/COLOR]",Gloob FHD
+http://purpleserver.net:80/kps3sbJ3/nH1PXS3k/18775
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/EuT" group-title="Canais |[COLOR deeppink]Infantis[/COLOR]",Gloob FHD [H265]
+http://purpleserver.net:80/kps3sbJ3/nH1PXS3k/22142
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/uDI" group-title="Canais |[COLOR deeppink]Infantis[/COLOR]",Gloob HD
+http://purpleserver.net:80/kps3sbJ3/nH1PXS3k/18649
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/K5g" group-title="Canais |[COLOR deeppink]Infantis[/COLOR]",Gloob SD
+http://purpleserver.net:80/kps3sbJ3/nH1PXS3k/18650
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/KhW" group-title="Canais |[COLOR deeppink]Infantis[/COLOR]",Gloob SD
+http://purpleserver.net:80/kps3sbJ3/nH1PXS3k/22310
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/IBp" group-title="Canais |[COLOR deeppink]Infantis[/COLOR]",Gloobinho FHD
+http://purpleserver.net:80/kps3sbJ3/nH1PXS3k/18828
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/i0a" group-title="Canais |[COLOR deeppink]Infantis[/COLOR]",Gloobinho FHD [H265]
+http://purpleserver.net:80/kps3sbJ3/nH1PXS3k/25205
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/sf3" group-title="Canais |[COLOR deeppink]Infantis[/COLOR]",Gloobinho HD
+http://purpleserver.net:80/kps3sbJ3/nH1PXS3k/18648
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/QOP" group-title="Canais |[COLOR deeppink]Infantis[/COLOR]",Gloobinho SD
+http://purpleserver.net:80/kps3sbJ3/nH1PXS3k/18647
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/j0A" group-title="Canais |[COLOR deeppink]Infantis[/COLOR]",NatGeo Kids FHD
+http://purpleserver.net:80/kps3sbJ3/nH1PXS3k/18810
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/yTi" group-title="Canais |[COLOR deeppink]Infantis[/COLOR]",NatGeo Kids FHD [H265]
+http://purpleserver.net:80/kps3sbJ3/nH1PXS3k/22180
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/4kC" group-title="Canais |[COLOR deeppink]Infantis[/COLOR]",NatGeo Kids HD
+http://purpleserver.net:80/kps3sbJ3/nH1PXS3k/18607
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/3yZ" group-title="Canais |[COLOR deeppink]Infantis[/COLOR]",NatGeo Kids SD
+http://purpleserver.net:80/kps3sbJ3/nH1PXS3k/18608
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/pI8" group-title="Canais |[COLOR deeppink]Infantis[/COLOR]",Nick Jr FHD
+http://purpleserver.net:80/kps3sbJ3/nH1PXS3k/18808
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/HZk" group-title="Canais |[COLOR deeppink]Infantis[/COLOR]",Nick Jr FHD [H265]
+http://purpleserver.net:80/kps3sbJ3/nH1PXS3k/22178
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/Xp5" group-title="Canais |[COLOR deeppink]Infantis[/COLOR]",Nick Jr HD
+http://purpleserver.net:80/kps3sbJ3/nH1PXS3k/18602
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/kuz" group-title="Canais |[COLOR deeppink]Infantis[/COLOR]",Nick Jr SD
+http://purpleserver.net:80/kps3sbJ3/nH1PXS3k/18603
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/9Ti" group-title="Canais |[COLOR deeppink]Infantis[/COLOR]",Nickelodeon FHD
+http://purpleserver.net:80/kps3sbJ3/nH1PXS3k/18807
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/NFO" group-title="Canais |[COLOR deeppink]Infantis[/COLOR]",Nickelodeon FHD [H265]
+http://purpleserver.net:80/kps3sbJ3/nH1PXS3k/22136
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/6RD" group-title="Canais |[COLOR deeppink]Infantis[/COLOR]",Nickelodeon HD
+http://purpleserver.net:80/kps3sbJ3/nH1PXS3k/18600
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/Ad6" group-title="Canais |[COLOR deeppink]Infantis[/COLOR]",Nickelodeon SD
+http://purpleserver.net:80/kps3sbJ3/nH1PXS3k/18601
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/XYx" group-title="Canais |[COLOR deeppink]Infantis[/COLOR]",PlayKids FHD
+http://purpleserver.net:80/kps3sbJ3/nH1PXS3k/18747
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/zrG" group-title="Canais |[COLOR deeppink]Infantis[/COLOR]",PlayKids HD
+http://purpleserver.net:80/kps3sbJ3/nH1PXS3k/18499
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/z3I" group-title="Canais |[COLOR deeppink]Infantis[/COLOR]",PlayKids SD
+http://purpleserver.net:80/kps3sbJ3/nH1PXS3k/18498
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/7YA" group-title="Canais |[COLOR deeppink]Infantis[/COLOR]",Tooncast SD
+http://purpleserver.net:80/kps3sbJ3/nH1PXS3k/18533
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/S4M" group-title="Canais |[COLOR deeppink]Infantis[/COLOR]",TV Ra-Tim-Bum FHD
+http://purpleserver.net:80/kps3sbJ3/nH1PXS3k/18793
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/I7O" group-title="Canais |[COLOR deeppink]Infantis[/COLOR]",TV Ra-Tim-Bum FHD [H265]
+http://purpleserver.net:80/kps3sbJ3/nH1PXS3k/25256
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/0Yb" group-title="Canais |[COLOR deeppink]Infantis[/COLOR]",TV Ra-Tim-Bum HD
+http://purpleserver.net:80/kps3sbJ3/nH1PXS3k/18524
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/zvq" group-title="Canais |[COLOR deeppink]Infantis[/COLOR]",TV Ra-Tim-Bum SD
+http://purpleserver.net:80/kps3sbJ3/nH1PXS3k/18525
+
+
+#EXTINF:-1 tvg-logo="" group-title="Canais |[COLOR deeppink]Infantis[/COLOR]",ZooMoo SD
+http://purpleserver.net:80/kps3sbJ3/nH1PXS3k/28199

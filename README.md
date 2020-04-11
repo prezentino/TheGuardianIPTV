@@ -1619,11 +1619,11 @@ http://purpleserver.net:80/kps3sbJ3/nH1PXS3k/33738
 
 
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/tqnaak8" group-title="Canais | [COLOR gray]Globo[/COLOR]",[COLOR blue][B]THE GUARDIAN[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://tinyurl.com/tqnaak8" group-title="Canais |[COLOR mediumblue]HBO[/COLOR]",[COLOR blue][B]THE GUARDIAN[/B][/COLOR]
 https://facebook.com/xx.ely.david.xx
 
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/wrzf2ze" group-title="Canais | [COLOR gray]Globo[/COLOR]",[COLOR lightsalmon]SUPORTE VIA DISCORD: discord.gg/bVSswd[/COLOR]
+#EXTINF:-1 tvg-logo="https://tinyurl.com/wrzf2ze" group-title="Canais |[COLOR mediumblue]HBO[/COLOR]",[COLOR lightsalmon]SUPORTE VIA DISCORD: discord.gg/bVSswd[/COLOR]
 https://facebook.com/xx.ely.david.xx
 
 
@@ -1698,11 +1698,11 @@ http://purpleserver.net:80/kps3sbJ3/nH1PXS3k/18634
 ##############################################CANAIS INFANTIS################################################
 
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/tqnaak8" group-title="Canais | [COLOR gray]Globo[/COLOR]",[COLOR blue][B]THE GUARDIAN[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://tinyurl.com/tqnaak8" group-title="Canais | [COLOR deeppink]Infantis[/COLOR]",[COLOR blue][B]THE GUARDIAN[/B][/COLOR]
 https://facebook.com/xx.ely.david.xx
 
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/wrzf2ze" group-title="Canais | [COLOR gray]Globo[/COLOR]",[COLOR lightsalmon]SUPORTE VIA DISCORD: discord.gg/bVSswd[/COLOR]
+#EXTINF:-1 tvg-logo="https://tinyurl.com/wrzf2ze" group-title="Canais | [COLOR deeppink]Infantis[/COLOR]",[COLOR lightsalmon]SUPORTE VIA DISCORD: discord.gg/bVSswd[/COLOR]
 https://facebook.com/xx.ely.david.xx
 
 
@@ -1928,3 +1928,81 @@ http://purpleserver.net:80/kps3sbJ3/nH1PXS3k/18525
 
 #EXTINF:-1 tvg-logo="" group-title="Canais |[COLOR deeppink]Infantis[/COLOR]",ZooMoo SD
 http://purpleserver.net:80/kps3sbJ3/nH1PXS3k/28199
+
+
+#############################################################################################################
+
+###########################################CANAIS[COLOR powderblue]Jogos & Eventos[/COLOR]############################################
+
+
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/tqnaak8" group-title="Canais | [COLOR gray]Globo[/COLOR]",[COLOR blue][B]THE GUARDIAN[/B][/COLOR]
+https://facebook.com/xx.ely.david.xx
+
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/wrzf2ze" group-title="Canais | [COLOR gray]Globo[/COLOR]",[COLOR lightsalmon]SUPORTE VIA DISCORD: discord.gg/bVSswd[/COLOR]
+https://facebook.com/xx.ely.david.xx
+
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/t2cve9t" group-title="Canais |[COLOR powderblue]Jogos & Eventos[/COLOR]",Copa Libertadores HD
+http://purpleserver.net:80/kps3sbJ3/nH1PXS3k/28386
+
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/uma7ano" group-title="Canais |[COLOR powderblue]Jogos & Eventos[/COLOR]",Copa Nordeste 1 HD
+http://purpleserver.net:80/kps3sbJ3/nH1PXS3k/28377
+
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/uma7ano" group-title="Canais |[COLOR powderblue]Jogos & Eventos[/COLOR]",Copa Nordeste 2 HD
+http://purpleserver.net:80/kps3sbJ3/nH1PXS3k/28378
+
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/uma7ano" group-title="Canais |[COLOR powderblue]Jogos & Eventos[/COLOR]",Copa Nordeste 3 HD
+http://purpleserver.net:80/kps3sbJ3/nH1PXS3k/28379
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/162" group-title="Canais |[COLOR powderblue]Jogos & Eventos[/COLOR]",DAZN  CHANNEL 1
+http://purpleserver.net:80/kps3sbJ3/nH1PXS3k/26195
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/Pjc" group-title="Canais |[COLOR powderblue]Jogos & Eventos[/COLOR]",DAZN CHANNEL 2
+http://purpleserver.net:80/kps3sbJ3/nH1PXS3k/26197
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/Wp3" group-title="Canais |[COLOR powderblue]Jogos & Eventos[/COLOR]",DAZN CHANNEL 3
+http://purpleserver.net:80/kps3sbJ3/nH1PXS3k/26196
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/162" group-title="Canais |[COLOR powderblue]Jogos & Eventos[/COLOR]",DAZN CHANNEL 4
+http://purpleserver.net:80/kps3sbJ3/nH1PXS3k/28387
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/162" group-title="Canais |[COLOR powderblue]Jogos & Eventos[/COLOR]",DAZN CHANNEL 5
+http://purpleserver.net:80/kps3sbJ3/nH1PXS3k/28388
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/162" group-title="Canais |[COLOR powderblue]Jogos & Eventos[/COLOR]",DAZN CHANNEL 6
+http://purpleserver.net:80/kps3sbJ3/nH1PXS3k/28389
+
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/vaslqqg" group-title="Canais |[COLOR powderblue]Jogos & Eventos[/COLOR]",Ei Plus 01 [Champions League]
+http://purpleserver.net:80/kps3sbJ3/nH1PXS3k/28380
+
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/vaslqqg" group-title="Canais |[COLOR powderblue]Jogos & Eventos[/COLOR]",Ei Plus 02 [Champions League]
+http://purpleserver.net:80/kps3sbJ3/nH1PXS3k/28381
+
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/vaslqqg" group-title="Canais |[COLOR powderblue]Jogos & Eventos[/COLOR]",Ei Plus 03 [Champions League]
+http://purpleserver.net:80/kps3sbJ3/nH1PXS3k/28382
+
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/vaslqqg" group-title="Canais |[COLOR powderblue]Jogos & Eventos[/COLOR]",Ei Plus 04 [Champions League]
+http://purpleserver.net:80/kps3sbJ3/nH1PXS3k/28383
+
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/vaslqqg" group-title="Canais |[COLOR powderblue]Jogos & Eventos[/COLOR]",Ei Plus 05 [Champions League]
+http://purpleserver.net:80/kps3sbJ3/nH1PXS3k/28384
+
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/vaslqqg" group-title="Canais |[COLOR powderblue]Jogos & Eventos[/COLOR]",Ei Plus 06 [Champions League]
+http://purpleserver.net:80/kps3sbJ3/nH1PXS3k/28385

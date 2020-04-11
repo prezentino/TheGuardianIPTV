@@ -1932,7 +1932,7 @@ http://purpleserver.net:80/kps3sbJ3/nH1PXS3k/28199
 
 #############################################################################################################
 
-###########################################CANAIS[COLOR powderblue]Jogos & Eventos[/COLOR]############################################
+###########################################CANAIS Jogos & Eventos############################################
 
 
 
@@ -2006,3 +2006,456 @@ http://purpleserver.net:80/kps3sbJ3/nH1PXS3k/28384
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/vaslqqg" group-title="Canais |[COLOR powderblue]Jogos & Eventos[/COLOR]",Ei Plus 06 [Champions League]
 http://purpleserver.net:80/kps3sbJ3/nH1PXS3k/28385
+
+
+#############################################################################################################
+
+#####################################################Filmes 4K################################################
+
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes | 4K",1 - Harry Potter E A Pedra Filosofal 4K
+http://purpleserver.net:80/movie/kps3sbJ3/nH1PXS3k/38443.mp4
+
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes | 4K",2 - Harry Potter E A Camera Secreta 4K
+http://purpleserver.net:80/movie/kps3sbJ3/nH1PXS3k/38444.mp4
+
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes | 4K",3 - Harry Potter E O Prisioneiro De Azkaban 4K
+http://purpleserver.net:80/movie/kps3sbJ3/nH1PXS3k/38445.mp4
+
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes | 4K",4 - Harry Potter E O Calice De Fogo 4K
+http://purpleserver.net:80/movie/kps3sbJ3/nH1PXS3k/38446.mp4
+
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes | 4K",5 - Harry Potter E A Ordem Da Fenix 4K
+http://purpleserver.net:80/movie/kps3sbJ3/nH1PXS3k/38447.mp4
+
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes | 4K",6 - Harry Potter E O Enigma Do Principe 4K
+http://purpleserver.net:80/movie/kps3sbJ3/nH1PXS3k/38448.mp4
+
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes | 4K",7 - Harry Potter e as Reliquias da Morte - Parte 1 4K
+http://purpleserver.net:80/movie/kps3sbJ3/nH1PXS3k/38449.mp4
+
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes | 4K",8 - Harry Potter e as Reliquias da Morte - Parte 2 4K
+http://purpleserver.net:80/movie/kps3sbJ3/nH1PXS3k/38450.mp4
+
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes | 4K",15h17 - Trem Para Paris 4K
+http://purpleserver.net:80/movie/kps3sbJ3/nH1PXS3k/38451.mp4
+
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes | 4K",Ad Astra - Rumo A s Estrelas 4K
+http://purpleserver.net:80/movie/kps3sbJ3/nH1PXS3k/38452.mp4
+
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes | 4K",Ad Astra - Rumo A s Estrelas  4K [HDR]
+http://purpleserver.net:80/movie/kps3sbJ3/nH1PXS3k/38453.mp4
+
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes | 4K",A Freira 4K
+http://purpleserver.net:80/movie/kps3sbJ3/nH1PXS3k/38454.mp4
+
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes | 4K",Aladdin 4K
+http://purpleserver.net:80/movie/kps3sbJ3/nH1PXS3k/38455.mp4
+
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes | 4K",Aladdin 4K [HDR]
+http://purpleserver.net:80/movie/kps3sbJ3/nH1PXS3k/38456.mp4
+
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes | 4K",Alita Anjo de Combate 4K
+http://purpleserver.net:80/movie/kps3sbJ3/nH1PXS3k/38457.mp4
+
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes | 4K",Alita Anjo de Combate 4K [HDR]
+http://purpleserver.net:80/movie/kps3sbJ3/nH1PXS3k/38458.mp4
+
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes | 4K",A Mula 4K
+http://purpleserver.net:80/movie/kps3sbJ3/nH1PXS3k/38459.mp4
+
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes | 4K",Angry Birds 2: O Filme 4K
+http://purpleserver.net:80/movie/kps3sbJ3/nH1PXS3k/38460.mp4
+
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes | 4K",Angry Birds 2: O Filme 4K [HDR]
+http://purpleserver.net:80/movie/kps3sbJ3/nH1PXS3k/38461.mp4
+
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes | 4K",Animais Fantasticos Os Crimes de Grindelwald 4K
+http://purpleserver.net:80/movie/kps3sbJ3/nH1PXS3k/38462.mp4
+
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes | 4K",Annabelle 3 De Volta Para Casa 4K
+http://purpleserver.net:80/movie/kps3sbJ3/nH1PXS3k/38463.mp4
+
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes | 4K",Annabelle 3 De Volta Para Casa 4K [HDR]
+http://purpleserver.net:80/movie/kps3sbJ3/nH1PXS3k/38464.mp4
+
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes | 4K",Anna O Perigo Tem Nome 4K
+http://purpleserver.net:80/movie/kps3sbJ3/nH1PXS3k/38465.mp4
+
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes | 4K",Anna O Perigo Tem Nome 4K [HDR]
+http://purpleserver.net:80/movie/kps3sbJ3/nH1PXS3k/38466.mp4
+
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes | 4K",Aquaman 4K
+http://purpleserver.net:80/movie/kps3sbJ3/nH1PXS3k/38467.mp4
+
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes | 4K",As Viuvas 4K
+http://purpleserver.net:80/movie/kps3sbJ3/nH1PXS3k/38468.mp4
+
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes | 4K",Batman O Cavaleiro das Trevas 4K
+http://purpleserver.net:80/movie/kps3sbJ3/nH1PXS3k/38469.mp4
+
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes | 4K",Bird Box 4K
+http://purpleserver.net:80/movie/kps3sbJ3/nH1PXS3k/38470.mp4
+
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes | 4K",BlacKkKlansman - O Infiltrado 4K
+http://purpleserver.net:80/movie/kps3sbJ3/nH1PXS3k/38471.mp4
+
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes | 4K",Blade Runner 2049 4K
+http://purpleserver.net:80/movie/kps3sbJ3/nH1PXS3k/38472.mp4
+
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes | 4K",Bohemian Rhapsody 4K
+http://purpleserver.net:80/movie/kps3sbJ3/nH1PXS3k/38473.mp4
+
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes | 4K",Bumblebee 4K
+http://purpleserver.net:80/movie/kps3sbJ3/nH1PXS3k/38474.mp4
+
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes | 4K",Capita Marvel 4K
+http://purpleserver.net:80/movie/kps3sbJ3/nH1PXS3k/38475.mp4
+
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes | 4K",Cinquenta Tons de Liberdade 4K
+http://purpleserver.net:80/movie/kps3sbJ3/nH1PXS3k/38476.mp4
+
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes | 4K",Como Treinar o Seu DragAPSo 3 4K
+http://purpleserver.net:80/movie/kps3sbJ3/nH1PXS3k/38477.mp4
+
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes | 4K",Consequencias 4K
+http://purpleserver.net:80/movie/kps3sbJ3/nH1PXS3k/38478.mp4
+
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes | 4K",Coringa 4K
+http://purpleserver.net:80/movie/kps3sbJ3/nH1PXS3k/38479.mp4
+
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes | 4K",Creed II 4K
+http://purpleserver.net:80/movie/kps3sbJ3/nH1PXS3k/38480.mp4
+
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes | 4K",Deadpool 2 4K
+http://purpleserver.net:80/movie/kps3sbJ3/nH1PXS3k/38481.mp4
+
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes | 4K",Desejo de Matar 4K
+http://purpleserver.net:80/movie/kps3sbJ3/nH1PXS3k/38482.mp4
+
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes | 4K",Doutor Estranho 4K
+http://purpleserver.net:80/movie/kps3sbJ3/nH1PXS3k/38483.mp4
+
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes | 4K",Estrada Sem Lei 4K
+http://purpleserver.net:80/movie/kps3sbJ3/nH1PXS3k/38484.mp4
+
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes | 4K",Furia em Alto Mar 4K
+http://purpleserver.net:80/movie/kps3sbJ3/nH1PXS3k/38485.mp4
+
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes | 4K",Godzilla II Rei dos Monstros 4K
+http://purpleserver.net:80/movie/kps3sbJ3/nH1PXS3k/38486.mp4
+
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes | 4K",Goosebumps - Monstros e Arrepios 4K
+http://purpleserver.net:80/movie/kps3sbJ3/nH1PXS3k/38487.mp4
+
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes | 4K",Green Book O Guia 4K
+http://purpleserver.net:80/movie/kps3sbJ3/nH1PXS3k/38488.mp4
+
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes | 4K",Guardioes da Galaxia 4K
+http://purpleserver.net:80/movie/kps3sbJ3/nH1PXS3k/38489.mp4
+
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes | 4K",Halloween 4K
+http://purpleserver.net:80/movie/kps3sbJ3/nH1PXS3k/38490.mp4
+
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes | 4K",Han Solo - Uma Historia Star Wars 4K
+http://purpleserver.net:80/movie/kps3sbJ3/nH1PXS3k/38491.mp4
+
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes | 4K",Hellboy 4K
+http://purpleserver.net:80/movie/kps3sbJ3/nH1PXS3k/38492.mp4
+
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes | 4K",Homem Aranha de Volta ao Lar 4K
+http://purpleserver.net:80/movie/kps3sbJ3/nH1PXS3k/38493.mp4
+
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes | 4K",Homem Aranha Longe de Casa 4K
+http://purpleserver.net:80/movie/kps3sbJ3/nH1PXS3k/38494.mp4
+
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes | 4K",Homem Aranha no Aranhaverso 4K
+http://purpleserver.net:80/movie/kps3sbJ3/nH1PXS3k/38495.mp4
+
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes | 4K",Homem Formiga e a Vespa 4K
+http://purpleserver.net:80/movie/kps3sbJ3/nH1PXS3k/38496.mp4
+
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes | 4K",Hotel Artemis 4K
+http://purpleserver.net:80/movie/kps3sbJ3/nH1PXS3k/38497.mp4
+
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes | 4K",Incredibles 2 4K
+http://purpleserver.net:80/movie/kps3sbJ3/nH1PXS3k/38498.mp4
+
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes | 4K",Interestelar 4K
+http://purpleserver.net:80/movie/kps3sbJ3/nH1PXS3k/38499.mp4
+
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes | 4K",It Capitulo Dois 4K
+http://purpleserver.net:80/movie/kps3sbJ3/nH1PXS3k/38500.mp4
+
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes | 4K",It Capitulo Dois 4K [HDR]
+http://purpleserver.net:80/movie/kps3sbJ3/nH1PXS3k/38501.mp4
+
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes | 4K",Jogador Numero 1 4K
+http://purpleserver.net:80/movie/kps3sbJ3/nH1PXS3k/38502.mp4
+
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes | 4K",John Wick 3 4K
+http://purpleserver.net:80/movie/kps3sbJ3/nH1PXS3k/38503.mp4
+
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes | 4K",John Wick 3 4K [HDR]
+http://purpleserver.net:80/movie/kps3sbJ3/nH1PXS3k/38504.mp4
+
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes | 4K",Jurassic World - Reino Ameacado 4K
+http://purpleserver.net:80/movie/kps3sbJ3/nH1PXS3k/38505.mp4
+
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes | 4K",Liga da Justica 4K
+http://purpleserver.net:80/movie/kps3sbJ3/nH1PXS3k/38506.mp4
+
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes | 4K",Logan 4K
+http://purpleserver.net:80/movie/kps3sbJ3/nH1PXS3k/38507.mp4
+
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes | 4K",Lucy 4K
+http://purpleserver.net:80/movie/kps3sbJ3/nH1PXS3k/38508.mp4
+
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes | 4K",Maquinas Mortais 4K
+http://purpleserver.net:80/movie/kps3sbJ3/nH1PXS3k/38509.mp4
+
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes | 4K",Megatubarao 4K
+http://purpleserver.net:80/movie/kps3sbJ3/nH1PXS3k/38510.mp4
+
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes | 4K",MIB Homens de Preto Internacional 4K
+http://purpleserver.net:80/movie/kps3sbJ3/nH1PXS3k/38511.mp4
+
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes | 4K",MIB Homens de Preto Internacional 4K [HDR]
+http://purpleserver.net:80/movie/kps3sbJ3/nH1PXS3k/38512.mp4
+
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes | 4K",Millenium A Garota na Teia de Aranha 4K
+http://purpleserver.net:80/movie/kps3sbJ3/nH1PXS3k/38513.mp4
+
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes | 4K",Missao Impossivel Fallout 4K
+http://purpleserver.net:80/movie/kps3sbJ3/nH1PXS3k/38514.mp4
+
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes | 4K",Mulher Maravilha 4K
+http://purpleserver.net:80/movie/kps3sbJ3/nH1PXS3k/38515.mp4
+
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes | 4K",NA3s 4K
+http://purpleserver.net:80/movie/kps3sbJ3/nH1PXS3k/38516.mp4
+
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes | 4K",Nasce uma Estrela 4K
+http://purpleserver.net:80/movie/kps3sbJ3/nH1PXS3k/38517.mp4
+
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes | 4K",No Olho do Furacao 4K
+http://purpleserver.net:80/movie/kps3sbJ3/nH1PXS3k/38518.mp4
+
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes | 4K",O Grinch 4K
+http://purpleserver.net:80/movie/kps3sbJ3/nH1PXS3k/38519.mp4
+
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes | 4K",O Menino que Queria Ser Rei 4K
+http://purpleserver.net:80/movie/kps3sbJ3/nH1PXS3k/38520.mp4
+
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes | 4K",O Misterio do Relogio na Parede 4K
+http://purpleserver.net:80/movie/kps3sbJ3/nH1PXS3k/38521.mp4
+
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes | 4K",O Primeiro Homem 4K
+http://purpleserver.net:80/movie/kps3sbJ3/nH1PXS3k/38522.mp4
+
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes | 4K",O Protetor 2 4K
+http://purpleserver.net:80/movie/kps3sbJ3/nH1PXS3k/38523.mp4
+
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes | 4K",O Quebra Nozes e os Quatro Reinos 4K
+http://purpleserver.net:80/movie/kps3sbJ3/nH1PXS3k/38524.mp4
+
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes | 4K",O Rei Leao 4K
+http://purpleserver.net:80/movie/kps3sbJ3/nH1PXS3k/38525.mp4
+
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes | 4K",O Rei Leao 4K [HDR]
+http://purpleserver.net:80/movie/kps3sbJ3/nH1PXS3k/38526.mp4
+
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes | 4K",O Retorno de Mary Poppins 4K
+http://purpleserver.net:80/movie/kps3sbJ3/nH1PXS3k/38527.mp4
+
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes | 4K",Pantera Negra 4K
+http://purpleserver.net:80/movie/kps3sbJ3/nH1PXS3k/38528.mp4
+
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes | 4K",Perdido em Marte 4K
+http://purpleserver.net:80/movie/kps3sbJ3/nH1PXS3k/38529.mp4
+
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes | 4K",Pokemon Detective Pikachu 4K
+http://purpleserver.net:80/movie/kps3sbJ3/nH1PXS3k/38530.mp4
+
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes | 4K",Polar 4K
+http://purpleserver.net:80/movie/kps3sbJ3/nH1PXS3k/38531.mp4
+
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes | 4K",Rampage - Destruicao Total 4K
+http://purpleserver.net:80/movie/kps3sbJ3/nH1PXS3k/38532.mp4
+
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes | 4K",Robin Hood - A Origem 4K
+http://purpleserver.net:80/movie/kps3sbJ3/nH1PXS3k/38533.mp4
+
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes | 4K",Shazam! 4K
+http://purpleserver.net:80/movie/kps3sbJ3/nH1PXS3k/38534.mp4
+
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes | 4K",Superacao O Milagre Da Fe 4K
+http://purpleserver.net:80/movie/kps3sbJ3/nH1PXS3k/38535.mp4
+
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes | 4K",Te Peguei! 4K
+http://purpleserver.net:80/movie/kps3sbJ3/nH1PXS3k/38536.mp4
+
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes | 4K",Thor - Ragnarok 4K
+http://purpleserver.net:80/movie/kps3sbJ3/nH1PXS3k/38537.mp4
+
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes | 4K",Tomb Raider A Origem 4K
+http://purpleserver.net:80/movie/kps3sbJ3/nH1PXS3k/38538.mp4
+
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes | 4K",Toy Story 4 4K
+http://purpleserver.net:80/movie/kps3sbJ3/nH1PXS3k/38539.mp4
+
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes | 4K",Toy Story 4 4K [HDR]
+http://purpleserver.net:80/movie/kps3sbJ3/nH1PXS3k/38540.mp4
+
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes | 4K",Transformers - O Ultimo Cavaleiro 4K
+http://purpleserver.net:80/movie/kps3sbJ3/nH1PXS3k/38541.mp4
+
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes | 4K",Um Lugar Silencioso 4K
+http://purpleserver.net:80/movie/kps3sbJ3/nH1PXS3k/38542.mp4
+
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes | 4K",Velozes & Furiosos: Hobbs & Shaw 4K
+http://purpleserver.net:80/movie/kps3sbJ3/nH1PXS3k/38543.mp4
+
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes | 4K",Velozes & Furiosos: Hobbs & Shaw 4K [HDR]
+http://purpleserver.net:80/movie/kps3sbJ3/nH1PXS3k/38544.mp4
+
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes | 4K",Venom 4K
+http://purpleserver.net:80/movie/kps3sbJ3/nH1PXS3k/38545.mp4
+
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes | 4K",Vida 4K
+http://purpleserver.net:80/movie/kps3sbJ3/nH1PXS3k/38546.mp4
+
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes | 4K",Vidro 4K
+http://purpleserver.net:80/movie/kps3sbJ3/nH1PXS3k/38547.mp4
+
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes | 4K",Vingadores - Guerra Infinita 4K
+http://purpleserver.net:80/movie/kps3sbJ3/nH1PXS3k/38548.mp4
+
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes | 4K",Vingadores Ultimato 4K
+http://purpleserver.net:80/movie/kps3sbJ3/nH1PXS3k/38549.mp4
+
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes | 4K",Vingadores Ultimato 4K [HDR]
+http://purpleserver.net:80/movie/kps3sbJ3/nH1PXS3k/38550.mp4
+
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes | 4K",White Boy Rick 4K
+http://purpleserver.net:80/movie/kps3sbJ3/nH1PXS3k/38551.mp4
+
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes | 4K",Wifi Ralph - Quebrando a Internet 4K
+http://purpleserver.net:80/movie/kps3sbJ3/nH1PXS3k/38552.mp4
+
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes | 4K",X Men Fenix Negra 4K
+http://purpleserver.net:80/movie/kps3sbJ3/nH1PXS3k/38553.mp4
+
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes | 4K",X Men Fenix Negra 4K [HDR]
+http://purpleserver.net:80/movie/kps3sbJ3/nH1PXS3k/38554.mp4

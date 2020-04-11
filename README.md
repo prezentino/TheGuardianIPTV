@@ -920,79 +920,649 @@ http://purpleserver.net:80/643868040/33610402/18596
 http://purpleserver.net:80/643868040/33610402/18597
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",
+#EXTINF:-1 tvg-logo="http://z4.vc/YP8" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",Sony FHD
+http://purpleserver.net:80/643868040/33610402/18850
 
 
-
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",
+#EXTINF:-1 tvg-logo="http://z4.vc/YP8" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",Sony FHD [H265]
+http://purpleserver.net:80/643868040/33610402/25315
 
 
-
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",
+#EXTINF:-1 tvg-logo="http://z4.vc/YP8" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",Sony HD
+http://purpleserver.net:80/643868040/33610402/18714
 
 
-
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",
+#EXTINF:-1 tvg-logo="http://z4.vc/YP8" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",Sony SD
+http://purpleserver.net:80/643868040/33610402/18715
 
 
-
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",
+#EXTINF:-1 tvg-logo="http://z4.vc/hBI" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",Space FHD
+http://purpleserver.net:80/643868040/33610402/18802
 
 
-
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",
+#EXTINF:-1 tvg-logo="http://z4.vc/hBI" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",Space FHD [H265]
+http://purpleserver.net:80/643868040/33610402/22169
 
 
-
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",
+#EXTINF:-1 tvg-logo="http://z4.vc/hBI" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",Space HD
+http://purpleserver.net:80/643868040/33610402/18564
 
 
-
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",
+#EXTINF:-1 tvg-logo="http://z4.vc/hBI" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",Space SD
+http://purpleserver.net:80/643868040/33610402/18565
 
 
-
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",
+#EXTINF:-1 tvg-logo="http://z4.vc/8f1" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",Studio Universal FHD
+http://purpleserver.net:80/643868040/33610402/18801
 
 
-
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",
+#EXTINF:-1 tvg-logo="http://z4.vc/8f1" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",Studio Universal FHD [H265]
+http://purpleserver.net:80/643868040/33610402/22165
 
 
+#EXTINF:-1 tvg-logo="http://z4.vc/8f1" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",Studio Universal HD
+http://purpleserver.net:80/643868040/33610402/18556
 
+
+#EXTINF:-1 tvg-logo="http://z4.vc/8f1" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",Studio Universal SD
+http://purpleserver.net:80/643868040/33610402/18557
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/7Na" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",Syfy FHD
+http://purpleserver.net:80/643868040/33610402/18800
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/7Na" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",Syfy FHD [H265]
+http://purpleserver.net:80/643868040/33610402/22133
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/7Na" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",Syfy HD
+http://purpleserver.net:80/643868040/33610402/18566
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/7Na" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",Syfy SD
+http://purpleserver.net:80/643868040/33610402/18567
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/RDY" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",TBS FHD
+http://purpleserver.net:80/643868040/33610402/18799
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/RDY" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",TBS FHD [H265]
+http://purpleserver.net:80/643868040/33610402/22164
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/RDY" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",TBS HD
+http://purpleserver.net:80/643868040/33610402/18554
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/RDY" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",TBS SD
+http://purpleserver.net:80/643868040/33610402/18555
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/9cn" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",TCM SD
+http://purpleserver.net:80/643868040/33610402/18553
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/RrC" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",TNT FHD
+http://purpleserver.net:80/643868040/33610402/18796
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/RrC" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",TNT FHD [H265]
+http://purpleserver.net:80/643868040/33610402/22157
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/RrC" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",TNT HD
+http://purpleserver.net:80/643868040/33610402/18536
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/RrC" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",TNT SD
+http://purpleserver.net:80/643868040/33610402/18537
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/cM3" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",TNT Series FHD
+http://purpleserver.net:80/643868040/33610402/18795
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/cM3" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",TNT Series FHD [H265]
+http://purpleserver.net:80/643868040/33610402/22156
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/cM3" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",TNT Series HD
+http://purpleserver.net:80/643868040/33610402/18534
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/cM3" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",TNT Series SD
+http://purpleserver.net:80/643868040/33610402/18535
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/04y" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",Universal Channel FHD
+http://purpleserver.net:80/643868040/33610402/18792
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/04y" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",Universal Channel FHD [H265]
+http://purpleserver.net:80/643868040/33610402/22155
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/04y" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",Universal Channel HD
+http://purpleserver.net:80/643868040/33610402/18520
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/04y" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",Universal Channel SD
+http://purpleserver.net:80/643868040/33610402/18521
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/4dc" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",Warner Channel FHD
+http://purpleserver.net:80/643868040/33610402/18790
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/4dc" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",Warner Channel FHD [H265]
+http://purpleserver.net:80/643868040/33610402/22153
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/4dc" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",Warner Channel HD
+http://purpleserver.net:80/643868040/33610402/18513
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/4dc" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",Warner Channel SD
+http://purpleserver.net:80/643868040/33610402/18514
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/aZb" group-title="Canais | [COLOR gray]Globo[/COLOR]",Globo Brasilia FHD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/28390
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/Vli" group-title="Canais | [COLOR gray]Globo[/COLOR]",Globo Brasilia HD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18434
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/aZb" group-title="Canais | [COLOR gray]Globo[/COLOR]",Globo Brasilia SD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18435
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/CsO" group-title="Canais | [COLOR gray]Globo[/COLOR]",Globo Campinas FHD [H265]
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/25210
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/5XU" group-title="Canais | [COLOR gray]Globo[/COLOR]",Globo EPTV Araraquara SD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18433
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/n8G" group-title="Canais | [COLOR gray]Globo[/COLOR]",Globo EPTV Campinas SD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18431
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/pqb" group-title="Canais | [COLOR gray]Globo[/COLOR]",Globo EPTV Ribeirao Preto HD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18430
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/5Uj" group-title="Canais | [COLOR gray]Globo[/COLOR]",Globo EPTV Ribeirao Preto SD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18429
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/nrI" group-title="Canais | [COLOR gray]Globo[/COLOR]",Globo EPTV Sao Carlos SD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18428
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/pzi" group-title="Canais | [COLOR gray]Globo[/COLOR]",GLOBO INTER TV ALTO LITORAL FHD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/28079
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/CCo" group-title="Canais | [COLOR gray]Globo[/COLOR]",Globo Inter TV Alto Litoral FHD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18358
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/hmV" group-title="Canais | [COLOR gray]Globo[/COLOR]",Globo Inter TV Alto Litoral HD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18357
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/t4S" group-title="Canais | [COLOR gray]Globo[/COLOR]",Globo Inter TV Alto Litoral SD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18356
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/eQR" group-title="Canais | [COLOR gray]Globo[/COLOR]",Globo Inter TV dos Vales FHD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18355
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/42v" group-title="Canais | [COLOR gray]Globo[/COLOR]",Globo Inter TV dos Vales HD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18354
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/q6B" group-title="Canais | [COLOR gray]Globo[/COLOR]",Globo Inter TV dos Vales SD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18353
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/gfx" group-title="Canais | [COLOR gray]Globo[/COLOR]",Globo Inter TV Grande Minas FHD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18352
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/BEQ" group-title="Canais | [COLOR gray]Globo[/COLOR]",Globo Inter TV Grande Minas HD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18351
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/6dU" group-title="Canais | [COLOR gray]Globo[/COLOR]",Globo Inter TV Grande Minas SD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18350
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/mVk" group-title="Canais | [COLOR gray]Globo[/COLOR]",Globo Inter TV Natal SD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18427
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/dlF" group-title="Canais | [COLOR gray]Globo[/COLOR]",Globo Inter TV Serra Mar FHD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18349
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/0jO" group-title="Canais | [COLOR gray]Globo[/COLOR]",Globo Inter TV Serra Mar HD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18348
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/4BA" group-title="Canais | [COLOR gray]Globo[/COLOR]",Globo Inter TV Serra Mar SD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18347
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/aZb" group-title="Canais | [COLOR gray]Globo[/COLOR]",Globo Mato Grosso FHD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/28394
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/aZb" group-title="Canais | [COLOR gray]Globo[/COLOR]",Globo Mato Grosso HD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/28393
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/KxL" group-title="Canais | [COLOR gray]Globo[/COLOR]",Globo Minas FHD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18377
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/KZ2" group-title="Canais | [COLOR gray]Globo[/COLOR]",Globo Minas FHD [H265]
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/25209
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/4YI" group-title="Canais | [COLOR gray]Globo[/COLOR]",Globo Minas HD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18425
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/ep1" group-title="Canais | [COLOR gray]Globo[/COLOR]",Globo Minas SD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18426
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/97A" group-title="Canais | [COLOR gray]Globo[/COLOR]",Globo Nordeste FHD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18376
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/Qrd" group-title="Canais | [COLOR gray]Globo[/COLOR]",Globo Nordeste FHD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18423
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/ft1" group-title="Canais | [COLOR gray]Globo[/COLOR]",Globo Nordeste FHD [H265]
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/25208
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/p5d" group-title="Canais | [COLOR gray]Globo[/COLOR]",Globo Nordeste SD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18424
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/gY7" group-title="Canais | [COLOR gray]Globo[/COLOR]",Globo NSC TV Blumenau FHD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18346
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/5W5" group-title="Canais | [COLOR gray]Globo[/COLOR]",Globo NSC TV Blumenau HD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18345
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/hEE" group-title="Canais | [COLOR gray]Globo[/COLOR]",Globo NSC TV Blumenau SD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18344
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/svh" group-title="Canais | [COLOR gray]Globo[/COLOR]",Globo NSC TV Chapeco FHD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18394
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/JTq" group-title="Canais | [COLOR gray]Globo[/COLOR]",Globo NSC TV Chapeco HD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18393
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/G4s" group-title="Canais | [COLOR gray]Globo[/COLOR]",Globo NSC TV Chapeco SD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18392
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/Vey" group-title="Canais | [COLOR gray]Globo[/COLOR]",Globo NSC TV Florianopolis FHD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18375
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/5Kj" group-title="Canais | [COLOR gray]Globo[/COLOR]",Globo NSC TV Florianopolis HD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18421
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/cHX" group-title="Canais | [COLOR gray]Globo[/COLOR]",Globo NSC TV Florianopolis SD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18422
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/urQ" group-title="Canais | [COLOR gray]Globo[/COLOR]",Globo NSC TV Joinville FHD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18340
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/ihU" group-title="Canais | [COLOR gray]Globo[/COLOR]",Globo NSC TV Joinville HD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18339
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/e5c" group-title="Canais | [COLOR gray]Globo[/COLOR]",Globo NSC TV Joinville SD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18338
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/sLB" group-title="Canais | [COLOR gray]Globo[/COLOR]",Globo RBS Porto Alegre FHD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18374
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/kga" group-title="Canais | [COLOR gray]Globo[/COLOR]",Globo RBS TV Caxias do Sul FHD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18343
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/Plw" group-title="Canais | [COLOR gray]Globo[/COLOR]",Globo RBS TV Caxias do Sul HD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18342
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/h4k" group-title="Canais | [COLOR gray]Globo[/COLOR]",Globo RBS TV Caxias do Sul SD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18341
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/Pwb" group-title="Canais | [COLOR gray]Globo[/COLOR]",Globo RBS TV Pelotas FHD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18337
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/iZY" group-title="Canais | [COLOR gray]Globo[/COLOR]",Globo RBS TV Pelotas HD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18336
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/GMl" group-title="Canais | [COLOR gray]Globo[/COLOR]",Globo RBS TV Pelotas SD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18335
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/wJx" group-title="Canais | [COLOR gray]Globo[/COLOR]",Globo RBS TV Porto Alegre HD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18419
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/CX5" group-title="Canais | [COLOR gray]Globo[/COLOR]",Globo RBS TV Porto Alegre SD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18420
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/X3N" group-title="Canais | [COLOR gray]Globo[/COLOR]",Globo Rede Amazonas Manaus SD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18418
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/k7r" group-title="Canais | [COLOR gray]Globo[/COLOR]",Globo RJ FHD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18415
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/pzi" group-title="Canais | [COLOR gray]Globo[/COLOR]",Globo RJ FHD [H265]
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/25232
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/CpN" group-title="Canais | [COLOR gray]Globo[/COLOR]",Globo RJ HD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18416
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/FYM" group-title="Canais | [COLOR gray]Globo[/COLOR]",Globo RJ SD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18417
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/8Bl" group-title="Canais | [COLOR gray]Globo[/COLOR]",Globo RPC Curitiba HD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18413
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/F32" group-title="Canais | [COLOR gray]Globo[/COLOR]",Globo RPC Curitiba SD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18412
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/HQs" group-title="Canais | [COLOR gray]Globo[/COLOR]",Globo RPC Curitiba SD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18414
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/Fwm" group-title="Canais | [COLOR gray]Globo[/COLOR]",Globo RPC Foz do Iguacu FHD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18390
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/acv" group-title="Canais | [COLOR gray]Globo[/COLOR]",Globo RPC Foz do Iguacu HD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18389
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/4u4" group-title="Canais | [COLOR gray]Globo[/COLOR]",Globo RPC Foz do Iguacu SD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18391
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/JTq" group-title="Canais | [COLOR gray]Globo[/COLOR]",GLOBO RPC MARINGA FHD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/28156
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/G4s" group-title="Canais | [COLOR gray]Globo[/COLOR]",GLOBO RPC MARINGA HD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/28155
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/G4s" group-title="Canais | [COLOR gray]Globo[/COLOR]",GLOBO RPC MARINGA SD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/28154
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/rtl" group-title="Canais | [COLOR gray]Globo[/COLOR]",Globo Sao Jose dos Campos SD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/22448
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/rxr" group-title="Canais | [COLOR gray]Globo[/COLOR]",GLOBO SP [4K]
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/26181
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/pzi" group-title="Canais | [COLOR gray]Globo[/COLOR]",Globo SP FHD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/28068
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/NDg" group-title="Canais | [COLOR gray]Globo[/COLOR]",Globo SP FHD [H265]
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/25231
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/Vlx" group-title="Canais | [COLOR gray]Globo[/COLOR]",Globo SP HD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18410
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/tlB" group-title="Canais | [COLOR gray]Globo[/COLOR]",Globo SP SD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18411
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/9N9" group-title="Canais | [COLOR gray]Globo[/COLOR]",Globo TV Anhanguera FHD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18373
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/o8M" group-title="Canais | [COLOR gray]Globo[/COLOR]",Globo TV Anhanguera HD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18407
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/Lu3" group-title="Canais | [COLOR gray]Globo[/COLOR]",Globo TV Anhanguera SD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18408
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/TEc" group-title="Canais | [COLOR gray]Globo[/COLOR]",Globo TV Bahia FHD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18372
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/2HU" group-title="Canais | [COLOR gray]Globo[/COLOR]",Globo TV Bahia HD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18405
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/ORA" group-title="Canais | [COLOR gray]Globo[/COLOR]",Globo TV Bahia SD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18406
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/Ew0" group-title="Canais | [COLOR gray]Globo[/COLOR]",Globo TV C. America Cuiaba SD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18404
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/VCk" group-title="Canais | [COLOR gray]Globo[/COLOR]",Globo TV Cabo Branco FHD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18334
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/jIh" group-title="Canais | [COLOR gray]Globo[/COLOR]",Globo TV Cabo Branco HD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18333
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/V9M" group-title="Canais | [COLOR gray]Globo[/COLOR]",Globo TV Cabo Branco SD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18332
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/GNp" group-title="Canais | [COLOR gray]Globo[/COLOR]",Globo TV Clube Teresina FHD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18387
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/Qhi" group-title="Canais | [COLOR gray]Globo[/COLOR]",Globo TV Clube Teresina HD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18386
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/hiL" group-title="Canais | [COLOR gray]Globo[/COLOR]",Globo TV Clube Teresina SD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18388
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/3yp" group-title="Canais | [COLOR gray]Globo[/COLOR]",Globo TV Diario Fortaleza FHD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18740
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/JPA" group-title="Canais | [COLOR gray]Globo[/COLOR]",Globo TV Diario Fortaleza HD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18490
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/i2a" group-title="Canais | [COLOR gray]Globo[/COLOR]",Globo TV Diario Fortaleza SD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18489
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/P3s" group-title="Canais | [COLOR gray]Globo[/COLOR]",Globo TV Gazeta Alagoas FHD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18363
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/rVZ" group-title="Canais | [COLOR gray]Globo[/COLOR]",Globo TV Gazeta Alagoas HD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18362
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/0wh" group-title="Canais | [COLOR gray]Globo[/COLOR]",Globo TV Gazeta Alagoas SD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18364
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/hex" group-title="Canais | [COLOR gray]Globo[/COLOR]",Globo TV Gazeta Sul ES FHD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18361
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/R14" group-title="Canais | [COLOR gray]Globo[/COLOR]",Globo TV Gazeta Sul ES HD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18360
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/Ri9" group-title="Canais | [COLOR gray]Globo[/COLOR]",Globo TV Gazeta Vitoria FHD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18384
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/pM2" group-title="Canais | [COLOR gray]Globo[/COLOR]",Globo TV Gazeta Vitoria HD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18383
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/PMO" group-title="Canais | [COLOR gray]Globo[/COLOR]",Globo TV Gazeta Vitoria SD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18385
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/y1y" group-title="Canais | [COLOR gray]Globo[/COLOR]",Globo TV Liberal Belem SD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18403
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/iWH" group-title="Canais | [COLOR gray]Globo[/COLOR]",Globo TV Mirante Sao Luis FHD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18371
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/XMT" group-title="Canais | [COLOR gray]Globo[/COLOR]",Globo TV Mirante Sao Luis HD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18370
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/k9T" group-title="Canais | [COLOR gray]Globo[/COLOR]",Globo TV Mirante Sao Luis SD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18369
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/Qju" group-title="Canais | [COLOR gray]Globo[/COLOR]",Globo TV Moreno Campo Grande FHD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18368
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/Auq" group-title="Canais | [COLOR gray]Globo[/COLOR]",Globo TV Moreno Campo Grande HD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18367
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/jZD" group-title="Canais | [COLOR gray]Globo[/COLOR]",Globo TV Moreno Campo Grande SD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18366
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/1ax" group-title="Canais | [COLOR gray]Globo[/COLOR]",Globo TV Rio Sul FHD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18331
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/l2H" group-title="Canais | [COLOR gray]Globo[/COLOR]",Globo TV Rio Sul HD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18330
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/k1z" group-title="Canais | [COLOR gray]Globo[/COLOR]",Globo TV Rio Sul SD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18329
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/RhF" group-title="Canais | [COLOR gray]Globo[/COLOR]",Globo TV Santa Cruz FHD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18328
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/jUt" group-title="Canais | [COLOR gray]Globo[/COLOR]",Globo TV Santa Cruz HD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18327
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/ZoM" group-title="Canais | [COLOR gray]Globo[/COLOR]",Globo TV Santa Cruz SD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18326
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/0ho" group-title="Canais | [COLOR gray]Globo[/COLOR]",Globo TV Sergipe HD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18381
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/PSf" group-title="Canais | [COLOR gray]Globo[/COLOR]",Globo TV Sergipe HD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18380
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/ERo" group-title="Canais | [COLOR gray]Globo[/COLOR]",Globo TV Sergipe HD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/22475
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/Pj1" group-title="Canais | [COLOR gray]Globo[/COLOR]",Globo TV Sergipe SD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18382
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/zfQ" group-title="Canais | [COLOR gray]Globo[/COLOR]",Globo TV TEM Bauru SD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18402
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/c9W" group-title="Canais | [COLOR gray]Globo[/COLOR]",Globo TV TEM S. J. do Rio Preto HD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18400
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/tLN" group-title="Canais | [COLOR gray]Globo[/COLOR]",Globo TV TEM S. J. do Rio Preto SD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18399
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/5rA" group-title="Canais | [COLOR gray]Globo[/COLOR]",Globo TV TEM S. J. Rio Preto FHD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18365
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/F7c" group-title="Canais | [COLOR gray]Globo[/COLOR]",Globo TV TEM Sorocaba SD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18401
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/B32" group-title="Canais | [COLOR gray]Globo[/COLOR]",Globo TV Tribuna Santas SD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18398
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/crH" group-title="Canais | [COLOR gray]Globo[/COLOR]",Globo TV Vanguarda S. J. dos Campos SD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18397
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/osc" group-title="Canais | [COLOR gray]Globo[/COLOR]",Globo TV Verdes Mares Fortaleza HD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/28395
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/osc" group-title="Canais | [COLOR gray]Globo[/COLOR]",Globo TV Verdes Mares Fortaleza SD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/18396
+
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR gray]Globo[/COLOR]",Globo EPTV Campinas FHD
+http://purpleserver.net:80/hgvEcgZS/3sWweonK/33738

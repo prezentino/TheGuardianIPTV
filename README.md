@@ -40,6 +40,14 @@ https://facebook.com/xx.ely.david.xx
 #########################################CANAIS ABERTOS##################################################
 
 
+#EXTINF:-1 tvg-logo="https://tinyurl.com/tqnaak8" group-title="Canais | [COLOR white]Abertos[/COLOR]",[COLOR blue][B]THE GUARDIAN[/B][/COLOR]
+https://facebook.com/xx.ely.david.xx
+
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/wrzf2ze" group-title="Canais | [COLOR white]Abertos[/COLOR]",[COLOR lightsalmon]SUPORTE VIA DISCORD: discord.gg/bVSswd[/COLOR]
+https://facebook.com/xx.ely.david.xx
+
+
 #EXTINF:-1 tvg-logo="http://z4.vc/68l" group-title="Canais | [COLOR white]Abertos[/COLOR]",Band Bahia SD
 http://purpleserver.net:80/t9sNoBot/vBZ28Jsz/28060
 
@@ -278,6 +286,14 @@ http://purpleserver.net:80/t9sNoBot/vBZ28Jsz/33380
 ############################################CANAIS BBB##########################################################
 
 
+#EXTINF:-1 tvg-logo="https://tinyurl.com/tqnaak8" group-title="Canais | [COLOR orange]BBB[/COLOR]",[COLOR blue][B]THE GUARDIAN[/B][/COLOR]
+https://facebook.com/xx.ely.david.xx
+
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/wrzf2ze" group-title="Canais | [COLOR orange]BBB[/COLOR]",[COLOR lightsalmon]SUPORTE VIA DISCORD: discord.gg/bVSswd[/COLOR]
+https://facebook.com/xx.ely.david.xx
+
+
 #EXTINF:-1 tvg-logo="https://tinyurl.com/qs2qpq9" group-title="Canais | [COLOR orange]BBB[/COLOR]",Big Brother Brasil [CAM001] HD
 http://purpleserver.net:80/t9sNoBot/vBZ28Jsz/27861
 
@@ -354,6 +370,15 @@ http://purpleserver.net:80/t9sNoBot/vBZ28Jsz/43545
 
 
 ############################################CANAIS DOCUMENTÁRIOS################################################
+
+
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/tqnaak8" group-title="Canais | [COLOR darkblue]Documentários[/COLOR]",[COLOR blue][B]THE GUARDIAN[/B][/COLOR]
+https://facebook.com/xx.ely.david.xx
+
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/wrzf2ze" group-title="Canais | [COLOR darkblue]Documentários[/COLOR]",[COLOR lightsalmon]SUPORTE VIA DISCORD: discord.gg/bVSswd[/COLOR]
+https://facebook.com/xx.ely.david.xx
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/slU" group-title="Canais | [COLOR darkblue]Documentários[/COLOR]",ANIMAL PLANET [4K]
@@ -566,6 +591,14 @@ http://purpleserver.net:80/t9sNoBot/vBZ28Jsz/18523
 ############################################CANAIS DOCUMENTÁRIOS################################################
 
 
+#EXTINF:-1 tvg-logo="https://tinyurl.com/tqnaak8" group-title="Canais | [COLOR lime]Esportes[/COLOR]",[COLOR blue][B]THE GUARDIAN[/B][/COLOR]
+https://facebook.com/xx.ely.david.xx
+
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/wrzf2ze" group-title="Canais | [COLOR lime]Esportes[/COLOR]",[COLOR lightsalmon]SUPORTE VIA DISCORD: discord.gg/bVSswd[/COLOR]
+https://facebook.com/xx.ely.david.xx
+
+
 #EXTINF:-1 tvg-logo="http://z4.vc/7yf" group-title="Canais | [COLOR lime]Esportes[/COLOR]",BandSports FHD
 http://purpleserver.net:80/t9sNoBot/vBZ28Jsz/18852
 
@@ -722,6 +755,14 @@ http://purpleserver.net:80/t9sNoBot/vBZ28Jsz/18658
 
 
 ############################################CANAIS FILMES E SÉRIES#############################################
+
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/tqnaak8" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",[COLOR blue][B]THE GUARDIAN[/B][/COLOR]
+https://facebook.com/xx.ely.david.xx
+
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/wrzf2ze" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",[COLOR lightsalmon]SUPORTE VIA DISCORD: discord.gg/bVSswd[/COLOR]
+https://facebook.com/xx.ely.david.xx
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/PFh" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",AMC FHD
@@ -1066,6 +1107,19 @@ http://purpleserver.net:80/643868040/33610402/18513
 
 #EXTINF:-1 tvg-logo="http://z4.vc/4dc" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",Warner Channel SD
 http://purpleserver.net:80/643868040/33610402/18514
+
+
+################################################################################################################
+
+
+############################################CANAIS GLOBO########################################################
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/tqnaak8" group-title="Canais | [COLOR gray]Globo[/COLOR]",[COLOR blue][B]THE GUARDIAN[/B][/COLOR]
+https://facebook.com/xx.ely.david.xx
+
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/wrzf2ze" group-title="Canais | [COLOR gray]Globo[/COLOR]",[COLOR lightsalmon]SUPORTE VIA DISCORD: discord.gg/bVSswd[/COLOR]
+https://facebook.com/xx.ely.david.xx
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/aZb" group-title="Canais | [COLOR gray]Globo[/COLOR]",Globo Brasilia FHD
@@ -1566,3 +1620,17 @@ http://purpleserver.net:80/hgvEcgZS/3sWweonK/18396
 
 #EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR gray]Globo[/COLOR]",Globo EPTV Campinas FHD
 http://purpleserver.net:80/hgvEcgZS/3sWweonK/33738
+
+
+################################################################################################################
+
+
+############################################CANAIS GLOBO########################################################
+
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/tqnaak8" group-title="Canais | [COLOR gray]Globo[/COLOR]",[COLOR blue][B]THE GUARDIAN[/B][/COLOR]
+https://facebook.com/xx.ely.david.xx
+
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/wrzf2ze" group-title="Canais | [COLOR gray]Globo[/COLOR]",[COLOR lightsalmon]SUPORTE VIA DISCORD: discord.gg/bVSswd[/COLOR]
+https://facebook.com/xx.ely.david.xx

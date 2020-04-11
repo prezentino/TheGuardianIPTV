@@ -2010,3 +2010,73 @@ http://purpleserver.net:80/kps3sbJ3/nH1PXS3k/28385
 
 #############################################################################################################
 
+
+#############################################CANAIS NOTICIAS##################################################
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/jeQ" group-title="Canais | Notícias",BandNews FHD
+http://purpleserver.net:80/kps3sbJ3/nH1PXS3k/18853
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/vx0" group-title="Canais | Notícias",BandNews FHD [H265]
+http://purpleserver.net:80/kps3sbJ3/nH1PXS3k/22152
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/COC" group-title="Canais | Notícias",BandNews HD
+http://purpleserver.net:80/kps3sbJ3/nH1PXS3k/18725
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/mps" group-title="Canais | Notícias",BandNews SD
+http://purpleserver.net:80/kps3sbJ3/nH1PXS3k/18726
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/qOs" group-title="Canais | Notícias",Globo News FHD
+http://purpleserver.net:80/kps3sbJ3/nH1PXS3k/18776
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/5tp" group-title="Canais | Notícias",Globo News FHD [H265]
+http://purpleserver.net:80/kps3sbJ3/nH1PXS3k/22193
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/4gV" group-title="Canais | Notícias",Globo News HD
+http://purpleserver.net:80/kps3sbJ3/nH1PXS3k/18651
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/lKc" group-title="Canais | Notícias",Globo News SD
+http://purpleserver.net:80/kps3sbJ3/nH1PXS3k/18652
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/qOs" group-title="Canais | Notícias",Globo News FHD
+http://purpleserver.net:80/kps3sbJ3/nH1PXS3k/18776
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/5tp" group-title="Canais | Notícias",Globo News FHD [H265]
+http://purpleserver.net:80/kps3sbJ3/nH1PXS3k/22193
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/4gV" group-title="Canais | Notícias",Globo News HD
+http://purpleserver.net:80/kps3sbJ3/nH1PXS3k/18651
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/lKc" group-title="Canais | Notícias",Globo News SD
+http://purpleserver.net:80/kps3sbJ3/nH1PXS3k/18652
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/PJi" group-title="Canais | Notícias",Record News FHD
+http://purpleserver.net:80/kps3sbJ3/nH1PXS3k/18803
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/s1i" group-title="Canais | Notícias",Record News FHD [H265]
+http://purpleserver.net:80/kps3sbJ3/nH1PXS3k/25204
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/Ncd" group-title="Canais | Notícias",Record News HD
+http://purpleserver.net:80/kps3sbJ3/nH1PXS3k/18577
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/JOU" group-title="Canais | Notícias",Record News SD
+http://purpleserver.net:80/kps3sbJ3/nH1PXS3k/18578
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/xeN" group-title="Canais | Notícias",RecordTV News SD
+http://purpleserver.net:80/kps3sbJ3/nH1PXS3k/22216

@@ -513,19 +513,19 @@ http://purpleserver.net:80/t9sNoBot/vBZ28Jsz/18631
 http://purpleserver.net:80/t9sNoBot/vBZ28Jsz/18632
 
 
-#EXTINF:-1 tvg-logo="http://z4.vc/Yos" group-title="Canais | [COLOR darkblue]Documentários[/COLOR]",H2 FHD
+#EXTINF:-1 tvg-logo="http://z4.vc/Yos" group-title="Canais | [COLOR darkblue]Documentários[/COLOR]",History Channel 2 FHD
 http://purpleserver.net:80/t9sNoBot/vBZ28Jsz/18826
 
 
-#EXTINF:-1 tvg-logo="http://z4.vc/Yos" group-title="Canais | [COLOR darkblue]Documentários[/COLOR]",H2 FHD [H265]
+#EXTINF:-1 tvg-logo="http://z4.vc/Yos" group-title="Canais | [COLOR darkblue]Documentários[/COLOR]",History Channel 2 FHD [H265]
 http://purpleserver.net:80/t9sNoBot/vBZ28Jsz/22192
 
 
-#EXTINF:-1 tvg-logo="http://z4.vc/Yos" group-title="Canais | [COLOR darkblue]Documentários[/COLOR]",H2 HD
+#EXTINF:-1 tvg-logo="http://z4.vc/Yos" group-title="Canais | [COLOR darkblue]Documentários[/COLOR]",History Channel 2 HD
 http://purpleserver.net:80/t9sNoBot/vBZ28Jsz/18643
 
 
-#EXTINF:-1 tvg-logo="http://z4.vc/Yos" group-title="Canais | [COLOR darkblue]Documentários[/COLOR]",H2 SD
+#EXTINF:-1 tvg-logo="http://z4.vc/Yos" group-title="Canais | [COLOR darkblue]Documentários[/COLOR]",History Channel 2 SD
 http://purpleserver.net:80/t9sNoBot/vBZ28Jsz/22309
 
 

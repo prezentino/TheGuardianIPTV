@@ -741,67 +741,67 @@ http://purpleserver.net:80/t9sNoBot/vBZ28Jsz/18737
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/rpV" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",AXN FHD
-http://purpleserver.net:80/s45MMNgK/46mrc2rk/18854
+http://purpleserver.net:80/643868040/33610402/18854
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/rpV" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",AXN FHD [H265]
-http://purpleserver.net:80/s45MMNgK/46mrc2rk/22210
+http://purpleserver.net:80/643868040/33610402/22210
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/rpV" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",AXN HD
-http://purpleserver.net:80/s45MMNgK/46mrc2rk/18730
+http://purpleserver.net:80/643868040/33610402/18730
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/rpV" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",AXN SD
-http://purpleserver.net:80/s45MMNgK/46mrc2rk/18731
+http://purpleserver.net:80/643868040/33610402/18731
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/UqA" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",Canal Brasil FHD
-http://purpleserver.net:80/s45MMNgK/46mrc2rk/18753
+http://purpleserver.net:80/643868040/33610402/18753
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/UqA" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",Canal Brasil FHD [H265]
-http://purpleserver.net:80/s45MMNgK/46mrc2rk/25316
+http://purpleserver.net:80/643868040/33610402/25316
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/UqA" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",Canal Brasil HD
-http://purpleserver.net:80/s45MMNgK/46mrc2rk/18716
+http://purpleserver.net:80/643868040/33610402/18716
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/UqA" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",Canal Brasil SD
-http://purpleserver.net:80/s45MMNgK/46mrc2rk/18717
+http://purpleserver.net:80/643868040/33610402/18717
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/IbR" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",Cinemax FHD
-http://purpleserver.net:80/s45MMNgK/46mrc2rk/18848
+http://purpleserver.net:80/643868040/33610402/18848
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/IbR" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",Cinemax FHD [H265]
-http://purpleserver.net:80/s45MMNgK/46mrc2rk/25313
+http://purpleserver.net:80/643868040/33610402/25313
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/IbR" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",Cinemax HD
-http://purpleserver.net:80/s45MMNgK/46mrc2rk/18709
+http://purpleserver.net:80/643868040/33610402/18709
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/IbR" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",Cinemax SD
-http://purpleserver.net:80/s45MMNgK/46mrc2rk/18710
+http://purpleserver.net:80/643868040/33610402/18710
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/Gcu" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",Fox FHD
-http://purpleserver.net:80/s45MMNgK/46mrc2rk/18779
+http://purpleserver.net:80/643868040/33610402/18779
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/Gcu" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",Fox FHD [H265]
-http://purpleserver.net:80/s45MMNgK/46mrc2rk/22197
+http://purpleserver.net:80/643868040/33610402/22197
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/Gcu" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",Fox HD
-http://purpleserver.net:80/s45MMNgK/46mrc2rk/18667
+http://purpleserver.net:80/643868040/33610402/18667
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/Gcu" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",Fox SD
-http://purpleserver.net:80/s45MMNgK/46mrc2rk/18668
+http://purpleserver.net:80/643868040/33610402/18668
 
 
 #EXTINF:-1 tvg-logo="" group-title="Canais | [COLOR purple]Filmes e Séries[/COLOR]",

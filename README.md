@@ -2734,10 +2734,286 @@ http://purpleserver.net:80/movie/7PnqPtfk/QUJPDhv6/41855.mp4
 
 
 
+
+#########################################################################################
+
+
+##################################SÉRIES Lucifer###########################################
+
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/n3E" group-title="Series | Lucifer",Lúcifer S01 E01
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/10608.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/n3E" group-title="Series | Lucifer",Lúcifer S01 E02
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/10609.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/n3E" group-title="Series | Lucifer",Lúcifer S01 E03
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/10610.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/n3E" group-title="Series | Lucifer",Lúcifer S01 E04
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/10611.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/n3E" group-title="Series | Lucifer",Lúcifer S01 E05
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/10612.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/n3E" group-title="Series | Lucifer",Lúcifer S01 E06
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/10613.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/n3E" group-title="Series | Lucifer",Lúcifer S01 E07
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/10614.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/n3E" group-title="Series | Lucifer",Lúcifer S01 E08
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/10615.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/n3E" group-title="Series | Lucifer",Lúcifer S01 E09
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/10616.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/n3E" group-title="Series | Lucifer",Lúcifer S01 E10
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/10617.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/n3E" group-title="Series | Lucifer",Lúcifer S01 E11
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/10618.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/n3E" group-title="Series | Lucifer",Lúcifer S01 E12
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/10619.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/n3E" group-title="Series | Lucifer",Lúcifer S01 E13
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/10620.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/n3E" group-title="Series | Lucifer",Lúcifer S02 E01
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/10621.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/n3E" group-title="Series | Lucifer",Lúcifer S02 E02
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/10622.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/n3E" group-title="Series | Lucifer",Lúcifer S02 E03
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/10623.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/n3E" group-title="Series | Lucifer",Lúcifer S02 E04
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/10624.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/n3E" group-title="Series | Lucifer",Lúcifer S02 E05
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/10625.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/n3E" group-title="Series | Lucifer",Lúcifer S02 E06
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/10626.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/n3E" group-title="Series | Lucifer",Lúcifer S02 E07
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/10627.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/n3E" group-title="Series | Lucifer",Lúcifer S02 E08
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/10628.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/n3E" group-title="Series | Lucifer",Lúcifer S02 E09
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/10629.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/n3E" group-title="Series | Lucifer",Lúcifer S02 E10
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/10630.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/n3E" group-title="Series | Lucifer",Lúcifer S02 E11
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/10631.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/n3E" group-title="Series | Lucifer",Lúcifer S02 E12
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/10632.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/n3E" group-title="Series | Lucifer",Lúcifer S02 E13
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/10633.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/n3E" group-title="Series | Lucifer",Lúcifer S02 E14
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/10634.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/n3E" group-title="Series | Lucifer",Lúcifer S02 E15
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/10635.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/n3E" group-title="Series | Lucifer",Lúcifer S02 E16
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/10636.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/n3E" group-title="Series | Lucifer",Lúcifer S02 E17
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/10637.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/n3E" group-title="Series | Lucifer",Lúcifer S02 E18
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/10638.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/n3E" group-title="Series | Lucifer",Lúcifer S03 E01
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/10639.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/n3E" group-title="Series | Lucifer",Lúcifer S03 E02
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/10640.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/n3E" group-title="Series | Lucifer",Lúcifer S03 E03
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/10641.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/n3E" group-title="Series | Lucifer",Lúcifer S03 E04
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/10642.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/n3E" group-title="Series | Lucifer",Lúcifer S03 E05
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/10643.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/n3E" group-title="Series | Lucifer",Lúcifer S03 E06
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/10644.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/n3E" group-title="Series | Lucifer",Lúcifer S03 E07
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/10645.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/n3E" group-title="Series | Lucifer",Lúcifer S03 E08
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/10646.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/n3E" group-title="Series | Lucifer",Lúcifer S03 E09
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/10647.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/n3E" group-title="Series | Lucifer",Lúcifer S03 E10
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/10648.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/n3E" group-title="Series | Lucifer",Lúcifer S03 E11
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/10649.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/n3E" group-title="Series | Lucifer",Lúcifer S03 E12
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/10650.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/n3E" group-title="Series | Lucifer",Lúcifer S03 E13
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/10651.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/n3E" group-title="Series | Lucifer",Lúcifer S03 E14
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/10652.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/n3E" group-title="Series | Lucifer",Lúcifer S03 E15
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/10653.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/n3E" group-title="Series | Lucifer",Lúcifer S03 E16
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/10654.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/n3E" group-title="Series | Lucifer",Lúcifer S03 E17
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/10655.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/n3E" group-title="Series | Lucifer",Lúcifer S03 E18
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/10656.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/n3E" group-title="Series | Lucifer",Lúcifer S03 E19
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/10657.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/n3E" group-title="Series | Lucifer",Lúcifer S03 E20
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/10658.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/n3E" group-title="Series | Lucifer",Lúcifer S03 E21
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/10659.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/n3E" group-title="Series | Lucifer",Lúcifer S03 E22
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/10660.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/n3E" group-title="Series | Lucifer",Lúcifer S03 E23
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/10661.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/n3E" group-title="Series | Lucifer",Lúcifer S03 E24
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/10662.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/n3E" group-title="Series | Lucifer",Lúcifer S03 E25
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/10663.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/n3E" group-title="Series | Lucifer",Lúcifer S03 E26
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/10664.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/n3E" group-title="Series | Lucifer",Lúcifer S04 E01
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/22892.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/n3E" group-title="Series | Lucifer",Lúcifer S04 E02
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/22893.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/n3E" group-title="Series | Lucifer",Lúcifer S04 E03
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/22894.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/n3E" group-title="Series | Lucifer",Lúcifer S04 E04
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/22895.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/n3E" group-title="Series | Lucifer",Lúcifer S04 E05
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/22896.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/n3E" group-title="Series | Lucifer",Lúcifer S04 E06
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/22897.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/n3E" group-title="Series | Lucifer",Lúcifer S04 E07
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/22898.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/n3E" group-title="Series | Lucifer",Lúcifer S04 E08
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/22899.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/n3E" group-title="Series | Lucifer",Lúcifer S04 E09
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/22900.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/n3E" group-title="Series | Lucifer",Lúcifer S04 E10
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/22901.mp4
+
+
 #######################################################################################
 
 
-#################################SÉRIES##################################################
+#################################SÉRIES TODO MUNDO ODEIA O CHRIS##################################################
 
 
 
@@ -2771,7 +3047,6 @@ http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/4164.mp4
 
 #EXTINF:-1 tvg-logo="http://z4.vc/7EZ" group-title="Series | Todo Mundo Odeia o Chris",Todo Mundo Odeia o Chris S01 E08
 http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/4165.mp4
-
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/7EZ" group-title="Series | Todo Mundo Odeia o Chris",Todo Mundo Odeia o Chris S01 E09

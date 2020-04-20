@@ -2080,3 +2080,10 @@ http://purpleserver.net:80/Fqh5pzxa/vntqNYJt/18578
 
 #EXTINF:-1 tvg-logo="http://z4.vc/xeN" group-title="Canais | Notícias",RecordTV News SD
 http://purpleserver.net:80/Fqh5pzxa/vntqNYJt/22216
+
+
+########################################FILMES LANÇAMENTOS################################
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/YE8" groupt-title="",Coringa 4K
+http://purpleserver.net:80/movie/yVtcdb5A/JtZttAeu/41855.mp4

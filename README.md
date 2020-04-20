@@ -22,18 +22,6 @@
 
 
 
-#########################################################################################################
-
-
-
-#########################################CANAIS 24 HORAS##################################################
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Todo Mundo Odeia o Chris
-http://purpleserver.net:80/7PnqPtfk/QUJPDhv6/19185
-
-
 
 #########################################################################################################
 
@@ -2737,3 +2725,370 @@ http://purpleserver.net:80/7PnqPtfk/QUJPDhv6/18512
 
 #EXTINF:-1 tvg-logo="http://z4.vc/YE8" group-title="Filmes | Lançamentos",Coringa 4K
 http://purpleserver.net:80/movie/7PnqPtfk/QUJPDhv6/41855.mp4
+
+
+#########################################################################################
+
+
+##################################SÉRIES###########################################
+
+
+
+#######################################################################################
+
+
+#################################SÉRIES##################################################
+
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/7EZ" group-title="Series | Todo Mundo Odeia o Chris",Todo Mundo Odeia o Chris S01 E01
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/4158.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/7EZ" group-title="Series | Todo Mundo Odeia o Chris",Todo Mundo Odeia o Chris S01 E02
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/4159.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/7EZ" group-title="Series | Todo Mundo Odeia o Chris",Todo Mundo Odeia o Chris S01 E03
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/4160.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/7EZ" group-title="Series | Todo Mundo Odeia o Chris",Todo Mundo Odeia o Chris S01 E04
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/4161.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/7EZ" group-title="Series | Todo Mundo Odeia o Chris",Todo Mundo Odeia o Chris S01 E05
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/4162.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/7EZ" group-title="Series | Todo Mundo Odeia o Chris",Todo Mundo Odeia o Chris S01 E06
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/4163.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/7EZ" group-title="Series | Todo Mundo Odeia o Chris",Todo Mundo Odeia o Chris S01 E07
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/4164.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/7EZ" group-title="Series | Todo Mundo Odeia o Chris",Todo Mundo Odeia o Chris S01 E08
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/4165.mp4
+
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/7EZ" group-title="Series | Todo Mundo Odeia o Chris",Todo Mundo Odeia o Chris S01 E09
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/4166.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/7EZ" group-title="Series | Todo Mundo Odeia o Chris",Todo Mundo Odeia o Chris S01 E10
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/4167.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/7EZ" group-title="Series | Todo Mundo Odeia o Chris",Todo Mundo Odeia o Chris S01 E11
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/4168.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/7EZ" group-title="Series | Todo Mundo Odeia o Chris",Todo Mundo Odeia o Chris S01 E12
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/4169.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/7EZ" group-title="Series | Todo Mundo Odeia o Chris",Todo Mundo Odeia o Chris S01 E13
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/4170.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/7EZ" group-title="Series | Todo Mundo Odeia o Chris",Todo Mundo Odeia o Chris S01 E14
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/4171.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/7EZ" group-title="Series | Todo Mundo Odeia o Chris",Todo Mundo Odeia o Chris S01 E15
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/4172.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/7EZ" group-title="Series | Todo Mundo Odeia o Chris",Todo Mundo Odeia o Chris S01 E16
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/4173.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/7EZ" group-title="Series | Todo Mundo Odeia o Chris",Todo Mundo Odeia o Chris S01 E17
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/4174.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/7EZ" group-title="Series | Todo Mundo Odeia o Chris",Todo Mundo Odeia o Chris S01 E18
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/4175.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/7EZ" group-title="Series | Todo Mundo Odeia o Chris",Todo Mundo Odeia o Chris S01 E19
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/4176.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/7EZ" group-title="Series | Todo Mundo Odeia o Chris",Todo Mundo Odeia o Chris S01 E20
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/4177.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/7EZ" group-title="Series | Todo Mundo Odeia o Chris",Todo Mundo Odeia o Chris S01 E21
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/4178.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/7EZ" group-title="Series | Todo Mundo Odeia o Chris",Todo Mundo Odeia o Chris S01 E22
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/4179.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/7EZ" group-title="Series | Todo Mundo Odeia o Chris",Todo Mundo Odeia o Chris S02 E01
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/4180.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/7EZ" group-title="Series | Todo Mundo Odeia o Chris",Todo Mundo Odeia o Chris S02 E02
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/4181.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/7EZ" group-title="Series | Todo Mundo Odeia o Chris",Todo Mundo Odeia o Chris S02 E03
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/4182.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/7EZ" group-title="Series | Todo Mundo Odeia o Chris",Todo Mundo Odeia o Chris S02 E04
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/4183.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/7EZ" group-title="Series | Todo Mundo Odeia o Chris",Todo Mundo Odeia o Chris S02 E05
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/4184.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/7EZ" group-title="Series | Todo Mundo Odeia o Chris",Todo Mundo Odeia o Chris S02 E06
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/4185.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/7EZ" group-title="Series | Todo Mundo Odeia o Chris",Todo Mundo Odeia o Chris S02 E07
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/4186.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/7EZ" group-title="Series | Todo Mundo Odeia o Chris",Todo Mundo Odeia o Chris S02 E08
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/4187.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/7EZ" group-title="Series | Todo Mundo Odeia o Chris",Todo Mundo Odeia o Chris S02 E09
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/4188.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/7EZ" group-title="Series | Todo Mundo Odeia o Chris",Todo Mundo Odeia o Chris S02 E10
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/4189.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/7EZ" group-title="Series | Todo Mundo Odeia o Chris",Todo Mundo Odeia o Chris S02 E11
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/4190.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/7EZ" group-title="Series | Todo Mundo Odeia o Chris",Todo Mundo Odeia o Chris S02 E12
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/4191.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/7EZ" group-title="Series | Todo Mundo Odeia o Chris",Todo Mundo Odeia o Chris S02 E13
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/4192.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/7EZ" group-title="Series | Todo Mundo Odeia o Chris",Todo Mundo Odeia o Chris S02 E14
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/4193.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/7EZ" group-title="Series | Todo Mundo Odeia o Chris",Todo Mundo Odeia o Chris S02 E15
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/4194.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/7EZ" group-title="Series | Todo Mundo Odeia o Chris",Todo Mundo Odeia o Chris S02 E16
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/4195.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/7EZ" group-title="Series | Todo Mundo Odeia o Chris",Todo Mundo Odeia o Chris S02 E17
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/4196.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/7EZ" group-title="Series | Todo Mundo Odeia o Chris",Todo Mundo Odeia o Chris S02 E18
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/4197.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/7EZ" group-title="Series | Todo Mundo Odeia o Chris",Todo Mundo Odeia o Chris S02 E19
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/4198.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/7EZ" group-title="Series | Todo Mundo Odeia o Chris",Todo Mundo Odeia o Chris S02 E20
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/4199.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/7EZ" group-title="Series | Todo Mundo Odeia o Chris",Todo Mundo Odeia o Chris S02 E21
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/4200.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/7EZ" group-title="Series | Todo Mundo Odeia o Chris",Todo Mundo Odeia o Chris S02 E22
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/4201.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/7EZ" group-title="Series | Todo Mundo Odeia o Chris",Todo Mundo Odeia o Chris S03 E01
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/4202.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/7EZ" group-title="Series | Todo Mundo Odeia o Chris",Todo Mundo Odeia o Chris S03 E02
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/4203.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/7EZ" group-title="Series | Todo Mundo Odeia o Chris",Todo Mundo Odeia o Chris S03 E03
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/4204.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/7EZ" group-title="Series | Todo Mundo Odeia o Chris",Todo Mundo Odeia o Chris S03 E04
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/4205.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/7EZ" group-title="Series | Todo Mundo Odeia o Chris",Todo Mundo Odeia o Chris S03 E05
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/4206.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/7EZ" group-title="Series | Todo Mundo Odeia o Chris",Todo Mundo Odeia o Chris S03 E06
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/4207.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/7EZ" group-title="Series | Todo Mundo Odeia o Chris",Todo Mundo Odeia o Chris S03 E07
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/4208.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/7EZ" group-title="Series | Todo Mundo Odeia o Chris",Todo Mundo Odeia o Chris S03 E08
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/4209.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/7EZ" group-title="Series | Todo Mundo Odeia o Chris",Todo Mundo Odeia o Chris S03 E09
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/4210.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/7EZ" group-title="Series | Todo Mundo Odeia o Chris",Todo Mundo Odeia o Chris S03 E10
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/4211.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/7EZ" group-title="Series | Todo Mundo Odeia o Chris",Todo Mundo Odeia o Chris S03 E11
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/4212.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/7EZ" group-title="Series | Todo Mundo Odeia o Chris",Todo Mundo Odeia o Chris S03 E12
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/4213.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/7EZ" group-title="Series | Todo Mundo Odeia o Chris",Todo Mundo Odeia o Chris S03 E13
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/4214.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/7EZ" group-title="Series | Todo Mundo Odeia o Chris",Todo Mundo Odeia o Chris S03 E14
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/4215.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/7EZ" group-title="Series | Todo Mundo Odeia o Chris",Todo Mundo Odeia o Chris S03 E15
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/4216.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/7EZ" group-title="Series | Todo Mundo Odeia o Chris",Todo Mundo Odeia o Chris S03 E16
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/4217.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/7EZ" group-title="Series | Todo Mundo Odeia o Chris",Todo Mundo Odeia o Chris S03 E17
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/4218.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/7EZ" group-title="Series | Todo Mundo Odeia o Chris",Todo Mundo Odeia o Chris S03 E18
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/4219.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/7EZ" group-title="Series | Todo Mundo Odeia o Chris",Todo Mundo Odeia o Chris S03 E19
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/4220.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/7EZ" group-title="Series | Todo Mundo Odeia o Chris",Todo Mundo Odeia o Chris S03 E20
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/4221.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/7EZ" group-title="Series | Todo Mundo Odeia o Chris",Todo Mundo Odeia o Chris S03 E21
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/4222.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/7EZ" group-title="Series | Todo Mundo Odeia o Chris",Todo Mundo Odeia o Chris S03 E22
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/4223.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/7EZ" group-title="Series | Todo Mundo Odeia o Chris",Todo Mundo Odeia o Chris S04 E01
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/4224.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/7EZ" group-title="Series | Todo Mundo Odeia o Chris",Todo Mundo Odeia o Chris S04 E02
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/4225.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/7EZ" group-title="Series | Todo Mundo Odeia o Chris",Todo Mundo Odeia o Chris S04 E03
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/4226.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/7EZ" group-title="Series | Todo Mundo Odeia o Chris",Todo Mundo Odeia o Chris S04 E04
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/4227.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/7EZ" group-title="Series | Todo Mundo Odeia o Chris",Todo Mundo Odeia o Chris S04 E05
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/4228.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/7EZ" group-title="Series | Todo Mundo Odeia o Chris",Todo Mundo Odeia o Chris S04 E06
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/4229.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/7EZ" group-title="Series | Todo Mundo Odeia o Chris",Todo Mundo Odeia o Chris S04 E07
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/4230.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/7EZ" group-title="Series | Todo Mundo Odeia o Chris",Todo Mundo Odeia o Chris S04 E08
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/4231.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/7EZ" group-title="Series | Todo Mundo Odeia o Chris",Todo Mundo Odeia o Chris S04 E09
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/4232.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/7EZ" group-title="Series | Todo Mundo Odeia o Chris",Todo Mundo Odeia o Chris S04 E10
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/4233.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/7EZ" group-title="Series | Todo Mundo Odeia o Chris",Todo Mundo Odeia o Chris S04 E11
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/4234.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/7EZ" group-title="Series | Todo Mundo Odeia o Chris",Todo Mundo Odeia o Chris S04 E12
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/4235.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/7EZ" group-title="Series | Todo Mundo Odeia o Chris",Todo Mundo Odeia o Chris S04 E13
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/4236.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/7EZ" group-title="Series | Todo Mundo Odeia o Chris",Todo Mundo Odeia o Chris S04 E14
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/4237.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/7EZ" group-title="Series | Todo Mundo Odeia o Chris",Todo Mundo Odeia o Chris S04 E15
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/4238.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/7EZ" group-title="Series | Todo Mundo Odeia o Chris",Todo Mundo Odeia o Chris S04 E16
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/4239.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/7EZ" group-title="Series | Todo Mundo Odeia o Chris",Todo Mundo Odeia o Chris S04 E17
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/4240.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/7EZ" group-title="Series | Todo Mundo Odeia o Chris",Todo Mundo Odeia o Chris S04 E18
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/4241.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/7EZ" group-title="Series | Todo Mundo Odeia o Chris",Todo Mundo Odeia o Chris S04 E19
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/4242.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/7EZ" group-title="Series | Todo Mundo Odeia o Chris",Todo Mundo Odeia o Chris S04 E20
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/4243.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/7EZ" group-title="Series | Todo Mundo Odeia o Chris",Todo Mundo Odeia o Chris S04 E21
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/4244.mp4
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/7EZ" group-title="Series | Todo Mundo Odeia o Chris",Todo Mundo Odeia o Chris S04 E22
+http://purpleserver.net:80/series/7PnqPtfk/QUJPDhv6/4245.mp4

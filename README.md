@@ -2088,111 +2088,111 @@ http://purpleserver.net:80/Fqh5pzxa/vntqNYJt/22216
 #############################################CANAIS PREMIERE##################################################
 
 
-#EXINTF:-1 tvg-logo="http://z4.vc/Bxs" group-title="Canais | Premiere",PREMIERE CLUBES [4K]
+#EXTINF:-1 tvg-logo="http://z4.vc/Bxs" group-title="Canais | Premiere",PREMIERE CLUBES [4K]
 http://purpleserver.net:80/EwSeMJY3/eyxGagyC/26184
 
 
-#EXINTF:-1 tvg-logo="http://z4.vc/B3z" group-title="Canais | Premiere",Premiere 2 FHD
+#EXTINF:-1 tvg-logo="http://z4.vc/B3z" group-title="Canais | Premiere",Premiere 2 FHD
 http://purpleserver.net:80/EwSeMJY3/eyxGagyC/18772
 
 
-#EXINTF:-1 tvg-logo="http://z4.vc/JZf" group-title="Canais | Premiere",Premiere 2 FHD [H265]
+#EXTINF:-1 tvg-logo="http://z4.vc/JZf" group-title="Canais | Premiere",Premiere 2 FHD [H265]
 http://purpleserver.net:80/EwSeMJY3/eyxGagyC/22176
 
 
-#EXINTF:-1 tvg-logo="http://z4.vc/7TJ" group-title="Canais | Premiere",Premiere 2 HD
+#EXTINF:-1 tvg-logo="http://z4.vc/7TJ" group-title="Canais | Premiere",Premiere 2 HD
 http://purpleserver.net:80/EwSeMJY3/eyxGagyC/18594
 
 
-#EXINTF:-1 tvg-logo="http://z4.vc/Dw5" group-title="Canais | Premiere",Premiere 2 SD
+#EXTINF:-1 tvg-logo="http://z4.vc/Dw5" group-title="Canais | Premiere",Premiere 2 SD
 http://purpleserver.net:80/EwSeMJY3/eyxGagyC/18595
 
 
-#EXINTF:-1 tvg-logo="http://z4.vc/zhT" group-title="Canais | Premiere",Premiere 3 FHD
+#EXTINF:-1 tvg-logo="http://z4.vc/zhT" group-title="Canais | Premiere",Premiere 3 FHD
 http://purpleserver.net:80/EwSeMJY3/eyxGagyC/18771
 
 
-#EXINTF:-1 tvg-logo="http://z4.vc/3MT" group-title="Canais | Premiere",Premiere 3 FHD [H265]
+#EXTINF:-1 tvg-logo="http://z4.vc/3MT" group-title="Canais | Premiere",Premiere 3 FHD [H265]
 http://purpleserver.net:80/EwSeMJY3/eyxGagyC/22175
 
 
-#EXINTF:-1 tvg-logo="http://z4.vc/Eov" group-title="Canais | Premiere",Premiere 3 HD
+#EXTINF:-1 tvg-logo="http://z4.vc/Eov" group-title="Canais | Premiere",Premiere 3 HD
 http://purpleserver.net:80/EwSeMJY3/eyxGagyC/18592
 
 
-#EXINTF:-1 tvg-logo="http://z4.vc/pYW" group-title="Canais | Premiere",Premiere 3 SD
+#EXTINF:-1 tvg-logo="http://z4.vc/pYW" group-title="Canais | Premiere",Premiere 3 SD
 http://purpleserver.net:80/EwSeMJY3/eyxGagyC/18593
 
 
-#EXINTF:-1 tvg-logo="http://z4.vc/l5p" group-title="Canais | Premiere",Premiere 4 FHD
+#EXTINF:-1 tvg-logo="http://z4.vc/l5p" group-title="Canais | Premiere",Premiere 4 FHD
 http://purpleserver.net:80/EwSeMJY3/eyxGagyC/18770
 
 
-#EXINTF:-1 tvg-logo="http://z4.vc/GQj" group-title="Canais | Premiere",Premiere 4 FHD [H265]
+#EXTINF:-1 tvg-logo="http://z4.vc/GQj" group-title="Canais | Premiere",Premiere 4 FHD [H265]
 http://purpleserver.net:80/EwSeMJY3/eyxGagyC/22174
 
 
-#EXINTF:-1 tvg-logo="http://z4.vc/3yh" group-title="Canais | Premiere",Premiere 4 HD
+#EXTINF:-1 tvg-logo="http://z4.vc/3yh" group-title="Canais | Premiere",Premiere 4 HD
 http://purpleserver.net:80/EwSeMJY3/eyxGagyC/18590
 
 
-#EXINTF:-1 tvg-logo="http://z4.vc/rHH" group-title="Canais | Premiere",Premiere 4 SD
+#EXTINF:-1 tvg-logo="http://z4.vc/rHH" group-title="Canais | Premiere",Premiere 4 SD
 http://purpleserver.net:80/EwSeMJY3/eyxGagyC/18591
 
 
-#EXINTF:-1 tvg-logo="http://z4.vc/9fk" group-title="Canais | Premiere",Premiere 5 FHD
+#EXTINF:-1 tvg-logo="http://z4.vc/9fk" group-title="Canais | Premiere",Premiere 5 FHD
 http://purpleserver.net:80/EwSeMJY3/eyxGagyC/18769
 
 
-#EXINTF:-1 tvg-logo="http://z4.vc/gzL" group-title="Canais | Premiere",Premiere 5 FHD [H265]
+#EXTINF:-1 tvg-logo="http://z4.vc/gzL" group-title="Canais | Premiere",Premiere 5 FHD [H265]
 http://purpleserver.net:80/EwSeMJY3/eyxGagyC/22173
 
 
-#EXINTF:-1 tvg-logo="http://z4.vc/mTm" group-title="Canais | Premiere",Premiere 5 HD
+#EXTINF:-1 tvg-logo="http://z4.vc/mTm" group-title="Canais | Premiere",Premiere 5 HD
 http://purpleserver.net:80/EwSeMJY3/eyxGagyC/18588
 
 
-#EXINTF:-1 tvg-logo="http://z4.vc/EKB" group-title="Canais | Premiere",Premiere 5 SD
+#EXTINF:-1 tvg-logo="http://z4.vc/EKB" group-title="Canais | Premiere",Premiere 5 SD
 http://purpleserver.net:80/EwSeMJY3/eyxGagyC/18589
 
 
-#EXINTF:-1 tvg-logo="http://z4.vc/MWj" group-title="Canais | Premiere",Premiere 6 FHD
+#EXTINF:-1 tvg-logo="http://z4.vc/MWj" group-title="Canais | Premiere",Premiere 6 FHD
 http://purpleserver.net:80/EwSeMJY3/eyxGagyC/18768
 
 
-#EXINTF:-1 tvg-logo="http://z4.vc/zX5" group-title="Canais | Premiere",Premiere 6 FHD [H265]
+#EXTINF:-1 tvg-logo="http://z4.vc/zX5" group-title="Canais | Premiere",Premiere 6 FHD [H265]
 http://purpleserver.net:80/EwSeMJY3/eyxGagyC/22172
 
 
-#EXINTF:-1 tvg-logo="http://z4.vc/6nM" group-title="Canais | Premiere",Premiere 6 HD
+#EXTINF:-1 tvg-logo="http://z4.vc/6nM" group-title="Canais | Premiere",Premiere 6 HD
 http://purpleserver.net:80/EwSeMJY3/eyxGagyC/18586
 
 
-#EXINTF:-1 tvg-logo="http://z4.vc/QT6" group-title="Canais | Premiere",Premiere 6 SD
+#EXTINF:-1 tvg-logo="http://z4.vc/QT6" group-title="Canais | Premiere",Premiere 6 SD
 http://purpleserver.net:80/EwSeMJY3/eyxGagyC/18587
 
 
-#EXINTF:-1 tvg-logo="http://z4.vc/1i8" group-title="Canais | Premiere",Premiere 7 FHD
+#EXTINF:-1 tvg-logo="http://z4.vc/1i8" group-title="Canais | Premiere",Premiere 7 FHD
 http://purpleserver.net:80/EwSeMJY3/eyxGagyC/18767
 
 
-#EXINTF:-1 tvg-logo="http://z4.vc/1i8" group-title="Canais | Premiere",Premiere 7 FHD [H265]
+#EXTINF:-1 tvg-logo="http://z4.vc/1i8" group-title="Canais | Premiere",Premiere 7 FHD [H265]
 http://purpleserver.net:80/EwSeMJY3/eyxGagyC/22171
 
 
-#EXINTF:-1 tvg-logo="http://z4.vc/1i8" group-title="Canais | Premiere",Premiere 7 HD
+#EXTINF:-1 tvg-logo="http://z4.vc/1i8" group-title="Canais | Premiere",Premiere 7 HD
 http://purpleserver.net:80/EwSeMJY3/eyxGagyC/18584
 
 
-#EXINTF:-1 tvg-logo="http://z4.vc/1i8" group-title="Canais | Premiere",Premiere 7 SD
+#EXTINF:-1 tvg-logo="http://z4.vc/1i8" group-title="Canais | Premiere",Premiere 7 SD
 http://purpleserver.net:80/EwSeMJY3/eyxGagyC/18585
 
 
-#EXINTF:-1 tvg-logo="" group-title="Canais | Premiere",Premiere 8 SD
+#EXTINF:-1 tvg-logo="" group-title="Canais | Premiere",Premiere 8 SD
 http://purpleserver.net:80/EwSeMJY3/eyxGagyC/28064
 
 
-#EXINTF:-1 tvg-logo="" group-title="Canais | Premiere",Premiere 9 SD
+#EXTINF:-1 tvg-logo="" group-title="Canais | Premiere",Premiere 9 SD
 http://purpleserver.net:80/EwSeMJY3/eyxGagyC/28063
 
 
@@ -2203,123 +2203,123 @@ http://purpleserver.net:80/EwSeMJY3/eyxGagyC/28063
 #############################################CANAIS SPORTV##################################################
 
 
-#EXINTF:-1 tvg-logo="http://z4.vc/tDf" group-title="Canais | Sportv",SPORTV [4K]
+#EXTINF:-1 tvg-logo="http://z4.vc/tDf" group-title="Canais | Sportv",SPORTV [4K]
 http://purpleserver.net:80/EwSeMJY3/eyxGagyC/26190
 
 
-#EXINTF:-1 tvg-logo="http://z4.vc/ftu" group-title="Canais | Sportv",SporTV FHD
+#EXTINF:-1 tvg-logo="http://z4.vc/ftu" group-title="Canais | Sportv",SporTV FHD
 http://purpleserver.net:80/EwSeMJY3/eyxGagyC/18761
 
 
-#EXINTF:-1 tvg-logo="http://z4.vc/SlI" group-title="Canais | Sportv",SporTV FHD [H265]
+#EXTINF:-1 tvg-logo="http://z4.vc/SlI" group-title="Canais | Sportv",SporTV FHD [H265]
 http://purpleserver.net:80/EwSeMJY3/eyxGagyC/22166
 
 
-#EXINTF:-1 tvg-logo="http://z4.vc/Fl2" group-title="Canais | Sportv",SporTV 2 FHD
+#EXTINF:-1 tvg-logo="http://z4.vc/Fl2" group-title="Canais | Sportv",SporTV 2 FHD
 http://purpleserver.net:80/EwSeMJY3/eyxGagyC/18763
 
 
-#EXINTF:-1 tvg-logo="http://z4.vc/JSJ" group-title="Canais | Sportv",SporTV 2 FHD [H265]
+#EXTINF:-1 tvg-logo="http://z4.vc/JSJ" group-title="Canais | Sportv",SporTV 2 FHD [H265]
 http://purpleserver.net:80/EwSeMJY3/eyxGagyC/22168
 
 
-#EXINTF:-1 tvg-logo="http://z4.vc/7lY" group-title="Canais | Sportv",SporTV 2 HD
+#EXTINF:-1 tvg-logo="http://z4.vc/7lY" group-title="Canais | Sportv",SporTV 2 HD
 http://purpleserver.net:80/EwSeMJY3/eyxGagyC/18561
 
 
-#EXINTF:-1 tvg-logo="http://z4.vc/P0b" group-title="Canais | Sportv",SporTV 2 SD
+#EXTINF:-1 tvg-logo="http://z4.vc/P0b" group-title="Canais | Sportv",SporTV 2 SD
 http://purpleserver.net:80/EwSeMJY3/eyxGagyC/18562
 
 
-#EXINTF:-1 tvg-logo="http://z4.vc/dyY" group-title="Canais | Sportv",SporTV 3 FHD
+#EXTINF:-1 tvg-logo="http://z4.vc/dyY" group-title="Canais | Sportv",SporTV 3 FHD
 http://purpleserver.net:80/EwSeMJY3/eyxGagyC/18762
 
 
-#EXINTF:-1 tvg-logo="http://z4.vc/Ya4" group-title="Canais | Sportv",SporTV 3 FHD [H265]
+#EXTINF:-1 tvg-logo="http://z4.vc/Ya4" group-title="Canais | Sportv",SporTV 3 FHD [H265]
 http://purpleserver.net:80/EwSeMJY3/eyxGagyC/22167
 
 
-#EXINTF:-1 tvg-logo="" group-title="Canais | Sportv",
+#EXTINF:-1 tvg-logo="" group-title="Canais | Sportv",
 
 
 
-#EXINTF:-1 tvg-logo="" group-title="Canais | Sportv",
+#EXTINF:-1 tvg-logo="" group-title="Canais | Sportv",
 
 
 
-#EXINTF:-1 tvg-logo="" group-title="Canais | Sportv",
+#EXTINF:-1 tvg-logo="" group-title="Canais | Sportv",
 
 
 
-#EXINTF:-1 tvg-logo="" group-title="Canais | Sportv",
+#EXTINF:-1 tvg-logo="" group-title="Canais | Sportv",
 
 
 
-#EXINTF:-1 tvg-logo="" group-title="Canais | Sportv",
+#EXTINF:-1 tvg-logo="" group-title="Canais | Sportv",
 
 
 
-#EXINTF:-1 tvg-logo="" group-title="Canais | Sportv",
+#EXTINF:-1 tvg-logo="" group-title="Canais | Sportv",
 
 
 
-#EXINTF:-1 tvg-logo="" group-title="Canais | Sportv",
+#EXTINF:-1 tvg-logo="" group-title="Canais | Sportv",
 
 
 
-#EXINTF:-1 tvg-logo="" group-title="Canais | Sportv",
+#EXTINF:-1 tvg-logo="" group-title="Canais | Sportv",
 
 
 
-#EXINTF:-1 tvg-logo="" group-title="Canais | Sportv",
+#EXTINF:-1 tvg-logo="" group-title="Canais | Sportv",
 
 
 
-#EXINTF:-1 tvg-logo="" group-title="Canais | Sportv",
+#EXTINF:-1 tvg-logo="" group-title="Canais | Sportv",
 
 
 
-#EXINTF:-1 tvg-logo="" group-title="Canais | Sportv",
+#EXTINF:-1 tvg-logo="" group-title="Canais | Sportv",
 
 
 
-#EXINTF:-1 tvg-logo="" group-title="Canais | Sportv",
+#EXTINF:-1 tvg-logo="" group-title="Canais | Sportv",
 
 
 
-#EXINTF:-1 tvg-logo="" group-title="Canais | Sportv",
+#EXTINF:-1 tvg-logo="" group-title="Canais | Sportv",
 
 
 
-#EXINTF:-1 tvg-logo="" group-title="Canais | Sportv",
+#EXTINF:-1 tvg-logo="" group-title="Canais | Sportv",
 
 
 
-#EXINTF:-1 tvg-logo="" group-title="Canais | Sportv",
+#EXTINF:-1 tvg-logo="" group-title="Canais | Sportv",
 
 
 
-#EXINTF:-1 tvg-logo="" group-title="Canais | Sportv",
+#EXTINF:-1 tvg-logo="" group-title="Canais | Sportv",
 
 
 
-#EXINTF:-1 tvg-logo="" group-title="Canais | Sportv",
+#EXTINF:-1 tvg-logo="" group-title="Canais | Sportv",
 
 
 
-#EXINTF:-1 tvg-logo="" group-title="Canais | Sportv",
+#EXTINF:-1 tvg-logo="" group-title="Canais | Sportv",
 
 
 
-#EXINTF:-1 tvg-logo="" group-title="Canais | Sportv",
+#EXTINF:-1 tvg-logo="" group-title="Canais | Sportv",
 
 
 
-#EXINTF:-1 tvg-logo="" group-title="Canais | Sportv",
+#EXTINF:-1 tvg-logo="" group-title="Canais | Sportv",
 
 
 
-#EXINTF:-1 tvg-logo="" group-title="Canais | Sportv",
+#EXTINF:-1 tvg-logo="" group-title="Canais | Sportv",
 
 
 

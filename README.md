@@ -2082,8 +2082,267 @@ http://purpleserver.net:80/Fqh5pzxa/vntqNYJt/18578
 http://purpleserver.net:80/Fqh5pzxa/vntqNYJt/22216
 
 
+#############################################################################################################
+
+
+#############################################CANAIS NOTICIAS##################################################
+
+
+#EXINTF:-1 tvg-logo="http://z4.vc/Bxs" group-title="Canais | Premiere",PREMIERE CLUBES [4K]
+http://purpleserver.net:80/yVtcdb5A/JtZttAeu/26184
+
+
+#EXINTF:-1 tvg-logo="http://z4.vc/B3z" group-title="Canais | Premiere",Premiere 2 FHD
+http://purpleserver.net:80/yVtcdb5A/JtZttAeu/18772
+
+
+#EXINTF:-1 tvg-logo="http://z4.vc/JZf" group-title="Canais | Premiere",Premiere 2 FHD [H265]
+http://purpleserver.net:80/yVtcdb5A/JtZttAeu/22176
+
+
+#EXINTF:-1 tvg-logo="http://z4.vc/7TJ" group-title="Canais | Premiere",Premiere 2 HD
+http://purpleserver.net:80/yVtcdb5A/JtZttAeu/18594
+
+
+#EXINTF:-1 tvg-logo="http://z4.vc/Dw5" group-title="Canais | Premiere",Premiere 2 SD
+http://purpleserver.net:80/yVtcdb5A/JtZttAeu/18595
+
+
+#EXINTF:-1 tvg-logo="http://z4.vc/zhT" group-title="Canais | Premiere",Premiere 3 FHD
+http://purpleserver.net:80/yVtcdb5A/JtZttAeu/18771
+
+
+#EXINTF:-1 tvg-logo="http://z4.vc/3MT" group-title="Canais | Premiere",Premiere 3 FHD [H265]
+http://purpleserver.net:80/yVtcdb5A/JtZttAeu/22175
+
+
+#EXINTF:-1 tvg-logo="http://z4.vc/Eov" group-title="Canais | Premiere",Premiere 3 HD
+http://purpleserver.net:80/yVtcdb5A/JtZttAeu/18592
+
+
+#EXINTF:-1 tvg-logo="http://z4.vc/pYW" group-title="Canais | Premiere",Premiere 3 SD
+http://purpleserver.net:80/yVtcdb5A/JtZttAeu/18593
+
+
+#EXINTF:-1 tvg-logo="http://z4.vc/l5p" group-title="Canais | Premiere",Premiere 4 FHD
+http://purpleserver.net:80/yVtcdb5A/JtZttAeu/18770
+
+
+#EXINTF:-1 tvg-logo="http://z4.vc/GQj" group-title="Canais | Premiere",Premiere 4 FHD [H265]
+http://purpleserver.net:80/yVtcdb5A/JtZttAeu/22174
+
+
+#EXINTF:-1 tvg-logo="http://z4.vc/3yh" group-title="Canais | Premiere",Premiere 4 HD
+http://purpleserver.net:80/yVtcdb5A/JtZttAeu/18590
+
+
+#EXINTF:-1 tvg-logo="http://z4.vc/rHH" group-title="Canais | Premiere",Premiere 4 SD
+http://purpleserver.net:80/yVtcdb5A/JtZttAeu/18591
+
+
+#EXINTF:-1 tvg-logo="http://z4.vc/9fk" group-title="Canais | Premiere",Premiere 5 FHD
+http://purpleserver.net:80/yVtcdb5A/JtZttAeu/18769
+
+
+#EXINTF:-1 tvg-logo="http://z4.vc/gzL" group-title="Canais | Premiere",Premiere 5 FHD [H265]
+http://purpleserver.net:80/yVtcdb5A/JtZttAeu/22173
+
+
+#EXINTF:-1 tvg-logo="http://z4.vc/mTm" group-title="Canais | Premiere",Premiere 5 HD
+http://purpleserver.net:80/yVtcdb5A/JtZttAeu/18588
+
+
+#EXINTF:-1 tvg-logo="http://z4.vc/EKB" group-title="Canais | Premiere",Premiere 5 SD
+http://purpleserver.net:80/yVtcdb5A/JtZttAeu/18589
+
+
+#EXINTF:-1 tvg-logo="http://z4.vc/MWj" group-title="Canais | Premiere",Premiere 6 FHD
+http://purpleserver.net:80/yVtcdb5A/JtZttAeu/18768
+
+
+#EXINTF:-1 tvg-logo="http://z4.vc/zX5" group-title="Canais | Premiere",Premiere 6 FHD [H265]
+http://purpleserver.net:80/yVtcdb5A/JtZttAeu/22172
+
+
+#EXINTF:-1 tvg-logo="http://z4.vc/6nM" group-title="Canais | Premiere",Premiere 6 HD
+http://purpleserver.net:80/yVtcdb5A/JtZttAeu/18586
+
+
+#EXINTF:-1 tvg-logo="http://z4.vc/QT6" group-title="Canais | Premiere",Premiere 6 SD
+http://purpleserver.net:80/yVtcdb5A/JtZttAeu/18587
+
+
+#EXINTF:-1 tvg-logo="http://z4.vc/1i8" group-title="Canais | Premiere",Premiere 7 FHD
+http://purpleserver.net:80/yVtcdb5A/JtZttAeu/18767
+
+
+#EXINTF:-1 tvg-logo="http://z4.vc/1i8" group-title="Canais | Premiere",Premiere 7 FHD [H265]
+http://purpleserver.net:80/yVtcdb5A/JtZttAeu/22171
+
+
+#EXINTF:-1 tvg-logo="http://z4.vc/1i8" group-title="Canais | Premiere",Premiere 7 HD
+http://purpleserver.net:80/yVtcdb5A/JtZttAeu/18584
+
+
+#EXINTF:-1 tvg-logo="http://z4.vc/1i8" group-title="Canais | Premiere",Premiere 7 SD
+http://purpleserver.net:80/yVtcdb5A/JtZttAeu/18585
+
+
+#EXINTF:-1 tvg-logo="" group-title="Canais | Premiere",
+
+
+
+#EXINTF:-1 tvg-logo="" group-title="Canais | Premiere",
+
+
+
+#EXINTF:-1 tvg-logo="" group-title="Canais | Premiere",
+
+
+
+#EXINTF:-1 tvg-logo="" group-title="Canais | Premiere",
+
+
+
+#EXINTF:-1 tvg-logo="" group-title="Canais | Premiere",
+
+
+
+#EXINTF:-1 tvg-logo="" group-title="Canais | Premiere",
+
+
+
+#EXINTF:-1 tvg-logo="" group-title="Canais | Premiere",
+
+
+
+#EXINTF:-1 tvg-logo="" group-title="Canais | Premiere",
+
+
+
+#EXINTF:-1 tvg-logo="" group-title="Canais | Premiere",
+
+
+
+#EXINTF:-1 tvg-logo="" group-title="Canais | Premiere",
+
+
+
+#EXINTF:-1 tvg-logo="" group-title="Canais | Premiere",
+
+
+
+#EXINTF:-1 tvg-logo="" group-title="Canais | Premiere",
+
+
+
+#EXINTF:-1 tvg-logo="" group-title="Canais | Premiere",
+
+
+
+#EXINTF:-1 tvg-logo="" group-title="Canais | Premiere",
+
+
+
+#EXINTF:-1 tvg-logo="" group-title="Canais | Premiere",
+
+
+
+#EXINTF:-1 tvg-logo="" group-title="Canais | Premiere",
+
+
+
+#EXINTF:-1 tvg-logo="" group-title="Canais | Premiere",
+
+
+
+#EXINTF:-1 tvg-logo="" group-title="Canais | Premiere",
+
+
+
+#EXINTF:-1 tvg-logo="" group-title="Canais | Premiere",
+
+
+
+#EXINTF:-1 tvg-logo="" group-title="Canais | Premiere",
+
+
+
+#EXINTF:-1 tvg-logo="" group-title="Canais | Premiere",
+
+
+
+#EXINTF:-1 tvg-logo="" group-title="Canais | Premiere",
+
+
+
+#EXINTF:-1 tvg-logo="" group-title="Canais | Premiere",
+
+
+
+#EXINTF:-1 tvg-logo="" group-title="Canais | Premiere",
+
+
+
+#EXINTF:-1 tvg-logo="" group-title="Canais | Premiere",
+
+
+
+#EXINTF:-1 tvg-logo="" group-title="Canais | Premiere",
+
+
+
+#EXINTF:-1 tvg-logo="" group-title="Canais | Premiere",
+
+
+
+#EXINTF:-1 tvg-logo="" group-title="Canais | Premiere",
+
+
+
+#EXINTF:-1 tvg-logo="" group-title="Canais | Premiere",
+
+
+
+#EXINTF:-1 tvg-logo="" group-title="Canais | Premiere",
+
+
+
+#EXINTF:-1 tvg-logo="" group-title="Canais | Premiere",
+
+
+
+#EXINTF:-1 tvg-logo="" group-title="Canais | Premiere",
+
+
+
+#EXINTF:-1 tvg-logo="" group-title="Canais | Premiere",
+
+
+
+#EXINTF:-1 tvg-logo="" group-title="Canais | Premiere",
+
+
+
+#EXINTF:-1 tvg-logo="" group-title="Canais | Premiere",
+
+
+
+#EXINTF:-1 tvg-logo="" group-title="Canais | Premiere",
+
+
+
+#EXINTF:-1 tvg-logo="" group-title="Canais | Premiere",
+
+
+
+#EXINTF:-1 tvg-logo="" group-title="Canais | Premiere",
+
+
+
+
 ########################################FILMES LANÇAMENTOS################################
 
 
-#EXTINF:-1 tvg-logo="http://z4.vc/YE8" groupt-title="Filmes | Lançamentos",Coringa 4K
+#EXTINF:-1 tvg-logo="http://z4.vc/YE8" group-title="Filmes | Lançamentos",Coringa 4K
 http://purpleserver.net:80/movie/yVtcdb5A/JtZttAeu/41855.mp4

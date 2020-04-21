@@ -499,163 +499,399 @@ http://csrv.me:80/live/UGS7N/r5M6D/29879.m3u8
 #########################################################################################################
 
 
-#########################################CANAIS CAMERAS######################################################
+#########################################CANAIS DOCUMENTARIOS############################################
 
 
 
-#EXTINF:2 tvg-logo="" group-title="Canais | Cameras Ao Vivo",Doha [Camera]
-http://csrv.me:80/live/UGS7N/r5M6D/2428.m3u8
+#EXTINF:2 tvg-logo="http://iv.pe/c9x" group-title="Canais | Documentários",Animal Planet 4K [H265]
+http://csrv.me:80/live/UGS7N/r5M6D/28663.m3u8
 
 
-#EXTINF:2 tvg-logo="" group-title="Canais | Cameras Ao Vivo",Dubai [Camera]
-http://csrv.me:80/live/UGS7N/r5M6D/2423.m3u8
+#EXTINF:2 tvg-logo="http://iv.pe/c9x" group-title="Canais | Documentários",Animal Planet FHD
+http://csrv.me:80/live/UGS7N/r5M6D/2023.m3u8
 
 
-#EXTINF:2 tvg-logo="" group-title="Canais | Cameras Ao Vivo",Dublin [Camera]
-http://csrv.me:80/live/UGS7N/r5M6D/2421.m3u8
+#EXTINF:2 tvg-logo="http://iv.pe/c9x" group-title="Canais | Documentários",Animal Planet FHD [H265]
+http://csrv.me:80/live/UGS7N/r5M6D/25472.m3u8
 
 
-#EXTINF:2 tvg-logo="" group-title="Canais | Cameras Ao Vivo",Jerusalem [Camera]
-http://csrv.me:80/live/UGS7N/r5M6D/2430.m3u8
+#EXTINF:2 tvg-logo="http://iv.pe/c9x" group-title="Canais | Documentários",Animal Planet FHD [H265] [Alter]
+http://csrv.me:80/live/UGS7N/r5M6D/29482.m3u8
 
 
-#EXTINF:2 tvg-logo="" group-title="Canais | Cameras Ao Vivo",Los Angeles [Camera]
-http://csrv.me:80/live/UGS7N/r5M6D/2432.m3u8
+#EXTINF:2 tvg-logo="http://iv.pe/c9x" group-title="Canais | Documentários",Animal Planet HD
+http://csrv.me:80/live/UGS7N/r5M6D/1902.m3u8
 
 
-#EXTINF:2 tvg-logo="" group-title="Canais | Cameras Ao Vivo",Maldivas [Camera]
-http://csrv.me:80/live/UGS7N/r5M6D/2422.m3u8
+#EXTINF:2 tvg-logo="http://iv.pe/c9x" group-title="Canais | Documentários",Animal Planet HD [Alter]
+http://csrv.me:80/live/UGS7N/r5M6D/2400.m3u8
 
 
-#EXTINF:2 tvg-logo="" group-title="Canais | Cameras Ao Vivo",Miami [Camera]
-http://csrv.me:80/live/UGS7N/r5M6D/2426.m3u8
+#EXTINF:2 tvg-logo="http://iv.pe/c9x" group-title="Canais | Documentários",Animal Planet SD
+http://csrv.me:80/live/UGS7N/r5M6D/1903.m3u8
 
 
-#EXTINF:2 tvg-logo="" group-title="Canais | Cameras Ao Vivo",Moscow [Camera]
-http://csrv.me:80/live/UGS7N/r5M6D/2431.m3u8
+#EXTINF:2 tvg-logo="http://iv.pe/c9x" group-title="Canais | Documentários",Animal Planet SD [Alter]
+http://csrv.me:80/live/UGS7N/r5M6D/2213.m3u8
 
 
-#EXTINF:2 tvg-logo="" group-title="Canais | Cameras Ao Vivo",New York City [Camera]
-http://csrv.me:80/live/UGS7N/r5M6D/2418.m3u8
+#EXTINF:2 tvg-logo="http://iv.pe/rSN" group-title="Canais | Documentários",Arte 1 FHD
+http://csrv.me:80/live/UGS7N/r5M6D/2022.m3u8
 
 
-#EXTINF:2 tvg-logo="" group-title="Canais | Cameras Ao Vivo",Paris [Camera]
-http://csrv.me:80/live/UGS7N/r5M6D/2429.m3u8
+#EXTINF:2 tvg-logo="http://iv.pe/rSN" group-title="Canais | Documentários",Arte 1 FHD [H265]
+http://csrv.me:80/live/UGS7N/r5M6D/25471.m3u8
 
 
-#EXTINF:2 tvg-logo="" group-title="Canais | Cameras Ao Vivo",Prague [Camera]
-http://csrv.me:80/live/UGS7N/r5M6D/2419.m3u8
+#EXTINF:2 tvg-logo="http://iv.pe/rSN" group-title="Canais | Documentários",Arte 1 HD
+http://csrv.me:80/live/UGS7N/r5M6D/1900.m3u8
 
 
-#EXTINF:2 tvg-logo="" group-title="Canais | Cameras Ao Vivo",Rio de Janeiro [Camera]
-http://csrv.me:80/live/UGS7N/r5M6D/2420.m3u8
+#EXTINF:2 tvg-logo="http://iv.pe/rSN" group-title="Canais | Documentários",Arte 1 SD
+http://csrv.me:80/live/UGS7N/r5M6D/1901.m3u8
 
 
-#EXTINF:2 tvg-logo="" group-title="Canais | Cameras Ao Vivo",Saipan [Camera]
-http://csrv.me:80/live/UGS7N/r5M6D/2424.m3u8
+#EXTINF:2 tvg-logo="http://iv.pe/pEn" group-title="Canais | Documentários",Arte 1 SD [Alter]
+http://csrv.me:80/live/UGS7N/r5M6D/2113.m3u8
 
 
-#EXTINF:2 tvg-logo="" group-title="Canais | Cameras Ao Vivo",Toronto [Camera]
-http://csrv.me:80/live/UGS7N/r5M6D/2427.m3u8
+#EXTINF:2 tvg-logo="http://iv.pe/pXY" group-title="Canais | Documentários",Curta! FHD
+http://csrv.me:80/live/UGS7N/r5M6D/2013.m3u8
 
 
-#EXTINF:2 tvg-logo="" group-title="Canais | Cameras Ao Vivo",
+#EXTINF:2 tvg-logo="http://iv.pe/pXY" group-title="Canais | Documentários",Curta! FHD [H265]
+http://csrv.me:80/live/UGS7N/r5M6D/25459.m3u8
 
 
+#EXTINF:2 tvg-logo="http://iv.pe/pXY" group-title="Canais | Documentários",Curta! HD
+http://csrv.me:80/live/UGS7N/r5M6D/1871.m3u8
 
-#EXTINF:2 tvg-logo="" group-title="Canais | Cameras Ao Vivo",
 
+#EXTINF:2 tvg-logo="http://iv.pe/pXY" group-title="Canais | Documentários",Curta! SD
+http://csrv.me:80/live/UGS7N/r5M6D/1872.m3u8
 
 
-#EXTINF:2 tvg-logo="" group-title="Canais | Cameras Ao Vivo",
+#EXTINF:2 tvg-logo="http://iv.pe/pXY" group-title="Canais | Documentários",Curta! SD [Alter]
+http://csrv.me:80/live/UGS7N/r5M6D/2204.m3u8
 
 
+#EXTINF:2 tvg-logo="http://iv.pe/aaH" group-title="Canais | Documentários",Discovery Channel 4K [H265]
+http://csrv.me:80/live/UGS7N/r5M6D/28670.m3u8
 
-#EXTINF:2 tvg-logo="" group-title="Canais | Cameras Ao Vivo",
 
+#EXTINF:2 tvg-logo="http://iv.pe/aaH" group-title="Canais | Documentários",Discovery Channel FHD
+http://csrv.me:80/live/UGS7N/r5M6D/1950.m3u8
 
 
-#EXTINF:2 tvg-logo="" group-title="Canais | Cameras Ao Vivo",
+#EXTINF:2 tvg-logo="http://iv.pe/aaH" group-title="Canais | Documentários",Discovery Channel FHD [H265]
+http://csrv.me:80/live/UGS7N/r5M6D/25362.m3u8
 
 
+#EXTINF:2 tvg-logo="http://iv.pe/aaH" group-title="Canais | Documentários",Discovery Channel FHD [H265] [Alter]
+http://csrv.me:80/live/UGS7N/r5M6D/29475.m3u8
 
-#EXTINF:2 tvg-logo="" group-title="Canais | Cameras Ao Vivo",
 
+#EXTINF:2 tvg-logo="http://iv.pe/aaH" group-title="Canais | Documentários",Discovery Channel HD
+http://csrv.me:80/live/UGS7N/r5M6D/1869.m3u8
 
 
-#EXTINF:2 tvg-logo="" group-title="Canais | Cameras Ao Vivo",
+#EXTINF:2 tvg-logo="http://iv.pe/aaH" group-title="Canais | Documentários",Discovery Channel HD [Alter]
+http://csrv.me:80/live/UGS7N/r5M6D/2390.m3u8
 
 
+#EXTINF:2 tvg-logo="http://iv.pe/aaH" group-title="Canais | Documentários",Discovery Channel SD
+http://csrv.me:80/live/UGS7N/r5M6D/1870.m3u8
 
-#EXTINF:2 tvg-logo="" group-title="Canais | Cameras Ao Vivo",
 
+#EXTINF:2 tvg-logo="http://iv.pe/aaH" group-title="Canais | Documentários",Discovery Channel SD [Alter]
+http://csrv.me:80/live/UGS7N/r5M6D/2203.m3u8
 
 
-#EXTINF:2 tvg-logo="" group-title="Canais | Cameras Ao Vivo",
+#EXTINF:2 tvg-logo="http://iv.pe/XpL" group-title="Canais | Documentários",Discovery Science FHD
+http://csrv.me:80/live/UGS7N/r5M6D/2009.m3u8
 
 
+#EXTINF:2 tvg-logo="http://iv.pe/XpL" group-title="Canais | Documentários",Discovery Science FHD [H265]
+http://csrv.me:80/live/UGS7N/r5M6D/25394.m3u8
 
-#EXTINF:2 tvg-logo="" group-title="Canais | Cameras Ao Vivo",
 
+#EXTINF:2 tvg-logo="http://iv.pe/XpL" group-title="Canais | Documentários",Discovery Science FHD [H265] [Alter]
+http://csrv.me:80/live/UGS7N/r5M6D/29472.m3u8
 
 
-#EXTINF:2 tvg-logo="" group-title="Canais | Cameras Ao Vivo",
+#EXTINF:2 tvg-logo="http://iv.pe/XpL" group-title="Canais | Documentários",Discovery Science HD
+http://csrv.me:80/live/UGS7N/r5M6D/1861.m3u8
 
 
+#EXTINF:2 tvg-logo="http://iv.pe/XpL" group-title="Canais | Documentários",Discovery Science HD [Alter]
+http://csrv.me:80/live/UGS7N/r5M6D/2386.m3u8
 
-#EXTINF:2 tvg-logo="" group-title="Canais | Cameras Ao Vivo",
 
+#EXTINF:2 tvg-logo="http://iv.pe/XpL" group-title="Canais | Documentários",Discovery Science SD
+http://csrv.me:80/live/UGS7N/r5M6D/1862.m3u8
 
 
-#EXTINF:2 tvg-logo="" group-title="Canais | Cameras Ao Vivo",
+#EXTINF:2 tvg-logo="http://iv.pe/XpL" group-title="Canais | Documentários",Discovery Science SD [Alter]
+http://csrv.me:80/live/UGS7N/r5M6D/2123.m3u8
 
 
+#EXTINF:2 tvg-logo="http://iv.pe/iva" group-title="Canais | Documentários",Discovery World FHD
+http://csrv.me:80/live/UGS7N/r5M6D/2006.m3u8
 
-#EXTINF:2 tvg-logo="" group-title="Canais | Cameras Ao Vivo",
 
+#EXTINF:2 tvg-logo="http://iv.pe/iva" group-title="Canais | Documentários",Discovery World FHD [H265]
+http://csrv.me:80/live/UGS7N/r5M6D/25391.m3u8
 
 
-#EXTINF:2 tvg-logo="" group-title="Canais | Cameras Ao Vivo",
+#EXTINF:2 tvg-logo="http://iv.pe/iva" group-title="Canais | Documentários",Discovery World FHD [H265] [Alter]
+http://csrv.me:80/live/UGS7N/r5M6D/29400.m3u8
 
 
+#EXTINF:2 tvg-logo="http://iv.pe/iva" group-title="Canais | Documentários",Discovery World HD
+http://csrv.me:80/live/UGS7N/r5M6D/1855.m3u8
 
-#EXTINF:2 tvg-logo="" group-title="Canais | Cameras Ao Vivo",
 
+#EXTINF:2 tvg-logo="http://iv.pe/iva" group-title="Canais | Documentários",Discovery World HD [Alter]
+http://csrv.me:80/live/UGS7N/r5M6D/2383.m3u8
 
 
-#EXTINF:2 tvg-logo="" group-title="Canais | Cameras Ao Vivo",
+#EXTINF:2 tvg-logo="http://iv.pe/iva" group-title="Canais | Documentários",Discovery World SD
+http://csrv.me:80/live/UGS7N/r5M6D/1856.m3u8
 
 
+#EXTINF:2 tvg-logo="http://iv.pe/iva" group-title="Canais | Documentários",Discovery World SD [Alter]
+http://csrv.me:80/live/UGS7N/r5M6D/2122.m3u8
 
-#EXTINF:2 tvg-logo="" group-title="Canais | Cameras Ao Vivo",
 
+#EXTINF:2 tvg-logo="http://iv.pe/MIw" group-title="Canais | Documentários",HGTV FHD
+http://csrv.me:80/live/UGS7N/r5M6D/2012.m3u8
 
 
-#EXTINF:2 tvg-logo="" group-title="Canais | Cameras Ao Vivo",
+#EXTINF:2 tvg-logo="http://iv.pe/MIw" group-title="Canais | Documentários",HGTV FHD [H265]
+http://csrv.me:80/live/UGS7N/r5M6D/25397.m3u8
 
 
+#EXTINF:2 tvg-logo="http://iv.pe/MIw" group-title="Canais | Documentários",HGTV FHD [H265] [Alter]
+http://csrv.me:80/live/UGS7N/r5M6D/29474.m3u8
 
-#EXTINF:2 tvg-logo="" group-title="Canais | Cameras Ao Vivo",
 
+#EXTINF:2 tvg-logo="http://iv.pe/MIw" group-title="Canais | Documentários",HGTV HD
+http://csrv.me:80/live/UGS7N/r5M6D/1867.m3u8
 
 
-#EXTINF:2 tvg-logo="" group-title="Canais | Cameras Ao Vivo",
+#EXTINF:2 tvg-logo="http://iv.pe/MIw" group-title="Canais | Documentários",HGTV HD [Alter]
+http://csrv.me:80/live/UGS7N/r5M6D/2389.m3u8
 
 
+#EXTINF:2 tvg-logo="http://iv.pe/MIw" group-title="Canais | Documentários",HGTV SD
+http://csrv.me:80/live/UGS7N/r5M6D/1868.m3u8
 
-#EXTINF:2 tvg-logo="" group-title="Canais | Cameras Ao Vivo",
 
+#EXTINF:2 tvg-logo="http://iv.pe/MIw" group-title="Canais | Documentários",HGTV SD [Alter]
+http://csrv.me:80/live/UGS7N/r5M6D/2117.m3u8
 
 
-#EXTINF:2 tvg-logo="" group-title="Canais | Cameras Ao Vivo",
+#EXTINF:2 tvg-logo="http://iv.pe/eh7" group-title="Canais | Documentários",History Channel FHD
+http://csrv.me:80/live/UGS7N/r5M6D/1989.m3u8
 
 
+#EXTINF:2 tvg-logo="http://iv.pe/eh7" group-title="Canais | Documentários",History Channel FHD [H265]
+http://csrv.me:80/live/UGS7N/r5M6D/25442.m3u8
 
-#EXTINF:2 tvg-logo="" group-title="Canais | Cameras Ao Vivo",
 
+#EXTINF:2 tvg-logo="http://iv.pe/eh7" group-title="Canais | Documentários",History Channel FHD [H265] [Alter]
+http://csrv.me:80/live/UGS7N/r5M6D/29459.m3u8
 
 
-#EXTINF:2 tvg-logo="" group-title="Canais | Cameras Ao Vivo",
+#EXTINF:2 tvg-logo="http://iv.pe/eh7" group-title="Canais | Documentários",History Channel HD
+http://csrv.me:80/live/UGS7N/r5M6D/1799.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/eh7" group-title="Canais | Documentários",History Channel HD [Alter]
+http://csrv.me:80/live/UGS7N/r5M6D/2320.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/eh7" group-title="Canais | Documentários",History Channel SD
+http://csrv.me:80/live/UGS7N/r5M6D/1800.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/eh7" group-title="Canais | Documentários",History Channel SD [Alter]
+http://csrv.me:80/live/UGS7N/r5M6D/2143.m3u8http://iv.pe/MIw
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/BwS" group-title="Canais | Documentários",History Channel 2 FHD
+http://csrv.me:80/live/UGS7N/r5M6D/1993.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/BwS" group-title="Canais | Documentários",History Channel 2 FHD [H265]
+http://csrv.me:80/live/UGS7N/r5M6D/25378.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/BwS" group-title="Canais | Documentários",History Channel 2 FHD [H265] [Alter]
+http://csrv.me:80/live/UGS7N/r5M6D/29463.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/BwS" group-title="Canais | Documentários",History Channel 2 HD
+http://csrv.me:80/live/UGS7N/r5M6D/1811.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/BwS" group-title="Canais | Documentários",History Channel 2 HD [Alter]
+http://csrv.me:80/live/UGS7N/r5M6D/2363.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/BwS" group-title="Canais | Documentários",History Channel 2 SD
+http://csrv.me:80/live/UGS7N/r5M6D/1812.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/BwS" group-title="Canais | Documentários",History Channel 2 SD [Alter]
+http://csrv.me:80/live/UGS7N/r5M6D/2186.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/TkQ" group-title="Canais | Documentários",National Geographic 4K [H265]
+http://csrv.me:80/live/UGS7N/r5M6D/28659.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/TkQ" group-title="Canais | Documentários",National Geographic FHD
+http://csrv.me:80/live/UGS7N/r5M6D/1978.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/TkQ" group-title="Canais | Documentários",National Geographic FHD [H265]
+http://csrv.me:80/live/UGS7N/r5M6D/25433.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/TkQ" group-title="Canais | Documentários",National Geographic FHD [H265] [Alter]
+http://csrv.me:80/live/UGS7N/r5M6D/29452.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/TkQ" group-title="Canais | Documentários",National Geographic HD
+http://csrv.me:80/live/UGS7N/r5M6D/1777.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/TkQ" group-title="Canais | Documentários",National Geographic HD [Alter]
+http://csrv.me:80/live/UGS7N/r5M6D/2349.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/TkQ" group-title="Canais | Documentários",National Geographic SD
+http://csrv.me:80/live/UGS7N/r5M6D/1778.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/t8l" group-title="Canais | Documentários",National Geographic Wild FHD
+http://csrv.me:80/live/UGS7N/r5M6D/1976.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/t8l" group-title="Canais | Documentários",National Geographic Wild FHD [H265]
+http://csrv.me:80/live/UGS7N/r5M6D/25432.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/t8l" group-title="Canais | Documentários",National Geographic Wild FHD [H265] [Alter]
+http://csrv.me:80/live/UGS7N/r5M6D/29450.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/t8l" group-title="Canais | Documentários",National Geographic Wild HD
+http://csrv.me:80/live/UGS7N/r5M6D/1774.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/t8l" group-title="Canais | Documentários",National Geographic Wild HD [Alter]
+http://csrv.me:80/live/UGS7N/r5M6D/2347.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/t8l" group-title="Canais | Documentários",National Geographic Wild SD
+http://csrv.me:80/live/UGS7N/r5M6D/1773.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/t8l" group-title="Canais | Documentários",National Geographic Wild SD [Alter]
+http://csrv.me:80/live/UGS7N/r5M6D/2172.m3u8
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Documentários",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Documentários",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Documentários",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Documentários",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Documentários",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Documentários",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Documentários",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Documentários",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Documentários",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Documentários",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Documentários",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Documentários",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Documentários",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Documentários",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Documentários",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Documentários",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Documentários",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Documentários",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Documentários",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Documentários",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Documentários",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Documentários",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Documentários",
 
 
 

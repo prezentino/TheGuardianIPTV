@@ -803,95 +803,366 @@ http://csrv.me:80/live/UGS7N/r5M6D/1773.m3u8
 http://csrv.me:80/live/UGS7N/r5M6D/2172.m3u8
 
 
-#EXTINF:2 tvg-logo="" group-title="Canais | Documentários",
+#EXTINF:2 tvg-logo="http://iv.pe/ciY" group-title="Canais | Documentários",TruTV FHD
+http://csrv.me:80/live/UGS7N/r5M6D/1961.m3u8
 
 
+#EXTINF:2 tvg-logo="http://iv.pe/ciY" group-title="Canais | Documentários",TruTV FHD [H265]
+http://csrv.me:80/live/UGS7N/r5M6D/25350.m3u8
 
-#EXTINF:2 tvg-logo="" group-title="Canais | Documentários",
 
+#EXTINF:2 tvg-logo="http://iv.pe/ciY" group-title="Canais | Documentários",TruTV HD
+http://csrv.me:80/live/UGS7N/r5M6D/1690.m3u8
 
 
-#EXTINF:2 tvg-logo="" group-title="Canais | Documentários",
+#EXTINF:2 tvg-logo="http://iv.pe/ciY" group-title="Canais | Documentários",TruTV SD
+http://csrv.me:80/live/UGS7N/r5M6D/1691.m3u8
 
 
+#########################################################################################################
 
-#EXTINF:2 tvg-logo="" group-title="Canais | Documentários",
 
+#########################################CANAIS ESPORTES#################################################
 
 
-#EXTINF:2 tvg-logo="" group-title="Canais | Documentários",
 
+#EXTINF:2 tvg-logo="http://iv.pe/dBB" group-title="Canais | Esportes",BandSports FHD
+http://csrv.me:80/live/UGS7N/r5M6D/2019.m3u8
 
 
-#EXTINF:2 tvg-logo="" group-title="Canais | Documentários",
+#EXTINF:2 tvg-logo="http://iv.pe/dBB" group-title="Canais | Esportes",BandSports FHD [H265]
+http://csrv.me:80/live/UGS7N/r5M6D/25468.m3u8
 
 
+#EXTINF:2 tvg-logo="http://iv.pe/dBB" group-title="Canais | Esportes",BandSports FHD [H265] [Alter]
+http://csrv.me:80/live/UGS7N/r5M6D/29422.m3u8
 
-#EXTINF:2 tvg-logo="" group-title="Canais | Documentários",
 
+#EXTINF:2 tvg-logo="http://iv.pe/dBB" group-title="Canais | Esportes",BandSports HD
+http://csrv.me:80/live/UGS7N/r5M6D/1891.m3u8
 
 
-#EXTINF:2 tvg-logo="" group-title="Canais | Documentários",
+#EXTINF:2 tvg-logo="http://iv.pe/dBB" group-title="Canais | Esportes",BandSports HD [Alter]
+http://csrv.me:80/live/UGS7N/r5M6D/2397.m3u8
 
 
+#EXTINF:2 tvg-logo="http://iv.pe/dBB" group-title="Canais | Esportes",BandSports SD
+http://csrv.me:80/live/UGS7N/r5M6D/1892.m3u8
 
-#EXTINF:2 tvg-logo="" group-title="Canais | Documentários",
 
+#EXTINF:2 tvg-logo="http://iv.pe/dBB" group-title="Canais | Esportes",BandSports SD [Alter]
+http://csrv.me:80/live/UGS7N/r5M6D/2209.m3u8
 
 
-#EXTINF:2 tvg-logo="" group-title="Canais | Documentários",
+#EXTINF:2 tvg-logo="" group-title="Canais | Esportes",Campeonato Catarinense 1 HD
+http://csrv.me:80/live/UGS7N/r5M6D/33567.m3u8
 
 
+#EXTINF:2 tvg-logo="" group-title="Canais | Esportes",Campeonato Catarinense 2 HD
+http://csrv.me:80/live/UGS7N/r5M6D/33568.m3u8
 
-#EXTINF:2 tvg-logo="" group-title="Canais | Documentários",
 
+#EXTINF:2 tvg-logo="" group-title="Canais | Esportes",Campeonato Catarinense 3 HD
+http://csrv.me:80/live/UGS7N/r5M6D/33871.m3u8
 
 
-#EXTINF:2 tvg-logo="" group-title="Canais | Documentários",
+#EXTINF:2 tvg-logo="" group-title="Canais | Esportes",Campeonato Catarinense 4 HD
+http://csrv.me:80/live/UGS7N/r5M6D/33872.m3u8
 
 
+#EXTINF:2 tvg-logo="http://iv.pe/aoF" group-title="Canais | Esportes",Combate 4K [H265]
+http://csrv.me:80/live/UGS7N/r5M6D/28671.m3u8
 
-#EXTINF:2 tvg-logo="" group-title="Canais | Documentários",
 
+#EXTINF:2 tvg-logo="http://iv.pe/aoF" group-title="Canais | Esportes",Combate FHD
+http://csrv.me:80/live/UGS7N/r5M6D/1951.m3u8
 
 
-#EXTINF:2 tvg-logo="" group-title="Canais | Documentários",
+#EXTINF:2 tvg-logo="http://iv.pe/aoF" group-title="Canais | Esportes",Combate FHD [H265]
+http://csrv.me:80/live/UGS7N/r5M6D/25461.m3u8
 
 
+#EXTINF:2 tvg-logo="http://iv.pe/aoF" group-title="Canais | Esportes",Combate FHD [H265] [Alter]
+http://csrv.me:80/live/UGS7N/r5M6D/29477.m3u8
 
-#EXTINF:2 tvg-logo="" group-title="Canais | Documentários",
 
+#EXTINF:2 tvg-logo="http://iv.pe/aoF" group-title="Canais | Esportes",Combate HD
+http://csrv.me:80/live/UGS7N/r5M6D/1875.m3u8
 
 
-#EXTINF:2 tvg-logo="" group-title="Canais | Documentários",
+#EXTINF:2 tvg-logo="http://iv.pe/aoF" group-title="Canais | Esportes",Combate HD [Alter]
+http://csrv.me:80/live/UGS7N/r5M6D/2392.m3u8
 
 
+#EXTINF:2 tvg-logo="http://iv.pe/aoF" group-title="Canais | Esportes",Combate SD
+http://csrv.me:80/live/UGS7N/r5M6D/1876.m3u8
 
-#EXTINF:2 tvg-logo="" group-title="Canais | Documentários",
 
+#EXTINF:2 tvg-logo="" group-title="Canais | Esportes",Copa do Nordeste 2020 1 HD
+http://csrv.me:80/live/UGS7N/r5M6D/33873.m3u8
 
 
-#EXTINF:2 tvg-logo="" group-title="Canais | Documentários",
+#EXTINF:2 tvg-logo="" group-title="Canais | Esportes",Copa do Nordeste 2020 2 HD
+http://csrv.me:80/live/UGS7N/r5M6D/33874.m3u8
 
 
+#EXTINF:2 tvg-logo="" group-title="Canais | Esportes",Copa do Nordeste 2020 3 HD
+http://csrv.me:80/live/UGS7N/r5M6D/33875.m3u8
 
-#EXTINF:2 tvg-logo="" group-title="Canais | Documentários",
 
+#EXTINF:2 tvg-logo="" group-title="Canais | Esportes",Copa Libertadores HD
+http://csrv.me:80/live/UGS7N/r5M6D/36647.m3u8http://iv.pe/aoF
 
 
-#EXTINF:2 tvg-logo="" group-title="Canais | Documentários",
+#EXTINF:2 tvg-logo="http://iv.pe/7TG" group-title="Canais | Esportes",DAZN 1 HD
+http://csrv.me:80/live/UGS7N/r5M6D/1642.m3u8
 
 
+#EXTINF:2 tvg-logo="http://iv.pe/7TG" group-title="Canais | Esportes",DAZN 2 HD
+http://csrv.me:80/live/UGS7N/r5M6D/1641.m3u8
 
-#EXTINF:2 tvg-logo="" group-title="Canais | Documentários",
 
+#EXTINF:2 tvg-logo="http://iv.pe/7TG" group-title="Canais | Esportes",DAZN 3 HD
+http://csrv.me:80/live/UGS7N/r5M6D/1640.m3u8
 
 
-#EXTINF:2 tvg-logo="" group-title="Canais | Documentários",
+#EXTINF:2 tvg-logo="http://iv.pe/7TG" group-title="Canais | Esportes",DAZN 4 HD
+http://csrv.me:80/live/UGS7N/r5M6D/36648.m3u8
 
 
+#EXTINF:2 tvg-logo="http://iv.pe/7TG" group-title="Canais | Esportes",DAZN 5 HD
+http://csrv.me:80/live/UGS7N/r5M6D/36649.m3u8
 
-#EXTINF:2 tvg-logo="" group-title="Canais | Documentários",
+
+#EXTINF:2 tvg-logo="http://iv.pe/7TG" group-title="Canais | Esportes",DAZN 6 HD
+http://csrv.me:80/live/UGS7N/r5M6D/36650.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/C3v" group-title="Canais | Esportes",EI Plus 1 HD
+http://csrv.me:80/live/UGS7N/r5M6D/29887.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/C3v" group-title="Canais | Esportes",EI Plus 2 HD
+http://csrv.me:80/live/UGS7N/r5M6D/29886.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/C3v" group-title="Canais | Esportes",EI Plus 3 HD
+http://csrv.me:80/live/UGS7N/r5M6D/29885.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/C3v" group-title="Canais | Esportes",EI Plus 4 HD
+http://csrv.me:80/live/UGS7N/r5M6D/29884.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/C3v" group-title="Canais | Esportes",EI Plus 5 HD
+http://csrv.me:80/live/UGS7N/r5M6D/29883.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/C3v" group-title="Canais | Esportes",EI Plus 6 HD
+http://csrv.me:80/live/UGS7N/r5M6D/29882.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/QlP" group-title="Canais | Esportes",FlaTV FHD
+http://csrv.me:80/live/UGS7N/r5M6D/33986.m3u8
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Esportes",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Esportes",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Esportes",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Esportes",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Esportes",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Esportes",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Esportes",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Esportes",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Esportes",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Esportes",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Esportes",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Esportes",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Esportes",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Esportes",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Esportes",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Esportes",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Esportes",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Esportes",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Esportes",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Esportes",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Esportes",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Esportes",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Esportes",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Esportes",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Esportes",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Esportes",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Esportes",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Esportes",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Esportes",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Esportes",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Esportes",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Esportes",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Esportes",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Esportes",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Esportes",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Esportes",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Esportes",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Esportes",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Esportes",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Esportes",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Esportes",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Esportes",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Esportes",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Esportes",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Esportes",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Esportes",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Esportes",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Esportes",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Esportes",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Esportes",
 
 
 

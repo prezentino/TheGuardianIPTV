@@ -445,11 +445,94 @@ http://csrv.me:80/live/UGS7N/r5M6D/42937.m3u8
 http://csrv.me:80/live/UGS7N/r5M6D/1700.m3u8
 
 
-#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
+#EXTINF:2 tvg-logo="http://iv.pe/1hH" group-title="Canais | Abertos",TV Senado SD [Alter]
+http://csrv.me:80/live/UGS7N/r5M6D/2128.m3u8
+
+
+#########################################################################################################
+
+
+#########################################CANAIS BBB######################################################
 
 
 
-#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
+#EXTINF:2 tvg-logo="http://iv.pe/sRJ" group-title="Canais | BBB",BBB Cam 1 - Acompanhe a Casa HD
+http://csrv.me:80/live/UGS7N/r5M6D/33430.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/u6F" group-title="Canais | BBB",BBB Cam 2 - Jardim HD
+http://csrv.me:80/live/UGS7N/r5M6D/33431.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/u6F" group-title="Canais | BBB",BBB Cam 3 - Cozinha HD
+http://csrv.me:80/live/UGS7N/r5M6D/33432.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/u6F" group-title="Canais | BBB",BBB Cam 4 - Quarto Villa HD
+http://csrv.me:80/live/UGS7N/r5M6D/33433.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/u6F" group-title="Canais | BBB",BBB Cam 5 - Quarto HD
+http://csrv.me:80/live/UGS7N/r5M6D/33434.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/u6F" group-title="Canais | BBB",BBB Cam 6 - Piscina HD
+http://csrv.me:80/live/UGS7N/r5M6D/33435.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/u6F" group-title="Canais | BBB",BBB Cam 7 - Cozinha VIP HD
+http://csrv.me:80/live/UGS7N/r5M6D/33436.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/u6F" group-title="Canais | BBB",BBB Cam 8 - Confessionario HD
+http://csrv.me:80/live/UGS7N/r5M6D/33437.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/u6F" group-title="Canais | BBB",BBB Cam 9 - Quarto Céu HD
+http://csrv.me:80/live/UGS7N/r5M6D/33438.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/u6F" group-title="Canais | BBB",BBB Mosaico HD
+http://csrv.me:80/live/UGS7N/r5M6D/29879.m3u8
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | BBB",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | BBB",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | BBB",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | BBB",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | BBB",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | BBB",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | BBB",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | BBB",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | BBB",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | BBB",
 
 
 

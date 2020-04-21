@@ -213,164 +213,164 @@ http://csrv.me:80/live/jnct5/YV2VU/1660.m3u8
 http://csrv.me:80/live/jnct5/YV2VU/42969.m3u8
 
 
-#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
+#EXTINF:2 tvg-logo="http://iv.pe/CMr" group-title="Canais | Abertos",RecordTV SP 4K [H265]
+http://csrv.me:80/live/jnct5/YV2VU/28666.m3u8
 
 
+#EXTINF:2 tvg-logo="http://iv.pe/CMr" group-title="Canais | Abertos",RecordTV SP FHD
+http://csrv.me:80/live/jnct5/YV2VU/1932.m3u8
 
-#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
 
+#EXTINF:2 tvg-logo="http://iv.pe/CMr" group-title="Canais | Abertos",RecordTV SP FHD [H265]
+http://csrv.me:80/live/jnct5/YV2VU/30565.m3u8
 
 
-#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
+#EXTINF:2 tvg-logo="http://iv.pe/CMr" group-title="Canais | Abertos",RecordTV SP HD
+http://csrv.me:80/live/jnct5/YV2VU/1743.m3u8
 
 
+#EXTINF:2 tvg-logo="http://iv.pe/CMr" group-title="Canais | Abertos",RecordTV SP SD
+http://csrv.me:80/live/jnct5/YV2VU/1747.m3u8
 
-#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
 
+#EXTINF:2 tvg-logo="http://iv.pe/QFa" group-title="Canais | Abertos",RecordTV Uberlandia HD
+http://csrv.me:80/live/jnct5/YV2VU/42967.m3u8
 
 
-#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
+#EXTINF:2 tvg-logo="http://iv.pe/hKq" group-title="Canais | Abertos",Rede Brasil HD
+http://csrv.me:80/live/jnct5/YV2VU/41608.m3u8
 
 
+#EXTINF:2 tvg-logo="http://iv.pe/hKq" group-title="Canais | Abertos",Rede Brasil SD
+http://csrv.me:80/live/jnct5/YV2VU/1742.m3u8
 
-#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
 
+#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",Rede Super FHD [H265]
+http://csrv.me:80/live/jnct5/YV2VU/35962.m3u8
 
 
-#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
+#EXTINF:2 tvg-logo="http://iv.pe/JTr" group-title="Canais | Abertos",Rede Vida FHD
+http://csrv.me:80/live/jnct5/YV2VU/1917.m3u8
 
 
+#EXTINF:2 tvg-logo="http://iv.pe/JTr" group-title="Canais | Abertos",Rede Vida FHD [H265]
+http://csrv.me:80/live/jnct5/YV2VU/25421.m3u8
 
-#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
 
+#EXTINF:2 tvg-logo="http://iv.pe/JTr" group-title="Canais | Abertos",Rede Vida HD
+http://csrv.me:80/live/jnct5/YV2VU/1673.m3u8
 
 
-#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
+#EXTINF:2 tvg-logo="http://iv.pe/JTr" group-title="Canais | Abertos",Rede Vida SD
+http://csrv.me:80/live/jnct5/YV2VU/1739.m3u8
 
 
+#EXTINF:2 tvg-logo="http://iv.pe/Kz0" group-title="Canais | Abertos",Rede Vida SD [Alter]
+http://csrv.me:80/live/jnct5/YV2VU/2110.m3u8
 
-#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
 
+#EXTINF:2 tvg-logo="http://iv.pe/Nw7" group-title="Canais | Abertos",RedeTV! 4K [H265]
+http://csrv.me:80/live/jnct5/YV2VU/28664.m3u8
 
 
-#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
+#EXTINF:2 tvg-logo="http://iv.pe/Nw7" group-title="Canais | Abertos",RedeTV! FHD
+http://csrv.me:80/live/jnct5/YV2VU/1918.m3u8
 
 
+#EXTINF:2 tvg-logo="http://iv.pe/Nw7" group-title="Canais | Abertos",RedeTV! FHD [H265]
+http://csrv.me:80/live/jnct5/YV2VU/25353.m3u8
 
-#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
 
+#EXTINF:2 tvg-logo="http://iv.pe/Nw7" group-title="Canais | Abertos",RedeTV! HD
+http://csrv.me:80/live/jnct5/YV2VU/1740.m3u8
 
 
-#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
+#EXTINF:2 tvg-logo="http://iv.pe/Nw7" group-title="Canais | Abertos",RedeTV! SD
+http://csrv.me:80/live/jnct5/YV2VU/1741.m3u8
 
 
+#EXTINF:2 tvg-logo="http://iv.pe/Nw7" group-title="Canais | Abertos",RedeTV! SD [Alter]
+http://csrv.me:80/live/jnct5/YV2VU/2116.m3u8
 
-#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
 
+#EXTINF:2 tvg-logo="http://iv.pe/PXR" group-title="Canais | Abertos",Rit TV SD
+http://csrv.me:80/live/jnct5/YV2VU/1654.m3u8
 
 
-#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
+#EXTINF:2 tvg-logo="http://iv.pe/TxS" group-title="Canais | Abertos",SBT 4K [H265]
+http://csrv.me:80/live/jnct5/YV2VU/28658.m3u8
 
 
+#EXTINF:2 tvg-logo="http://iv.pe/TxS" group-title="Canais | Abertos",SBT ES HD
+http://csrv.me:80/live/jnct5/YV2VU/42901.m3u8
 
-#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
 
+#EXTINF:2 tvg-logo="http://iv.pe/TxS" group-title="Canais | Abertos",SBT FHD
+http://csrv.me:80/live/jnct5/YV2VU/1931.m3u8
 
 
-#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
+#EXTINF:2 tvg-logo="http://iv.pe/TxS" group-title="Canais | Abertos",SBT FHD [H265]
+http://csrv.me:80/live/jnct5/YV2VU/25370.m3u8
 
 
+#EXTINF:2 tvg-logo="http://iv.pe/TxS" group-title="Canais | Abertos",SBT HD
+http://csrv.me:80/live/jnct5/YV2VU/1737.m3u8
 
-#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
 
+#EXTINF:2 tvg-logo="http://iv.pe/TxS" group-title="Canais | Abertos",SBT HD [Alter]
+http://csrv.me:80/live/jnct5/YV2VU/2334.m3u8
 
 
-#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
+#EXTINF:2 tvg-logo="http://iv.pe/TxS" group-title="Canais | Abertos",SBT PR FHD
+http://csrv.me:80/live/jnct5/YV2VU/42897.m3u8
 
 
+#EXTINF:2 tvg-logo="http://iv.pe/TxS" group-title="Canais | Abertos",SBT PR HD
+http://csrv.me:80/live/jnct5/YV2VU/42898.m3u8
 
-#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
 
+#EXTINF:2 tvg-logo="http://iv.pe/TxS" group-title="Canais | Abertos",SBT RJ HD
+http://csrv.me:80/live/jnct5/YV2VU/42903.m3u8
 
 
-#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
+#EXTINF:2 tvg-logo="http://iv.pe/TxS" group-title="Canais | Abertos",SBT RS HD
+http://csrv.me:80/live/jnct5/YV2VU/42902.m3u8
 
 
+#EXTINF:2 tvg-logo="http://iv.pe/TxS" group-title="Canais | Abertos",SBT SD
+http://csrv.me:80/live/jnct5/YV2VU/1738.m3u8
 
-#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
 
+#EXTINF:2 tvg-logo="http://iv.pe/TxS" group-title="Canais | Abertos",SBT SD [Alter]
+http://csrv.me:80/live/jnct5/YV2VU/2157.m3u8
 
 
-#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
+#EXTINF:2 tvg-logo="http://iv.pe/TxS" group-title="Canais | Abertos",SBT Serra Dourada FHD [H265] [Alter]
+http://csrv.me:80/live/jnct5/YV2VU/29486.m3u8
 
 
+#EXTINF:2 tvg-logo="http://iv.pe/TxS" group-title="Canais | Abertos",SBT Serra Dourada HD
+http://csrv.me:80/live/jnct5/YV2VU/42899.m3u8
 
-#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
 
+#EXTINF:2 tvg-logo="http://iv.pe/TxS" group-title="Canais | Abertos",SBT SP FHD [H265]
+http://csrv.me:80/live/jnct5/YV2VU/30586.m3u8
 
 
-#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
+#EXTINF:2 tvg-logo="http://iv.pe/TxS" group-title="Canais | Abertos",SBT SP Interior SD
+http://csrv.me:80/live/jnct5/YV2VU/1736.m3u8
 
 
+#EXTINF:2 tvg-logo="http://iv.pe/TxS" group-title="Canais | Abertos",SBT TV Alterosa MG HD
+http://csrv.me:80/live/jnct5/YV2VU/35961.m3u8
 
-#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
 
+#EXTINF:2 tvg-logo="http://iv.pe/TxS" group-title="Canais | Abertos",SBT TV Aratu Bahia HD
+http://csrv.me:80/live/jnct5/YV2VU/42900.m3u8
 
 
-#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
-
-
-
-#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
-
-
-
-#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
-
-
-
-#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
-
-
-
-#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
-
-
-
-#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
-
-
-
-#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
-
-
-
-#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
-
-
-
-#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
-
-
-
-#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
-
-
-
-#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
-
-
-
-#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
-
-
-
-#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
-
-
-
-#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
-
+#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",Shoptime SD
+http://csrv.me:80/live/jnct5/YV2VU/41609.m3u8
 
 
 #EXTINF:2 tvg-logo="" group-title="Canais | Abertos",

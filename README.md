@@ -23,4 +23,4 @@
 
 
 #EXTINF:-1 tvg-id="CanalBrasil" tvg-name="CANAL BRASIL FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-brasil-logo-1.png" group-title="Canais | Filmes e Séries",TESTE FHD
-http://udq.me:80/live/hCRtd/qVwc3/22691.m3u8
+http://csrv.me:80/live/jnct5/YV2VU/1920.m3u8

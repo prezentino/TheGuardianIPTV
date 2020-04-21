@@ -22,5 +22,434 @@
 
 
 
-#EXTINF:-1 tvg-id="CanalBrasil" tvg-name="CANAL BRASIL FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-brasil-logo-1.png" group-title="Canais | Filmes e Séries",TESTE FHD
-http://csrv.me:80/live/jnct5/YV2VU/1920.m3u8
+
+#########################################################################################################
+
+
+#########################################CANAIS ABERTOS##################################################
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/mdn" group-title="Canais | Abertos",Band BA HD
+http://csrv.me:80/live/jnct5/YV2VU/42973.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/mdn" group-title="Canais | Abertos",Band Campinas HD
+http://csrv.me:80/live/jnct5/YV2VU/42975.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/mdn" group-title="Canais | Abertos",Band DF HD
+http://csrv.me:80/live/jnct5/YV2VU/42974.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/mdn" group-title="Canais | Abertos",Band Goiania HD
+http://csrv.me:80/live/jnct5/YV2VU/42972.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/ViV" group-title="Canais | Abertos",Band Internacional HD
+http://csrv.me:80/live/jnct5/YV2VU/36646.m3u8
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",Band PR HD
+http://csrv.me:80/live/jnct5/YV2VU/42971.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/mdn" group-title="Canais | Abertos",Band RJ HD
+http://csrv.me:80/live/jnct5/YV2VU/42976.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/mdn" group-title="Canais | Abertos",Band Sergipe HD
+http://csrv.me:80/live/jnct5/YV2VU/42977.m3u8
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Abertos",
+
+
+

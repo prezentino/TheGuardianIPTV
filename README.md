@@ -1276,35 +1276,35 @@ http://csrv.me:80/live/zc1Va/N1Qev/2368.m3u8
 http://csrv.me:80/live/zc1Va/N1Qev/1822.m3u8
 
 
-#EXTINF:2 tvg-logo="http://iv.pe/kic" group-title="Canais | Filmes e Séries",Megapix 4K [H265]
+#EXTINF:2 tvg-logo="http://iv.pe/zpf" group-title="Canais | Filmes e Séries",Megapix 4K [H265]
 http://csrv.me:80/live/zc1Va/N1Qev/28656.m3u8
 
 
-#EXTINF:2 tvg-logo="http://iv.pe/kic" group-title="Canais | Filmes e Séries",Megapix FHD
+#EXTINF:2 tvg-logo="http://iv.pe/zpf" group-title="Canais | Filmes e Séries",Megapix FHD
 http://csrv.me:80/live/zc1Va/N1Qev/1983.m3u8
 
 
-#EXTINF:2 tvg-logo="http://iv.pe/kic" group-title="Canais | Filmes e Séries",Megapix FHD [H265]
+#EXTINF:2 tvg-logo="http://iv.pe/zpf" group-title="Canais | Filmes e Séries",Megapix FHD [H265]
 http://csrv.me:80/live/zc1Va/N1Qev/25436.m3u8
 
 
-#EXTINF:2 tvg-logo="http://iv.pe/kic" group-title="Canais | Filmes e Séries",Megapix FHD [H265] [Alter]
+#EXTINF:2 tvg-logo="http://iv.pe/zpf" group-title="Canais | Filmes e Séries",Megapix FHD [H265] [Alter]
 http://csrv.me:80/live/zc1Va/N1Qev/29408.m3u8
 
 
-#EXTINF:2 tvg-logo="http://iv.pe/kic" group-title="Canais | Filmes e Séries",Megapix HD
+#EXTINF:2 tvg-logo="http://iv.pe/zpf" group-title="Canais | Filmes e Séries",Megapix HD
 http://csrv.me:80/live/zc1Va/N1Qev/1785.m3u8
 
 
-#EXTINF:2 tvg-logo="http://iv.pe/kic" group-title="Canais | Filmes e Séries",Megapix HD [Alter]
+#EXTINF:2 tvg-logo="http://iv.pe/zpf" group-title="Canais | Filmes e Séries",Megapix HD [Alter]
 http://csrv.me:80/live/zc1Va/N1Qev/2352.m3u8
 
 
-#EXTINF:2 tvg-logo="http://iv.pe/kic" group-title="Canais | Filmes e Séries",Megapix SD
+#EXTINF:2 tvg-logo="http://iv.pe/zpf" group-title="Canais | Filmes e Séries",Megapix SD
 http://csrv.me:80/live/zc1Va/N1Qev/1786.m3u8
 
 
-#EXTINF:2 tvg-logo="http://iv.pe/kic" group-title="Canais | Filmes e Séries",Megapix SD [Alter]
+#EXTINF:2 tvg-logo="http://iv.pe/zpf" group-title="Canais | Filmes e Séries",Megapix SD [Alter]
 http://csrv.me:80/live/zc1Va/N1Qev/2176.m3u8
 
 

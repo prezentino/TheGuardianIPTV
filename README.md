@@ -4006,3 +4006,40 @@ http://csrv.me:80/live/1yUE3/tQuuV/25365.m3u8
 http://csrv.me:80/live/1yUE3/tQuuV/1646.m3u8
 
 
+#########################################################################################################
+
+
+#########################################FILMES##########################################################
+
+
+
+#########################################################################################################
+
+
+#########################################FILMES LANCAMENTOS##############################################
+
+
+#EXTINF:-1 tvg-logo="http://iv.pe/KKx" group-title="Filmes | Lancamentos",#NUDES
+http://csrv.me:80/movie/1yUE3/tQuuV/42508.mp4
+
+
+#EXTINF:-1 tvg-logo="http://iv.pe/pDG" group-title="Filmes | Lancamentos",3 Pedidos
+http://csrv.me:80/movie/1yUE3/tQuuV/32250.mp4
+
+
+#EXTINF:-1 tvg-logo="http://iv.pe/L7y" group-title="Filmes | Lancamentos",A Arte da Autodefesa
+http://csrv.me:80/movie/1yUE3/tQuuV/33343.mp4
+
+
+#EXTINF:-1 tvg-logo="http://iv.pe/sl2" group-title="Filmes | Lancamentos",A Batalha das Correntes
+http://csrv.me:80/movie/1yUE3/tQuuV/41628.mp4
+
+
+#EXTINF:-1 tvg-logo="http://iv.pe/erE" group-title="Filmes | Lancamentos",A Cabana e Seus Segredos
+http://csrv.me:80/movie/1yUE3/tQuuV/36063.mp4
+
+
+#EXTINF:-1 tvg-logo="http://iv.pe/K9Q" group-title="Filmes | Lancamentos",A Casa
+http://csrv.me:80/movie/1yUE3/tQuuV/41983.mp4
+
+

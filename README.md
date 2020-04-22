@@ -2729,63 +2729,325 @@ http://csrv.me:80/live/zc1Va/N1Qev/1701.m3u8
 http://csrv.me:80/live/zc1Va/N1Qev/2139.m3u8
 
 
-#EXTINF:2 tvg-logo="" group-title="Canais | Infantis",
+#EXTINF:2 tvg-logo="http://iv.pe/rE7" group-title="Canais | Infantis",TV Ra Tim Bum FHD
+http://csrv.me:80/live/zc1Va/N1Qev/1960.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/rE7" group-title="Canais | Infantis",TV Ra Tim Bum FHD [H265]
+http://csrv.me:80/live/zc1Va/N1Qev/25405.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/rE7" group-title="Canais | Infantis",TV Ra Tim Bum HD
+http://csrv.me:80/live/zc1Va/N1Qev/1692.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/rE7" group-title="Canais | Infantis",TV Ra Tim Bum HD [Alter]
+http://csrv.me:80/live/zc1Va/N1Qev/2310.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/rE7" group-title="Canais | Infantis",TV Ra Tim Bum SD
+http://csrv.me:80/live/zc1Va/N1Qev/1693.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/hP1" group-title="Canais | Infantis",TV Ra Tim Bum SD [Alter]
+http://csrv.me:80/live/zc1Va/N1Qev/2129.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/X8t" group-title="Canais | Infantis",ZooMoo SD
+http://csrv.me:80/live/zc1Va/N1Qev/1653.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/X8t" group-title="Canais | Infantis",ZooMoo SD [Alter]
+http://csrv.me:80/live/zc1Va/N1Qev/2111.m3u8
+
+
+#########################################################################################################
+
+
+#########################################CANAIS NOTICIAS#################################################
 
 
 
-#EXTINF:2 tvg-logo="" group-title="Canais | Infantis",
+#EXTINF:2 tvg-logo="http://iv.pe/DB1" group-title="Canais | Notícias",BandNews FHD
+http://csrv.me:80/live/zc1Va/N1Qev/2020.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/DB1" group-title="Canais | Notícias",BandNews FHD [H265]
+http://csrv.me:80/live/zc1Va/N1Qev/25469.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/DB1" group-title="Canais | Notícias",BandNews FHD [H265] [Alter]
+http://csrv.me:80/live/zc1Va/N1Qev/29423.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/DB1" group-title="Canais | Notícias",BandNews HD
+http://csrv.me:80/live/zc1Va/N1Qev/1893.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/DB1" group-title="Canais | Notícias",BandNews SD
+http://csrv.me:80/live/zc1Va/N1Qev/1894.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/DB1" group-title="Canais | Notícias",BandNews SD [Alter]
+http://csrv.me:80/live/zc1Va/N1Qev/30553.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/MWu" group-title="Canais | Notícias",CNN Brasil FHD
+http://csrv.me:80/live/zc1Va/N1Qev/41605.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/MWu" group-title="Canais | Notícias",CNN Brasil FHD [H265]
+http://csrv.me:80/live/zc1Va/N1Qev/41990.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/MWu" group-title="Canais | Notícias",CNN Brasil HD
+http://csrv.me:80/live/zc1Va/N1Qev/41606.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/MWu" group-title="Canais | Notícias",CNN Brasil SD
+http://csrv.me:80/live/zc1Va/N1Qev/41607.m3u8
+
+
+#########################################################################################################
+
+
+#########################################CANAIS PREMIERE#################################################
 
 
 
-#EXTINF:2 tvg-logo="" group-title="Canais | Infantis",
+#EXTINF:2 tvg-logo="http://iv.pe/Sqw" group-title="Canais | Premiere",Premiere Clubes 4K
+http://csrv.me:80/live/zc1Va/N1Qev/1492.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/Sqw" group-title="Canais | Premiere",Premiere Clubes 4K [H265]
+http://csrv.me:80/live/zc1Va/N1Qev/28667.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/Sqw" group-title="Canais | Premiere",Premiere Clubes FHD
+http://csrv.me:80/live/zc1Va/N1Qev/1933.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/Sqw" group-title="Canais | Premiere",Premiere Clubes FHD [H265]
+http://csrv.me:80/live/zc1Va/N1Qev/25424.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/Sqw" group-title="Canais | Premiere",Premiere Clubes FHD [H265] [Alter]
+http://csrv.me:80/live/zc1Va/N1Qev/29441.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/Sqw" group-title="Canais | Premiere",Premiere Clubes HD
+http://csrv.me:80/live/zc1Va/N1Qev/1750.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/Sqw" group-title="Canais | Premiere",Premiere Clubes HD [Alter]
+http://csrv.me:80/live/zc1Va/N1Qev/2336.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/Sqw" group-title="Canais | Premiere",Premiere Clubes SD
+http://csrv.me:80/live/zc1Va/N1Qev/1751.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/AU4" group-title="Canais | Premiere",Premiere 2 FHD
+http://csrv.me:80/live/zc1Va/N1Qev/1939.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/AU4" group-title="Canais | Premiere",Premiere 2 FHD [H265]
+http://csrv.me:80/live/zc1Va/N1Qev/25427.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/AU4" group-title="Canais | Premiere",Premiere 2 FHD [H265] [Alter]
+http://csrv.me:80/live/zc1Va/N1Qev/29447.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/AU4" group-title="Canais | Premiere",Premiere 2 HD
+http://csrv.me:80/live/zc1Va/N1Qev/1762.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/AU4" group-title="Canais | Premiere",Premiere 2 HD [Alter]
+http://csrv.me:80/live/zc1Va/N1Qev/2342.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/AU4" group-title="Canais | Premiere",Premiere 2 SD
+http://csrv.me:80/live/zc1Va/N1Qev/1763.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/AU4" group-title="Canais | Premiere",Premiere 2 SD [Alter]
+http://csrv.me:80/live/zc1Va/N1Qev/2165.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/AU4" group-title="Canais | Premiere",Premiere 3 FHD
+http://csrv.me:80/live/zc1Va/N1Qev/1938.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/AU4" group-title="Canais | Premiere",Premiere 3 FHD [H265]
+http://csrv.me:80/live/zc1Va/N1Qev/25426.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/AU4" group-title="Canais | Premiere",Premiere 3 FHD [H265] [Alter]
+http://csrv.me:80/live/zc1Va/N1Qev/29446.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/AU4" group-title="Canais | Premiere",Premiere 3 HD
+http://csrv.me:80/live/zc1Va/N1Qev/1760.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/AU4" group-title="Canais | Premiere",Premiere 3 HD [Alter]
+http://csrv.me:80/live/zc1Va/N1Qev/2341.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/AU4" group-title="Canais | Premiere",Premiere 3 SD
+http://csrv.me:80/live/zc1Va/N1Qev/1761.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/AU4" group-title="Canais | Premiere",Premiere 3 SD [Alter]
+http://csrv.me:80/live/zc1Va/N1Qev/2164.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/ACv" group-title="Canais | Premiere",Premiere 4 FHD
+http://csrv.me:80/live/zc1Va/N1Qev/1937.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/ACv" group-title="Canais | Premiere",Premiere 4 FHD [H265]
+http://csrv.me:80/live/zc1Va/N1Qev/25373.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/ACv" group-title="Canais | Premiere",Premiere 4 FHD [H265] [Alter]
+http://csrv.me:80/live/zc1Va/N1Qev/29445.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/ACv" group-title="Canais | Premiere",Premiere 4 HD
+http://csrv.me:80/live/zc1Va/N1Qev/1758.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/ACv" group-title="Canais | Premiere",Premiere 4 HD [Alter]
+http://csrv.me:80/live/zc1Va/N1Qev/2340.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/ACv" group-title="Canais | Premiere",Premiere 4 SD
+http://csrv.me:80/live/zc1Va/N1Qev/1759.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/ACv" group-title="Canais | Premiere",Premiere 4 SD [Alter]
+http://csrv.me:80/live/zc1Va/N1Qev/2163.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/nrI" group-title="Canais | Premiere",Premiere 5 FHD
+http://csrv.me:80/live/zc1Va/N1Qev/1936.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/nrI" group-title="Canais | Premiere",Premiere 5 FHD [H265]
+http://csrv.me:80/live/zc1Va/N1Qev/25425.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/nrI" group-title="Canais | Premiere",Premiere 5 FHD [H265] [Alter]
+http://csrv.me:80/live/zc1Va/N1Qev/29444.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/nrI" group-title="Canais | Premiere",Premiere 5 HD
+http://csrv.me:80/live/zc1Va/N1Qev/1756.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/nrI" group-title="Canais | Premiere",Premiere 5 HD [Alter]
+http://csrv.me:80/live/zc1Va/N1Qev/2339.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/nrI" group-title="Canais | Premiere",Premiere 5 SD
+http://csrv.me:80/live/zc1Va/N1Qev/1757.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/nrI" group-title="Canais | Premiere",Premiere 5 SD [Alter]
+http://csrv.me:80/live/zc1Va/N1Qev/2162.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/qhn" group-title="Canais | Premiere",Premiere 6 FHD
+http://csrv.me:80/live/zc1Va/N1Qev/1935.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/qhn" group-title="Canais | Premiere",Premiere 6 FHD [H265]
+http://csrv.me:80/live/zc1Va/N1Qev/30587.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/qhn" group-title="Canais | Premiere",Premiere 6 FHD [H265] [Alter]
+http://csrv.me:80/live/zc1Va/N1Qev/29443.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/qhn" group-title="Canais | Premiere",Premiere 6 HD
+http://csrv.me:80/live/zc1Va/N1Qev/1754.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/qhn" group-title="Canais | Premiere",Premiere 6 HD [Alter]
+http://csrv.me:80/live/zc1Va/N1Qev/2338.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/qhn" group-title="Canais | Premiere",Premiere 6 SD
+http://csrv.me:80/live/zc1Va/N1Qev/1755.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/qhn" group-title="Canais | Premiere",Premiere 6 SD [Alter]
+http://csrv.me:80/live/zc1Va/N1Qev/2161.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/YVk" group-title="Canais | Premiere",Premiere 7 FHD
+http://csrv.me:80/live/zc1Va/N1Qev/1934.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/YVk" group-title="Canais | Premiere",Premiere 7 FHD [H265]
+http://csrv.me:80/live/zc1Va/N1Qev/25372.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/YVk" group-title="Canais | Premiere",Premiere 7 FHD [H265] [Alter]
+http://csrv.me:80/live/zc1Va/N1Qev/29442.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/YVk" group-title="Canais | Premiere",Premiere 7 HD
+http://csrv.me:80/live/zc1Va/N1Qev/1752.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/YVk" group-title="Canais | Premiere",Premiere 7 HD [Alter]
+http://csrv.me:80/live/zc1Va/N1Qev/2337.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/YVk" group-title="Canais | Premiere",Premiere 7 SD
+http://csrv.me:80/live/zc1Va/N1Qev/1753.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/Wt2" group-title="Canais | Premiere",Premiere 7 SD [Alter]
+http://csrv.me:80/live/zc1Va/N1Qev/2160.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/Wt2" group-title="Canais | Premiere",Premiere 8 SD [Alter]
+http://csrv.me:80/live/zc1Va/N1Qev/2159.m3u8
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | Premiere",
 
 
 
-#EXTINF:2 tvg-logo="" group-title="Canais | Infantis",
+#EXTINF:2 tvg-logo="" group-title="Canais | Premiere",
 
 
 
-#EXTINF:2 tvg-logo="" group-title="Canais | Infantis",
+#EXTINF:2 tvg-logo="" group-title="Canais | Premiere",
 
 
 
-#EXTINF:2 tvg-logo="" group-title="Canais | Infantis",
+#EXTINF:2 tvg-logo="" group-title="Canais | Premiere",
 
 
 
-#EXTINF:2 tvg-logo="" group-title="Canais | Infantis",
+#EXTINF:2 tvg-logo="" group-title="Canais | Premiere",
 
 
 
-#EXTINF:2 tvg-logo="" group-title="Canais | Infantis",
+#EXTINF:2 tvg-logo="" group-title="Canais | Premiere",
 
 
 
-#EXTINF:2 tvg-logo="" group-title="Canais | Infantis",
+#EXTINF:2 tvg-logo="" group-title="Canais | Premiere",
 
 
 
-#EXTINF:2 tvg-logo="" group-title="Canais | Infantis",
-
-
-
-#EXTINF:2 tvg-logo="" group-title="Canais | Infantis",
-
-
-
-#EXTINF:2 tvg-logo="" group-title="Canais | Infantis",
-
-
-
-#EXTINF:2 tvg-logo="" group-title="Canais | Infantis",
-
-
-
-#EXTINF:2 tvg-logo="" group-title="Canais | Infantis",
-
-
-
-#EXTINF:2 tvg-logo="" group-title="Canais | Infantis",
+#EXTINF:2 tvg-logo="" group-title="Canais | Premiere",
 
 
 

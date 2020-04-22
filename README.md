@@ -2808,6 +2808,51 @@ http://csrv.me:80/live/zc1Va/N1Qev/41606.m3u8
 http://csrv.me:80/live/zc1Va/N1Qev/41607.m3u8
 
 
+#EXTINF:-1 tvg-logo="http://iv.pe/hng" group-title="Canais | Notícias",Globo News FHD
+http://csrv.me:80/live/cfZ4U/KxEJB/1943.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://iv.pe/P6V" group-title="Canais | Notícias",Globo News FHD [H265]
+http://csrv.me:80/live/cfZ4U/KxEJB/25449.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://iv.pe/ZMi" group-title="Canais | Notícias",Globo News FHD [H265] [Alter]
+http://csrv.me:80/live/cfZ4U/KxEJB/29464.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://iv.pe/qsL" group-title="Canais | Notícias",Globo News HD
+http://csrv.me:80/live/cfZ4U/KxEJB/1819.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://iv.pe/d5W" group-title="Canais | Notícias",Globo News HD [Alter]
+http://csrv.me:80/live/cfZ4U/KxEJB/2367.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://iv.pe/eMq" group-title="Canais | Notícias",Globo News SD
+http://csrv.me:80/live/cfZ4U/KxEJB/1820.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://iv.pe/FlK" group-title="Canais | Notícias",Globo News SD [Alter]
+http://csrv.me:80/live/cfZ4U/KxEJB/2132.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://iv.pe/iRz" group-title="Canais | Notícias",Record News FHD
+http://csrv.me:80/live/cfZ4U/KxEJB/1970.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://iv.pe/mvV" group-title="Canais | Notícias",Record News FHD [H265]
+http://csrv.me:80/live/cfZ4U/KxEJB/25354.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://iv.pe/wU1" group-title="Canais | Notícias",Record News HD
+http://csrv.me:80/live/cfZ4U/KxEJB/1745.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://iv.pe/59i" group-title="Canais | Notícias",Record News SD
+http://csrv.me:80/live/cfZ4U/KxEJB/1746.m3u8
+
+
+
 #########################################################################################################
 
 

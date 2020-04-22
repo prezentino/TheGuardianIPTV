@@ -1595,7 +1595,7 @@ http://csrv.me:80/live/zc1Va/N1Qev/2134.m3u8
 #########################################################################################################
 
 
-#########################################CANAIS GLOBO##########################################
+#########################################CANAIS GLOBO####################################################
 
 
 
@@ -2189,5 +2189,248 @@ http://csrv.me:80/live/zc1Va/N1Qev/1600.m3u8
 
 #EXTINF:2 tvg-logo="http://iv.pe/9xR" group-title="Canais | Globo",Globo TV Verdes Mares Fortaleza [H265]
 http://csrv.me:80/live/zc1Va/N1Qev/42934.m3u8
+
+
+#########################################################################################################
+
+
+#########################################CANAIS HBO######################################################
+
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/tTM" group-title="Canais | HBO",HBO FHD
+http://csrv.me:80/live/zc1Va/N1Qev/1940.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/tTM" group-title="Canais | HBO",HBO FHD [H265]
+http://csrv.me:80/live/zc1Va/N1Qev/25445.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/tTM" group-title="Canais | HBO",HBO FHD [H265] [Alter]
+http://csrv.me:80/live/zc1Va/N1Qev/29410.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/tTM" group-title="Canais | HBO",HBO HD
+http://csrv.me:80/live/zc1Va/N1Qev/1805.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/tTM" group-title="Canais | HBO",HBO HD [Alter]
+http://csrv.me:80/live/zc1Va/N1Qev/2360.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/tTM" group-title="Canais | HBO",HBO SD
+http://csrv.me:80/live/zc1Va/N1Qev/1810.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/tTM" group-title="Canais | HBO",HBO SD [Alter]
+http://csrv.me:80/live/zc1Va/N1Qev/2182.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/Kcx" group-title="Canais | HBO",HBO 2 FHD
+http://csrv.me:80/live/zc1Va/N1Qev/1941.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/Kcx" group-title="Canais | HBO",HBO 2 FHD [H265]
+http://csrv.me:80/live/zc1Va/N1Qev/25447.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/Kcx" group-title="Canais | HBO",HBO 2 FHD [H265] [Alter]
+http://csrv.me:80/live/zc1Va/N1Qev/29460.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/Kcx" group-title="Canais | HBO",HBO 2 HD
+http://csrv.me:80/live/zc1Va/N1Qev/1808.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/Kcx" group-title="Canais | HBO",HBO 2 HD [Alter]
+http://csrv.me:80/live/zc1Va/N1Qev/2362.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/Kcx" group-title="Canais | HBO",HBO 2 SD
+http://csrv.me:80/live/zc1Va/N1Qev/1809.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/Kcx" group-title="Canais | HBO",HBO 2 SD [Alter]
+http://csrv.me:80/live/zc1Va/N1Qev/2126.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/ZeQ" group-title="Canais | HBO",HBO Family FHD
+http://csrv.me:80/live/zc1Va/N1Qev/1992.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/ZeQ" group-title="Canais | HBO",HBO Family FHD [H265]
+http://csrv.me:80/live/zc1Va/N1Qev/25446.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/ZeQ" group-title="Canais | HBO",HBO Family FHD [H265] [Alter]
+http://csrv.me:80/live/zc1Va/N1Qev/29411.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/ZeQ" group-title="Canais | HBO",HBO Family HD
+http://csrv.me:80/live/zc1Va/N1Qev/1806.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/ZeQ" group-title="Canais | HBO",HBO Family HD [Alter]
+http://csrv.me:80/live/zc1Va/N1Qev/2361.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/ZeQ" group-title="Canais | HBO",HBO Family SD
+http://csrv.me:80/live/zc1Va/N1Qev/1807.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/ZeQ" group-title="Canais | HBO",HBO Family SD [Alter]
+http://csrv.me:80/live/zc1Va/N1Qev/2185.m3u8
+
+
+#EXTINF:2 tvg-logo="https://tinyurl.com/ya9cgxlp" group-title="Canais | HBO",HBO Mundi FHD
+http://csrv.me:80/live/zc1Va/N1Qev/1986.m3u8
+
+
+#EXTINF:2 tvg-logo="https://tinyurl.com/ya9cgxlp" group-title="Canais | HBO",HBO Mundi FHD [H265]
+http://csrv.me:80/live/zc1Va/N1Qev/25439.m3u8
+
+
+#EXTINF:2 tvg-logo="https://tinyurl.com/ya9cgxlp" group-title="Canais | HBO",HBO Mundi FHD [H265] [Alter]
+http://csrv.me:80/live/zc1Va/N1Qev/29456.m3u8
+
+
+#EXTINF:2 tvg-logo="https://tinyurl.com/ya9cgxlp" group-title="Canais | HBO",HBO Mundi HD
+http://csrv.me:80/live/zc1Va/N1Qev/1791.m3u8
+
+
+#EXTINF:2 tvg-logo="https://tinyurl.com/ya9cgxlp" group-title="Canais | HBO",HBO Mundi HD [Alter]
+http://csrv.me:80/live/zc1Va/N1Qev/2355.m3u8
+
+
+#EXTINF:2 tvg-logo="https://tinyurl.com/ya9cgxlp" group-title="Canais | HBO",HBO Mundi SD
+http://csrv.me:80/live/zc1Va/N1Qev/1792.m3u8
+
+
+#EXTINF:2 tvg-logo="https://tinyurl.com/ya9cgxlp" group-title="Canais | HBO",HBO Mundi SD [Alter]
+http://csrv.me:80/live/zc1Va/N1Qev/2178.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/orv" group-title="Canais | HBO",HBO Plus FHD
+http://csrv.me:80/live/zc1Va/N1Qev/1991.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/orv" group-title="Canais | HBO",HBO Plus FHD [H265]
+http://csrv.me:80/live/zc1Va/N1Qev/25444.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/orv" group-title="Canais | HBO",HBO Plus FHD [H265] [Alter]
+http://csrv.me:80/live/zc1Va/N1Qev/29462.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/orv" group-title="Canais | HBO",HBO Plus HD
+http://csrv.me:80/live/zc1Va/N1Qev/1803.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/orv" group-title="Canais | HBO",HBO Plus HD [Alter]
+http://csrv.me:80/live/zc1Va/N1Qev/2359.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/orv" group-title="Canais | HBO",HBO Plus SD
+http://csrv.me:80/live/zc1Va/N1Qev/1804.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/orv" group-title="Canais | HBO",HBO Plus SD [Alter]
+http://csrv.me:80/live/zc1Va/N1Qev/2183.m3u8
+
+
+#EXTINF:2 tvg-logo="https://tinyurl.com/ybxsdzwn" group-title="Canais | HBO",HBO Pop FHD
+http://csrv.me:80/live/zc1Va/N1Qev/1984.m3u8
+
+
+#EXTINF:2 tvg-logo="https://tinyurl.com/ybxsdzwn" group-title="Canais | HBO",HBO Pop FHD [H265]
+http://csrv.me:80/live/zc1Va/N1Qev/25437.m3u8
+
+
+#EXTINF:2 tvg-logo="https://tinyurl.com/ybxsdzwn" group-title="Canais | HBO",HBO Pop FHD [H265] [Alter]
+http://csrv.me:80/live/zc1Va/N1Qev/29409.m3u8
+
+
+#EXTINF:2 tvg-logo="https://tinyurl.com/ybxsdzwn" group-title="Canais | HBO",HBO Pop HD
+http://csrv.me:80/live/zc1Va/N1Qev/1787.m3u8
+
+
+#EXTINF:2 tvg-logo="https://tinyurl.com/ybxsdzwn" group-title="Canais | HBO",HBO Pop HD [Alter]
+http://csrv.me:80/live/zc1Va/N1Qev/2353.m3u8
+
+
+#EXTINF:2 tvg-logo="https://tinyurl.com/ybxsdzwn" group-title="Canais | HBO",HBO Pop SD
+http://csrv.me:80/live/zc1Va/N1Qev/1788.m3u8
+
+
+#EXTINF:2 tvg-logo="https://tinyurl.com/ybxsdzwn" group-title="Canais | HBO",HBO Pop SD [Alter]
+http://csrv.me:80/live/zc1Va/N1Qev/2177.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/pOr" group-title="Canais | HBO",HBO Signature FHD
+http://csrv.me:80/live/zc1Va/N1Qev/1990.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/pOr" group-title="Canais | HBO",HBO Signature FHD [H265]
+http://csrv.me:80/live/zc1Va/N1Qev/25443.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/pOr" group-title="Canais | HBO",HBO Signature FHD [H265] [Alter]
+http://csrv.me:80/live/zc1Va/N1Qev/29461.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/pOr" group-title="Canais | HBO",HBO Signature HD
+http://csrv.me:80/live/zc1Va/N1Qev/1801.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/pOr" group-title="Canais | HBO",HBO Signature HD [Alter]
+http://csrv.me:80/live/zc1Va/N1Qev/2358.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/pOr" group-title="Canais | HBO",HBO Signature SD
+http://csrv.me:80/live/zc1Va/N1Qev/1802.m3u8
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/pOr" group-title="Canais | HBO",HBO Signature SD [Alter]
+http://csrv.me:80/live/zc1Va/N1Qev/2181.m3u8
+
+
+#EXTINF:2 tvg-logo="https://tinyurl.com/yd6h5jp8" group-title="Canais | HBO",HBO Xtreme FHD
+http://csrv.me:80/live/zc1Va/N1Qev/1985.m3u8
+
+
+#EXTINF:2 tvg-logo="https://tinyurl.com/yd6h5jp8" group-title="Canais | HBO",HBO Xtreme FHD [H265]
+http://csrv.me:80/live/zc1Va/N1Qev/25438.m3u8
+
+
+#EXTINF:2 tvg-logo="https://tinyurl.com/yd6h5jp8" group-title="Canais | HBO",HBO Xtreme FHD [H265] [Alter]
+http://csrv.me:80/live/zc1Va/N1Qev/29455.m3u8
+
+
+#EXTINF:2 tvg-logo="https://tinyurl.com/yd6h5jp8" group-title="Canais | HBO",HBO Xtreme HD
+http://csrv.me:80/live/zc1Va/N1Qev/1789.m3u8
+
+
+#EXTINF:2 tvg-logo="https://tinyurl.com/yd6h5jp8" group-title="Canais | HBO",HBO Xtreme HD [Alter]
+http://csrv.me:80/live/zc1Va/N1Qev/2354.m3u8
+
+
+#EXTINF:2 tvg-logo="https://tinyurl.com/yd6h5jp8" group-title="Canais | HBO",HBO Xtreme SD
+http://csrv.me:80/live/zc1Va/N1Qev/1790.m3u8
+
+
+#EXTINF:2 tvg-logo="https://tinyurl.com/yd6h5jp8" group-title="Canais | HBO",HBO Xtreme SD [Alter]
+http://csrv.me:80/live/zc1Va/N1Qev/2179.m3u8
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | HBO",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | HBO",
+
+
+
+#EXTINF:2 tvg-logo="" group-title="Canais | HBO",
+
 
 

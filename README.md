@@ -5129,6 +5129,15 @@ http://csrv.me:80/movie/GzQJy/FBr2z/21008.mp4
 
 ##########################################################################################
 
+#######################################FILMES DRAMA######################################
+
+
+#EXTINF:2 tvg-logo="http://iv.pe/m8T" group-title="Filmes | Drama",Intocaveis
+http://csrv.me:80/movie/GzQJy/FBr2z/21009.mp4
+
+
+##########################################################################################
+
 #######################################FILMES TERROR#############################################
 
 
@@ -6648,96 +6657,188 @@ http://csrv.me:80/series/GzQJy/FBr2z/25227.mp4
 
 #EXTINF:2 tvg-logo="http://iv.pe/riM" group-title="Series | The Good Doctor",The Good Doctor S01 E01
 http://csrv.me:80/series/GzQJy/FBr2z/5136.mp4
+
+
 #EXTINF:2 tvg-logo="http://iv.pe/riM" group-title="Series | The Good Doctor",The Good Doctor S01 E02
 http://csrv.me:80/series/GzQJy/FBr2z/5137.mp4
+
+
 #EXTINF:2 tvg-logo="http://iv.pe/riM" group-title="Series | The Good Doctor",The Good Doctor S01 E03
 http://csrv.me:80/series/GzQJy/FBr2z/5138.mp4
+
+
 #EXTINF:2 tvg-logo="http://iv.pe/riM" group-title="Series | The Good Doctor",The Good Doctor S01 E04
 http://csrv.me:80/series/GzQJy/FBr2z/5139.mp4
+
+
 #EXTINF:2 tvg-logo="http://iv.pe/riM" group-title="Series | The Good Doctor",The Good Doctor S01 E05
 http://csrv.me:80/series/GzQJy/FBr2z/5140.mp4
+
+
 #EXTINF:2 tvg-logo="http://iv.pe/riM" group-title="Series | The Good Doctor",The Good Doctor S01 E06
 http://csrv.me:80/series/GzQJy/FBr2z/5141.mp4
+
+
 #EXTINF:2 tvg-logo="http://iv.pe/riM" group-title="Series | The Good Doctor",The Good Doctor S01 E07
 http://csrv.me:80/series/GzQJy/FBr2z/5142.mp4
+
+
 #EXTINF:2 tvg-logo="http://iv.pe/riM" group-title="Series | The Good Doctor",The Good Doctor S01 E08
 http://csrv.me:80/series/GzQJy/FBr2z/5143.mp4
+
+
 #EXTINF:2 tvg-logo="http://iv.pe/riM" group-title="Series | The Good Doctor",The Good Doctor S01 E09
 http://csrv.me:80/series/GzQJy/FBr2z/5144.mp4
+
+
 #EXTINF:2 tvg-logo="http://iv.pe/riM" group-title="Series | The Good Doctor",The Good Doctor S01 E10
 http://csrv.me:80/series/GzQJy/FBr2z/5145.mp4
+
+
 #EXTINF:2 tvg-logo="http://iv.pe/riM" group-title="Series | The Good Doctor",The Good Doctor S01 E11
 http://csrv.me:80/series/GzQJy/FBr2z/5146.mp4
+
+
 #EXTINF:2 tvg-logo="http://iv.pe/riM" group-title="Series | The Good Doctor",The Good Doctor S01 E12
 http://csrv.me:80/series/GzQJy/FBr2z/5147.mp4
+
+
 #EXTINF:2 tvg-logo="http://iv.pe/riM" group-title="Series | The Good Doctor",The Good Doctor S01 E13
 http://csrv.me:80/series/GzQJy/FBr2z/5148.mp4
+
+
 #EXTINF:2 tvg-logo="http://iv.pe/riM" group-title="Series | The Good Doctor",The Good Doctor S01 E14
 http://csrv.me:80/series/GzQJy/FBr2z/5149.mp4
+
+
 #EXTINF:2 tvg-logo="http://iv.pe/riM" group-title="Series | The Good Doctor",The Good Doctor S01 E15
 http://csrv.me:80/series/GzQJy/FBr2z/5150.mp4
+
+
 #EXTINF:2 tvg-logo="http://iv.pe/riM" group-title="Series | The Good Doctor",The Good Doctor S01 E16
 http://csrv.me:80/series/GzQJy/FBr2z/5151.mp4
+
+
 #EXTINF:2 tvg-logo="http://iv.pe/riM" group-title="Series | The Good Doctor",The Good Doctor S01 E17
 http://csrv.me:80/series/GzQJy/FBr2z/5152.mp4
+
+
 #EXTINF:2 tvg-logo="http://iv.pe/riM" group-title="Series | The Good Doctor",The Good Doctor S01 E18
 http://csrv.me:80/series/GzQJy/FBr2z/5153.mp4
+
+
 #EXTINF:2 tvg-logo="http://iv.pe/riM" group-title="Series | The Good Doctor",The Good Doctor S02 E01
 http://csrv.me:80/series/GzQJy/FBr2z/29493.mp4
+
+
 #EXTINF:2 tvg-logo="http://iv.pe/riM" group-title="Series | The Good Doctor",The Good Doctor S02 E02
 http://csrv.me:80/series/GzQJy/FBr2z/29494.mp4
+
+
 #EXTINF:2 tvg-logo="http://iv.pe/riM" group-title="Series | The Good Doctor",The Good Doctor S02 E03
 http://csrv.me:80/series/GzQJy/FBr2z/29495.mp4
+
+
 #EXTINF:2 tvg-logo="http://iv.pe/riM" group-title="Series | The Good Doctor",The Good Doctor S02 E04
 http://csrv.me:80/series/GzQJy/FBr2z/29496.mp4
+
+
 #EXTINF:2 tvg-logo="http://iv.pe/riM" group-title="Series | The Good Doctor",The Good Doctor S02 E05
 http://csrv.me:80/series/GzQJy/FBr2z/29497.mp4
+
+
 #EXTINF:2 tvg-logo="http://iv.pe/riM" group-title="Series | The Good Doctor",The Good Doctor S02 E06
 http://csrv.me:80/series/GzQJy/FBr2z/29498.mp4
+
+
 #EXTINF:2 tvg-logo="http://iv.pe/riM" group-title="Series | The Good Doctor",The Good Doctor S02 E07
 http://csrv.me:80/series/GzQJy/FBr2z/29499.mp4
+
+
 #EXTINF:2 tvg-logo="http://iv.pe/riM" group-title="Series | The Good Doctor",The Good Doctor S02 E08
 http://csrv.me:80/series/GzQJy/FBr2z/29500.mp4
+
+
 #EXTINF:2 tvg-logo="http://iv.pe/riM" group-title="Series | The Good Doctor",The Good Doctor S02 E09
 http://csrv.me:80/series/GzQJy/FBr2z/29501.mp4
+
+
 #EXTINF:2 tvg-logo="http://iv.pe/riM" group-title="Series | The Good Doctor",The Good Doctor S02 E10
 http://csrv.me:80/series/GzQJy/FBr2z/29502.mp4
+
+
 #EXTINF:2 tvg-logo="http://iv.pe/riM" group-title="Series | The Good Doctor",The Good Doctor S02 E11
 http://csrv.me:80/series/GzQJy/FBr2z/29503.mp4
+
+
 #EXTINF:2 tvg-logo="http://iv.pe/riM" group-title="Series | The Good Doctor",The Good Doctor S02 E12
 http://csrv.me:80/series/GzQJy/FBr2z/29504.mp4
+
+
 #EXTINF:2 tvg-logo="http://iv.pe/riM" group-title="Series | The Good Doctor",The Good Doctor S02 E13
 http://csrv.me:80/series/GzQJy/FBr2z/29505.mp4
+
+
 #EXTINF:2 tvg-logo="http://iv.pe/riM" group-title="Series | The Good Doctor",The Good Doctor S02 E14
 http://csrv.me:80/series/GzQJy/FBr2z/29506.mp4
+
+
 #EXTINF:2 tvg-logo="http://iv.pe/riM" group-title="Series | The Good Doctor",The Good Doctor S02 E15
 http://csrv.me:80/series/GzQJy/FBr2z/29507.mp4
+
+
 #EXTINF:2 tvg-logo="http://iv.pe/riM" group-title="Series | The Good Doctor",The Good Doctor S02 E16
 http://csrv.me:80/series/GzQJy/FBr2z/29508.mp4
+
+
 #EXTINF:2 tvg-logo="http://iv.pe/riM" group-title="Series | The Good Doctor",The Good Doctor S02 E17
 http://csrv.me:80/series/GzQJy/FBr2z/29509.mp4
+
+
 #EXTINF:2 tvg-logo="http://iv.pe/riM" group-title="Series | The Good Doctor",The Good Doctor S02 E18
 http://csrv.me:80/series/GzQJy/FBr2z/29510.mp4
+
+
 #EXTINF:2 tvg-logo="http://csrv.me:80/images/3dcb71f51728faf2e8b8635548bfbb90.jpg" group-title="Series | The Good Doctor",The Good Doctor S03 E01
 http://csrv.me:80/series/GzQJy/FBr2z/32999.mp4
+
+
 #EXTINF:2 tvg-logo="http://csrv.me:80/images/e60aae230559df7766b5453443eea5a8.jpg" group-title="Series | The Good Doctor",The Good Doctor S03 E02
 http://csrv.me:80/series/GzQJy/FBr2z/33000.mp4
+
+
 #EXTINF:2 tvg-logo="http://csrv.me:80/images/b381848802910328dc418381c094d565.jpg" group-title="Series | The Good Doctor",The Good Doctor S03 E03
 http://csrv.me:80/series/GzQJy/FBr2z/33001.mp4
+
+
 #EXTINF:2 tvg-logo="http://csrv.me:80/images/d22be35d525e898d442314a965064a17.jpg" group-title="Series | The Good Doctor",The Good Doctor S03 E04
 http://csrv.me:80/series/GzQJy/FBr2z/33002.mp4
+
+
 #EXTINF:2 tvg-logo="http://csrv.me:80/images/1470132479c6d9f1461e72376fcfadce.jpg" group-title="Series | The Good Doctor",The Good Doctor S03 E05
 http://csrv.me:80/series/GzQJy/FBr2z/33003.mp4
+
+
 #EXTINF:2 tvg-logo="http://csrv.me:80/images/30c6b02e6593eae7560151d6016324aa.jpg" group-title="Series | The Good Doctor",The Good Doctor S03 E06
 http://csrv.me:80/series/GzQJy/FBr2z/33004.mp4
+
+
 #EXTINF:2 tvg-logo="http://csrv.me:80/images/37184f2c412c0dc41647117c4c1c57c5.jpg" group-title="Series | The Good Doctor",The Good Doctor S03 E07
 http://csrv.me:80/series/GzQJy/FBr2z/33005.mp4
+
+
 #EXTINF:2 tvg-logo="http://csrv.me:80/images/bfa2f3ca78d3b1c76d6d0bdbc44db276.jpg" group-title="Series | The Good Doctor",The Good Doctor S03 E08
 http://csrv.me:80/series/GzQJy/FBr2z/33006.mp4
+
+
 #EXTINF:2 tvg-logo="http://csrv.me:80/images/75505e800e5dba18db57a7dc72f4eb69.jpg" group-title="Series | The Good Doctor",The Good Doctor S03 E09
 http://csrv.me:80/series/GzQJy/FBr2z/33007.mp4
+
+
 #EXTINF:2 tvg-logo="http://csrv.me:80/images/03c7c6beabbd5f3b9f28e18ba4649075.jpg" group-title="Series | The Good Doctor",The Good Doctor S03 E10
 http://csrv.me:80/series/GzQJy/FBr2z/33008.mp4
+
+
 
 
 
@@ -6750,116 +6851,228 @@ http://csrv.me:80/series/GzQJy/FBr2z/33008.mp4
 
 #EXTINF:2 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S01 E01
 http://csrv.me:80/series/GzQJy/FBr2z/4861.mp4
+
+
 #EXTINF:2 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S01 E02
 http://csrv.me:80/series/GzQJy/FBr2z/4862.mp4
+
+
 #EXTINF:2 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S01 E03
 http://csrv.me:80/series/GzQJy/FBr2z/4863.mp4
+
+
 #EXTINF:2 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S01 E04
 http://csrv.me:80/series/GzQJy/FBr2z/4864.mp4
+
+
 #EXTINF:2 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S01 E05
 http://csrv.me:80/series/GzQJy/FBr2z/4865.mp4
+
+
 #EXTINF:2 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S01 E06
 http://csrv.me:80/series/GzQJy/FBr2z/4866.mp4
+
+
 #EXTINF:2 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S01 E07
 http://csrv.me:80/series/GzQJy/FBr2z/4867.mp4
+
+
 #EXTINF:2 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S01 E08
 http://csrv.me:80/series/GzQJy/FBr2z/4868.mp4
+
+
 #EXTINF:2 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S01 E09
 http://csrv.me:80/series/GzQJy/FBr2z/4869.mp4
+
+
 #EXTINF:2 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S01 E10
 http://csrv.me:80/series/GzQJy/FBr2z/4870.mp4
+
+
 #EXTINF:2 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S01 E11
 http://csrv.me:80/series/GzQJy/FBr2z/4871.mp4
+
+
 #EXTINF:2 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S01 E12
 http://csrv.me:80/series/GzQJy/FBr2z/4872.mp4
+
+
 #EXTINF:2 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S01 E13
 http://csrv.me:80/series/GzQJy/FBr2z/4873.mp4
+
+
 #EXTINF:2 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S01 E14
 http://csrv.me:80/series/GzQJy/FBr2z/4874.mp4
+
+
 #EXTINF:2 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S01 E15
 http://csrv.me:80/series/GzQJy/FBr2z/4875.mp4
+
+
 #EXTINF:2 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S01 E16
 http://csrv.me:80/series/GzQJy/FBr2z/4876.mp4
+
+
 #EXTINF:2 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S01 E17
 http://csrv.me:80/series/GzQJy/FBr2z/4877.mp4
+
+
 #EXTINF:2 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S01 E18
 http://csrv.me:80/series/GzQJy/FBr2z/4878.mp4
+
+
 #EXTINF:2 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S01 E19
 http://csrv.me:80/series/GzQJy/FBr2z/4879.mp4
+
+
 #EXTINF:2 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S01 E20
 http://csrv.me:80/series/GzQJy/FBr2z/4880.mp4
+
+
 #EXTINF:2 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S01 E21
 http://csrv.me:80/series/GzQJy/FBr2z/4881.mp4
+
+
 #EXTINF:2 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S01 E22
 http://csrv.me:80/series/GzQJy/FBr2z/4882.mp4
+
+
 #EXTINF:2 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S02 E01
 http://csrv.me:80/series/GzQJy/FBr2z/4883.mp4
+
+
 #EXTINF:2 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S02 E02
 http://csrv.me:80/series/GzQJy/FBr2z/4884.mp4
+
+
 #EXTINF:2 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S02 E03
 http://csrv.me:80/series/GzQJy/FBr2z/4885.mp4
+
+
 #EXTINF:2 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S02 E04
 http://csrv.me:80/series/GzQJy/FBr2z/4886.mp4
+
+
 #EXTINF:2 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S02 E05
 http://csrv.me:80/series/GzQJy/FBr2z/4887.mp4
+
+
 #EXTINF:2 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S02 E06
 http://csrv.me:80/series/GzQJy/FBr2z/4888.mp4
+
+
 #EXTINF:2 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S02 E07
 http://csrv.me:80/series/GzQJy/FBr2z/4889.mp4
+
+
 #EXTINF:2 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S02 E08
 http://csrv.me:80/series/GzQJy/FBr2z/4890.mp4
+
+
 #EXTINF:2 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S02 E09
 http://csrv.me:80/series/GzQJy/FBr2z/4891.mp4
+
+
 #EXTINF:2 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S02 E10
 http://csrv.me:80/series/GzQJy/FBr2z/4892.mp4
+
+
 #EXTINF:2 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S02 E11
 http://csrv.me:80/series/GzQJy/FBr2z/4893.mp4
+
+
 #EXTINF:2 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S02 E12
 http://csrv.me:80/series/GzQJy/FBr2z/4894.mp4
+
+
 #EXTINF:2 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S02 E13
 http://csrv.me:80/series/GzQJy/FBr2z/4895.mp4
+
+
 #EXTINF:2 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S02 E14
 http://csrv.me:80/series/GzQJy/FBr2z/4896.mp4
+
+
 #EXTINF:2 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S02 E15
 http://csrv.me:80/series/GzQJy/FBr2z/4897.mp4
+
+
 #EXTINF:2 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S02 E16
 http://csrv.me:80/series/GzQJy/FBr2z/4898.mp4
+
+
 #EXTINF:2 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S02 E17
 http://csrv.me:80/series/GzQJy/FBr2z/4899.mp4
+
+
 #EXTINF:2 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S02 E18
 http://csrv.me:80/series/GzQJy/FBr2z/4900.mp4
+
+
 #EXTINF:2 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S02 E19
 http://csrv.me:80/series/GzQJy/FBr2z/4901.mp4
+
+
 #EXTINF:2 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S02 E20
 http://csrv.me:80/series/GzQJy/FBr2z/4902.mp4
+
+
 #EXTINF:2 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S02 E21
 http://csrv.me:80/series/GzQJy/FBr2z/4903.mp4
+
+
 #EXTINF:2 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S02 E22
 http://csrv.me:80/series/GzQJy/FBr2z/4904.mp4
+
+
 #EXTINF:2 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S03 E01
 http://csrv.me:80/series/GzQJy/FBr2z/4905.mp4
+
+
 #EXTINF:2 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S03 E02
 http://csrv.me:80/series/GzQJy/FBr2z/4906.mp4
+
+
 #EXTINF:2 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S03 E03
 http://csrv.me:80/series/GzQJy/FBr2z/4907.mp4
+
+
 #EXTINF:2 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S03 E04
 http://csrv.me:80/series/GzQJy/FBr2z/4908.mp4
+
+
 #EXTINF:2 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S03 E05
 http://csrv.me:80/series/GzQJy/FBr2z/4909.mp4
+
+
 #EXTINF:2 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S03 E06
 http://csrv.me:80/series/GzQJy/FBr2z/4910.mp4
+
+
 #EXTINF:2 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S03 E07
 http://csrv.me:80/series/GzQJy/FBr2z/4911.mp4
+
+
 #EXTINF:2 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S03 E08
 http://csrv.me:80/series/GzQJy/FBr2z/4912.mp4
+
+
 #EXTINF:2 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S03 E09
 http://csrv.me:80/series/GzQJy/FBr2z/4913.mp4
+
+
 #EXTINF:2 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S03 E10
 http://csrv.me:80/series/GzQJy/FBr2z/4914.mp4
+
+
 #EXTINF:2 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S03 E11
 http://csrv.me:80/series/GzQJy/FBr2z/4915.mp4
+
+
 #EXTINF:2 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S03 E12
 http://csrv.me:80/series/GzQJy/FBr2z/4916.mp4
+
+
 #EXTINF:2 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S03 E13
 http://csrv.me:80/series/GzQJy/FBr2z/4917.mp4
 #EXTINF:2 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S03 E14

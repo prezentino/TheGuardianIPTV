@@ -5065,3 +5065,387 @@ http://csrv.me:80/movie/bmjGk/Kc9yT/42954.mp4
 
 #EXTINF:-1 tvg-logo="http://iv.pe/Is8" group-title="Filmes | Drama",Interestelar
 http://csrv.me:80/movie/bmjGk/Kc9yT/21008.mp4
+
+#EXTINF:-1 tvg-logo="http://iv.pe/hUr" group-title="Filmes | Comedia",O Terminal
+http://csrv.me:80/movie/bmjGk/Kc9yT/20763.mp4
+
+
+##########################################################################################
+
+#######################################Séries#############################################
+
+
+
+#EXTINF:-1 tvg-logo="http://iv.pe/8eJ" group-title="Series | American Horror Story",American Horror Story S01 E01
+http://csrv.me:80/series/bmjGk/Kc9yT/9202.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/8eJ" group-title="Series | American Horror Story",American Horror Story S01 E02
+http://csrv.me:80/series/bmjGk/Kc9yT/9203.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/8eJ" group-title="Series | American Horror Story",American Horror Story S01 E03
+http://csrv.me:80/series/bmjGk/Kc9yT/9204.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/8eJ" group-title="Series | American Horror Story",American Horror Story S01 E04
+http://csrv.me:80/series/bmjGk/Kc9yT/9205.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/8eJ" group-title="Series | American Horror Story",American Horror Story S01 E05
+http://csrv.me:80/series/bmjGk/Kc9yT/9206.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/8eJ" group-title="Series | American Horror Story",American Horror Story S01 E06
+http://csrv.me:80/series/bmjGk/Kc9yT/9207.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/8eJ" group-title="Series | American Horror Story",American Horror Story S01 E07
+http://csrv.me:80/series/bmjGk/Kc9yT/9208.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/8eJ" group-title="Series | American Horror Story",American Horror Story S01 E08
+http://csrv.me:80/series/bmjGk/Kc9yT/9209.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/8eJ" group-title="Series | American Horror Story",American Horror Story S01 E09
+http://csrv.me:80/series/bmjGk/Kc9yT/9210.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/8eJ" group-title="Series | American Horror Story",American Horror Story S01 E10
+http://csrv.me:80/series/bmjGk/Kc9yT/9211.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/8eJ" group-title="Series | American Horror Story",American Horror Story S01 E11
+http://csrv.me:80/series/bmjGk/Kc9yT/9212.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/8eJ" group-title="Series | American Horror Story",American Horror Story S01 E12
+http://csrv.me:80/series/bmjGk/Kc9yT/9213.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/8eJ" group-title="Series | American Horror Story",American Horror Story S02 E01
+http://csrv.me:80/series/bmjGk/Kc9yT/9214.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/8eJ" group-title="Series | American Horror Story",American Horror Story S02 E02
+http://csrv.me:80/series/bmjGk/Kc9yT/9215.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/8eJ" group-title="Series | American Horror Story",American Horror Story S02 E03
+http://csrv.me:80/series/bmjGk/Kc9yT/9216.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/8eJ" group-title="Series | American Horror Story",American Horror Story S02 E04
+http://csrv.me:80/series/bmjGk/Kc9yT/9217.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/8eJ" group-title="Series | American Horror Story",American Horror Story S02 E05
+http://csrv.me:80/series/bmjGk/Kc9yT/9218.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/8eJ" group-title="Series | American Horror Story",American Horror Story S02 E06
+http://csrv.me:80/series/bmjGk/Kc9yT/9219.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/8eJ" group-title="Series | American Horror Story",American Horror Story S02 E07
+http://csrv.me:80/series/bmjGk/Kc9yT/9220.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/8eJ" group-title="Series | American Horror Story",American Horror Story S02 E08
+http://csrv.me:80/series/bmjGk/Kc9yT/9221.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/8eJ" group-title="Series | American Horror Story",American Horror Story S02 E09
+http://csrv.me:80/series/bmjGk/Kc9yT/9222.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/8eJ" group-title="Series | American Horror Story",American Horror Story S02 E10
+http://csrv.me:80/series/bmjGk/Kc9yT/9223.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/8eJ" group-title="Series | American Horror Story",American Horror Story S02 E11
+http://csrv.me:80/series/bmjGk/Kc9yT/9224.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/8eJ" group-title="Series | American Horror Story",American Horror Story S02 E12
+http://csrv.me:80/series/bmjGk/Kc9yT/9225.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/8eJ" group-title="Series | American Horror Story",American Horror Story S02 E13
+http://csrv.me:80/series/bmjGk/Kc9yT/9226.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/8eJ" group-title="Series | American Horror Story",American Horror Story S03 E01
+http://csrv.me:80/series/bmjGk/Kc9yT/9227.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/8eJ" group-title="Series | American Horror Story",American Horror Story S03 E02
+http://csrv.me:80/series/bmjGk/Kc9yT/9228.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/8eJ" group-title="Series | American Horror Story",American Horror Story S03 E03
+http://csrv.me:80/series/bmjGk/Kc9yT/9229.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/8eJ" group-title="Series | American Horror Story",American Horror Story S03 E04
+http://csrv.me:80/series/bmjGk/Kc9yT/9230.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/8eJ" group-title="Series | American Horror Story",American Horror Story S03 E05
+http://csrv.me:80/series/bmjGk/Kc9yT/9231.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/8eJ" group-title="Series | American Horror Story",American Horror Story S03 E06
+http://csrv.me:80/series/bmjGk/Kc9yT/9232.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/8eJ" group-title="Series | American Horror Story",American Horror Story S03 E07
+http://csrv.me:80/series/bmjGk/Kc9yT/9233.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/8eJ" group-title="Series | American Horror Story",American Horror Story S03 E08
+http://csrv.me:80/series/bmjGk/Kc9yT/9234.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/8eJ" group-title="Series | American Horror Story",American Horror Story S03 E09
+http://csrv.me:80/series/bmjGk/Kc9yT/9235.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/8eJ" group-title="Series | American Horror Story",American Horror Story S03 E10
+http://csrv.me:80/series/bmjGk/Kc9yT/9236.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/8eJ" group-title="Series | American Horror Story",American Horror Story S03 E11
+http://csrv.me:80/series/bmjGk/Kc9yT/9237.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/8eJ" group-title="Series | American Horror Story",American Horror Story S03 E12
+http://csrv.me:80/series/bmjGk/Kc9yT/9238.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/8eJ" group-title="Series | American Horror Story",American Horror Story S03 E13
+http://csrv.me:80/series/bmjGk/Kc9yT/9239.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/8eJ" group-title="Series | American Horror Story",American Horror Story S04 E01
+http://csrv.me:80/series/bmjGk/Kc9yT/9240.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/8eJ" group-title="Series | American Horror Story",American Horror Story S04 E02
+http://csrv.me:80/series/bmjGk/Kc9yT/9241.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/8eJ" group-title="Series | American Horror Story",American Horror Story S04 E03
+http://csrv.me:80/series/bmjGk/Kc9yT/9242.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/8eJ" group-title="Series | American Horror Story",American Horror Story S04 E04
+http://csrv.me:80/series/bmjGk/Kc9yT/9243.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/8eJ" group-title="Series | American Horror Story",American Horror Story S04 E05
+http://csrv.me:80/series/bmjGk/Kc9yT/9244.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/8eJ" group-title="Series | American Horror Story",American Horror Story S04 E06
+http://csrv.me:80/series/bmjGk/Kc9yT/9245.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/8eJ" group-title="Series | American Horror Story",American Horror Story S04 E07
+http://csrv.me:80/series/bmjGk/Kc9yT/9246.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/8eJ" group-title="Series | American Horror Story",American Horror Story S04 E08
+http://csrv.me:80/series/bmjGk/Kc9yT/9247.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/8eJ" group-title="Series | American Horror Story",American Horror Story S04 E09
+http://csrv.me:80/series/bmjGk/Kc9yT/9248.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/8eJ" group-title="Series | American Horror Story",American Horror Story S04 E10
+http://csrv.me:80/series/bmjGk/Kc9yT/9249.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/8eJ" group-title="Series | American Horror Story",American Horror Story S04 E11
+http://csrv.me:80/series/bmjGk/Kc9yT/9250.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/8eJ" group-title="Series | American Horror Story",American Horror Story S04 E12
+http://csrv.me:80/series/bmjGk/Kc9yT/9251.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/8eJ" group-title="Series | American Horror Story",American Horror Story S04 E13
+http://csrv.me:80/series/bmjGk/Kc9yT/9252.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/8eJ" group-title="Series | American Horror Story",American Horror Story S05 E01
+http://csrv.me:80/series/bmjGk/Kc9yT/9253.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/8eJ" group-title="Series | American Horror Story",American Horror Story S05 E02
+http://csrv.me:80/series/bmjGk/Kc9yT/9254.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/8eJ" group-title="Series | American Horror Story",American Horror Story S05 E03
+http://csrv.me:80/series/bmjGk/Kc9yT/9255.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/8eJ" group-title="Series | American Horror Story",American Horror Story S05 E04
+http://csrv.me:80/series/bmjGk/Kc9yT/9256.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/8eJ" group-title="Series | American Horror Story",American Horror Story S05 E05
+http://csrv.me:80/series/bmjGk/Kc9yT/9257.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/8eJ" group-title="Series | American Horror Story",American Horror Story S05 E06
+http://csrv.me:80/series/bmjGk/Kc9yT/9258.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/8eJ" group-title="Series | American Horror Story",American Horror Story S05 E07
+http://csrv.me:80/series/bmjGk/Kc9yT/9259.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/8eJ" group-title="Series | American Horror Story",American Horror Story S05 E08
+http://csrv.me:80/series/bmjGk/Kc9yT/9260.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/8eJ" group-title="Series | American Horror Story",American Horror Story S05 E09
+http://csrv.me:80/series/bmjGk/Kc9yT/9261.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/8eJ" group-title="Series | American Horror Story",American Horror Story S05 E10
+http://csrv.me:80/series/bmjGk/Kc9yT/9262.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/8eJ" group-title="Series | American Horror Story",American Horror Story S05 E11
+http://csrv.me:80/series/bmjGk/Kc9yT/9263.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/8eJ" group-title="Series | American Horror Story",American Horror Story S05 E12
+http://csrv.me:80/series/bmjGk/Kc9yT/9264.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/8eJ" group-title="Series | American Horror Story",American Horror Story S06 E01
+http://csrv.me:80/series/bmjGk/Kc9yT/9265.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/8eJ" group-title="Series | American Horror Story",American Horror Story S06 E02
+http://csrv.me:80/series/bmjGk/Kc9yT/9266.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/8eJ" group-title="Series | American Horror Story",American Horror Story S06 E03
+http://csrv.me:80/series/bmjGk/Kc9yT/9267.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/8eJ" group-title="Series | American Horror Story",American Horror Story S06 E04
+http://csrv.me:80/series/bmjGk/Kc9yT/9268.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/8eJ" group-title="Series | American Horror Story",American Horror Story S06 E05
+http://csrv.me:80/series/bmjGk/Kc9yT/9269.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/8eJ" group-title="Series | American Horror Story",American Horror Story S06 E06
+http://csrv.me:80/series/bmjGk/Kc9yT/9270.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/8eJ" group-title="Series | American Horror Story",American Horror Story S06 E07
+http://csrv.me:80/series/bmjGk/Kc9yT/9271.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/8eJ" group-title="Series | American Horror Story",American Horror Story S06 E08
+http://csrv.me:80/series/bmjGk/Kc9yT/9272.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/8eJ" group-title="Series | American Horror Story",American Horror Story S06 E09
+http://csrv.me:80/series/bmjGk/Kc9yT/9273.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/8eJ" group-title="Series | American Horror Story",American Horror Story S06 E10
+http://csrv.me:80/series/bmjGk/Kc9yT/9274.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/8eJ" group-title="Series | American Horror Story",American Horror Story S07 E01
+http://csrv.me:80/series/bmjGk/Kc9yT/9275.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/8eJ" group-title="Series | American Horror Story",American Horror Story S07 E02
+http://csrv.me:80/series/bmjGk/Kc9yT/9276.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/8eJ" group-title="Series | American Horror Story",American Horror Story S07 E03
+http://csrv.me:80/series/bmjGk/Kc9yT/9277.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/8eJ" group-title="Series | American Horror Story",American Horror Story S07 E04
+http://csrv.me:80/series/bmjGk/Kc9yT/9278.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/8eJ" group-title="Series | American Horror Story",American Horror Story S07 E05
+http://csrv.me:80/series/bmjGk/Kc9yT/9279.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/8eJ" group-title="Series | American Horror Story",American Horror Story S07 E06
+http://csrv.me:80/series/bmjGk/Kc9yT/9280.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/8eJ" group-title="Series | American Horror Story",American Horror Story S07 E07
+http://csrv.me:80/series/bmjGk/Kc9yT/9281.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/8eJ" group-title="Series | American Horror Story",American Horror Story S07 E08
+http://csrv.me:80/series/bmjGk/Kc9yT/9282.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/8eJ" group-title="Series | American Horror Story",American Horror Story S07 E09
+http://csrv.me:80/series/bmjGk/Kc9yT/9283.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/8eJ" group-title="Series | American Horror Story",American Horror Story S07 E10
+http://csrv.me:80/series/bmjGk/Kc9yT/9284.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/8eJ" group-title="Series | American Horror Story",American Horror Story S07 E11
+http://csrv.me:80/series/bmjGk/Kc9yT/9285.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/8eJ" group-title="Series | American Horror Story",American Horror Story S08 E01
+http://csrv.me:80/series/bmjGk/Kc9yT/9286.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/8eJ" group-title="Series | American Horror Story",American Horror Story S08 E02
+http://csrv.me:80/series/bmjGk/Kc9yT/9287.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/8eJ" group-title="Series | American Horror Story",American Horror Story S08 E03
+http://csrv.me:80/series/bmjGk/Kc9yT/9288.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/8eJ" group-title="Series | American Horror Story",American Horror Story S08 E04
+http://csrv.me:80/series/bmjGk/Kc9yT/9289.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/8eJ" group-title="Series | American Horror Story",American Horror Story S08 E05
+http://csrv.me:80/series/bmjGk/Kc9yT/9290.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/8eJ" group-title="Series | American Horror Story",American Horror Story S08 E06
+http://csrv.me:80/series/bmjGk/Kc9yT/9291.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/8eJ" group-title="Series | American Horror Story",American Horror Story S08 E07
+http://csrv.me:80/series/bmjGk/Kc9yT/9292.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/8eJ" group-title="Series | American Horror Story",American Horror Story S08 E08
+http://csrv.me:80/series/bmjGk/Kc9yT/9293.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/8eJ" group-title="Series | American Horror Story",American Horror Story S08 E09
+http://csrv.me:80/series/bmjGk/Kc9yT/9294.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/8eJ" group-title="Series | American Horror Story",American Horror Story S08 E10
+http://csrv.me:80/series/bmjGk/Kc9yT/9295.mp4
+
+
+#############################################################################################################################
+
+
+##############################################SERIES THE ORIGINALS###########################################################
+
+
+
+#EXTINF:-1 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S01 E01
+http://csrv.me:80/series/bmjGk/Kc9yT/4861.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S01 E02
+http://csrv.me:80/series/bmjGk/Kc9yT/4862.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S01 E03
+http://csrv.me:80/series/bmjGk/Kc9yT/4863.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S01 E04
+http://csrv.me:80/series/bmjGk/Kc9yT/4864.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S01 E05
+http://csrv.me:80/series/bmjGk/Kc9yT/4865.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S01 E06
+http://csrv.me:80/series/bmjGk/Kc9yT/4866.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S01 E07
+http://csrv.me:80/series/bmjGk/Kc9yT/4867.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S01 E08
+http://csrv.me:80/series/bmjGk/Kc9yT/4868.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S01 E09
+http://csrv.me:80/series/bmjGk/Kc9yT/4869.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S01 E10
+http://csrv.me:80/series/bmjGk/Kc9yT/4870.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S01 E11
+http://csrv.me:80/series/bmjGk/Kc9yT/4871.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S01 E12
+http://csrv.me:80/series/bmjGk/Kc9yT/4872.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S01 E13
+http://csrv.me:80/series/bmjGk/Kc9yT/4873.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S01 E14
+http://csrv.me:80/series/bmjGk/Kc9yT/4874.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S01 E15
+http://csrv.me:80/series/bmjGk/Kc9yT/4875.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S01 E16
+http://csrv.me:80/series/bmjGk/Kc9yT/4876.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S01 E17
+http://csrv.me:80/series/bmjGk/Kc9yT/4877.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S01 E18
+http://csrv.me:80/series/bmjGk/Kc9yT/4878.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S01 E19
+http://csrv.me:80/series/bmjGk/Kc9yT/4879.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S01 E20
+http://csrv.me:80/series/bmjGk/Kc9yT/4880.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S01 E21
+http://csrv.me:80/series/bmjGk/Kc9yT/4881.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S01 E22
+http://csrv.me:80/series/bmjGk/Kc9yT/4882.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S02 E01
+http://csrv.me:80/series/bmjGk/Kc9yT/4883.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S02 E02
+http://csrv.me:80/series/bmjGk/Kc9yT/4884.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S02 E03
+http://csrv.me:80/series/bmjGk/Kc9yT/4885.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S02 E04
+http://csrv.me:80/series/bmjGk/Kc9yT/4886.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S02 E05
+http://csrv.me:80/series/bmjGk/Kc9yT/4887.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S02 E06
+http://csrv.me:80/series/bmjGk/Kc9yT/4888.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S02 E07
+http://csrv.me:80/series/bmjGk/Kc9yT/4889.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S02 E08
+http://csrv.me:80/series/bmjGk/Kc9yT/4890.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S02 E09
+http://csrv.me:80/series/bmjGk/Kc9yT/4891.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S02 E10
+http://csrv.me:80/series/bmjGk/Kc9yT/4892.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S02 E11
+http://csrv.me:80/series/bmjGk/Kc9yT/4893.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S02 E12
+http://csrv.me:80/series/bmjGk/Kc9yT/4894.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S02 E13
+http://csrv.me:80/series/bmjGk/Kc9yT/4895.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S02 E14
+http://csrv.me:80/series/bmjGk/Kc9yT/4896.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S02 E15
+http://csrv.me:80/series/bmjGk/Kc9yT/4897.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S02 E16
+http://csrv.me:80/series/bmjGk/Kc9yT/4898.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S02 E17
+http://csrv.me:80/series/bmjGk/Kc9yT/4899.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S02 E18
+http://csrv.me:80/series/bmjGk/Kc9yT/4900.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S02 E19
+http://csrv.me:80/series/bmjGk/Kc9yT/4901.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S02 E20
+http://csrv.me:80/series/bmjGk/Kc9yT/4902.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S02 E21
+http://csrv.me:80/series/bmjGk/Kc9yT/4903.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S02 E22
+http://csrv.me:80/series/bmjGk/Kc9yT/4904.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S03 E01
+http://csrv.me:80/series/bmjGk/Kc9yT/4905.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S03 E02
+http://csrv.me:80/series/bmjGk/Kc9yT/4906.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S03 E03
+http://csrv.me:80/series/bmjGk/Kc9yT/4907.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S03 E04
+http://csrv.me:80/series/bmjGk/Kc9yT/4908.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S03 E05
+http://csrv.me:80/series/bmjGk/Kc9yT/4909.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S03 E06
+http://csrv.me:80/series/bmjGk/Kc9yT/4910.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S03 E07
+http://csrv.me:80/series/bmjGk/Kc9yT/4911.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S03 E08
+http://csrv.me:80/series/bmjGk/Kc9yT/4912.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S03 E09
+http://csrv.me:80/series/bmjGk/Kc9yT/4913.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S03 E10
+http://csrv.me:80/series/bmjGk/Kc9yT/4914.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S03 E11
+http://csrv.me:80/series/bmjGk/Kc9yT/4915.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S03 E12
+http://csrv.me:80/series/bmjGk/Kc9yT/4916.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S03 E13
+http://csrv.me:80/series/bmjGk/Kc9yT/4917.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S03 E14
+http://csrv.me:80/series/bmjGk/Kc9yT/4918.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S03 E15
+http://csrv.me:80/series/bmjGk/Kc9yT/4919.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S03 E16
+http://csrv.me:80/series/bmjGk/Kc9yT/4920.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S03 E17
+http://csrv.me:80/series/bmjGk/Kc9yT/4921.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S03 E18
+http://csrv.me:80/series/bmjGk/Kc9yT/4922.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S03 E19
+http://csrv.me:80/series/bmjGk/Kc9yT/4923.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S03 E20
+http://csrv.me:80/series/bmjGk/Kc9yT/4924.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S03 E21
+http://csrv.me:80/series/bmjGk/Kc9yT/4925.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S03 E22
+http://csrv.me:80/series/bmjGk/Kc9yT/4926.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S04 E01
+http://csrv.me:80/series/bmjGk/Kc9yT/4927.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S04 E02
+http://csrv.me:80/series/bmjGk/Kc9yT/4928.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S04 E03
+http://csrv.me:80/series/bmjGk/Kc9yT/4929.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S04 E04
+http://csrv.me:80/series/bmjGk/Kc9yT/4930.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S04 E05
+http://csrv.me:80/series/bmjGk/Kc9yT/4931.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S04 E06
+http://csrv.me:80/series/bmjGk/Kc9yT/4932.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S04 E07
+http://csrv.me:80/series/bmjGk/Kc9yT/4933.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S04 E08
+http://csrv.me:80/series/bmjGk/Kc9yT/4934.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S04 E09
+http://csrv.me:80/series/bmjGk/Kc9yT/4935.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S04 E10
+http://csrv.me:80/series/bmjGk/Kc9yT/4936.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S04 E11
+http://csrv.me:80/series/bmjGk/Kc9yT/4937.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S04 E12
+http://csrv.me:80/series/bmjGk/Kc9yT/4938.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S04 E13
+http://csrv.me:80/series/bmjGk/Kc9yT/4939.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S05 E01
+http://csrv.me:80/series/bmjGk/Kc9yT/4940.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S05 E02
+http://csrv.me:80/series/bmjGk/Kc9yT/4941.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S05 E03
+http://csrv.me:80/series/bmjGk/Kc9yT/4942.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S05 E04
+http://csrv.me:80/series/bmjGk/Kc9yT/4943.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S05 E05
+http://csrv.me:80/series/bmjGk/Kc9yT/4944.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S05 E06
+http://csrv.me:80/series/bmjGk/Kc9yT/4945.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S05 E07
+http://csrv.me:80/series/bmjGk/Kc9yT/4946.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S05 E08
+http://csrv.me:80/series/bmjGk/Kc9yT/4947.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/QiT" group-title="Series | The Originals",The Originals S05 E09
+http://csrv.me:80/series/bmjGk/Kc9yT/4948.mp4

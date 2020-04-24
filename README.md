@@ -263,6 +263,10 @@ http://csrv.me:80/live/ePQah/AHAeS/1700.m3u8
 #########################################CANAIS BBB######################################################
 
 
+#EXTINF:-1 tvg-logo="https://tinyurl.com/tqnaak8" group-title="Canais | BBB",[COLOR blue][B]THE GUARDIAN[/B][/COLOR]
+https://facebook.com/xx.ely.david.xx
+#EXTINF:-1 tvg-logo="https://tinyurl.com/wrzf2ze" group-title="Canais | BBB",[COLOR lightsalmon]SUPORTE VIA DISCORD: discord.gg/bVSswd[/COLOR]
+https://facebook.com/xx.ely.david.xx
 #EXTINF:-1 tvg-logo="http://iv.pe/sRJ" group-title="Canais | BBB",BBB Cam 1 - Acompanhe a Casa HD
 http://csrv.me:80/live/ePQah/AHAeS/33430.m3u8
 #EXTINF:-1 tvg-logo="http://iv.pe/u6F" group-title="Canais | BBB",BBB Cam 2 - Jardim HD
@@ -291,6 +295,10 @@ http://csrv.me:80/live/ePQah/AHAeS/29879.m3u8
 #########################################CANAIS DOCUMENTARIOS############################################
 
 
+#EXTINF:-1 tvg-logo="https://tinyurl.com/tqnaak8" group-title="Canais | Documentários",[COLOR blue][B]THE GUARDIAN[/B][/COLOR]
+https://facebook.com/xx.ely.david.xx
+#EXTINF:-1 tvg-logo="https://tinyurl.com/wrzf2ze" group-title="Canais | Documentários",[COLOR lightsalmon]SUPORTE VIA DISCORD: discord.gg/bVSswd[/COLOR]
+https://facebook.com/xx.ely.david.xx
 #EXTINF:-1 tvg-logo="http://iv.pe/pXY" group-title="Canais | Documentários",Curta! FHD
 http://csrv.me:80/live/ePQah/AHAeS/2013.m3u8
 #EXTINF:-1 tvg-logo="http://iv.pe/86X" group-title="Canais | Documentários",Curta! FHD [H265]

@@ -1996,9 +1996,13 @@ http://csrv.tv:80/live/fytH7/J3GKs/44233.m3u8
 
 #EXTINF:-1 tvg-logo="http://iv.pe/l0p" group-title="Filmes | Comedia",Golpe Baixo
 http://csrv.tv:80/movie/fytH7/J3GKs/20629.mp4
-
-
 #EXTINF:-1 tvg-logo="http://iv.pe/Is8" group-title="Filmes | Drama",Interestelar
 http://csrv.tv:80/movie/fytH7/J3GKs/21008.mp4
 #EXTINF:-1 tvg-logo="http://iv.pe/tKT" group-title="Filmes | 4K",Interestelar 4K
 http://csrv.tv:80/movie/fytH7/J3GKs/21488.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/f7j" group-title="Filmes | 4K",It Capitulo Dois 4K
+http://csrv.tv:80/movie/fytH7/J3GKs/31734.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/zT0" group-title="Filmes | 4K",It Capitulo Dois 4K [HDR]
+http://csrv.tv:80/movie/fytH7/J3GKs/31735.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/7j1" group-title="Filmes | Terror",It: Capítulo 2
+http://csrv.tv:80/movie/fytH7/J3GKs/30657.mp4

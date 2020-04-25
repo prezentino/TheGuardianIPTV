@@ -1992,3 +1992,7 @@ http://csrv.tv:80/live/fytH7/J3GKs/44233.m3u8
 
 
 #########################################FILMES COMEDIA##################################################
+
+
+#EXTINF:-1 tvg-logo="http://iv.pe/l0p" group-title="Filmes | Comedia",Golpe Baixo
+http://csrv.tv:80/movie/fytH7/J3GKs/20629.mp4

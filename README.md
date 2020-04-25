@@ -558,6 +558,10 @@ http://csrv.me:80/live/ePQah/AHAeS/2191.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://tinyurl.com/tqnaak8" group-title="Canais | Filmes e Séries",[COLOR blue][B]THE GUARDIAN[/B][/COLOR]
+https://facebook.com/xx.ely.david.xx
+#EXTINF:-1 tvg-logo="https://tinyurl.com/wrzf2ze" group-title="Canais | Filmes e Séries",[COLOR lightsalmon]SUPORTE VIA DISCORD: discord.gg/bVSswd[/COLOR]
+https://facebook.com/xx.ely.david.xx
 #EXTINF:-1 tvg-logo="http://iv.pe/M0T" group-title="Canais | Filmes e Séries",AMC FHD
 http://csrv.me:80/live/ePQah/AHAeS/2024.m3u8
 #EXTINF:-1 tvg-logo="http://iv.pe/L8f" group-title="Canais | Filmes e Séries",AMC FHD [H265]
@@ -838,6 +842,10 @@ http://csrv.me:80/live/ePQah/AHAeS/2134.m3u8
 #########################################CANAIS GLOBO####################################################
 
 
+#EXTINF:-1 tvg-logo="https://tinyurl.com/tqnaak8" group-title="Canais | Globo",[COLOR blue][B]THE GUARDIAN[/B][/COLOR]
+https://facebook.com/xx.ely.david.xx
+#EXTINF:-1 tvg-logo="https://tinyurl.com/wrzf2ze" group-title="Canais | Globo",[COLOR lightsalmon]SUPORTE VIA DISCORD: discord.gg/bVSswd[/COLOR]
+https://facebook.com/xx.ely.david.xx
 #EXTINF:-1 tvg-logo="http://iv.pe/5pO" group-title="Canais | Globo",Globo Brasilia FHD
 http://csrv.me:80/live/ePQah/AHAeS/1583.m3u8
 #EXTINF:-1 tvg-logo="http://iv.pe/rjD" group-title="Canais | Globo",Globo Brasilia HD
@@ -1128,3 +1136,291 @@ http://csrv.me:80/live/ePQah/AHAeS/42933.m3u8
 http://csrv.me:80/live/ePQah/AHAeS/1600.m3u8
 #EXTINF:-1 tvg-logo="http://iv.pe/9xR" group-title="Canais | Globo",Globo TV Verdes Mares Fortaleza [H265]
 http://csrv.me:80/live/ePQah/AHAeS/42934.m3u8
+
+
+#########################################################################################################
+
+
+#########################################CANAIS HBO######################################################
+
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/tqnaak8" group-title="Canais | HBO",[COLOR blue][B]THE GUARDIAN[/B][/COLOR]
+https://facebook.com/xx.ely.david.xx
+#EXTINF:-1 tvg-logo="https://tinyurl.com/wrzf2ze" group-title="Canais | HBO",[COLOR lightsalmon]SUPORTE VIA DISCORD: discord.gg/bVSswd[/COLOR]
+https://facebook.com/xx.ely.david.xx
+#EXTINF:-1 tvg-logo="http://iv.pe/tTM" group-title="Canais | HBO",HBO FHD
+http://csrv.me:80/live/ePQah/AHAeS/1940.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/uXa" group-title="Canais | HBO",HBO FHD [H265]
+http://csrv.me:80/live/ePQah/AHAeS/25445.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/1K3" group-title="Canais | HBO",HBO FHD [H265] [Alter]
+http://csrv.me:80/live/ePQah/AHAeS/29410.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/muz" group-title="Canais | HBO",HBO HD
+http://csrv.me:80/live/ePQah/AHAeS/1805.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/4to" group-title="Canais | HBO",HBO HD [Alter]
+http://csrv.me:80/live/ePQah/AHAeS/2360.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/Eqy" group-title="Canais | HBO",HBO SD
+http://csrv.me:80/live/ePQah/AHAeS/1810.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/Kcx" group-title="Canais | HBO",HBO 2 FHD
+http://csrv.me:80/live/ePQah/AHAeS/1941.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/Pk0" group-title="Canais | HBO",HBO 2 FHD [H265]
+http://csrv.me:80/live/ePQah/AHAeS/25447.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/axP" group-title="Canais | HBO",HBO 2 FHD [H265] [Alter]
+http://csrv.me:80/live/ePQah/AHAeS/29460.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/hBW" group-title="Canais | HBO",HBO 2 HD
+http://csrv.me:80/live/ePQah/AHAeS/1808.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/rxR" group-title="Canais | HBO",HBO 2 HD [Alter]
+http://csrv.me:80/live/ePQah/AHAeS/2362.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/u0B" group-title="Canais | HBO",HBO 2 SD
+http://csrv.me:80/live/ePQah/AHAeS/1809.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/KjN" group-title="Canais | HBO",HBO 2 SD [Alter]
+http://csrv.me:80/live/ePQah/AHAeS/2126.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/ZeQ" group-title="Canais | HBO",HBO Family FHD
+http://csrv.me:80/live/ePQah/AHAeS/1992.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/8wl" group-title="Canais | HBO",HBO Family FHD [H265]
+http://csrv.me:80/live/ePQah/AHAeS/25446.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/bkJ" group-title="Canais | HBO",HBO Family FHD [H265] [Alter]
+http://csrv.me:80/live/ePQah/AHAeS/29411.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/otb" group-title="Canais | HBO",HBO Family HD
+http://csrv.me:80/live/ePQah/AHAeS/1806.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/1Lz" group-title="Canais | HBO",HBO Family HD [Alter]
+http://csrv.me:80/live/ePQah/AHAeS/2361.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/IZa" group-title="Canais | HBO",HBO Family SD
+http://csrv.me:80/live/ePQah/AHAeS/1807.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/bUp" group-title="Canais | HBO",HBO Family SD [Alter]
+http://csrv.me:80/live/ePQah/AHAeS/2185.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canais | HBO",HBO Mundi FHD
+http://csrv.me:80/live/ePQah/AHAeS/1986.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canais | HBO",HBO Mundi FHD [H265]
+http://csrv.me:80/live/ePQah/AHAeS/25439.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canais | HBO",HBO Mundi FHD [H265] [Alter]
+http://csrv.me:80/live/ePQah/AHAeS/29456.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canais | HBO",HBO Mundi HD
+http://csrv.me:80/live/ePQah/AHAeS/1791.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canais | HBO",HBO Mundi HD [Alter]
+http://csrv.me:80/live/ePQah/AHAeS/2355.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canais | HBO",HBO Mundi SD
+http://csrv.me:80/live/ePQah/AHAeS/1792.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canais | HBO",HBO Mundi SD [Alter]
+http://csrv.me:80/live/ePQah/AHAeS/2178.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/orv" group-title="Canais | HBO",HBO Plus FHD
+http://csrv.me:80/live/ePQah/AHAeS/1991.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/k2w" group-title="Canais | HBO",HBO Plus FHD [H265]
+http://csrv.me:80/live/ePQah/AHAeS/25444.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/icT" group-title="Canais | HBO",HBO Plus FHD [H265] [Alter]
+http://csrv.me:80/live/ePQah/AHAeS/29462.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/Hk5" group-title="Canais | HBO",HBO Plus HD
+http://csrv.me:80/live/ePQah/AHAeS/1803.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/UMi" group-title="Canais | HBO",HBO Plus HD [Alter]
+http://csrv.me:80/live/ePQah/AHAeS/2359.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/AoW" group-title="Canais | HBO",HBO Plus SD
+http://csrv.me:80/live/ePQah/AHAeS/1804.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canais | HBO",HBO Pop FHD
+http://csrv.me:80/live/ePQah/AHAeS/1984.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canais | HBO",HBO Pop FHD [H265]
+http://csrv.me:80/live/ePQah/AHAeS/25437.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canais | HBO",HBO Pop FHD [H265] [Alter]
+http://csrv.me:80/live/ePQah/AHAeS/29409.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canais | HBO",HBO Pop HD
+http://csrv.me:80/live/ePQah/AHAeS/1787.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canais | HBO",HBO Pop HD [Alter]
+http://csrv.me:80/live/ePQah/AHAeS/2353.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/D8X" group-title="Canais | HBO",HBO Pop SD
+http://csrv.me:80/live/ePQah/AHAeS/1788.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/pOr" group-title="Canais | HBO",HBO Signature FHD
+http://csrv.me:80/live/ePQah/AHAeS/1990.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/OZ2" group-title="Canais | HBO",HBO Signature FHD [H265]
+http://csrv.me:80/live/ePQah/AHAeS/25443.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/JGg" group-title="Canais | HBO",HBO Signature FHD [H265] [Alter]
+http://csrv.me:80/live/ePQah/AHAeS/29461.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/dZG" group-title="Canais | HBO",HBO Signature HD
+http://csrv.me:80/live/ePQah/AHAeS/1801.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/6Hr" group-title="Canais | HBO",HBO Signature HD [Alter]
+http://csrv.me:80/live/ePQah/AHAeS/2358.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/mPF" group-title="Canais | HBO",HBO Signature SD
+http://csrv.me:80/live/ePQah/AHAeS/1802.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/bCz" group-title="Canais | HBO",HBO Signature SD [Alter]
+http://csrv.me:80/live/ePQah/AHAeS/2181.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canais | HBO",HBO Xtreme FHD
+http://csrv.me:80/live/ePQah/AHAeS/1985.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canais | HBO",HBO Xtreme FHD [H265]
+http://csrv.me:80/live/ePQah/AHAeS/25438.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canais | HBO",HBO Xtreme FHD [H265] [Alter]
+http://csrv.me:80/live/ePQah/AHAeS/29455.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canais | HBO",HBO Xtreme HD
+http://csrv.me:80/live/ePQah/AHAeS/1789.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canais | HBO",HBO Xtreme HD [Alter]
+http://csrv.me:80/live/ePQah/AHAeS/2354.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canais | HBO",HBO Xtreme SD
+http://csrv.me:80/live/ePQah/AHAeS/1790.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canais | HBO",HBO Xtreme SD [Alter]
+http://csrv.me:80/live/ePQah/AHAeS/2179.m3u8
+
+
+#########################################################################################################
+
+
+#########################################CANAIS INFANTIS#################################################
+
+
+#EXTINF:-1 tvg-logo="http://iv.pe/BhC" group-title="Canais | Infantis",BabyTV SD
+http://csrv.me:80/live/ePQah/AHAeS/1897.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/v9i" group-title="Canais | Infantis",Boomerang FHD
+http://csrv.me:80/live/ePQah/AHAeS/2018.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/bIc" group-title="Canais | Infantis",Boomerang FHD [H265]
+http://csrv.me:80/live/ePQah/AHAeS/25466.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/txx" group-title="Canais | Infantis",Boomerang FHD [H265] [Alter]
+http://csrv.me:80/live/ePQah/AHAeS/29420.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/Rq9" group-title="Canais | Infantis",Boomerang HD
+http://csrv.me:80/live/ePQah/AHAeS/1886.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/Ym6" group-title="Canais | Infantis",Boomerang SD
+http://csrv.me:80/live/ePQah/AHAeS/1887.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/uM5" group-title="Canais | Infantis",Boomerang SD [Alter]
+http://csrv.me:80/live/ePQah/AHAeS/2208.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/dej" group-title="Canais | Infantis",Cartoon Network 4K [H265]
+http://csrv.me:80/live/ePQah/AHAeS/28662.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/D7m" group-title="Canais | Infantis",Cartoon Network FHD
+http://csrv.me:80/live/ePQah/AHAeS/2016.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/Ra4" group-title="Canais | Infantis",Cartoon Network FHD [H265]
+http://csrv.me:80/live/ePQah/AHAeS/25463.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/DKY" group-title="Canais | Infantis",Cartoon Network FHD [H265] [Alter]
+http://csrv.me:80/live/ePQah/AHAeS/29479.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/aQa" group-title="Canais | Infantis",Cartoon Network HD
+http://csrv.me:80/live/ePQah/AHAeS/1879.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/ZYG" group-title="Canais | Infantis",Cartoon Network HD [Alter]
+http://csrv.me:80/live/ePQah/AHAeS/2394.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/1Pk" group-title="Canais | Infantis",Cartoon Network SD
+http://csrv.me:80/live/ePQah/AHAeS/1880.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/5Ib" group-title="Canais | Infantis",Cartoon Network SD [Alter]
+http://csrv.me:80/live/ePQah/AHAeS/2112.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/CaF" group-title="Canais | Infantis",Discovery Kids FHD
+http://csrv.me:80/live/ePQah/AHAeS/2010.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/I3R" group-title="Canais | Infantis",Discovery Kids FHD [H265]
+http://csrv.me:80/live/ePQah/AHAeS/25395.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/DCD" group-title="Canais | Infantis",Discovery Kids FHD [H265] [Alter]
+http://csrv.me:80/live/ePQah/AHAeS/29473.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/Nrt" group-title="Canais | Infantis",Discovery Kids HD
+http://csrv.me:80/live/ePQah/AHAeS/1863.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/jE2" group-title="Canais | Infantis",Discovery Kids HD [Alter]
+http://csrv.me:80/live/ePQah/AHAeS/2387.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/9C5" group-title="Canais | Infantis",Discovery Kids SD
+http://csrv.me:80/live/ePQah/AHAeS/1864.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/hZx" group-title="Canais | Infantis",Discovery Kids SD [Alter]
+http://csrv.me:80/live/ePQah/AHAeS/2202.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/UMf" group-title="Canais | Infantis",Disney Channel FHD
+http://csrv.me:80/live/ePQah/AHAeS/1949.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/Gsp" group-title="Canais | Infantis",Disney Channel FHD [H265]
+http://csrv.me:80/live/ePQah/AHAeS/25390.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/Eyg" group-title="Canais | Infantis",Disney Channel FHD [H265] [Alter]
+http://csrv.me:80/live/ePQah/AHAeS/29418.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/xlD" group-title="Canais | Infantis",Disney Channel HD
+http://csrv.me:80/live/ePQah/AHAeS/1853.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/rL7" group-title="Canais | Infantis",Disney Channel HD [Alter]
+http://csrv.me:80/live/ePQah/AHAeS/2382.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/ECM" group-title="Canais | Infantis",Disney Channel SD
+http://csrv.me:80/live/ePQah/AHAeS/1854.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/Koj" group-title="Canais | Infantis",Disney Channel SD [Alter]
+http://csrv.me:80/live/ePQah/AHAeS/2200.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/xms" group-title="Canais | Infantis",Disney Junior FHD
+http://csrv.me:80/live/ePQah/AHAeS/1955.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/jZd" group-title="Canais | Infantis",Disney Junior FHD [H265]
+http://csrv.me:80/live/ePQah/AHAeS/25389.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/vF8" group-title="Canais | Infantis",Disney Junior FHD [H265] [Alter]
+http://csrv.me:80/live/ePQah/AHAeS/29417.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/rMC" group-title="Canais | Infantis",Disney Junior HD
+http://csrv.me:80/live/ePQah/AHAeS/1678.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/u1y" group-title="Canais | Infantis",Disney Junior HD [Alter]
+http://csrv.me:80/live/ePQah/AHAeS/2381.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/Imc" group-title="Canais | Infantis",Disney Junior SD
+http://csrv.me:80/live/ePQah/AHAeS/1852.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/iVe" group-title="Canais | Infantis",Disney Junior SD [Alter]
+http://csrv.me:80/live/ePQah/AHAeS/2199.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/awz" group-title="Canais | Infantis",Disney XD FHD
+http://csrv.me:80/live/ePQah/AHAeS/43772.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/awz" group-title="Canais | Infantis",Disney XD FHD [H265]
+http://csrv.me:80/live/ePQah/AHAeS/25361.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/awz" group-title="Canais | Infantis",Disney XD HD
+http://csrv.me:80/live/ePQah/AHAeS/43773.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/2qe" group-title="Canais | Infantis",Disney XD SD
+http://csrv.me:80/live/ePQah/AHAeS/1851.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/HWr" group-title="Canais | Infantis",Disney XD SD [Alter]
+http://csrv.me:80/live/ePQah/AHAeS/2198.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/9Yr" group-title="Canais | Infantis",Gloob FHD
+http://csrv.me:80/live/ePQah/AHAeS/1942.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/zwk" group-title="Canais | Infantis",Gloob FHD [H265]
+http://csrv.me:80/live/ePQah/AHAeS/25448.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/2L6" group-title="Canais | Infantis",Gloob FHD [H265] [Alter]
+http://csrv.me:80/live/ePQah/AHAeS/29413.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/aaq" group-title="Canais | Infantis",Gloob HD
+http://csrv.me:80/live/ePQah/AHAeS/1817.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/ZK2" group-title="Canais | Infantis",Gloob HD [Alter]
+http://csrv.me:80/live/ePQah/AHAeS/2365.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/5r2" group-title="Canais | Infantis",Gloob SD
+http://csrv.me:80/live/ePQah/AHAeS/1818.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/C4t" group-title="Canais | Infantis",Gloob SD [Alter]
+http://csrv.me:80/live/ePQah/AHAeS/2187.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/FFX" group-title="Canais | Infantis",Gloobinho FHD
+http://csrv.me:80/live/ePQah/AHAeS/1995.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/ddR" group-title="Canais | Infantis",Gloobinho FHD [H265]
+http://csrv.me:80/live/ePQah/AHAeS/25355.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/Uzp" group-title="Canais | Infantis",Gloobinho HD
+http://csrv.me:80/live/ePQah/AHAeS/1816.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/a8n" group-title="Canais | Infantis",Gloobinho SD
+http://csrv.me:80/live/ePQah/AHAeS/1815.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/NRu" group-title="Canais | Infantis",Nick FHD
+http://csrv.me:80/live/ePQah/AHAeS/1974.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/rhd" group-title="Canais | Infantis",Nick FHD [H265]
+http://csrv.me:80/live/ePQah/AHAeS/25430.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/jx8" group-title="Canais | Infantis",Nick FHD [H265] [Alter]
+http://csrv.me:80/live/ePQah/AHAeS/29407.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/R6D" group-title="Canais | Infantis",Nick HD
+http://csrv.me:80/live/ePQah/AHAeS/1768.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/pGP" group-title="Canais | Infantis",Nick HD [Alter]
+http://csrv.me:80/live/ePQah/AHAeS/2345.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/LK0" group-title="Canais | Infantis",Nick SD
+http://csrv.me:80/live/ePQah/AHAeS/1769.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/hrs" group-title="Canais | Infantis",Nick Jr FHD
+http://csrv.me:80/live/ePQah/AHAeS/1975.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/jaH" group-title="Canais | Infantis",Nick Jr FHD [H265]
+http://csrv.me:80/live/ePQah/AHAeS/25431.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/MKe" group-title="Canais | Infantis",Nick Jr FHD [H265] [Alter]
+http://csrv.me:80/live/ePQah/AHAeS/29449.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/xud" group-title="Canais | Infantis",Nick Jr HD
+http://csrv.me:80/live/ePQah/AHAeS/1770.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/jPh" group-title="Canais | Infantis",Nick Jr HD [Alter]
+http://csrv.me:80/live/ePQah/AHAeS/2346.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/3XG" group-title="Canais | Infantis",Nick Jr SD
+http://csrv.me:80/live/ePQah/AHAeS/1771.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/92E" group-title="Canais | Infantis",Nick Jr SD [Alter]
+http://csrv.me:80/live/ePQah/AHAeS/2171.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/TEB" group-title="Canais | Infantis",PlayKids FHD
+http://csrv.me:80/live/ePQah/AHAeS/1914.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/oBo" group-title="Canais | Infantis",PlayKids HD
+http://csrv.me:80/live/ePQah/AHAeS/1668.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/mcD" group-title="Canais | Infantis",PlayKids SD
+http://csrv.me:80/live/ePQah/AHAeS/1667.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/vAJ" group-title="Canais | Infantis",Tooncast HD [Alter]
+http://csrv.me:80/live/ePQah/AHAeS/2316.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/F7Y" group-title="Canais | Infantis",Tooncast SD
+http://csrv.me:80/live/ePQah/AHAeS/1701.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/Rnv" group-title="Canais | Infantis",Tooncast SD [Alter]
+http://csrv.me:80/live/ePQah/AHAeS/2139.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/rE7" group-title="Canais | Infantis",TV Ra Tim Bum FHD
+http://csrv.me:80/live/ePQah/AHAeS/1960.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/jdd" group-title="Canais | Infantis",TV Ra Tim Bum FHD [H265]
+http://csrv.me:80/live/ePQah/AHAeS/25405.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/AMG" group-title="Canais | Infantis",TV Ra Tim Bum HD
+http://csrv.me:80/live/ePQah/AHAeS/1692.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/iEW" group-title="Canais | Infantis",TV Ra Tim Bum HD [Alter]
+http://csrv.me:80/live/ePQah/AHAeS/2310.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/fzS" group-title="Canais | Infantis",TV Ra Tim Bum SD
+http://csrv.me:80/live/ePQah/AHAeS/1693.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/hP1" group-title="Canais | Infantis",TV Ra Tim Bum SD [Alter]
+http://csrv.me:80/live/ePQah/AHAeS/2129.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/X8t" group-title="Canais | Infantis",ZooMoo SD
+http://csrv.me:80/live/ePQah/AHAeS/1653.m3u8
+
+
+#########################################################################################################
+
+
+#########################################CANAIS INFANTIS#################################################

@@ -1996,3 +1996,9 @@ http://csrv.tv:80/live/fytH7/J3GKs/44233.m3u8
 
 #EXTINF:-1 tvg-logo="http://iv.pe/l0p" group-title="Filmes | Comedia",Golpe Baixo
 http://csrv.tv:80/movie/fytH7/J3GKs/20629.mp4
+
+
+#EXTINF:-1 tvg-logo="http://iv.pe/Is8" group-title="Filmes | Drama",Interestelar
+http://csrv.tv:80/movie/fytH7/J3GKs/21008.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/tKT" group-title="Filmes | 4K",Interestelar 4K
+http://csrv.tv:80/movie/fytH7/J3GKs/21488.mp4

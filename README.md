@@ -2729,9 +2729,9 @@ http://csrv.tv:80/movie/y4UHQ/9SK6Y/28871.mp4
 http://csrv.tv:80/movie/y4UHQ/9SK6Y/26674.mp4
 #EXTINF:-1 tvg-logo="http://iv.pe/VcZ" group-title="Filmes | Acao",Aladdin
 http://csrv.tv:80/movie/y4UHQ/9SK6Y/28757.mp4
-#EXTINF:-1 tvg-logo="http://iv.pe/Lzz" group-title="Filmes | 4K",Aladdin 4K
+#EXTINF:-1 tvg-logo="http://iv.pe/Lzz" group-title="Filmes | Acao",Aladdin 4K
 http://csrv.tv:80/movie/y4UHQ/9SK6Y/29105.mp4
-#EXTINF:-1 tvg-logo="http://iv.pe/8sb" group-title="Filmes | 4K",Aladdin 4K [HDR]
+#EXTINF:-1 tvg-logo="http://iv.pe/8sb" group-title="Filmes | Acao",Aladdin 4K [HDR]
 http://csrv.tv:80/movie/y4UHQ/9SK6Y/29104.mp4
 #EXTINF:-1 tvg-logo="http://iv.pe/s6d" group-title="Filmes | Acao",Alemão
 http://csrv.tv:80/movie/y4UHQ/9SK6Y/19909.mp4
@@ -2739,9 +2739,9 @@ http://csrv.tv:80/movie/y4UHQ/9SK6Y/19909.mp4
 http://csrv.tv:80/movie/y4UHQ/9SK6Y/19910.mp4
 #EXTINF:-1 tvg-logo="http://iv.pe/ooa" group-title="Filmes | Acao",Alita Anjo de Combate
 http://csrv.tv:80/movie/y4UHQ/9SK6Y/25481.mp4
-#EXTINF:-1 tvg-logo="http://iv.pe/T8Y" group-title="Filmes | 4K",Alita Anjo de Combate 4K
+#EXTINF:-1 tvg-logo="http://iv.pe/T8Y" group-title="Filmes | Acao",Alita Anjo de Combate 4K
 http://csrv.tv:80/movie/y4UHQ/9SK6Y/26569.mp4
-#EXTINF:-1 tvg-logo="http://iv.pe/idu" group-title="Filmes | 4K",Alita Anjo de Combate 4K [HDR]
+#EXTINF:-1 tvg-logo="http://iv.pe/idu" group-title="Filmes | Acao",Alita Anjo de Combate 4K [HDR]
 http://csrv.tv:80/movie/y4UHQ/9SK6Y/26394.mp4
 #EXTINF:-1 tvg-logo="http://iv.pe/lew" group-title="Filmes | Acao",Amanhecer Violento
 http://csrv.tv:80/movie/y4UHQ/9SK6Y/19911.mp4
@@ -2757,15 +2757,15 @@ http://csrv.tv:80/movie/y4UHQ/9SK6Y/19913.mp4
 http://csrv.tv:80/movie/y4UHQ/9SK6Y/19916.mp4
 #EXTINF:-1 tvg-logo="http://iv.pe/L0y" group-title="Filmes | Acao",Anna O Perigo Tem Nome
 http://csrv.tv:80/movie/y4UHQ/9SK6Y/30645.mp4
-#EXTINF:-1 tvg-logo="http://iv.pe/6lR" group-title="Filmes | 4K",Anna O Perigo Tem Nome 4K
+#EXTINF:-1 tvg-logo="http://iv.pe/6lR" group-title="Filmes | Acao",Anna O Perigo Tem Nome 4K
 http://csrv.tv:80/movie/y4UHQ/9SK6Y/30660.mp4
-#EXTINF:-1 tvg-logo="http://iv.pe/J4N" group-title="Filmes | 4K",Anna O Perigo Tem Nome 4K [HDR]
+#EXTINF:-1 tvg-logo="http://iv.pe/J4N" group-title="Filmes | Acao",Anna O Perigo Tem Nome 4K [HDR]
 http://csrv.tv:80/movie/y4UHQ/9SK6Y/30659.mp4
 #EXTINF:-1 tvg-logo="http://iv.pe/iGe" group-title="Filmes | Acao",Apocalypto
 http://csrv.tv:80/movie/y4UHQ/9SK6Y/19917.mp4
 #EXTINF:-1 tvg-logo="http://iv.pe/o8F" group-title="Filmes | Acao",Aquaman
 http://csrv.tv:80/movie/y4UHQ/9SK6Y/21419.mp4
-#EXTINF:-1 tvg-logo="http://iv.pe/Yli" group-title="Filmes | 4K",Aquaman 4K
+#EXTINF:-1 tvg-logo="http://iv.pe/Yli" group-title="Filmes | Acao",Aquaman 4K
 http://csrv.tv:80/movie/y4UHQ/9SK6Y/21473.mp4
 #EXTINF:-1 tvg-logo="http://iv.pe/jws" group-title="Filmes | Acao",Armageddon
 http://csrv.tv:80/movie/y4UHQ/9SK6Y/19918.mp4
@@ -2853,7 +2853,7 @@ http://csrv.tv:80/movie/y4UHQ/9SK6Y/19951.mp4
 http://csrv.tv:80/movie/y4UHQ/9SK6Y/19952.mp4
 #EXTINF:-1 tvg-logo="http://iv.pe/Rr8" group-title="Filmes | Acao",Bumblebee
 http://csrv.tv:80/movie/y4UHQ/9SK6Y/21423.mp4
-#EXTINF:-1 tvg-logo="http://iv.pe/AKW" group-title="Filmes | 4K",Bumblebee 4K
+#EXTINF:-1 tvg-logo="http://iv.pe/AKW" group-title="Filmes | Acao",Bumblebee 4K
 http://csrv.tv:80/movie/y4UHQ/9SK6Y/21478.mp4
 #EXTINF:-1 tvg-logo="http://iv.pe/104" group-title="Filmes | Acao",Busca Implacável
 http://csrv.tv:80/movie/y4UHQ/9SK6Y/19955.mp4
@@ -2867,7 +2867,7 @@ http://csrv.tv:80/movie/y4UHQ/9SK6Y/23817.mp4
 http://csrv.tv:80/movie/y4UHQ/9SK6Y/24311.mp4
 #EXTINF:-1 tvg-logo="http://iv.pe/fxX" group-title="Filmes | Acao",Capita Marvel
 http://csrv.tv:80/movie/y4UHQ/9SK6Y/23813.mp4
-#EXTINF:-1 tvg-logo="http://iv.pe/kUz" group-title="Filmes | 4K",Capita Marvel 4K
+#EXTINF:-1 tvg-logo="http://iv.pe/kUz" group-title="Filmes | Acao",Capita Marvel 4K
 http://csrv.tv:80/movie/y4UHQ/9SK6Y/23815.mp4
 #EXTINF:-1 tvg-logo="http://iv.pe/wQp" group-title="Filmes | Acao",Capitão América 2: O Soldado Invernal
 http://csrv.tv:80/movie/y4UHQ/9SK6Y/19961.mp4
@@ -2931,3 +2931,11 @@ http://csrv.tv:80/movie/y4UHQ/9SK6Y/19986.mp4
 http://csrv.tv:80/movie/y4UHQ/9SK6Y/26385.mp4
 #EXTINF:-1 tvg-logo="http://iv.pe/jsL" group-title="Filmes | Acao",Covil de Ladrões
 http://csrv.tv:80/movie/y4UHQ/9SK6Y/19987.mp4
+
+
+#EXTINF:-1 tvg-logo="http://iv.pe/Zpm" group-title="Filmes | Fantasia e Ficcao",Animais Fantasticos e Onde Habitam
+http://csrv.tv:80/movie/xBSkJ/pPwqT/21208.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/Efp" group-title="Filmes | Fantasia e Ficcao",Animais Fantasticos os Crimes de Grindelwald
+http://csrv.tv:80/movie/xBSkJ/pPwqT/21418.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/Xui" group-title="Filmes | Fantasia e Ficcao",Animais Fantasticos Os Crimes de Grindelwald 4K
+http://csrv.tv:80/movie/xBSkJ/pPwqT/22497.mp4

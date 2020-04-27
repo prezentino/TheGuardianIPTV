@@ -2931,11 +2931,979 @@ http://csrv.tv:80/movie/vQFXZ/aufNq/19986.mp4
 http://csrv.tv:80/movie/vQFXZ/aufNq/26385.mp4
 #EXTINF:-1 tvg-logo="http://iv.pe/jsL" group-title="Filmes | Acao",Covil de Ladrões
 http://csrv.tv:80/movie/vQFXZ/aufNq/19987.mp4
-
-
-#EXTINF:-1 tvg-logo="http://iv.pe/Zpm" group-title="Filmes | Fantasia e Ficcao",Animais Fantasticos e Onde Habitam
-http://csrv.tv:80/movie/vQFXZ/aufNq/21208.mp4
-#EXTINF:-1 tvg-logo="http://iv.pe/Efp" group-title="Filmes | Fantasia e Ficcao",Animais Fantasticos os Crimes de Grindelwald
-http://csrv.tv:80/movie/vQFXZ/aufNq/21418.mp4
-#EXTINF:-1 tvg-logo="http://iv.pe/Xui" group-title="Filmes | Fantasia e Ficcao",Animais Fantasticos Os Crimes de Grindelwald 4K
-http://csrv.tv:80/movie/vQFXZ/aufNq/22497.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/GHm" group-title="Filmes | Acao",Creed 2
+http://csrv.tv:80/movie/vQFXZ/aufNq/21428.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/iyd" group-title="Filmes | Acao",Crimes Obscuros
+http://csrv.tv:80/movie/vQFXZ/aufNq/28872.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/Lh0" group-title="Filmes | Acao",Cão de Briga
+http://csrv.tv:80/movie/vQFXZ/aufNq/19960.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/xwJ" group-title="Filmes | Acao",Cão Selvagem
+http://csrv.tv:80/movie/vQFXZ/aufNq/19959.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/aFK" group-title="Filmes | Acao",Círculo de Fogo
+http://csrv.tv:80/movie/vQFXZ/aufNq/19972.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/28H" group-title="Filmes | Acao",Círculo de Fogo - Pacific Rim
+http://csrv.tv:80/movie/vQFXZ/aufNq/19973.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/sft" group-title="Filmes | Acao",Círculo de Fogo: A Revolta
+http://csrv.tv:80/movie/vQFXZ/aufNq/19971.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/iWw" group-title="Filmes | Acao",Darc
+http://csrv.tv:80/movie/vQFXZ/aufNq/19988.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/cfi" group-title="Filmes | Acao",Darkman 2: O Retorno de Durant
+http://csrv.tv:80/movie/vQFXZ/aufNq/19990.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/K2b" group-title="Filmes | Acao",Darkman 3: Enfrentando a Morte
+http://csrv.tv:80/movie/vQFXZ/aufNq/19991.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/xwc" group-title="Filmes | Acao",Darkman: Vingança Sem Rosto
+http://csrv.tv:80/movie/vQFXZ/aufNq/19989.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/Vhe" group-title="Filmes | Acao",Desejo de Matar - 1974
+http://csrv.tv:80/movie/vQFXZ/aufNq/19993.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/qKT" group-title="Filmes | Acao",Desejo de Matar - 1974
+http://csrv.tv:80/movie/vQFXZ/aufNq/19997.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/HmY" group-title="Filmes | Acao",Desejo de Matar 2 - 1982
+http://csrv.tv:80/movie/vQFXZ/aufNq/19994.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/bm6" group-title="Filmes | Acao",Desejo de Matar 3 - 1985
+http://csrv.tv:80/movie/vQFXZ/aufNq/19995.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/NTU" group-title="Filmes | Acao",Desejo de Matar 4: Operação Crackdown - 1987
+http://csrv.tv:80/movie/vQFXZ/aufNq/19996.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/3FU" group-title="Filmes | Acao",Deus da Guerra
+http://csrv.tv:80/movie/vQFXZ/aufNq/22014.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/Y4A" group-title="Filmes | Acao",Deuses do Egito
+http://csrv.tv:80/movie/vQFXZ/aufNq/19998.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/dgR" group-title="Filmes | Acao",Dia de Treinamento
+http://csrv.tv:80/movie/vQFXZ/aufNq/19999.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/x16" group-title="Filmes | Acao",Dias de Trovão
+http://csrv.tv:80/movie/vQFXZ/aufNq/20000.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/gUR" group-title="Filmes | Acao",Direção Explosiva
+http://csrv.tv:80/movie/vQFXZ/aufNq/22016.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/QN0" group-title="Filmes | Acao",Dirty Harry na Lista Negra
+http://csrv.tv:80/movie/vQFXZ/aufNq/42942.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/l9f" group-title="Filmes | Acao",Divergente
+http://csrv.tv:80/movie/vQFXZ/aufNq/20001.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/kdK" group-title="Filmes | Acao",Divisão de Homicídios
+http://csrv.tv:80/movie/vQFXZ/aufNq/20002.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/48Y" group-title="Filmes | Acao",Do Fundo do Mar
+http://csrv.tv:80/movie/vQFXZ/aufNq/20003.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/EBB" group-title="Filmes | Acao",Do Fundo do Mar 2
+http://csrv.tv:80/movie/vQFXZ/aufNq/20004.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/Y8Z" group-title="Filmes | Acao",Doom: A Porta do Inferno
+http://csrv.tv:80/movie/vQFXZ/aufNq/20006.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/KU7" group-title="Filmes | Acao",Doze Homens e Outro Segredo - 2004
+http://csrv.tv:80/movie/vQFXZ/aufNq/20007.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/Sfa" group-title="Filmes | Acao",Dupla Explosiva
+http://csrv.tv:80/movie/vQFXZ/aufNq/20008.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/IIG" group-title="Filmes | Acao",Dupla Implacavel
+http://csrv.tv:80/movie/vQFXZ/aufNq/28105.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/2Ol" group-title="Filmes | Acao",Duro de Matar
+http://csrv.tv:80/movie/vQFXZ/aufNq/20009.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/V9O" group-title="Filmes | Acao",Duro de Matar 2
+http://csrv.tv:80/movie/vQFXZ/aufNq/20010.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/fEG" group-title="Filmes | Acao",Duro de Matar 3: A Vingança
+http://csrv.tv:80/movie/vQFXZ/aufNq/20011.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/6A9" group-title="Filmes | Acao",Duro de Matar 4.0
+http://csrv.tv:80/movie/vQFXZ/aufNq/20012.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/va9" group-title="Filmes | Acao",Duro de Matar 5: Um Bom Dia para Morrer
+http://csrv.tv:80/movie/vQFXZ/aufNq/20013.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/hHs" group-title="Filmes | Acao",Déjà Vu
+http://csrv.tv:80/movie/vQFXZ/aufNq/32251.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/v6K" group-title="Filmes | Acao",Efeito Colateral
+http://csrv.tv:80/movie/vQFXZ/aufNq/20014.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/2ux" group-title="Filmes | Acao",Elektra
+http://csrv.tv:80/movie/vQFXZ/aufNq/20015.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/k2q" group-title="Filmes | Acao",Em Busca da Vitória
+http://csrv.tv:80/movie/vQFXZ/aufNq/30386.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/SI0" group-title="Filmes | Acao",Em Busca de Vingança
+http://csrv.tv:80/movie/vQFXZ/aufNq/20016.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/X1F" group-title="Filmes | Acao",Em Ritmo de Fuga
+http://csrv.tv:80/movie/vQFXZ/aufNq/20017.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/pc7" group-title="Filmes | Acao",Empire State
+http://csrv.tv:80/movie/vQFXZ/aufNq/20018.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/a4h" group-title="Filmes | Acao",Encontro Explosivo
+http://csrv.tv:80/movie/vQFXZ/aufNq/20019.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/dGC" group-title="Filmes | Acao",Entre Mundos
+http://csrv.tv:80/movie/vQFXZ/aufNq/26443.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/9vt" group-title="Filmes | Acao",Equilibrium
+http://csrv.tv:80/movie/vQFXZ/aufNq/24307.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/ucK" group-title="Filmes | Acao",Era Uma Vez Um Deadpool
+http://csrv.tv:80/movie/vQFXZ/aufNq/21432.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/zjA" group-title="Filmes | Acao",Esporte Sangrento
+http://csrv.tv:80/movie/vQFXZ/aufNq/20020.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/x47" group-title="Filmes | Acao",Esquadrão 6
+http://csrv.tv:80/movie/vQFXZ/aufNq/31896.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/GgK" group-title="Filmes | Acao",Esquadrão Suicida
+http://csrv.tv:80/movie/vQFXZ/aufNq/20021.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/FT1" group-title="Filmes | Acao",Eu Sou a Fúria
+http://csrv.tv:80/movie/vQFXZ/aufNq/20022.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/Sxk" group-title="Filmes | Acao",Eu, Robô
+http://csrv.tv:80/movie/vQFXZ/aufNq/42917.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/9pF" group-title="Filmes | Acao",Falcão - O Campeão dos Campeões
+http://csrv.tv:80/movie/vQFXZ/aufNq/20023.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/0i7" group-title="Filmes | Acao",Falcão Negro em Perigo
+http://csrv.tv:80/movie/vQFXZ/aufNq/20024.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/cKg" group-title="Filmes | Acao",Feito na América
+http://csrv.tv:80/movie/vQFXZ/aufNq/20025.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/zjY" group-title="Filmes | Acao",Fim dos Tempos
+http://csrv.tv:80/movie/vQFXZ/aufNq/20026.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/243" group-title="Filmes | Acao",Fogo Contra Fogo
+http://csrv.tv:80/movie/vQFXZ/aufNq/20027.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/frT" group-title="Filmes | Acao",Fuga
+http://csrv.tv:80/movie/vQFXZ/aufNq/30540.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/20o" group-title="Filmes | Acao",Furia
+http://csrv.tv:80/movie/vQFXZ/aufNq/22526.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/V2I" group-title="Filmes | Acao",Furia em Alto Mar
+http://csrv.tv:80/movie/vQFXZ/aufNq/21435.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/beH" group-title="Filmes | Acao",Furia em Alto Mar 4K
+http://csrv.tv:80/movie/vQFXZ/aufNq/22504.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/7HV" group-title="Filmes | Acao",Fúria de Titãs
+http://csrv.tv:80/movie/vQFXZ/aufNq/20028.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/5Er" group-title="Filmes | Acao",Fúria de Titãs 2
+http://csrv.tv:80/movie/vQFXZ/aufNq/20029.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/LWw" group-title="Filmes | Acao",Fúria em Duas Rodas
+http://csrv.tv:80/movie/vQFXZ/aufNq/20030.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/AOX" group-title="Filmes | Acao",Fúria Sobre Rodas
+http://csrv.tv:80/movie/vQFXZ/aufNq/20031.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/Tb0" group-title="Filmes | Acao",G.I. Joe - A Origem de Cobra
+http://csrv.tv:80/movie/vQFXZ/aufNq/20032.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/v8y" group-title="Filmes | Acao",G.I. Joe - Retaliação
+http://csrv.tv:80/movie/vQFXZ/aufNq/20033.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/pmB" group-title="Filmes | Acao",Galveston
+http://csrv.tv:80/movie/vQFXZ/aufNq/24391.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/ZbW" group-title="Filmes | Acao",Garotas Sem Rumo
+http://csrv.tv:80/movie/vQFXZ/aufNq/30632.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/3R6" group-title="Filmes | Acao",Gigantes de Aço
+http://csrv.tv:80/movie/vQFXZ/aufNq/20034.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/1nT" group-title="Filmes | Acao",Gladiadores
+http://csrv.tv:80/movie/vQFXZ/aufNq/20035.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/gIE" group-title="Filmes | Acao",Godzilla II Rei dos Monstros
+http://csrv.tv:80/movie/vQFXZ/aufNq/28253.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/89U" group-title="Filmes | Acao",Godzilla II Rei dos Monstros 4K
+http://csrv.tv:80/movie/vQFXZ/aufNq/28284.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/Epu" group-title="Filmes | Acao",Golpe de Risco
+http://csrv.tv:80/movie/vQFXZ/aufNq/22025.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/IFa" group-title="Filmes | Acao",Guerra Contra Aliens
+http://csrv.tv:80/movie/vQFXZ/aufNq/22026.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/IJf" group-title="Filmes | Acao",Guerreira De Sangue
+http://csrv.tv:80/movie/vQFXZ/aufNq/20037.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/lq1" group-title="Filmes | Acao",Guerreiro da Escuridão
+http://csrv.tv:80/movie/vQFXZ/aufNq/20038.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/CwW" group-title="Filmes | Acao",Hellboy
+http://csrv.tv:80/movie/vQFXZ/aufNq/28287.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/Rm7" group-title="Filmes | Acao",Hitman - Assassino 47
+http://csrv.tv:80/movie/vQFXZ/aufNq/20040.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/Vdw" group-title="Filmes | Acao",Hitman: Agente 47
+http://csrv.tv:80/movie/vQFXZ/aufNq/20039.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/0L2" group-title="Filmes | Acao",Homem de Ferro
+http://csrv.tv:80/movie/vQFXZ/aufNq/20048.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/Itr" group-title="Filmes | Acao",Homem de Ferro 2
+http://csrv.tv:80/movie/vQFXZ/aufNq/20046.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/TOo" group-title="Filmes | Acao",Homem de Ferro 3
+http://csrv.tv:80/movie/vQFXZ/aufNq/20047.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/bSC" group-title="Filmes | Acao",Homem-Aranha 1
+http://csrv.tv:80/movie/vQFXZ/aufNq/20041.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/Voq" group-title="Filmes | Acao",Homem-Aranha 2
+http://csrv.tv:80/movie/vQFXZ/aufNq/20042.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/wwT" group-title="Filmes | Acao",Homem-Aranha 3
+http://csrv.tv:80/movie/vQFXZ/aufNq/20043.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/7h4" group-title="Filmes | Acao",Homem-Aranha: De Volta ao Lar
+http://csrv.tv:80/movie/vQFXZ/aufNq/20049.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/Jea" group-title="Filmes | Acao",Homem-Aranha: Longe de Casa
+http://csrv.tv:80/movie/vQFXZ/aufNq/30400.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/B52" group-title="Filmes | Acao",Homem-Aranha: Longe de Casa 4K
+http://csrv.tv:80/movie/vQFXZ/aufNq/30399.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/3wH" group-title="Filmes | Acao",Homem-Formiga
+http://csrv.tv:80/movie/vQFXZ/aufNq/20045.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/B6I" group-title="Filmes | Acao",Homem-Formiga e a Vespa
+http://csrv.tv:80/movie/vQFXZ/aufNq/20044.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/R0O" group-title="Filmes | Acao",Homens de Coragem
+http://csrv.tv:80/movie/vQFXZ/aufNq/20050.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/XQ8" group-title="Filmes | Acao",Horas de Desespero
+http://csrv.tv:80/movie/vQFXZ/aufNq/20051.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/NRQ" group-title="Filmes | Acao",Horizonte Profundo
+http://csrv.tv:80/movie/vQFXZ/aufNq/20052.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6fTgsPLE2dvyz9iNLdO3b5xmb2I.jpg" group-title="Filmes | Acao",Ilha das Sombras
+http://csrv.tv:80/movie/vQFXZ/aufNq/43808.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/Z2T" group-title="Filmes | Acao",Impacto Fulminante
+http://csrv.tv:80/movie/vQFXZ/aufNq/42920.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/JYD" group-title="Filmes | Acao",Impacto Profundo
+http://csrv.tv:80/movie/vQFXZ/aufNq/20053.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/Lip" group-title="Filmes | Acao",Implacavel
+http://csrv.tv:80/movie/vQFXZ/aufNq/23233.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/Bua" group-title="Filmes | Acao",Independence Day
+http://csrv.tv:80/movie/vQFXZ/aufNq/20055.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/6wp" group-title="Filmes | Acao",Independence Day - O Ressurgimento
+http://csrv.tv:80/movie/vQFXZ/aufNq/20054.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/4Ph" group-title="Filmes | Acao",Inimigo do Estado
+http://csrv.tv:80/movie/vQFXZ/aufNq/20056.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/xyU" group-title="Filmes | Acao",Inimigo Mortal
+http://csrv.tv:80/movie/vQFXZ/aufNq/19942.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/wf1" group-title="Filmes | Acao",Inimigo Mortal
+http://csrv.tv:80/movie/vQFXZ/aufNq/22527.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/b8B" group-title="Filmes | Acao",Invasao a Casa Branca
+http://csrv.tv:80/movie/vQFXZ/aufNq/20057.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/Kqp" group-title="Filmes | Acao",Invasao a Londres
+http://csrv.tv:80/movie/vQFXZ/aufNq/20058.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/o1S" group-title="Filmes | Acao",Jack O Cacador de Gigantes
+http://csrv.tv:80/movie/vQFXZ/aufNq/20059.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/QKT" group-title="Filmes | Acao",Jack Reacher - Sem Retorno
+http://csrv.tv:80/movie/vQFXZ/aufNq/20060.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/2KK" group-title="Filmes | Acao",Jack Reacher o Ultimo Tiro
+http://csrv.tv:80/movie/vQFXZ/aufNq/20061.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/uFr" group-title="Filmes | Acao",Jogada Divina
+http://csrv.tv:80/movie/vQFXZ/aufNq/22029.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/6yZ" group-title="Filmes | Acao",Jogo Duplo
+http://csrv.tv:80/movie/vQFXZ/aufNq/25518.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/kNQ" group-title="Filmes | Acao",Jogos Vorazes 1
+http://csrv.tv:80/movie/vQFXZ/aufNq/20062.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/FCG" group-title="Filmes | Acao",Jogos Vorazes 2
+http://csrv.tv:80/movie/vQFXZ/aufNq/20063.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/Tb3" group-title="Filmes | Acao",Jogos Vorazes 3
+http://csrv.tv:80/movie/vQFXZ/aufNq/20064.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/svI" group-title="Filmes | Acao",Jogos Vorazes 4
+http://csrv.tv:80/movie/vQFXZ/aufNq/20065.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/jco" group-title="Filmes | Acao",John Wick 1
+http://csrv.tv:80/movie/vQFXZ/aufNq/20066.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/oJP" group-title="Filmes | Acao",John Wick 2
+http://csrv.tv:80/movie/vQFXZ/aufNq/20067.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/pza" group-title="Filmes | Acao",John Wick 3
+http://csrv.tv:80/movie/vQFXZ/aufNq/28758.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/j0T" group-title="Filmes | Acao",John Wick 3 4K
+http://csrv.tv:80/movie/vQFXZ/aufNq/28766.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/0BS" group-title="Filmes | Acao",John Wick 3 4K [HDR]
+http://csrv.tv:80/movie/vQFXZ/aufNq/28869.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/Qxa" group-title="Filmes | Acao",Jurassic Park
+http://csrv.tv:80/movie/vQFXZ/aufNq/20070.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/5bQ" group-title="Filmes | Acao",Jurassic Park 2
+http://csrv.tv:80/movie/vQFXZ/aufNq/20068.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/QgD" group-title="Filmes | Acao",Jurassic Park 3
+http://csrv.tv:80/movie/vQFXZ/aufNq/20069.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/so7" group-title="Filmes | Acao",Jurassic World
+http://csrv.tv:80/movie/vQFXZ/aufNq/20071.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/niQ" group-title="Filmes | Acao",Kickboxer 1
+http://csrv.tv:80/movie/vQFXZ/aufNq/20072.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/Hgm" group-title="Filmes | Acao",Kickboxer 2
+http://csrv.tv:80/movie/vQFXZ/aufNq/20073.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/xVz" group-title="Filmes | Acao",Kickboxer 3
+http://csrv.tv:80/movie/vQFXZ/aufNq/20074.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/ptH" group-title="Filmes | Acao",Kickboxer 4
+http://csrv.tv:80/movie/vQFXZ/aufNq/20075.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/L2d" group-title="Filmes | Acao",Kickboxer 5
+http://csrv.tv:80/movie/vQFXZ/aufNq/20076.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/7Se" group-title="Filmes | Acao",Kickboxer 6
+http://csrv.tv:80/movie/vQFXZ/aufNq/20077.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/K4v" group-title="Filmes | Acao",Kickboxer 7
+http://csrv.tv:80/movie/vQFXZ/aufNq/20078.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/9CE" group-title="Filmes | Acao",Kin
+http://csrv.tv:80/movie/vQFXZ/aufNq/22031.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/ym8" group-title="Filmes | Acao",Kingsman - O Circulo Dourado
+http://csrv.tv:80/movie/vQFXZ/aufNq/20079.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/mUt" group-title="Filmes | Acao",Kingsman - Servico Secreto
+http://csrv.tv:80/movie/vQFXZ/aufNq/20080.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/VvK" group-title="Filmes | Acao",Kong A Ilha da Caveira
+http://csrv.tv:80/movie/vQFXZ/aufNq/20081.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/PRD" group-title="Filmes | Acao",Kung Fu Yoga
+http://csrv.tv:80/movie/vQFXZ/aufNq/22528.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/ZTP" group-title="Filmes | Acao",Kung Pow - O Mestre da Kung Fu Sao
+http://csrv.tv:80/movie/vQFXZ/aufNq/20082.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/niL" group-title="Filmes | Acao",Ladroes
+http://csrv.tv:80/movie/vQFXZ/aufNq/20083.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/Rfw" group-title="Filmes | Acao",Lanterna Verde
+http://csrv.tv:80/movie/vQFXZ/aufNq/20084.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/fUm" group-title="Filmes | Acao",Leal So Existe uma Maneira de Viver
+http://csrv.tv:80/movie/vQFXZ/aufNq/22034.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/gpw" group-title="Filmes | Acao",Liga dos Deuses
+http://csrv.tv:80/movie/vQFXZ/aufNq/31927.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/LJG" group-title="Filmes | Acao",Lobo Guerreiro 2
+http://csrv.tv:80/movie/vQFXZ/aufNq/22529.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/uum" group-title="Filmes | Acao",Logan
+http://csrv.tv:80/movie/vQFXZ/aufNq/20085.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/QdP" group-title="Filmes | Acao",Logan 4K
+http://csrv.tv:80/movie/vQFXZ/aufNq/23930.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/qMd" group-title="Filmes | Acao",Logan Lucky - Roubo Em Familia
+http://csrv.tv:80/movie/vQFXZ/aufNq/31581.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/wwh" group-title="Filmes | Acao",Lua Negra
+http://csrv.tv:80/movie/vQFXZ/aufNq/20086.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/BLr" group-title="Filmes | Acao",Lucy
+http://csrv.tv:80/movie/vQFXZ/aufNq/20087.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/HJ1" group-title="Filmes | Acao",Lucy 4K
+http://csrv.tv:80/movie/vQFXZ/aufNq/23931.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/X0W" group-title="Filmes | Acao",Lukas
+http://csrv.tv:80/movie/vQFXZ/aufNq/22041.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/gFF" group-title="Filmes | Acao",Lutador de Rua
+http://csrv.tv:80/movie/vQFXZ/aufNq/31756.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/wPn" group-title="Filmes | Acao",Mad Max 1
+http://csrv.tv:80/movie/vQFXZ/aufNq/20088.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/xPO" group-title="Filmes | Acao",Mad Max 2
+http://csrv.tv:80/movie/vQFXZ/aufNq/20089.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/OVW" group-title="Filmes | Acao",Mad Max 3
+http://csrv.tv:80/movie/vQFXZ/aufNq/20090.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/bYh" group-title="Filmes | Acao",Mad Max 4
+http://csrv.tv:80/movie/vQFXZ/aufNq/20091.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/2fw" group-title="Filmes | Acao",Man Down - A Guerra
+http://csrv.tv:80/movie/vQFXZ/aufNq/20092.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/nCq" group-title="Filmes | Acao",Maquina Mortifera
+http://csrv.tv:80/movie/vQFXZ/aufNq/20096.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/t9A" group-title="Filmes | Acao",Maquina Mortifera 2
+http://csrv.tv:80/movie/vQFXZ/aufNq/20093.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/IcG" group-title="Filmes | Acao",Maquina Mortifera 3
+http://csrv.tv:80/movie/vQFXZ/aufNq/20094.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/MZM" group-title="Filmes | Acao",Maquina Mortifera 4
+http://csrv.tv:80/movie/vQFXZ/aufNq/20095.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/bd4" group-title="Filmes | Acao",Maquinas Mortais
+http://csrv.tv:80/movie/vQFXZ/aufNq/21442.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/nnt" group-title="Filmes | Acao",Maquinas Mortais 4K
+http://csrv.tv:80/movie/vQFXZ/aufNq/21491.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/hgH" group-title="Filmes | Acao",Massacre no Bairro Japones
+http://csrv.tv:80/movie/vQFXZ/aufNq/20097.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/nkZ" group-title="Filmes | Acao",Matrix 1
+http://csrv.tv:80/movie/vQFXZ/aufNq/20098.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/7Qs" group-title="Filmes | Acao",Matrix 2
+http://csrv.tv:80/movie/vQFXZ/aufNq/20099.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/2in" group-title="Filmes | Acao",Matrix 3
+http://csrv.tv:80/movie/vQFXZ/aufNq/20100.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/SHT" group-title="Filmes | Acao",Maze Runner 3
+http://csrv.tv:80/movie/vQFXZ/aufNq/20101.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/uVF" group-title="Filmes | Acao",Melhores A(m)igos: Volume 2 
+http://csrv.tv:80/movie/vQFXZ/aufNq/30647.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/311" group-title="Filmes | Acao",Mente Criminosa
+http://csrv.tv:80/movie/vQFXZ/aufNq/20102.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/FNt" group-title="Filmes | Acao",Mergulho Radical
+http://csrv.tv:80/movie/vQFXZ/aufNq/20103.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/9jH" group-title="Filmes | Acao",Meu Ex e um Espiao
+http://csrv.tv:80/movie/vQFXZ/aufNq/20104.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/0ak" group-title="Filmes | Acao",MIB: Homens de Preto - Internacional
+http://csrv.tv:80/movie/vQFXZ/aufNq/29553.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/rDt" group-title="Filmes | Acao",MIB: Homens de Preto I
+http://csrv.tv:80/movie/vQFXZ/aufNq/21321.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/pNi" group-title="Filmes | Acao",MIB: Homens de Preto II
+http://csrv.tv:80/movie/vQFXZ/aufNq/21322.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/EDh" group-title="Filmes | Acao",MIB: Homens de Preto III
+http://csrv.tv:80/movie/vQFXZ/aufNq/21323.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/zhA" group-title="Filmes | Acao",Millennium A Garota Na Teia De Aranha
+http://csrv.tv:80/movie/vQFXZ/aufNq/21444.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/Lxy" group-title="Filmes | Acao",Miss Bala
+http://csrv.tv:80/movie/vQFXZ/aufNq/22046.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/sLc" group-title="Filmes | Acao",Missao Extraordinaria
+http://csrv.tv:80/movie/vQFXZ/aufNq/28685.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/E1K" group-title="Filmes | Acao",Missao Final
+http://csrv.tv:80/movie/vQFXZ/aufNq/30597.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/OVf" group-title="Filmes | Acao",Missao Impossivel 1
+http://csrv.tv:80/movie/vQFXZ/aufNq/20105.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/TkC" group-title="Filmes | Acao",Missao Impossivel 2
+http://csrv.tv:80/movie/vQFXZ/aufNq/20106.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/Iee" group-title="Filmes | Acao",Missao Impossivel 3
+http://csrv.tv:80/movie/vQFXZ/aufNq/20107.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/MVC" group-title="Filmes | Acao",Missao Impossivel 4
+http://csrv.tv:80/movie/vQFXZ/aufNq/20108.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/bhc" group-title="Filmes | Acao",Missao Impossivel 5
+http://csrv.tv:80/movie/vQFXZ/aufNq/20109.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/FS8" group-title="Filmes | Acao",Missao Impossivel Fallout
+http://csrv.tv:80/movie/vQFXZ/aufNq/20110.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/Skt" group-title="Filmes | Acao",Missao Impossivel Fallout 4K
+http://csrv.tv:80/movie/vQFXZ/aufNq/22511.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/De0" group-title="Filmes | Acao",Momento Critico
+http://csrv.tv:80/movie/vQFXZ/aufNq/20111.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/dla" group-title="Filmes | Acao",Monster Trucks
+http://csrv.tv:80/movie/vQFXZ/aufNq/27542.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/1FP" group-title="Filmes | Acao",Mortal Kombat 1
+http://csrv.tv:80/movie/vQFXZ/aufNq/20112.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/kd2" group-title="Filmes | Acao",Mortal Kombat 2
+http://csrv.tv:80/movie/vQFXZ/aufNq/20113.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/EZq" group-title="Filmes | Acao",Morte Subita
+http://csrv.tv:80/movie/vQFXZ/aufNq/20114.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/qLM" group-title="Filmes | Acao",Motoqueiros Selvagens
+http://csrv.tv:80/movie/vQFXZ/aufNq/20115.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/2vI" group-title="Filmes | Acao",Mulher Gato
+http://csrv.tv:80/movie/vQFXZ/aufNq/20116.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/GMW" group-title="Filmes | Acao",Mulher maravilha
+http://csrv.tv:80/movie/vQFXZ/aufNq/20117.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/LRS" group-title="Filmes | Acao",Mulher Maravilha 4K
+http://csrv.tv:80/movie/vQFXZ/aufNq/22512.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/v14" group-title="Filmes | Acao",Na Escuridão do Oceano
+http://csrv.tv:80/movie/vQFXZ/aufNq/19938.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/FZM" group-title="Filmes | Acao",Na Mira Dos Assassinos
+http://csrv.tv:80/movie/vQFXZ/aufNq/28687.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/1O8" group-title="Filmes | Acao",Na Teia da Conspiração
+http://csrv.tv:80/movie/vQFXZ/aufNq/30417.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/9bL" group-title="Filmes | Acao",Next Gen
+http://csrv.tv:80/movie/vQFXZ/aufNq/20118.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/58i" group-title="Filmes | Acao",No Limite do Amanha
+http://csrv.tv:80/movie/vQFXZ/aufNq/20119.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/p0D" group-title="Filmes | Acao",No Olho do Furacao
+http://csrv.tv:80/movie/vQFXZ/aufNq/20121.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/kYy" group-title="Filmes | Acao",No Olho do Furacao 4K
+http://csrv.tv:80/movie/vQFXZ/aufNq/21494.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/tOg" group-title="Filmes | Acao",No Olho Do Tornado
+http://csrv.tv:80/movie/vQFXZ/aufNq/20120.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/pCL" group-title="Filmes | Acao",Nocaute
+http://csrv.tv:80/movie/vQFXZ/aufNq/20122.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/Pe6" group-title="Filmes | Acao",Nos Somos os Campeoes 2
+http://csrv.tv:80/movie/vQFXZ/aufNq/20123.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/kOE" group-title="Filmes | Acao",O Alvo
+http://csrv.tv:80/movie/vQFXZ/aufNq/20124.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/BqA" group-title="Filmes | Acao",O Anel do Rei - A Ultima Batalha
+http://csrv.tv:80/movie/vQFXZ/aufNq/20125.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/SYq" group-title="Filmes | Acao",O Assassino O Primeiro Alvo
+http://csrv.tv:80/movie/vQFXZ/aufNq/20126.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/z4k" group-title="Filmes | Acao",O Atirador O Exterminio Final
+http://csrv.tv:80/movie/vQFXZ/aufNq/20127.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/ou0" group-title="Filmes | Acao",O Beijo do Dragao
+http://csrv.tv:80/movie/vQFXZ/aufNq/20128.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/pWg" group-title="Filmes | Acao",O Cacador e a Rainha do Gelo
+http://csrv.tv:80/movie/vQFXZ/aufNq/20129.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/oMu" group-title="Filmes | Acao",O Caminho Dificil
+http://csrv.tv:80/movie/vQFXZ/aufNq/22054.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/TNl" group-title="Filmes | Acao",O Carma De Um Assassino
+http://csrv.tv:80/movie/vQFXZ/aufNq/20130.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/pU3" group-title="Filmes | Acao",O Chacal
+http://csrv.tv:80/movie/vQFXZ/aufNq/20131.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/Ct0" group-title="Filmes | Acao",O Conde de Monte Cristo
+http://csrv.tv:80/movie/vQFXZ/aufNq/20132.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/8Tj" group-title="Filmes | Acao",O Confronto
+http://csrv.tv:80/movie/vQFXZ/aufNq/20133.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/0Q7" group-title="Filmes | Acao",O Contador
+http://csrv.tv:80/movie/vQFXZ/aufNq/20134.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/WYm" group-title="Filmes | Acao",O Despertar da Lenda
+http://csrv.tv:80/movie/vQFXZ/aufNq/24394.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/649" group-title="Filmes | Acao",O Destemido
+http://csrv.tv:80/movie/vQFXZ/aufNq/26164.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/JQM" group-title="Filmes | Acao",O Dia Depois de Amanha
+http://csrv.tv:80/movie/vQFXZ/aufNq/20135.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/fd3" group-title="Filmes | Acao",O Duelo Final
+http://csrv.tv:80/movie/vQFXZ/aufNq/22055.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/esk" group-title="Filmes | Acao",O Escorpiao Rei 1
+http://csrv.tv:80/movie/vQFXZ/aufNq/20136.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/9cb" group-title="Filmes | Acao",O Escorpiao Rei 2
+http://csrv.tv:80/movie/vQFXZ/aufNq/20137.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/aGI" group-title="Filmes | Acao",O Escorpiao Rei 3
+http://csrv.tv:80/movie/vQFXZ/aufNq/20138.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/2me" group-title="Filmes | Acao",O Escorpiao Rei 4
+http://csrv.tv:80/movie/vQFXZ/aufNq/20139.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/WBW" group-title="Filmes | Acao",O Escorpiao Rei 5
+http://csrv.tv:80/movie/vQFXZ/aufNq/20140.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/Pfl" group-title="Filmes | Acao",O Espetacular Homem Aranha
+http://csrv.tv:80/movie/vQFXZ/aufNq/20142.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/pGh" group-title="Filmes | Acao",O Espetacular Homem Aranha 2
+http://csrv.tv:80/movie/vQFXZ/aufNq/20141.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/pzO" group-title="Filmes | Acao",O Estrangeiro
+http://csrv.tv:80/movie/vQFXZ/aufNq/20143.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/JvY" group-title="Filmes | Acao",O Exterminador Do Futuro 1
+http://csrv.tv:80/movie/vQFXZ/aufNq/20144.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/1BJ" group-title="Filmes | Acao",O Exterminador Do Futuro 2
+http://csrv.tv:80/movie/vQFXZ/aufNq/20145.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/1WJ" group-title="Filmes | Acao",O Exterminador Do Futuro 3
+http://csrv.tv:80/movie/vQFXZ/aufNq/20146.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/dtn" group-title="Filmes | Acao",O Exterminador Do Futuro 4
+http://csrv.tv:80/movie/vQFXZ/aufNq/20147.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/VS6" group-title="Filmes | Acao",O Feiticeiro e a Serpente Branca
+http://csrv.tv:80/movie/vQFXZ/aufNq/20148.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/aK8" group-title="Filmes | Acao",O Fim dos Dias
+http://csrv.tv:80/movie/vQFXZ/aufNq/20149.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/vui" group-title="Filmes | Acao",O Fugitivo
+http://csrv.tv:80/movie/vQFXZ/aufNq/42927.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/saR" group-title="Filmes | Acao",O Grande Dragao Branco
+http://csrv.tv:80/movie/vQFXZ/aufNq/20150.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/x7g" group-title="Filmes | Acao",O Grande Herói
+http://csrv.tv:80/movie/vQFXZ/aufNq/22530.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/4S8" group-title="Filmes | Acao",O Grande Mestre 1
+http://csrv.tv:80/movie/vQFXZ/aufNq/20151.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/UCQ" group-title="Filmes | Acao",O Grande Mestre 2
+http://csrv.tv:80/movie/vQFXZ/aufNq/20152.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/ytf" group-title="Filmes | Acao",O Grande Mestre 3
+http://csrv.tv:80/movie/vQFXZ/aufNq/20153.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/BTO" group-title="Filmes | Acao",O Guarda-Costas
+http://csrv.tv:80/movie/vQFXZ/aufNq/20036.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/iB2" group-title="Filmes | Acao",O Homem da Mascara de Ferro
+http://csrv.tv:80/movie/vQFXZ/aufNq/20154.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/EsV" group-title="Filmes | Acao",O Homem de Aço
+http://csrv.tv:80/movie/vQFXZ/aufNq/20155.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/yET" group-title="Filmes | Acao",O Imperador de Paris
+http://csrv.tv:80/movie/vQFXZ/aufNq/30422.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/IKf" group-title="Filmes | Acao",O Incrivel Hulk
+http://csrv.tv:80/movie/vQFXZ/aufNq/20156.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/2ye" group-title="Filmes | Acao",O Inferno de Dante
+http://csrv.tv:80/movie/vQFXZ/aufNq/20157.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/HJI" group-title="Filmes | Acao",O Justiceiro Estrada do Caos
+http://csrv.tv:80/movie/vQFXZ/aufNq/22060.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/lSD" group-title="Filmes | Acao",O Legado Bourne
+http://csrv.tv:80/movie/vQFXZ/aufNq/19892.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/YaO" group-title="Filmes | Acao",O Livro de Eli
+http://csrv.tv:80/movie/vQFXZ/aufNq/20158.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/fmI" group-title="Filmes | Acao",O Matador
+http://csrv.tv:80/movie/vQFXZ/aufNq/20159.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/8Id" group-title="Filmes | Acao",O Mestre das Armas
+http://csrv.tv:80/movie/vQFXZ/aufNq/20160.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/Pfl" group-title="Filmes | Acao",O Espetacular Homem Aranha
+http://csrv.tv:80/movie/vQFXZ/aufNq/20142.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/pGh" group-title="Filmes | Acao",O Espetacular Homem Aranha 2
+http://csrv.tv:80/movie/vQFXZ/aufNq/20141.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/pzO" group-title="Filmes | Acao",O Estrangeiro
+http://csrv.tv:80/movie/vQFXZ/aufNq/20143.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/JvY" group-title="Filmes | Acao",O Exterminador Do Futuro 1
+http://csrv.tv:80/movie/vQFXZ/aufNq/20144.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/1BJ" group-title="Filmes | Acao",O Exterminador Do Futuro 2
+http://csrv.tv:80/movie/vQFXZ/aufNq/20145.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/1WJ" group-title="Filmes | Acao",O Exterminador Do Futuro 3
+http://csrv.tv:80/movie/vQFXZ/aufNq/20146.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/dtn" group-title="Filmes | Acao",O Exterminador Do Futuro 4
+http://csrv.tv:80/movie/vQFXZ/aufNq/20147.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/VS6" group-title="Filmes | Acao",O Feiticeiro e a Serpente Branca
+http://csrv.tv:80/movie/vQFXZ/aufNq/20148.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/aK8" group-title="Filmes | Acao",O Fim dos Dias
+http://csrv.tv:80/movie/vQFXZ/aufNq/20149.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/vui" group-title="Filmes | Acao",O Fugitivo
+http://csrv.tv:80/movie/vQFXZ/aufNq/42927.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/saR" group-title="Filmes | Acao",O Grande Dragao Branco
+http://csrv.tv:80/movie/vQFXZ/aufNq/20150.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/x7g" group-title="Filmes | Acao",O Grande Herói
+http://csrv.tv:80/movie/vQFXZ/aufNq/22530.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/4S8" group-title="Filmes | Acao",O Grande Mestre 1
+http://csrv.tv:80/movie/vQFXZ/aufNq/20151.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/UCQ" group-title="Filmes | Acao",O Grande Mestre 2
+http://csrv.tv:80/movie/vQFXZ/aufNq/20152.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/ytf" group-title="Filmes | Acao",O Grande Mestre 3
+http://csrv.tv:80/movie/vQFXZ/aufNq/20153.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/BTO" group-title="Filmes | Acao",O Guarda-Costas
+http://csrv.tv:80/movie/vQFXZ/aufNq/20036.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/iB2" group-title="Filmes | Acao",O Homem da Mascara de Ferro
+http://csrv.tv:80/movie/vQFXZ/aufNq/20154.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/EsV" group-title="Filmes | Acao",O Homem de Aço
+http://csrv.tv:80/movie/vQFXZ/aufNq/20155.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/yET" group-title="Filmes | Acao",O Imperador de Paris
+http://csrv.tv:80/movie/vQFXZ/aufNq/30422.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/IKf" group-title="Filmes | Acao",O Incrivel Hulk
+http://csrv.tv:80/movie/vQFXZ/aufNq/20156.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/2ye" group-title="Filmes | Acao",O Inferno de Dante
+http://csrv.tv:80/movie/vQFXZ/aufNq/20157.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/HJI" group-title="Filmes | Acao",O Justiceiro Estrada do Caos
+http://csrv.tv:80/movie/vQFXZ/aufNq/22060.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/lSD" group-title="Filmes | Acao",O Legado Bourne
+http://csrv.tv:80/movie/vQFXZ/aufNq/19892.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/YaO" group-title="Filmes | Acao",O Livro de Eli
+http://csrv.tv:80/movie/vQFXZ/aufNq/20158.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/fmI" group-title="Filmes | Acao",O Matador
+http://csrv.tv:80/movie/vQFXZ/aufNq/20159.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/8Id" group-title="Filmes | Acao",O Mestre das Armas
+http://csrv.tv:80/movie/vQFXZ/aufNq/20160.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/lji" group-title="Filmes | Acao",O Passageiro
+http://csrv.tv:80/movie/vQFXZ/aufNq/20161.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/mBE" group-title="Filmes | Acao",O Plano Perfeito
+http://csrv.tv:80/movie/vQFXZ/aufNq/26452.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/2Ub" group-title="Filmes | Acao",O Preco do Amanha
+http://csrv.tv:80/movie/vQFXZ/aufNq/20162.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/i3v" group-title="Filmes | Acao",O Procurado
+http://csrv.tv:80/movie/vQFXZ/aufNq/20163.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/7Q8" group-title="Filmes | Acao",O Rapto
+http://csrv.tv:80/movie/vQFXZ/aufNq/25190.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/nyx" group-title="Filmes | Acao",O Rei das Drogas
+http://csrv.tv:80/movie/vQFXZ/aufNq/22096.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/JPA" group-title="Filmes | Acao",O Rei Guerreiro
+http://csrv.tv:80/movie/vQFXZ/aufNq/22531.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/pv8" group-title="Filmes | Acao",O Rei Leão
+http://csrv.tv:80/movie/vQFXZ/aufNq/30357.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/qJe" group-title="Filmes | Acao",O Rei Leão 4K
+http://csrv.tv:80/movie/vQFXZ/aufNq/30426.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/9jE" group-title="Filmes | Acao",O Rei Leão 4K [HDR]
+http://csrv.tv:80/movie/vQFXZ/aufNq/30425.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/6mL" group-title="Filmes | Acao",O Reino Proibido
+http://csrv.tv:80/movie/vQFXZ/aufNq/20164.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/QjQ" group-title="Filmes | Acao",O Retorno da Múmia
+http://csrv.tv:80/movie/vQFXZ/aufNq/19897.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/Fa2" group-title="Filmes | Acao",O Retorno do Dragao - A Cidade Perdida
+http://csrv.tv:80/movie/vQFXZ/aufNq/20165.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/Yu2" group-title="Filmes | Acao",O Setimo Filho
+http://csrv.tv:80/movie/vQFXZ/aufNq/28255.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/iLr" group-title="Filmes | Acao",O Turista
+http://csrv.tv:80/movie/vQFXZ/aufNq/20166.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/WX9" group-title="Filmes | Acao",O Ultimato Bourne
+http://csrv.tv:80/movie/vQFXZ/aufNq/19891.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/175" group-title="Filmes | Acao",O Ultimo Assalto
+http://csrv.tv:80/movie/vQFXZ/aufNq/22532.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/42s" group-title="Filmes | Acao",O Ultimo Desafio
+http://csrv.tv:80/movie/vQFXZ/aufNq/20167.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/WFm" group-title="Filmes | Acao",O Ultimo Samurai
+http://csrv.tv:80/movie/vQFXZ/aufNq/20169.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/NmK" group-title="Filmes | Acao",O Vendedor Chines
+http://csrv.tv:80/movie/vQFXZ/aufNq/22533.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/ZJB" group-title="Filmes | Acao",O Último Assalto - 2017
+http://csrv.tv:80/movie/vQFXZ/aufNq/20168.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/d1f" group-title="Filmes | Acao",Ong Bak 2 - O Guerreiro Sagrado Voltou
+http://csrv.tv:80/movie/vQFXZ/aufNq/20170.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/qGB" group-title="Filmes | Acao",Ong-Bak 3
+http://csrv.tv:80/movie/vQFXZ/aufNq/20171.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/hUw" group-title="Filmes | Acao",Ong-Bak: Guerreiro Sagrado - 2003
+http://csrv.tv:80/movie/vQFXZ/aufNq/20172.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/eMB" group-title="Filmes | Acao",Operacao Fronteira
+http://csrv.tv:80/movie/vQFXZ/aufNq/21457.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/hj3" group-title="Filmes | Acao",Operacao Invasao 1
+http://csrv.tv:80/movie/vQFXZ/aufNq/20173.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/MM2" group-title="Filmes | Acao",Operacao Invasao 2
+http://csrv.tv:80/movie/vQFXZ/aufNq/20174.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/fj4" group-title="Filmes | Acao",Operacao Sombra Jack Ryan
+http://csrv.tv:80/movie/vQFXZ/aufNq/22534.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/UXo" group-title="Filmes | Acao",Os Aventureiros do Bairro Proibido
+http://csrv.tv:80/movie/vQFXZ/aufNq/20175.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/MYi" group-title="Filmes | Acao",Os Bad Boys
+http://csrv.tv:80/movie/vQFXZ/aufNq/19930.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/lQh" group-title="Filmes | Acao",Os Bad Boys II
+http://csrv.tv:80/movie/vQFXZ/aufNq/19931.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/kYi" group-title="Filmes | Acao",Os Condenados
+http://csrv.tv:80/movie/vQFXZ/aufNq/20177.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/5PX" group-title="Filmes | Acao",Os Condenados 2
+http://csrv.tv:80/movie/vQFXZ/aufNq/20176.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/bX2" group-title="Filmes | Acao",Os Indomaveis
+http://csrv.tv:80/movie/vQFXZ/aufNq/20178.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/5EQ" group-title="Filmes | Acao",Os Instrumentos Mortais
+http://csrv.tv:80/movie/vQFXZ/aufNq/20179.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/6Ca" group-title="Filmes | Acao",Os Mercenarios
+http://csrv.tv:80/movie/vQFXZ/aufNq/20182.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/2eO" group-title="Filmes | Acao",Os Mercenarios 2
+http://csrv.tv:80/movie/vQFXZ/aufNq/20180.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/K5G" group-title="Filmes | Acao",Os Mercenarios 3
+http://csrv.tv:80/movie/vQFXZ/aufNq/20181.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/NcQ" group-title="Filmes | Acao",Os Outros Caras
+http://csrv.tv:80/movie/vQFXZ/aufNq/20183.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/UAx" group-title="Filmes | Acao",Os Perdedores
+http://csrv.tv:80/movie/vQFXZ/aufNq/20184.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/UuU" group-title="Filmes | Acao",Os Piratas
+http://csrv.tv:80/movie/vQFXZ/aufNq/30599.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/zsz" group-title="Filmes | Acao",Os Quatro 2 - Reino Sem Lei
+http://csrv.tv:80/movie/vQFXZ/aufNq/26883.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/c60" group-title="Filmes | Acao",Os Tres Mosqueteiros
+http://csrv.tv:80/movie/vQFXZ/aufNq/20185.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/AwT" group-title="Filmes | Acao",Os Vingadores: The Avengers
+http://csrv.tv:80/movie/vQFXZ/aufNq/20186.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/hqM" group-title="Filmes | Acao",Padre
+http://csrv.tv:80/movie/vQFXZ/aufNq/27543.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/x1F" group-title="Filmes | Acao",Pantera Negra
+http://csrv.tv:80/movie/vQFXZ/aufNq/20187.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/cnB" group-title="Filmes | Acao",Pantera Negra 4K
+http://csrv.tv:80/movie/vQFXZ/aufNq/21498.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/xtg" group-title="Filmes | Acao",Par Perfeito
+http://csrv.tv:80/movie/vQFXZ/aufNq/20188.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/twK" group-title="Filmes | Acao",Paradise Beach
+http://csrv.tv:80/movie/vQFXZ/aufNq/30605.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/QTj" group-title="Filmes | Acao",Passageiro 57
+http://csrv.tv:80/movie/vQFXZ/aufNq/20189.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/NqY" group-title="Filmes | Acao",Perda Total
+http://csrv.tv:80/movie/vQFXZ/aufNq/20190.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/17Z" group-title="Filmes | Acao",Perigo Extremo
+http://csrv.tv:80/movie/vQFXZ/aufNq/20191.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/np3" group-title="Filmes | Acao",Perseguicao Explosiva
+http://csrv.tv:80/movie/vQFXZ/aufNq/22535.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/bDm" group-title="Filmes | Acao",Perseguidor Implacável
+http://csrv.tv:80/movie/vQFXZ/aufNq/42946.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/NCk" group-title="Filmes | Acao",Pixels
+http://csrv.tv:80/movie/vQFXZ/aufNq/20192.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/w0K" group-title="Filmes | Acao",Platoon
+http://csrv.tv:80/movie/vQFXZ/aufNq/20193.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/Z7w" group-title="Filmes | Acao",Pokemon Detective Pikachu
+http://csrv.tv:80/movie/vQFXZ/aufNq/26456.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/aqW" group-title="Filmes | Acao",Pokemon Detective Pikachu 4K
+http://csrv.tv:80/movie/vQFXZ/aufNq/26571.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/v8O" group-title="Filmes | Acao",Polar
+http://csrv.tv:80/movie/vQFXZ/aufNq/21460.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/dB5" group-title="Filmes | Acao",Polar 4K
+http://csrv.tv:80/movie/vQFXZ/aufNq/22518.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/rdw" group-title="Filmes | Acao",Policia Federal a Lei e Para Todos
+http://csrv.tv:80/movie/vQFXZ/aufNq/20194.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/unc" group-title="Filmes | Acao",Pompeia
+http://csrv.tv:80/movie/vQFXZ/aufNq/20195.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/hgr" group-title="Filmes | Acao",Poseidon
+http://csrv.tv:80/movie/vQFXZ/aufNq/20196.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/C3p" group-title="Filmes | Acao",Preso no Tempo
+http://csrv.tv:80/movie/vQFXZ/aufNq/20197.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/Vhu" group-title="Filmes | Acao",Proxima Parada Apocalipse
+http://csrv.tv:80/movie/vQFXZ/aufNq/20198.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/Dq0" group-title="Filmes | Acao",Quarteto Fantastico 1
+http://csrv.tv:80/movie/vQFXZ/aufNq/20199.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/nfb" group-title="Filmes | Acao",Quarteto Fantastico 2
+http://csrv.tv:80/movie/vQFXZ/aufNq/20200.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/Kgs" group-title="Filmes | Acao",Quarteto Fantastico 3
+http://csrv.tv:80/movie/vQFXZ/aufNq/20201.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/8t8" group-title="Filmes | Acao",Queima de Arquivo
+http://csrv.tv:80/movie/vQFXZ/aufNq/20202.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/rH7" group-title="Filmes | Acao",Quem Sou Eu
+http://csrv.tv:80/movie/vQFXZ/aufNq/20203.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/zRb" group-title="Filmes | Acao",Ragnarok
+http://csrv.tv:80/movie/vQFXZ/aufNq/34750.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/u3r" group-title="Filmes | Acao",Rainhas do Crime
+http://csrv.tv:80/movie/vQFXZ/aufNq/30438.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/3R0" group-title="Filmes | Acao",Rambo 1
+http://csrv.tv:80/movie/vQFXZ/aufNq/20204.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/9ld" group-title="Filmes | Acao",Rambo 2
+http://csrv.tv:80/movie/vQFXZ/aufNq/20205.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/Mlk" group-title="Filmes | Acao",Rambo 3
+http://csrv.tv:80/movie/vQFXZ/aufNq/20206.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/4xr" group-title="Filmes | Acao",Rambo 4
+http://csrv.tv:80/movie/vQFXZ/aufNq/20207.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/NdI" group-title="Filmes | Acao",Rambo Ate O Fim
+http://csrv.tv:80/movie/vQFXZ/aufNq/31451.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/3tb" group-title="Filmes | Acao",Rampage - Destruicao Total
+http://csrv.tv:80/movie/vQFXZ/aufNq/20208.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/Fpk" group-title="Filmes | Acao",Rampage - Destruicao Total 4K
+http://csrv.tv:80/movie/vQFXZ/aufNq/21500.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/vBW" group-title="Filmes | Acao",Rebeliao
+http://csrv.tv:80/movie/vQFXZ/aufNq/24317.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/zuo" group-title="Filmes | Acao",Red - Aposentados e Perigosos
+http://csrv.tv:80/movie/vQFXZ/aufNq/20210.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/JTz" group-title="Filmes | Acao",Red - Aposentados e Perigosos 2
+http://csrv.tv:80/movie/vQFXZ/aufNq/20209.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/hsZ" group-title="Filmes | Acao",RedBad: A Invasão dos Francos
+http://csrv.tv:80/movie/vQFXZ/aufNq/27652.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/8Un" group-title="Filmes | Acao",Rede de Corrupcao
+http://csrv.tv:80/movie/vQFXZ/aufNq/20211.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/9Uz" group-title="Filmes | Acao",Refem do Jogo
+http://csrv.tv:80/movie/vQFXZ/aufNq/21461.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/EN5" group-title="Filmes | Acao",Refens Do Crime
+http://csrv.tv:80/movie/vQFXZ/aufNq/26885.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/3Bk" group-title="Filmes | Acao",Reféns do Desconhecido
+http://csrv.tv:80/movie/vQFXZ/aufNq/19992.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/TsB" group-title="Filmes | Acao",Rei Arthur A Lenda da Espada
+http://csrv.tv:80/movie/vQFXZ/aufNq/20212.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/mhm" group-title="Filmes | Acao",Reino Dos Assassinos
+http://csrv.tv:80/movie/vQFXZ/aufNq/31750.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/1BE" group-title="Filmes | Acao",Resgate Mortal
+http://csrv.tv:80/movie/vQFXZ/aufNq/26573.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/PB3" group-title="Filmes | Acao",Resgate Sem Limites
+http://csrv.tv:80/movie/vQFXZ/aufNq/20213.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/nIT" group-title="Filmes | Acao",Risco Maximo
+http://csrv.tv:80/movie/vQFXZ/aufNq/29567.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/eL5" group-title="Filmes | Acao",Robin Hood
+http://csrv.tv:80/movie/vQFXZ/aufNq/21462.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/U6f" group-title="Filmes | Acao",Robin Hood - A Origem 4K
+http://csrv.tv:80/movie/vQFXZ/aufNq/21501.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/JkD" group-title="Filmes | Acao",RoboCop 1
+http://csrv.tv:80/movie/vQFXZ/aufNq/20214.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/sYa" group-title="Filmes | Acao",RoboCop 2
+http://csrv.tv:80/movie/vQFXZ/aufNq/20215.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/Tai" group-title="Filmes | Acao",RoboCop 3
+http://csrv.tv:80/movie/vQFXZ/aufNq/20216.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/SoO" group-title="Filmes | Acao",RoboCop 4
+http://csrv.tv:80/movie/vQFXZ/aufNq/20217.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/mdi" group-title="Filmes | Acao",Rogue One: Uma Historia Star Wars
+http://csrv.tv:80/movie/vQFXZ/aufNq/20218.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/8UA" group-title="Filmes | Acao",Romeu Tem Que Morrer
+http://csrv.tv:80/movie/vQFXZ/aufNq/20219.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/bMe" group-title="Filmes | Acao",Rota de Fuga 1
+http://csrv.tv:80/movie/vQFXZ/aufNq/20220.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/BIp" group-title="Filmes | Acao",Rota de Fuga 2
+http://csrv.tv:80/movie/vQFXZ/aufNq/20221.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/8pR" group-title="Filmes | Acao",Rota De Fuga 3 O Resgate
+http://csrv.tv:80/movie/vQFXZ/aufNq/25483.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/Zrv" group-title="Filmes | Acao",Ruas Sangrentas - O Acerto Final
+http://csrv.tv:80/movie/vQFXZ/aufNq/20222.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/DcK" group-title="Filmes | Acao",S.W.A.T.
+http://csrv.tv:80/movie/vQFXZ/aufNq/20223.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/WQD" group-title="Filmes | Acao",Sabotagem
+http://csrv.tv:80/movie/vQFXZ/aufNq/20224.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/1wA" group-title="Filmes | Acao",Sala de Fuga
+http://csrv.tv:80/movie/vQFXZ/aufNq/21463.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/ZVJ" group-title="Filmes | Acao",Samurai X  - O Fim De Uma Lenda
+http://csrv.tv:80/movie/vQFXZ/aufNq/20225.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/8Fl" group-title="Filmes | Acao",Sangue Na Veia
+http://csrv.tv:80/movie/vQFXZ/aufNq/20226.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/DQv" group-title="Filmes | Acao",Sansao
+http://csrv.tv:80/movie/vQFXZ/aufNq/20227.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/G0P" group-title="Filmes | Acao",Scarface - A Força do Poder
+http://csrv.tv:80/movie/vQFXZ/aufNq/30608.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/sZl" group-title="Filmes | Acao",Selvagem
+http://csrv.tv:80/movie/vQFXZ/aufNq/26590.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/08R" group-title="Filmes | Acao",Sem Escalas
+http://csrv.tv:80/movie/vQFXZ/aufNq/20228.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/Int" group-title="Filmes | Acao",Sem Limites 2
+http://csrv.tv:80/movie/vQFXZ/aufNq/20229.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/qI1" group-title="Filmes | Acao",Sentenca de Morte
+http://csrv.tv:80/movie/vQFXZ/aufNq/20230.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/cdd" group-title="Filmes | Acao",Sequestro na Ilha
+http://csrv.tv:80/movie/vQFXZ/aufNq/20231.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/SGV" group-title="Filmes | Acao",Shaft
+http://csrv.tv:80/movie/vQFXZ/aufNq/25114.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/KSU" group-title="Filmes | Acao",Shazam!
+http://csrv.tv:80/movie/vQFXZ/aufNq/25192.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/Orj" group-title="Filmes | Acao",Shazam! 4K
+http://csrv.tv:80/movie/vQFXZ/aufNq/25477.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/xo1" group-title="Filmes | Acao",Sherlock Holmes
+http://csrv.tv:80/movie/vQFXZ/aufNq/20232.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/LDF" group-title="Filmes | Acao",Sherlock Holmes: O Jogo de Sombras - 2011
+http://csrv.tv:80/movie/vQFXZ/aufNq/20233.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/mfk" group-title="Filmes | Acao",Show Dogs O Agente Canino
+http://csrv.tv:80/movie/vQFXZ/aufNq/22536.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/Wd5" group-title="Filmes | Acao",Sicario 2 - Dia do Soldado
+http://csrv.tv:80/movie/vQFXZ/aufNq/20234.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/2aw" group-title="Filmes | Acao",Sicario Terra de Ninguem
+http://csrv.tv:80/movie/vQFXZ/aufNq/20235.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/dtO" group-title="Filmes | Acao",Sin City 1
+http://csrv.tv:80/movie/vQFXZ/aufNq/20236.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/XrN" group-title="Filmes | Acao",Sin City 2
+http://csrv.tv:80/movie/vQFXZ/aufNq/20237.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/nC1" group-title="Filmes | Acao",Sniper Americano
+http://csrv.tv:80/movie/vQFXZ/aufNq/20238.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/frm" group-title="Filmes | Acao",Sniper Operacoes Especiais
+http://csrv.tv:80/movie/vQFXZ/aufNq/21466.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/bXc" group-title="Filmes | Acao",Soldado Universal
+http://csrv.tv:80/movie/vQFXZ/aufNq/20242.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/dFU" group-title="Filmes | Acao",Soldado Universal 2
+http://csrv.tv:80/movie/vQFXZ/aufNq/20239.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/yoP" group-title="Filmes | Acao",Soldado Universal 3
+http://csrv.tv:80/movie/vQFXZ/aufNq/20240.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/rtR" group-title="Filmes | Acao",Soldado Universal 4
+http://csrv.tv:80/movie/vQFXZ/aufNq/20241.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/Xd5" group-title="Filmes | Acao",Speed Racer
+http://csrv.tv:80/movie/vQFXZ/aufNq/20243.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/Eqa" group-title="Filmes | Acao",Stallone: Cobra
+http://csrv.tv:80/movie/vQFXZ/aufNq/42947.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/DJZ" group-title="Filmes | Acao",Street Fighter
+http://csrv.tv:80/movie/vQFXZ/aufNq/20244.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/u35" group-title="Filmes | Acao",Stuber - A Corrida Maluca
+http://csrv.tv:80/movie/vQFXZ/aufNq/30452.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/RNF" group-title="Filmes | Acao",Submundo Das Lutas
+http://csrv.tv:80/movie/vQFXZ/aufNq/42522.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/TvV" group-title="Filmes | Acao",Sucker Punch - Mundo Surreal
+http://csrv.tv:80/movie/vQFXZ/aufNq/20245.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/qQ4" group-title="Filmes | Acao",Supercross
+http://csrv.tv:80/movie/vQFXZ/aufNq/20246.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/Ik3" group-title="Filmes | Acao",SuperFly
+http://csrv.tv:80/movie/vQFXZ/aufNq/22092.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/29H" group-title="Filmes | Acao",Taxi
+http://csrv.tv:80/movie/vQFXZ/aufNq/31788.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/vmr" group-title="Filmes | Acao",Terremoto - A Falha de San Andreas
+http://csrv.tv:80/movie/vQFXZ/aufNq/20251.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/bel" group-title="Filmes | Acao",Thor
+http://csrv.tv:80/movie/vQFXZ/aufNq/20252.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/bJG" group-title="Filmes | Acao",Thor - Ragnarok 4K
+http://csrv.tv:80/movie/vQFXZ/aufNq/21502.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/bVT" group-title="Filmes | Acao",Thor: O Mundo Sombrio
+http://csrv.tv:80/movie/vQFXZ/aufNq/20253.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/tFs" group-title="Filmes | Acao",Thor: Ragnarok
+http://csrv.tv:80/movie/vQFXZ/aufNq/20254.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/vKR" group-title="Filmes | Acao",Tomb Raider
+http://csrv.tv:80/movie/vQFXZ/aufNq/20256.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/LGN" group-title="Filmes | Acao",Tomb Raider - A Origem
+http://csrv.tv:80/movie/vQFXZ/aufNq/20255.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/1zG" group-title="Filmes | Acao",Tomb Raider A Origem 4K
+http://csrv.tv:80/movie/vQFXZ/aufNq/22520.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/SEr" group-title="Filmes | Acao",Top Gun Ases indomaveis
+http://csrv.tv:80/movie/vQFXZ/aufNq/20257.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/Bp0" group-title="Filmes | Acao",Treze Homens e um Novo Segredo
+http://csrv.tv:80/movie/vQFXZ/aufNq/20258.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/EV5" group-title="Filmes | Acao",Triplo X
+http://csrv.tv:80/movie/vQFXZ/aufNq/20261.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/cXa" group-title="Filmes | Acao",Triplo X 2
+http://csrv.tv:80/movie/vQFXZ/aufNq/20259.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/sY9" group-title="Filmes | Acao",Triplo X 3
+http://csrv.tv:80/movie/vQFXZ/aufNq/20260.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/8EH" group-title="Filmes | Acao",Tropa de Elite 2
+http://csrv.tv:80/movie/vQFXZ/aufNq/20262.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/6iF" group-title="Filmes | Acao",Tropas Estelares - 1997
+http://csrv.tv:80/movie/vQFXZ/aufNq/20263.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/9N6" group-title="Filmes | Acao",Tropas Estelares 2 - 2004
+http://csrv.tv:80/movie/vQFXZ/aufNq/20264.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/48J" group-title="Filmes | Acao",Tropas Estelares 3 - 2008
+http://csrv.tv:80/movie/vQFXZ/aufNq/20265.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/MNO" group-title="Filmes | Acao",Tropas Estelares: Invasores de Marte
+http://csrv.tv:80/movie/vQFXZ/aufNq/42009.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/s5F" group-title="Filmes | Acao",True Lies
+http://csrv.tv:80/movie/vQFXZ/aufNq/20266.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/AI5" group-title="Filmes | Acao",Truque de Mestre
+http://csrv.tv:80/movie/vQFXZ/aufNq/20268.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/h4A" group-title="Filmes | Acao",Truque de Mestre 2
+http://csrv.tv:80/movie/vQFXZ/aufNq/20267.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/V0T" group-title="Filmes | Acao",Twister
+http://csrv.tv:80/movie/vQFXZ/aufNq/20269.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/XRN" group-title="Filmes | Acao",Táxi 1 - Velocidade nas Ruas
+http://csrv.tv:80/movie/vQFXZ/aufNq/31787.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/KBl" group-title="Filmes | Acao",Táxi 2
+http://csrv.tv:80/movie/vQFXZ/aufNq/31789.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/6C1" group-title="Filmes | Acao",Táxi 3
+http://csrv.tv:80/movie/vQFXZ/aufNq/31790.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/ZVN" group-title="Filmes | Acao",Táxi 4
+http://csrv.tv:80/movie/vQFXZ/aufNq/31791.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/QQ5" group-title="Filmes | Acao",Um ninja da pesada
+http://csrv.tv:80/movie/vQFXZ/aufNq/20270.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/XKs" group-title="Filmes | Acao",Uma Saida de Mestre
+http://csrv.tv:80/movie/vQFXZ/aufNq/20271.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/483" group-title="Filmes | Acao",V de Vinganca
+http://csrv.tv:80/movie/vQFXZ/aufNq/20272.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/rvq" group-title="Filmes | Acao",Velocidade Maxima
+http://csrv.tv:80/movie/vQFXZ/aufNq/20273.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/hnc" group-title="Filmes | Acao",Velozes & Furiosos: Hobbs & Shaw
+http://csrv.tv:80/movie/vQFXZ/aufNq/30585.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/9e6" group-title="Filmes | Acao",Velozes & Furiosos: Hobbs & Shaw 4K
+http://csrv.tv:80/movie/vQFXZ/aufNq/30588.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/m7T" group-title="Filmes | Acao",Velozes & Furiosos: Hobbs & Shaw 4K [HDR]
+http://csrv.tv:80/movie/vQFXZ/aufNq/30589.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/nl4" group-title="Filmes | Acao",Velozes e Furiosos 1
+http://csrv.tv:80/movie/vQFXZ/aufNq/20274.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/9w7" group-title="Filmes | Acao",Velozes e Furiosos 2
+http://csrv.tv:80/movie/vQFXZ/aufNq/20275.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/0pk" group-title="Filmes | Acao",Velozes e Furiosos 3
+http://csrv.tv:80/movie/vQFXZ/aufNq/20276.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/6ax" group-title="Filmes | Acao",Velozes e Furiosos 4
+http://csrv.tv:80/movie/vQFXZ/aufNq/20277.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/f3p" group-title="Filmes | Acao",Velozes e Furiosos 5
+http://csrv.tv:80/movie/vQFXZ/aufNq/20278.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/DVo" group-title="Filmes | Acao",Velozes e Furiosos 6
+http://csrv.tv:80/movie/vQFXZ/aufNq/20279.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/qkS" group-title="Filmes | Acao",Velozes e Furiosos 7
+http://csrv.tv:80/movie/vQFXZ/aufNq/20280.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/3m9" group-title="Filmes | Acao",Velozes e Furiosos 8
+http://csrv.tv:80/movie/vQFXZ/aufNq/20281.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/Jv7" group-title="Filmes | Acao",Viagem 2 A Ilha Misteriosa
+http://csrv.tv:80/movie/vQFXZ/aufNq/20282.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/SfI" group-title="Filmes | Acao",Viagem Ao Centro do Terra
+http://csrv.tv:80/movie/vQFXZ/aufNq/20283.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/ysI" group-title="Filmes | Acao",Viagem das Loucas
+http://csrv.tv:80/movie/vQFXZ/aufNq/42067.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/AEu" group-title="Filmes | Acao",Viagem Insolita
+http://csrv.tv:80/movie/vQFXZ/aufNq/20284.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/quJ" group-title="Filmes | Acao",Vidas a Deriva
+http://csrv.tv:80/movie/vQFXZ/aufNq/22537.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/lA7" group-title="Filmes | Acao",Vingadores Guerra Infinita
+http://csrv.tv:80/movie/vQFXZ/aufNq/22110.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/0Ke" group-title="Filmes | Acao",Vingadores: Era de Ultron
+http://csrv.tv:80/movie/vQFXZ/aufNq/20285.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/Dyo" group-title="Filmes | Acao",Vingadores: Ultimato
+http://csrv.tv:80/movie/vQFXZ/aufNq/26684.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/tYo" group-title="Filmes | Acao",Vinganca
+http://csrv.tv:80/movie/vQFXZ/aufNq/20286.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/Gh6" group-title="Filmes | Acao",Vinganca a Sangue Frio
+http://csrv.tv:80/movie/vQFXZ/aufNq/21469.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/AHt" group-title="Filmes | Acao",Warcraft - O Primeiro Encontro de Dois Mundos
+http://csrv.tv:80/movie/vQFXZ/aufNq/20287.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/9kN" group-title="Filmes | Acao",Warriors - Os Selvagens da Noite
+http://csrv.tv:80/movie/vQFXZ/aufNq/20288.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/vYl" group-title="Filmes | Acao",Wolverine Imortal
+http://csrv.tv:80/movie/vQFXZ/aufNq/20289.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/mtD" group-title="Filmes | Acao",X Men Fenix Negra
+http://csrv.tv:80/movie/vQFXZ/aufNq/29102.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/Mwh" group-title="Filmes | Acao",X Men Fenix Negra 4K
+http://csrv.tv:80/movie/vQFXZ/aufNq/29101.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/4Y1" group-title="Filmes | Acao",X Men Fenix Negra 4K [HDR]
+http://csrv.tv:80/movie/vQFXZ/aufNq/29100.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/Hyl" group-title="Filmes | Acao",X-Men 1
+http://csrv.tv:80/movie/vQFXZ/aufNq/20290.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/9P8" group-title="Filmes | Acao",X-Men 2
+http://csrv.tv:80/movie/vQFXZ/aufNq/20291.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/x2Q" group-title="Filmes | Acao",X-Men 3
+http://csrv.tv:80/movie/vQFXZ/aufNq/20292.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/m6W" group-title="Filmes | Acao",X-Men 4
+http://csrv.tv:80/movie/vQFXZ/aufNq/20293.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/ynT" group-title="Filmes | Acao",X-Men 5
+http://csrv.tv:80/movie/vQFXZ/aufNq/20294.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/gtH" group-title="Filmes | Acao",X-Men 6
+http://csrv.tv:80/movie/vQFXZ/aufNq/20295.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/oxI" group-title="Filmes | Acao",xXx Reativado
+http://csrv.tv:80/movie/vQFXZ/aufNq/26168.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/qjb" group-title="Filmes | Acao",Zona de Perigo
+http://csrv.tv:80/movie/vQFXZ/aufNq/20296.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/bYL" group-title="Filmes | Acao",Zona Fria
+http://csrv.tv:80/movie/vQFXZ/aufNq/22114.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/rpQ" group-title="Filmes | Acao",Linha de Frente
+http://csrv.tv:80/movie/vQFXZ/aufNq/44165.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/RwB" group-title="Filmes | Acao",Dentro do Labirinto Cinzento
+http://csrv.tv:80/movie/vQFXZ/aufNq/44170.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/4h8" group-title="Filmes | Acao",A Colônia
+http://csrv.tv:80/movie/vQFXZ/aufNq/44180.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/Xbe" group-title="Filmes | Acao",Parker
+http://csrv.tv:80/movie/vQFXZ/aufNq/44184.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/pwp" group-title="Filmes | Acao",Jason Bourne
+http://csrv.tv:80/movie/vQFXZ/aufNq/44236.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/TAJ" group-title="Filmes | Acao",Lágrimas do Sol
+http://csrv.tv:80/movie/vQFXZ/aufNq/44237.mp4

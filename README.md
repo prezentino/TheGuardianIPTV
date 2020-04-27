@@ -1752,7 +1752,8 @@ http://p2prime.xyz:80/cvxvcvcvvc/5DToHNe1wE/23167
 #########################################################################################################
 
 
-#########################################FILMES: LANCAMENTOS#############################################
+#########################################FILMES | AÇÃO###################################################
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="O Besouro Verde (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q1fXWEoZXogYjAUy32pUc6NL2IH.jpg" group-title="FILMES | AÇÃO/CRIME",O Besouro Verde (2011)
@@ -2235,3 +2236,483 @@ http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/27330.mp4
 http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/27331.mp4
 #EXTINF:-1 tvg-id="" tvg-name="60 Segundos (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jGhNRmkiyEU8vMakggBhL0OeJYH.jpg" group-title="FILMES | AÇÃO/CRIME",60 Segundos (2000)
 http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/28016.mp4
+
+
+
+#########################################################################################################
+
+
+#########################################FILMES | BRASILEIROS############################################
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="A Bruta Flor Do Querer" tvg-logo="http://vip.primeuhd.com:25461/images/mwlPHiWsO32kJUFOg36cSRpqN9e_small.jpg" group-title="FILMES | BRASILEIROS",A Bruta Flor Do Querer
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/9483.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Comedia Divina" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/nST3Dq2SRGDqj4IZCmlmKHulXWt.jpg" group-title="FILMES | BRASILEIROS",A Comedia Divina
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/9480.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Noite da Virada" tvg-logo="http://vip.primeuhd.com:25461/images/mDJhq4XetLZhpRIXrTZA8L5A6HL_small.jpg" group-title="FILMES | BRASILEIROS",A Noite da Virada
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/1788.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Onda Da Vida - Uma Historia De Amor & Surf" tvg-logo="http://vip.primeuhd.com:25461/images/dtCNjlclibi9EQGIkwTrLvoTRcO_small.jpg" group-title="FILMES | BRASILEIROS",A Onda Da Vida - Uma Historia De Amor & Surf
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/9737.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Reparticao do Tempo" tvg-logo="http://vip.primeuhd.com:25461/images/dCvph1xYgZh4MXClmImvI7DwOWg_small.jpg" group-title="FILMES | BRASILEIROS",A Reparticao do Tempo
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/11006.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alemao" tvg-logo="http://vip.primeuhd.com:25461/images/ucQ5xCeB5DZVyzWJf2cSUN8AZFg_small.jpg" group-title="FILMES | BRASILEIROS",Alemao
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/9815.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Animal Politico" tvg-logo="http://vip.primeuhd.com:25461/images/hyqee5Zx4o4sK7Kx9j0l6OBI0Hk_small.jpg" group-title="FILMES | BRASILEIROS",Animal Politico
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/9785.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Boas Maneiras" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rZsXwlpYluOAiWRDO1SQq4ddad6.jpg" group-title="FILMES | BRASILEIROS",As Boas Maneiras
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/10068.mkv
+#EXTINF:-1 tvg-id="" tvg-name="As Duas Irenes" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ngwdMv7pUd52r5R2a0J39GQUDE2.jpg" group-title="FILMES | BRASILEIROS",As Duas Irenes
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/10066.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Fabulas Negras" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xo6aGDJN9suU3kxLLHEStHYpX5G.jpg" group-title="FILMES | BRASILEIROS",As Fabulas Negras
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/10065.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Atraves da Sombra" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sy73Cp21kAxFuoC3DLn7u9Z4LP2.jpg" group-title="FILMES | BRASILEIROS",Atraves da Sombra
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/10054.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Casa da Mãe Joana" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zY6ZKWR5M3QwM61Uiq64UkOA9wN.jpg" group-title="FILMES | BRASILEIROS",Casa da Mãe Joana
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/10097.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Casa da Mãe Joana 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3hOZAmlGgjJKk1Zg0r4XbgLv9I4.jpg" group-title="FILMES | BRASILEIROS",Casa da Mãe Joana 2
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/10096.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chocante" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dokMmYTOzQVChqUrYNnGDm9TwWk.jpg" group-title="FILMES | BRASILEIROS",Chocante
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/10088.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cidade de Deus" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/pA70WUs7KHiHltfiBN4XEELOXcS.jpg" group-title="FILMES | BRASILEIROS",Cidade de Deus
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/1273.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cine Holliudy" tvg-logo="http://vip.primeuhd.com:25461/images/wFm7GimWBC4P4XV5R1LFrR0cgmm_small.jpg" group-title="FILMES | BRASILEIROS",Cine Holliudy
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/7901.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Como Nossos Pais" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qnB014Lkp5oq6yuSJpr6jH8U91J.jpg" group-title="FILMES | BRASILEIROS",Como Nossos Pais
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/10078.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Como Se Tornar o Pior Aluno da Escola" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/olRSTQXTNRPwIUIjbeVs5LGrYGC.jpg" group-title="FILMES | BRASILEIROS",Como Se Tornar o Pior Aluno da Escola
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/10075.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Confia Em Mim" tvg-logo="http://vip.primeuhd.com:25461/images/sCohiDXW9l3DsLDX9tR3tOgJQh1_small.jpg" group-title="FILMES | BRASILEIROS",Confia Em Mim
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/7669.avi
+#EXTINF:-1 tvg-id="" tvg-name="Contra a Parede" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u57xQrINxJIDjjdG78mHLUOWZsJ.jpg" group-title="FILMES | BRASILEIROS",Contra a Parede
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/10126.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Coração de Cowboy" tvg-logo="http://167.86.94.183:25461/images/gHxxFvAb5m8yOQSLrvM7peLvhX3_small.jpg" group-title="FILMES | BRASILEIROS",Coração de Cowboy
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/22.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Crô em Família" tvg-logo="http://vip.primeuhd.com:25461/images/i3hfC09ov7ozxAwbof8IwcahYUi_small.jpg" group-title="FILMES | BRASILEIROS",Crô em Família
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/2813.mkv
+#EXTINF:-1 tvg-id="" tvg-name="De Pernas Pro Ar" tvg-logo="http://vip.primeuhd.com:25461/images/xX05JzgAVmlty43DUyxLVYnTjSo_small.jpg" group-title="FILMES | BRASILEIROS",De Pernas Pro Ar
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/3875.avi
+#EXTINF:-1 tvg-id="" tvg-name="De Pernas Pro Ar 2" tvg-logo="http://vip.primeuhd.com:25461/images/x9Yg4Ic7LWJQmt6xFHgCi0xwO6I_small.jpg" group-title="FILMES | BRASILEIROS",De Pernas Pro Ar 2
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/3874.avi
+#EXTINF:-1 tvg-id="" tvg-name="Detetives do Predio Azul 2" tvg-logo="http://vip.primeuhd.com:25461/images/eLJpPkLUbH2xiHn6onKQ0D0Y7fA_small.jpg" group-title="FILMES | BRASILEIROS",Detetives do Predio Azul 2
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/2610.mp4
+#EXTINF:-1 tvg-id="" tvg-name="E Aí... Comeu?" tvg-logo="http://167.86.94.183:25461/images/48gY5IXPuYqVZIBxz0JtWs7Zwnf_small.jpg" group-title="FILMES | BRASILEIROS",E Aí... Comeu?
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/21.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Eu Fico Loko" tvg-logo="http://167.86.94.183:25461/images/mKXIEpd4NbAr4v0IR9C87cXd0sY_small.jpg" group-title="FILMES | BRASILEIROS",Eu Fico Loko
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/28.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Faroeste Caboclo" tvg-logo="http://vip.primeuhd.com:25461/images/qWdjGxfdoGO8kAifO7ROUB2GKk5_small.jpg" group-title="FILMES | BRASILEIROS",Faroeste Caboclo
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/1789.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ferrugem" tvg-logo="http://vip.primeuhd.com:25461/images/xnWehoZTLvT3ztLqVgRsyXkYC47_small.jpg" group-title="FILMES | BRASILEIROS",Ferrugem
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/2611.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gostosas, Lindas e Sexies" tvg-logo="http://vip.primeuhd.com:25461/images/5ZSferLm5pYVl9ufYHsazXxEAQl_small.jpg" group-title="FILMES | BRASILEIROS",Gostosas, Lindas e Sexies
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/11017.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mais Forte que o Mundo - A História de José Aldo" tvg-logo="http://vip.primeuhd.com:25461/images/fNsC7or1mxloBJbevfSySbYYyt4_small.jpg" group-title="FILMES | BRASILEIROS",Mais Forte que o Mundo - A História de José Aldo
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/1274.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mato sem Cachorro" tvg-logo="http://vip.primeuhd.com:25461/images/7TwNJDNLoLrxFNdiLbnQzMLBNq7_small.jpg" group-title="FILMES | BRASILEIROS",Mato sem Cachorro
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/1275.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mazzaropi: O Vendedor de Linguiça" tvg-logo="http://vip.primeuhd.com:25461/images/43fAXE7YL6jq1EU5UjgOB7bWCsl_small.jpg" group-title="FILMES | BRASILEIROS",Mazzaropi: O Vendedor de Linguiça
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/2087.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Meu Passado me Condena" tvg-logo="http://vip.primeuhd.com:25461/images/eI6om7tslfEdkcMXFnpyJDPgQI0_small.jpg" group-title="FILMES | BRASILEIROS",Meu Passado me Condena
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/1790.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mulheres no Poder" tvg-logo="http://vip.primeuhd.com:25461/images/mf3uMvTjERZDLYvtBux27bVKHvl_small.jpg" group-title="FILMES | BRASILEIROS",Mulheres no Poder
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/1277.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nada a Perder" tvg-logo="http://167.86.94.183:25461/images/1Qk9eD3ZqmJ7V8bB28H7gUd1FPg_small.jpg" group-title="FILMES | BRASILEIROS",Nada a Perder
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/916.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nao se Aceitam Devolucoes" tvg-logo="http://vip.primeuhd.com:25461/images/ocMJzXWaib4CY5DmGAd7nywycUq_small.jpg" group-title="FILMES | BRASILEIROS",Nao se Aceitam Devolucoes
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/2612.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Auto da Compadecida" tvg-logo="http://vip.primeuhd.com:25461/images/uHEmM49YphluJnGep8Ef1qwD2QX_small.jpg" group-title="FILMES | BRASILEIROS",O Auto da Compadecida
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/1791.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Candidato Honesto" tvg-logo="http://167.86.94.183:25461/images/toDUDzrxh9aqQnNZ3wJ4zMGrOUx_small.jpg" group-title="FILMES | BRASILEIROS",O Candidato Honesto
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/26.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Candidato Honesto 2" tvg-logo="http://167.86.94.183:25461/images/8hsHnuovJsT2HlaTHnnoKixYi2M_small.jpg" group-title="FILMES | BRASILEIROS",O Candidato Honesto 2
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/27.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Escaravelho do Diabo" tvg-logo="http://vip.primeuhd.com:25461/images/pQZp8s61fTTTkEhcPmuuj1oRMc8_small.jpg" group-title="FILMES | BRASILEIROS",O Escaravelho do Diabo
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/1792.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Homem do Futuro" tvg-logo="http://167.86.94.183:25461/images/p1h0I931sGc8g8iXFR6VjZdiNwM_small.jpg" group-title="FILMES | BRASILEIROS",O Homem do Futuro
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/25.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Paciente - O Caso Tancredo Neves" tvg-logo="http://vip.primeuhd.com:25461/images/iZtAl68tBaZGX0FA3g8Pgzsw3k1_small.jpg" group-title="FILMES | BRASILEIROS",O Paciente - O Caso Tancredo Neves
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/7903.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Palhaço" tvg-logo="http://vip.primeuhd.com:25461/images/v2SKEIl8PxRHZGHhrLCIxRKb0UN_small.jpg" group-title="FILMES | BRASILEIROS",O Palhaço
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/1793.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Os Farofeiros" tvg-logo="http://167.86.94.183:25461/images/tSUGsF1GSNLZAEjeePsDlHBhG0a_small.jpg" group-title="FILMES | BRASILEIROS",Os Farofeiros
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/932.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Parças" tvg-logo="http://vip.primeuhd.com:25461/images/iyYF5UtV7XYoxjfotvaCXvGp6Zz_small.jpg" group-title="FILMES | BRASILEIROS",Os Parças
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/1278.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rasga Coraçao" tvg-logo="http://vip.primeuhd.com:25461/images/8HeFJ29RmiHEwQIbu9Qlnw0gWxb_small.jpg" group-title="FILMES | BRASILEIROS",Rasga Coraçao
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/2089.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Serra Pelada" tvg-logo="http://vip.primeuhd.com:25461/images/zX6847claMQ2o46UP0TnQ094512_small.jpg" group-title="FILMES | BRASILEIROS",Serra Pelada
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/1279.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sorria Você Está Sendo Filmado" tvg-logo="http://vip.primeuhd.com:25461/images/wPA5cKGwLt7zWGL1ap7ck5kECQD_small.jpg" group-title="FILMES | BRASILEIROS",Sorria Você Está Sendo Filmado
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/1794.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tropa de Elite" tvg-logo="http://vip.primeuhd.com:25461/images/soOOLcNFRHCKf1WD6T8psUY5Xgi_small.jpg" group-title="FILMES | BRASILEIROS",Tropa de Elite
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/1796.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tropa de Elite 2" tvg-logo="http://vip.primeuhd.com:25461/images/65Uy9xucPOAZDKa54RlojVyP24k_small.jpg" group-title="FILMES | BRASILEIROS",Tropa de Elite 2
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/1795.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Um Suburbano Sortudo" tvg-logo="http://vip.primeuhd.com:25461/images/7avILhHYTH8Ce7x1k2Gemy8ZY5v_small.jpg" group-title="FILMES | BRASILEIROS",Um Suburbano Sortudo
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/1280.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Tio Quase Perfeito" tvg-logo="http://vip.primeuhd.com:25461/images/x3D3qLGXPbMLW6AxNHIZxcbZs21_small.jpg" group-title="FILMES | BRASILEIROS",Um Tio Quase Perfeito
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/1281.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Uma Quase Dupla" tvg-logo="http://vip.primeuhd.com:25461/images/qRAOj1G4YWEmK3zDN4JlYFqaeWA_small.jpg" group-title="FILMES | BRASILEIROS",Uma Quase Dupla
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/998.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vai Que Cola - O Filme" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vA4OhHaYPH5BASTuZpqZwTMHMS9.jpg" group-title="FILMES | BRASILEIROS",Vai Que Cola - O Filme
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/17678.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Minha Mãe é uma Peça: O Filme" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/23OQ3DUcDohNibPWcx8xpLRZW0b.jpg" group-title="FILMES | BRASILEIROS",Minha Mãe é uma Peça: O Filme
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/21833.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Minha Mãe é uma Peça 2: O Filme" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eDApDWU6r9zxk9MZLc6rfnBb3vu.jpg" group-title="FILMES | BRASILEIROS",Minha Mãe é uma Peça 2: O Filme
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/21847.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1964: O Brasil Entre Armas e Livros (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mUcLVYkvUxmNsd8ZcOvAs1c7ZLc.jpg" group-title="FILMES | BRASILEIROS",1964: O Brasil Entre Armas e Livros (2019)
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/27309.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Os Normais: O Filme (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fY6iAt1FydekczPvJ8AkbaKEZLv.jpg" group-title="FILMES | BRASILEIROS",Os Normais: O Filme (2003)
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/28011.mkv
+
+
+
+#########################################################################################################
+
+
+#########################################FILMES | COMÉDIA############################################
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="As Novas Aventuras do Fusca (1974)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yzsyktG0oRC0kyDRMx3DvPiMNj9.jpg" group-title="FILMES | COMÉDIA",As Novas Aventuras do Fusca (1974)
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/28046.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Última Cruzada do Fusca (1980)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jQG1vUvFbuepFErTSTuMdkilPWy.jpg" group-title="FILMES | COMÉDIA",A Última Cruzada do Fusca (1980)
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/28047.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Herbie - Meu Fusca Turbinado (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qEA7Scgr4JenaKDpg2vDryaVhwA.jpg" group-title="FILMES | COMÉDIA",Herbie - Meu Fusca Turbinado (2005)
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/28048.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Herbie – Se Meu Fusca Falasse (1968)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Lc1efdYZUZia2zsRWcUkiD1KdN.jpg" group-title="FILMES | COMÉDIA",Herbie – Se Meu Fusca Falasse (1968)
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/28049.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Um Fusca em Monte Carlo (1977)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t6rzY3AP9rXZKi3kyKXdIvLXen6.jpg" group-title="FILMES | COMÉDIA",Um Fusca em Monte Carlo (1977)
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/28050.mkv
+#EXTINF:-1 tvg-id="" tvg-name="As Novas Aventuras do Fusca (1974)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yzsyktG0oRC0kyDRMx3DvPiMNj9.jpg" group-title="FILMES | COMÉDIA",As Novas Aventuras do Fusca (1974)
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/28046.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Última Cruzada do Fusca (1980)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jQG1vUvFbuepFErTSTuMdkilPWy.jpg" group-title="FILMES | COMÉDIA",A Última Cruzada do Fusca (1980)
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/28047.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Herbie - Meu Fusca Turbinado (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qEA7Scgr4JenaKDpg2vDryaVhwA.jpg" group-title="FILMES | COMÉDIA",Herbie - Meu Fusca Turbinado (2005)
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/28048.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Herbie – Se Meu Fusca Falasse (1968)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Lc1efdYZUZia2zsRWcUkiD1KdN.jpg" group-title="FILMES | COMÉDIA",Herbie – Se Meu Fusca Falasse (1968)
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/28049.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Um Fusca em Monte Carlo (1977)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t6rzY3AP9rXZKi3kyKXdIvLXen6.jpg" group-title="FILMES | COMÉDIA",Um Fusca em Monte Carlo (1977)
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/28050.mkv
+#EXTINF:-1 tvg-id="" tvg-name="28 Dias (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ph8BaYRcgZqeDryd3tdZu9yrMzX.jpg" group-title="FILMES | COMÉDIA",28 Dias (2000)
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/9496.mkv
+#EXTINF:-1 tvg-id="" tvg-name="4 Latas (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bqSdcFF4w8ZwgWZB3jNNTJNubBK.jpg" group-title="FILMES | COMÉDIA",4 Latas (2019)
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/11045.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Balada de Buster Scruggs (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yFvFyuIeCZfu94pZzzhTm991397.jpg" group-title="FILMES | COMÉDIA",A Balada de Buster Scruggs (2018)
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/9489.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Chefinha (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4qP1KMrkvVS5240HotxADSMbUMe.jpg" group-title="FILMES | COMÉDIA",A Chefinha (2019)
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/10569.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Escolha Perfeita - 2012" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8DxgIhEOQ9FoRbh8Y7t2lJGBvF9.jpg" group-title="FILMES | COMÉDIA",A Escolha Perfeita - 2012
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/9474.avi
+#EXTINF:-1 tvg-id="" tvg-name="A Escolha Perfeita 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dzwkiOC6ALf5ieeRD5sy8eKjCcK.jpg" group-title="FILMES | COMÉDIA",A Escolha Perfeita 2
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/9473.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Escolha Perfeita 3" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3PqsJb2h2Uu4ymo0yj130IxbF6S.jpg" group-title="FILMES | COMÉDIA",A Escolha Perfeita 3
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/9472.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Extraordinária Jornada do Fakir" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vx0I4swb55GPZwEPcS0gAo3QowV.jpg" group-title="FILMES | COMÉDIA",A Extraordinária Jornada do Fakir
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/9467.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Fantástica Fábrica de Chocolate" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qC3iU5mtXPuYmkNdSjmHVFlnUHK.jpg" group-title="FILMES | COMÉDIA",A Fantástica Fábrica de Chocolate
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/9466.avi
+#EXTINF:-1 tvg-id="" tvg-name="A Filha dos Trapalhões (1984)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xK3k94RSkW7u1walQlTxP16G5Tj.jpg" group-title="FILMES | COMÉDIA",A Filha dos Trapalhões (1984)
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/3961.avi
+#EXTINF:-1 tvg-id="" tvg-name="A Garota Perfeita" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f11LLHcIgmejyLtLFJFORKpzkoS.jpg" group-title="FILMES | COMÉDIA",A Garota Perfeita
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/16552.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Guerra dos Sexos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/foHyGzllPDT051h5oETjlA0U0Cg.jpg" group-title="FILMES | COMÉDIA",A Guerra dos Sexos
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/9458.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Morte de Stalin" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zEyl0WaeqRcQ5xA7N45IEIBTY3x.jpg" group-title="FILMES | COMÉDIA",A Morte de Stalin
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/9741.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Morte Te Dá Parabéns 2 (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oVZpjvPfP01kIxHGfWMOCtMBdBH.jpg" group-title="FILMES | COMÉDIA",A Morte Te Dá Parabéns 2 (2019)
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/7892.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Noite do Jogo (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fWbGZt8URdS8N4AVpTRupdBXClz.jpg" group-title="FILMES | COMÉDIA",A Noite do Jogo (2018)
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/876.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Princesa Xuxa e os Trapalhões (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bFIv5EDwRjSt80H4Mkd3bMVsx1b.jpg" group-title="FILMES | COMÉDIA",A Princesa Xuxa e os Trapalhões (1989)
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/3962.avi
+#EXTINF:-1 tvg-id="" tvg-name="A Simple Favor: Gravestone Martinis - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9dnBtjyrFPjVSM8TATCSsx7aMCb.jpg" group-title="FILMES | COMÉDIA",A Simple Favor: Gravestone Martinis - 2018
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/9713.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sua Parte Fragil" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aBDKj7DkGyw3r4A7CWHcle6nTjz.jpg" group-title="FILMES | COMÉDIA",A Sua Parte Fragil
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/11007.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ace Ventura 2: Um Maluco na África" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vvMuCJ9GwJT1kXLrFg06mGFsb68.jpg" group-title="FILMES | COMÉDIA",Ace Ventura 2: Um Maluco na África
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/9822.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aladim e a Lâmpada Maravilhosa (1973)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gMKZIPVowwvPmRzbXfZqEj80QhB.jpg" group-title="FILMES | COMÉDIA",Aladim e a Lâmpada Maravilhosa (1973)
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/3963.avi
+#EXTINF:-1 tvg-id="" tvg-name="Alex Strangelove" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e9haaQZp1WsJLauz9WNT30lKCCL.jpg" group-title="FILMES | COMÉDIA",Alex Strangelove
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/9814.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alexandre e o Dia Terrível, Horrível, Espantoso e Horroroso (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v6A7l8fSqIm2MkbNkFkk2bS0014.jpg" group-title="FILMES | COMÉDIA",Alexandre e o Dia Terrível, Horrível, Espantoso e Horroroso (2014)
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/7894.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alguém Como Eu" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pfSjQvdAZxKCSq7t2rzAGxYoPCb.jpg" group-title="FILMES | COMÉDIA",Alguém Como Eu
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/9812.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Alguém Especial (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h0nz5lIBXeUZChBNfwL08bLWQaU.jpg" group-title="FILMES | COMÉDIA",Alguém Especial (2019)
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/1944.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ali Babá e os Quarenta Ladrões (1972)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AuoLAGJvUFGv6LtvWv2EgtCJWfw.jpg" group-title="FILMES | COMÉDIA",Ali Babá e os Quarenta Ladrões (1972)
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/3964.avi
+#EXTINF:-1 tvg-id="" tvg-name="Amanhã Nunca Mais" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a8YbhxlpcW2xDL2aFZm1KGM176D.jpg" group-title="FILMES | COMÉDIA",Amanhã Nunca Mais
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/9806.avi
+#EXTINF:-1 tvg-id="" tvg-name="American Pie 1:  A Primeira Vez" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k40WFAXMRekWEqsjURO3jiWob67.jpg" group-title="FILMES | COMÉDIA",American Pie 1:  A Primeira Vez
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/9804.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Pie 2 : A Segunda Vez é Ainda Melhor" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aKkJ2HfnZGHAU3FgsaE2VSJTE9v.jpg" group-title="FILMES | COMÉDIA",American Pie 2 : A Segunda Vez é Ainda Melhor
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/9803.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Pie 3: O Casamento" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e2WgTlsIwbwj3dAWZ5UNHQH8Sso.jpg" group-title="FILMES | COMÉDIA",American Pie 3: O Casamento
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/9802.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Pie 4: Tocando a Maior Zona" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t86c0zMBWOj0Hh8q9QSroR8KQua.jpg" group-title="FILMES | COMÉDIA",American Pie 4: Tocando a Maior Zona
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/9801.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Pie 5: O Último Stifler Vírgem" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wUzELnvD2u5FWp0VYP6uRqWqgey.jpg" group-title="FILMES | COMÉDIA",American Pie 5: O Último Stifler Vírgem
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/15956.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Pie 6: Caindo em Tentação" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mjuPaCdb3BgvJICJHyyyBeLDwUk.jpg" group-title="FILMES | COMÉDIA",American Pie 6: Caindo em Tentação
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/9800.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Pie 7: O Livro do Amor" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2LWQoSVoX9RdT01PO63QJwABrtx.jpg" group-title="FILMES | COMÉDIA",American Pie 7: O Livro do Amor
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/9799.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Pie 8: O Reencontro" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nydXgSqHZWq56BAQXNK8MDzewAY.jpg" group-title="FILMES | COMÉDIA",American Pie 8: O Reencontro
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/9805.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amigos Para Sempre (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/owS1Q6igHQIOoOaeoZ4GZijcvWf.jpg" group-title="FILMES | COMÉDIA",Amigos Para Sempre (2019)
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/6696.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor a Toda Prova" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xM0NIO2nlNf4FVXvfOvd96ksjEI.jpg" group-title="FILMES | COMÉDIA",Amor a Toda Prova
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/16553.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Anjos da Lei" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dNHPgRd8hQt3o9zJjmiFGMWh5YU.jpg" group-title="FILMES | COMÉDIA",Anjos da Lei
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/16554.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Anjos da Lei 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oRipSewLp41gj9WjzQNuSmWV1Lk.jpg" group-title="FILMES | COMÉDIA",Anjos da Lei 2
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/16555.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Apenas o Começo (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/70eVsU4nvVidEs7mpPcEcBlIpmx.jpg" group-title="FILMES | COMÉDIA",Apenas o Começo (2017)
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/1917.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aqui em Casa Tudo Bem" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j92GNi6ooPKEDj44VdrkVM6rV1f.jpg" group-title="FILMES | COMÉDIA",Aqui em Casa Tudo Bem
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/10985.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Trapaceiras (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e6AuIno1eZoDMQhFGKGAte6Syd7.jpg" group-title="FILMES | COMÉDIA",As Trapaceiras (2019)
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/10557.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Asim, O Vigarista (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x9RSGVeYe8f2mlEW8Kfo9wuHTz8.jpg" group-title="FILMES | COMÉDIA",Asim, O Vigarista (2019)
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/4173.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Capitão Fantástico (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t4UH0AJql4paQMq4Dlg1gk2tqhk.jpg" group-title="FILMES | COMÉDIA",Capitão Fantástico (2016)
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/10105.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cartas Para Julieta" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2yuhPOdWdZmgSIIhXxVq0Pu5ZQV.jpg" group-title="FILMES | COMÉDIA",Cartas Para Julieta
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/10098.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Casal Improvável (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pbGJQXK0NEYZmUmjdDVQRrufOle.jpg" group-title="FILMES | COMÉDIA",Casal Improvável (2019)
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/10558.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Castigados" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aBe8HH8QMYkKQsIgtLXjvifmAcQ.jpg" group-title="FILMES | COMÉDIA",Castigados
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/10094.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cine Holliúdy 2: A Chibata Sideral (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jqIsvzb2uzpJ8LmLnntR2jBntNS.jpg" group-title="FILMES | COMÉDIA",Cine Holliúdy 2: A Chibata Sideral (2019)
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/7893.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Clube dos Infiéis Honestos (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w2cqKX8xMp9s5Ng8j0npVGbX770.jpg" group-title="FILMES | COMÉDIA",Clube dos Infiéis Honestos (2018)
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/4178.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Correndo Atrás de um Pai (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yM9o2SrQWH7AvfkShJv3nZtOfVV.jpg" group-title="FILMES | COMÉDIA",Correndo Atrás de um Pai (2017)
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/885.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Daphne e Velma (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zG2DHbo2GNxSmcFWqGkAPgS6hC8.jpg" group-title="FILMES | COMÉDIA",Daphne e Velma (2018)
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/895.mp4
+#EXTINF:-1 tvg-id="" tvg-name="De Pernas Pro Ar 3 (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7O75EXzA8sx6gTuCGEvYcG13MYq.jpg" group-title="FILMES | COMÉDIA",De Pernas Pro Ar 3 (2019)
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/8810.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Debaixo do Mesmo Teto" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jljVoBWPCWKtCsg27CcvdBNF3ec.jpg" group-title="FILMES | COMÉDIA",Debaixo do Mesmo Teto
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/11012.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Do Que os Homens Gostam (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6UDohjhxprSjsnZfqbbpuwxDPSS.jpg" group-title="FILMES | COMÉDIA",Do Que os Homens Gostam (2019)
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/9761.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Doces ou Travessuras" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fV58h19dy7Swa3oU5eY8AQCznsJ.jpg" group-title="FILMES | COMÉDIA",Doces ou Travessuras
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/16556.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dude - A Vida É Assim (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ac2bAPqL1RI8BMUnjYbxILlgnmR.jpg" group-title="FILMES | COMÉDIA",Dude - A Vida É Assim (2018)
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/898.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dumplin' (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xJAB1HrFUuOf2VkWPaZ4N2DACCo.jpg" group-title="FILMES | COMÉDIA",Dumplin' (2018)
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/1411.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Era Uma Vez Um Deadpool (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l6mbdXVinpYl4pWZ6CkySX6dUZ9.jpg" group-title="FILMES | COMÉDIA",Era Uma Vez Um Deadpool (2018)
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/1504.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Eu Não Sou um Homem Fácil (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4zNw5nVeQkdj3HS82HRBRkQXbvf.jpg" group-title="FILMES | COMÉDIA",Eu Não Sou um Homem Fácil (2018)
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/902.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Eu Queria Ter a Sua Vida (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cEYAplvqE0T6XLzc19IuyHgA29d.jpg" group-title="FILMES | COMÉDIA",Eu Queria Ter a Sua Vida (2011)
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/7895.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Eu Sou Mais Eu (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8crHQVVD8KfTxl7VeImVBEjG9Ei.jpg" group-title="FILMES | COMÉDIA",Eu Sou Mais Eu (2019)
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/6698.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Exterminadores do Além Contra a Loira do Banheiro (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nLsVyAJuFZPlQQPaC3LFpK750k1.jpg" group-title="FILMES | COMÉDIA",Exterminadores do Além Contra a Loira do Banheiro (2018)
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/1412.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fora de Série (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yfIAkRcPUbbfSGR2JOuUppAAMLV.jpg" group-title="FILMES | COMÉDIA",Fora de Série (2019)
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/10560.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gente que Vai e Volta (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ftNFLYiGtKzAyZIwixXXieJUCxA.jpg" group-title="FILMES | COMÉDIA",Gente que Vai e Volta (2019)
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/6699.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Gringo - Vivo ou Morto (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8EXWz4TM3FRuxuJ5j0SBkQ1dR0P.jpg" group-title="FILMES | COMÉDIA",Gringo - Vivo ou Morto (2018)
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/907.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homem ao Mar (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x5IBg0AEZR6roN1nOrDVIXbkis6.jpg" group-title="FILMES | COMÉDIA",Homem ao Mar (2018)
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/4100.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jogos Famintos (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k837bIt5QzNYNWip2tV3QaB5uxh.jpg" group-title="FILMES | COMÉDIA",Jogos Famintos (2013)
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/11156.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lady Bird - A Hora de Voar (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wxfKcpFPmK9isnxXyvCMbqmBtdg.jpg" group-title="FILMES | COMÉDIA",Lady Bird - A Hora de Voar (2017)
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/910.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Largadas Em Família" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tKZlr1zixicZGK6QXk3f7EGfdak.jpg" group-title="FILMES | COMÉDIA",Largadas Em Família
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/16557.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Luccas Neto em: Uma Babá Muito Esquisita (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qmVSmuiWPgHkv8uDOrLn9nGLysI.jpg" group-title="FILMES | COMÉDIA",Luccas Neto em: Uma Babá Muito Esquisita (2019)
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/7683.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Lá Vem os Pais (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rUWXKRKsbInckc8h5k6Tte8V8Zl.jpg" group-title="FILMES | COMÉDIA",Lá Vem os Pais (2018)
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/911.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mais Uma Chance" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c0LxunoOD30s1d9fgwFQ0JTUCva.jpg" group-title="FILMES | COMÉDIA",Mais Uma Chance
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/16558.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Marido e Mulher" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/atfIvKtOW2NtI5n383x0Vps1wTP.jpg" group-title="FILMES | COMÉDIA",Marido e Mulher
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/11022.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Missão: Amsterdam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zzgnQ6aIFPOI1qCS1F1MzhuFXHV.jpg" group-title="FILMES | COMÉDIA",Missão: Amsterdam
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/16559.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mistério no Mediterrâneo (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eygXgrzMaAzWTR7V0H5JYrO6RVf.jpg" group-title="FILMES | COMÉDIA",Mistério no Mediterrâneo (2019)
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/8813.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Muito Louca (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lXveJGpaQsUGPmUc1RQE9VhNkie.jpg" group-title="FILMES | COMÉDIA",Muito Louca (2018)
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/2609.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ninguém Entra, Ninguém Sai" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/inx2lpitq7r5jeYv3j3K2UcKCj9.jpg" group-title="FILMES | COMÉDIA",Ninguém Entra, Ninguém Sai
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/11024.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nosso Último Verão (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dvT9YnBRTKITUN82WvY8X5BJWD6.jpg" group-title="FILMES | COMÉDIA",Nosso Último Verão (2019)
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/6701.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Não Vai Dar" tvg-logo="http://167.86.94.183:25461/images/uvlUQXg0AlpGzKukO11K7QtW3Yu_small.jpg" group-title="FILMES | COMÉDIA",Não Vai Dar
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/917.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Artista do Desastre" tvg-logo="http://167.86.94.183:25461/images/jj84nF5vYRD0HUTowBKcrKk8hZP_small.jpg" group-title="FILMES | COMÉDIA",O Artista do Desastre
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/880.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Cangaceiro Trapalhão" tvg-logo="http://vip.primeuhd.com:25461/images/vTeVkngp93Cxw1t5RpWy8ErSN4f_small.jpg" group-title="FILMES | COMÉDIA",O Cangaceiro Trapalhão
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/3965.avi
+#EXTINF:-1 tvg-id="" tvg-name="O Casamento Dos Trapalhões" tvg-logo="http://vip.primeuhd.com:25461/images/xKoM05UcZEFznOwrs0RjX4afS1g_small.jpg" group-title="FILMES | COMÉDIA",O Casamento Dos Trapalhões
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/3966.avi
+#EXTINF:-1 tvg-id="" tvg-name="O Cinderelo Trapalhão" tvg-logo="http://vip.primeuhd.com:25461/images/r7rTd4fzL9NgrslkYOZBGKAhja1_small.jpg" group-title="FILMES | COMÉDIA",O Cinderelo Trapalhão
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/3981.avi
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Monstro Trapalhão" tvg-logo="http://vip.primeuhd.com:25461/images/xAP2ZzCdiOdrynIwPR702gMK668_small.jpg" group-title="FILMES | COMÉDIA",O Incrível Monstro Trapalhão
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/3967.avi
+#EXTINF:-1 tvg-id="" tvg-name="O Jogo da Vida (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/beeu4ss1lGGU3gctVXHv2C9TLiA.jpg" group-title="FILMES | COMÉDIA",O Jogo da Vida (2017)
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/293.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mais Provável Assassino" tvg-logo="http://vip.primeuhd.com:25461/images/uozkm1AvcEo8ZKU3UKam06YWmbc_small.jpg" group-title="FILMES | COMÉDIA",O Mais Provável Assassino
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/2818.mkv
+#EXTINF:-1 tvg-id="" tvg-name="O Outro Pai (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hO8Pt1AJ43JjAHmzZ5TTycs0MDs.jpg" group-title="FILMES | COMÉDIA",O Outro Pai (2019)
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/6703.mkv
+#EXTINF:-1 tvg-id="" tvg-name="O Pacote" tvg-logo="http://167.86.94.183:25461/images/70mP0nwUmtaL44Y8aoUn6uBjJON_small.jpg" group-title="FILMES | COMÉDIA",O Pacote
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/926.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Plano Imperfeito" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7qnIDNDY9g6Ap8fhwXNG2BImLCT.jpg" group-title="FILMES | COMÉDIA",O Plano Imperfeito
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/11028.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Professor (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lToVXSQcTQg0uWQmXESfDcTJueQ.jpg" group-title="FILMES | COMÉDIA",O Professor (2019)
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/8814.mkv
+#EXTINF:-1 tvg-id="" tvg-name="O Rei e os Trapalhões" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/uawG2ASZPyBHujOuljEd0BqZaF1.jpg" group-title="FILMES | COMÉDIA",O Rei e os Trapalhões
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/3968.avi
+#EXTINF:-1 tvg-id="" tvg-name="O Trapalhão na Arca de Noé" tvg-logo="http://vip.primeuhd.com:25461/images/wA6v0Rw9pmUI1DiWWB5ytxqYW4E_small.jpg" group-title="FILMES | COMÉDIA",O Trapalhão na Arca de Noé
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/3969.avi
+#EXTINF:-1 tvg-id="" tvg-name="O Trapalhão na Ilha do Tesouro" tvg-logo="http://vip.primeuhd.com:25461/images/azrBKuXCdKAIfg7P60SS3RhnEXB_small.jpg" group-title="FILMES | COMÉDIA",O Trapalhão na Ilha do Tesouro
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/3970.avi
+#EXTINF:-1 tvg-id="" tvg-name="O Trapalhão nas Minas do Rei Salomão" tvg-logo="http://vip.primeuhd.com:25461/images/dcGPEgJp95zk00XiWYUAFy7F4ro_small.jpg" group-title="FILMES | COMÉDIA",O Trapalhão nas Minas do Rei Salomão
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/3971.avi
+#EXTINF:-1 tvg-id="" tvg-name="O Trapalhão no Planalto dos Macacos" tvg-logo="http://vip.primeuhd.com:25461/images/w9OqnqJ6WsMYSqV194O3LkdYzSe_small.jpg" group-title="FILMES | COMÉDIA",O Trapalhão no Planalto dos Macacos
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/3972.avi
+#EXTINF:-1 tvg-id="" tvg-name="Oh, Ramona! (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mscdZrk8k6VTVOgbVF5IpsaA8sK.jpg" group-title="FILMES | COMÉDIA",Oh, Ramona! (2019)
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/7686.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Oito Mulheres e um Segredo" tvg-logo="http://167.86.94.183:25461/images/MvYpKlpFukTivnlBhizGbkAe3v_small.jpg" group-title="FILMES | COMÉDIA",Oito Mulheres e um Segredo
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/978.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os 6 Ridículos" tvg-logo="http://vip.primeuhd.com:25461/images/k77xcsBtZMq9zIlTVQV7UBemzXD_small.jpg" group-title="FILMES | COMÉDIA",Os 6 Ridículos
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/3880.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Heróis Trapalhões - Uma Aventura na Selva" tvg-logo="http://vip.primeuhd.com:25461/images/sghqwymNH187Vg5bOY3vX7g1KD2_small.jpg" group-title="FILMES | COMÉDIA",Os Heróis Trapalhões - Uma Aventura na Selva
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/3974.avi
+#EXTINF:-1 tvg-id="" tvg-name="Os Saltimbancos Trapalhões" tvg-logo="http://vip.primeuhd.com:25461/images/fWYBeNsJUPtxtnXHT1ViLI3LeKe_small.jpg" group-title="FILMES | COMÉDIA",Os Saltimbancos Trapalhões
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/3975.avi
+#EXTINF:-1 tvg-id="" tvg-name="Os Trapalhões e a Árvore da Juventude" tvg-logo="http://vip.primeuhd.com:25461/images/bhnNNuHs9qs45gy98GmdUIGKDh2_small.jpg" group-title="FILMES | COMÉDIA",Os Trapalhões e a Árvore da Juventude
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/3976.avi
+#EXTINF:-1 tvg-id="" tvg-name="Os Trapalhões e o Rei do Futebol" tvg-logo="http://vip.primeuhd.com:25461/images/uEie8BuqKLzX5WFXQ6HExwPiqwJ_small.jpg" group-title="FILMES | COMÉDIA",Os Trapalhões e o Rei do Futebol
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/3977.avi
+#EXTINF:-1 tvg-id="" tvg-name="Os Trapalhões na Guerra dos Planetas" tvg-logo="http://vip.primeuhd.com:25461/images/vm7CB3yZ5Zt2NvCuNbfQvbEwAsI_small.jpg" group-title="FILMES | COMÉDIA",Os Trapalhões na Guerra dos Planetas
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/3978.avi
+#EXTINF:-1 tvg-id="" tvg-name="Os Trapalhões no Rabo do Cometa" tvg-logo="http://vip.primeuhd.com:25461/images/8XoZzttXVWuoYt8L6nxqP0xFAas_small.jpg" group-title="FILMES | COMÉDIA",Os Trapalhões no Rabo do Cometa
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/3979.avi
+#EXTINF:-1 tvg-id="" tvg-name="Os Trapalhões no Reino da Fantasia" tvg-logo="http://vip.primeuhd.com:25461/images/4vQYLnT3fOE1CfyHfRSYOsU1Xhc_small.jpg" group-title="FILMES | COMÉDIA",Os Trapalhões no Reino da Fantasia
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/3980.avi
+#EXTINF:-1 tvg-id="" tvg-name="Os Três Mosqueteiros Trapalhões" tvg-logo="http://vip.primeuhd.com:25461/images/nzi3t6CzLqHlJw9mUucH2Nq4bQx_small.jpg" group-title="FILMES | COMÉDIA",Os Três Mosqueteiros Trapalhões
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/3973.avi
+#EXTINF:-1 tvg-id="" tvg-name="Pai do Ano" tvg-logo="http://vip.primeuhd.com:25461/images/mmBdCkZxHwQn5zM17cZmd3giJCY_small.jpg" group-title="FILMES | COMÉDIA",Pai do Ano
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/935.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Papai Noel & Cia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hI1RWLi2qdAhqXb7hDs1wUXMMxn.jpg" group-title="FILMES | COMÉDIA",Papai Noel & Cia
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/302.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Para Todos os Garotos que Já Amei (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ghcDEzN43GGUxduTJgNhKDn6a3I.jpg" group-title="FILMES | COMÉDIA",Para Todos os Garotos que Já Amei (2018)
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/1415.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pequena Grande Vida" tvg-logo="http://vip.primeuhd.com:25461/images/uLlmtN33rMuimRq6bu0OoNzCGGs_small.jpg" group-title="FILMES | COMÉDIA",Pequena Grande Vida
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/2086.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Plano Quase Perfeito" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/akJWjJhFCZ3U0r9gwG4Au2T9Q4k.jpg" group-title="FILMES | COMÉDIA",Plano Quase Perfeito
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/11031.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ponto Cego (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gjcaxEzG5G1E7aZiQsznYh1VMGK.jpg" group-title="FILMES | COMÉDIA",Ponto Cego (2018)
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/305.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ponto de Ação" tvg-logo="http://vip.primeuhd.com:25461/images/5lqJx0uNKrD1cEKgaqF1LBsLAoi_small.jpg" group-title="FILMES | COMÉDIA",Ponto de Ação
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/957.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Precoce" tvg-logo="http://vip.primeuhd.com:25461/images/67ZXnE486oEVvOVcWgjF6pvpyJ_small.jpg" group-title="FILMES | COMÉDIA",Precoce
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/1918.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Projeto X: Uma Festa Fora de Controle" tvg-logo="http://vip.primeuhd.com:25461/images/cWXkRLmzKfYutvWeJXaednoGKdF_small.jpg" group-title="FILMES | COMÉDIA",Projeto X: Uma Festa Fora de Controle
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/7672.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Quem Você Levaria para uma Ilha Deserta? (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f4mNHOpEbx68j0yaNdme6b07WPC.jpg" group-title="FILMES | COMÉDIA",Quem Você Levaria para uma Ilha Deserta? (2019)
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/1418.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Quem Vê Cara Não Vê Coração" tvg-logo="http://vip.primeuhd.com:25461/images/pfRn0CzYq5n49EDl8BV8Jjry6ZM_small.jpg" group-title="FILMES | COMÉDIA",Quem Vê Cara Não Vê Coração
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/1919.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Resgate em Malibu (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zwws2LWVWEAMNU55zOJvn9Q1Q3k.jpg" group-title="FILMES | COMÉDIA",Resgate em Malibu (2019)
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/6705.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Robin Hood, O Trapalhão da Floresta" tvg-logo="http://vip.primeuhd.com:25461/images/kPH0ZO12dNVn05mhW8eW33qOK0a_small.jpg" group-title="FILMES | COMÉDIA",Robin Hood, O Trapalhão da Floresta
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/3982.avi
+#EXTINF:-1 tvg-id="" tvg-name="Santo Time" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1KOwQ6O42pk2mg3xbA0hQJInK5.jpg" group-title="FILMES | COMÉDIA",Santo Time
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/11034.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Se Beber Não Case" tvg-logo="http://vip.primeuhd.com:25461/images/uluhlXubGu1VxU63X9VHCLWDAYP_small.jpg" group-title="FILMES | COMÉDIA",Se Beber Não Case
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/2819.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Se Beber Não Case 2" tvg-logo="http://vip.primeuhd.com:25461/images/yoiJyVknXfU4jcJvPYeMOCgyLky_small.jpg" group-title="FILMES | COMÉDIA",Se Beber Não Case 2
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/2820.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Se Beber Não Case 3" tvg-logo="http://vip.primeuhd.com:25461/images/vtxuPWkdllLNLVyGjKYa267ntuH_small.jpg" group-title="FILMES | COMÉDIA",Se Beber Não Case 3
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/2821.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sexy por Acidente" tvg-logo="http://167.86.94.183:25461/images/iuPs45XIxfARKPLEkCGXWUrBrTR_small.jpg" group-title="FILMES | COMÉDIA",Sexy por Acidente
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/992.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Simbad, O Marujo Trapalhão" tvg-logo="http://vip.primeuhd.com:25461/images/rxrYij1gxwIakNrrVP5LNPrEMV8_small.jpg" group-title="FILMES | COMÉDIA",Simbad, O Marujo Trapalhão
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/3983.avi
+#EXTINF:-1 tvg-id="" tvg-name="Sobrevivendo ao Meu Pai" tvg-logo="http://167.86.94.183:25461/images/8rSc59ajnmV9EsNWdLFSjRlFfT3_small.jpg" group-title="FILMES | COMÉDIA",Sobrevivendo ao Meu Pai
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/994.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Status Update: Perfil dos Sonhos (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/htMuH2YHr6tOWghIMo3lO0QgfwY.jpg" group-title="FILMES | COMÉDIA",Status Update: Perfil dos Sonhos (2018)
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/4188.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Te Peguei!" tvg-logo="http://167.86.94.183:25461/images/eXXpuW2xaq5Aen9N5prFlARVIvr_small.jpg" group-title="FILMES | COMÉDIA",Te Peguei!
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/979.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Beach Bum - Levando a Vida Numa Boa (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ejdsvietxUgyJU1aKnsJGW5Looh.jpg" group-title="FILMES | COMÉDIA",The Beach Bum - Levando a Vida Numa Boa (2019)
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/8168.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Loucura do Tempo (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4XXc9fapIqFytmhxA3HxALfhi4j.jpg" group-title="FILMES | COMÉDIA",Loucura do Tempo (2018)
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/286.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Todo Mundo em Pânico" tvg-logo="http://vip.primeuhd.com:25461/images/bvVmVFBVQLytK1H4TJTFdnhvf4T_small.jpg" group-title="FILMES | COMÉDIA",Todo Mundo em Pânico
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/1499.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Todo Mundo em Pânico 2" tvg-logo="http://vip.primeuhd.com:25461/images/tSGWhSResV2Cnqqr91TGKyZzf79_small.jpg" group-title="FILMES | COMÉDIA",Todo Mundo em Pânico 2
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/1500.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Todo Mundo em Pânico 3" tvg-logo="http://vip.primeuhd.com:25461/images/jlzEF7sTseYDB9H5dN29YFZt5Na_small.jpg" group-title="FILMES | COMÉDIA",Todo Mundo em Pânico 3
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/1501.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Todo Mundo em Pânico 4" tvg-logo="http://vip.primeuhd.com:25461/images/kBBVoyGTAZ4Yw3lYkCRfrRS2WTS_small.jpg" group-title="FILMES | COMÉDIA",Todo Mundo em Pânico 4
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/1502.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Todo Mundo em Pânico 5" tvg-logo="http://vip.primeuhd.com:25461/images/zYptQLRnePlv5rYg2kYOCZ3C31Q_small.jpg" group-title="FILMES | COMÉDIA",Todo Mundo em Pânico 5
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/1503.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tully" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wDI4YXBXolMYi15Qx2kClvdSERM.jpg" group-title="FILMES | COMÉDIA",Tully
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/11039.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uma Escola Atrapalhada" tvg-logo="http://vip.primeuhd.com:25461/images/w6alKvMWu6od35k1rZalHL6pPRx_small.jpg" group-title="FILMES | COMÉDIA",Uma Escola Atrapalhada
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/3984.avi
+#EXTINF:-1 tvg-id="" tvg-name="Xuxa E Os Trapalhões - O Mistério de Robin Hood" tvg-logo="http://vip.primeuhd.com:25461/images/3VBItZiqd8FWzfNcJAAFY6no3Uc_small.jpg" group-title="FILMES | COMÉDIA",Xuxa E Os Trapalhões - O Mistério de Robin Hood
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/3985.avi
+#EXTINF:-1 tvg-id="" tvg-name="A Família Buscapé (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dj14TWVE1VxxJrNxxsObYiRzhgj.jpg" group-title="FILMES | COMÉDIA",A Família Buscapé (1993)
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/17673.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Virgem de 40 Anos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qYUbhgdxc1UwiAAnfXZaUwDKB1Z.jpg" group-title="FILMES | COMÉDIA",O Virgem de 40 Anos
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/17674.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Superbad: É Hoje" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7E4f1oHmwOiKIOOiRP4EeGeaOiV.jpg" group-title="FILMES | COMÉDIA",Superbad: É Hoje
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/17675.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Norbit" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Caqm9I1muCntiXWSHBEM2Ul7OO.jpg" group-title="FILMES | COMÉDIA",Norbit
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/17676.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sobrevivendo às Festas com os Parentes" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ti5T06zSxu0y4dUKYZe9Riuswfs.jpg" group-title="FILMES | COMÉDIA",Sobrevivendo às Festas com os Parentes
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/17677.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Finalmente Livres" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/70yEXu2g2CBaY11KOeKUZSfRPXf.jpg" group-title="FILMES | COMÉDIA",Finalmente Livres
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/21021.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Maldita Sorte" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1CQ5yngCV1HNHyIMPLHR42K331u.jpg" group-title="FILMES | COMÉDIA",Maldita Sorte
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/21022.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Golpe Baixo (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/frdb98H5Fi2JXwywi5FB1iuLSgH.jpg" group-title="FILMES | COMÉDIA",Golpe Baixo (2005)
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/27301.mp4
+#EXTINF:-1 tvg-id="" tvg-name="De Repente uma Família (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eMh9FdmUHTpwYfv3NGN1h2HhMQi.jpg" group-title="FILMES | COMÉDIA",De Repente uma Família (2018)
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/27318.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Megarrromântico (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w0w61UOMCrTIFdKvXjWgn17UXjQ.jpg" group-title="FILMES | COMÉDIA",Megarrromântico (2019)
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/27324.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kevin Hart's - Guide to Black History (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iQwffy1qLo1JPudjPO5TQGQX9QX.jpg" group-title="FILMES | COMÉDIA",Kevin Hart's - Guide to Black History (2019)
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/27325.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Eu os Declaro Marido e... Larry (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8tQw0pYf9YJVW5zrIvT9b9hKZsH.jpg" group-title="FILMES | COMÉDIA",Eu os Declaro Marido e... Larry (2007)
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/27345.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cruzeiro das Loucas (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iB4yaFVSWUQSFp78XgzV6DWxTSu.jpg" group-title="FILMES | COMÉDIA",Cruzeiro das Loucas (2002)
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/27386.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Segurança de Shopping (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/srjOOLxFuvpyCywR5Wu2EY9pGF.jpg" group-title="FILMES | COMÉDIA",Segurança de Shopping (2009)
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/28000.mkv
+#EXTINF:-1 tvg-id="" tvg-name="O Dono da Festa (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4rqZ0O4Rc6ckFYqx8ECD0LfchJj.jpg" group-title="FILMES | COMÉDIA",O Dono da Festa (2002)
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/28001.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tratamento de Choque (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ivaBlGSrvIQe5I7Vx9Olfqko1zR.jpg" group-title="FILMES | COMÉDIA",Tratamento de Choque (2003)
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/28002.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cada Um Tem a Gêmea que Merece (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gaOiyNW68PwnH9d8c5UiAejfcB3.jpg" group-title="FILMES | COMÉDIA",Cada Um Tem a Gêmea que Merece (2011)
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/28003.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Show de Vizinha (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pc2tnoAItFUXrglGdo4b3orKOs5.jpg" group-title="FILMES | COMÉDIA",Show de Vizinha (2004)
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/28004.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Segurança de Shopping 2 (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4UyzK9HCmmK3Lhet47XF1rHXO6Z.jpg" group-title="FILMES | COMÉDIA",Segurança de Shopping 2 (2015)
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/28005.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Trocando os Pés (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wLwquKAvtJ67KPJ2QskasIpS9uv.jpg" group-title="FILMES | COMÉDIA",Trocando os Pés (2014)
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/28006.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Gigolô Europeu por Acidente (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yXdQ4UGDFCsPrynJOdIk20AYLus.jpg" group-title="FILMES | COMÉDIA",Gigolô Europeu por Acidente (2005)
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/28007.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Zohan - Um Agente Bom de Corte (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gBhLQmpCPoKFMCGsulMbIFzrBID.jpg" group-title="FILMES | COMÉDIA",Zohan - Um Agente Bom de Corte (2008)
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/28008.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Herança de Mr. Deeds (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ee4Hrz3EfX8lKWk6Y7TBJiM4Aks.jpg" group-title="FILMES | COMÉDIA",A Herança de Mr. Deeds (2002)
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/28009.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Click (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5ZPbBXyjkgIbOasAIduF19EYYGZ.jpg" group-title="FILMES | COMÉDIA",Click (2006)
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/28010.mkv

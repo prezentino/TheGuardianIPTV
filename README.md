@@ -1480,9 +1480,142 @@ http://p2prime.xyz:80/FODASE/AB4F5CE51H/23167
 #########################################################################################################
 
 
-#########################################FILMES: COMEDIA##################################################
+#########################################FILMES: LANCAMENTOS#############################################
 
 
-
-#EXTINF:-1 tvg-id="" tvg-name="Projeto X: Uma Festa Fora de Controle" tvg-logo="http://vip.primeuhd.com:25461/images/cWXkRLmzKfYutvWeJXaednoGKdF_small.jpg" group-title="FILMES: COMEDIA",Projeto X: Uma Festa Fora de Controle
-http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/7672.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Besouro Verde (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q1fXWEoZXogYjAUy32pUc6NL2IH.jpg" group-title="FILMES: ACAO/CRIME",O Besouro Verde (2011)
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/28051.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cano Serrado (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fNPFGg3S1Nirx1Nq4NfGjchNyzt.jpg" group-title="FILMES: ACAO/CRIME",Cano Serrado (2018)
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/28056.mkv
+#EXTINF:-1 tvg-id="" tvg-name="007: Cassino Royale" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oR58rVlyhEPQXWrCa8PAC9omTHk.jpg" group-title="FILMES: ACAO/CRIME",007: Cassino Royale
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/16496.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007: Contra Spectre (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gWoUlYxVRZsjh9L9CZjrHSM2l6W.jpg" group-title="FILMES: ACAO/CRIME",007: Contra Spectre (2015)
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/16500.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007: Operação Skyfall" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/waOFaJB4FRPyA2KylJncSG57mj0.jpg" group-title="FILMES: ACAO/CRIME",007: Operação Skyfall
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/16497.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007: Quantum of Solace (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fV0ejyUsnqd8BzHcK13C7ZJFEa1.jpg" group-title="FILMES: ACAO/CRIME",007: Quantum of Solace (2008)
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/9500.mp4
+#EXTINF:-1 tvg-id="" tvg-name="15 Minutos de Guerra (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iwXNed7a2TERq4D7AUY3wltGrqw.jpg" group-title="FILMES: ACAO/CRIME",15 Minutos de Guerra (2019)
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/7677.mp4
+#EXTINF:-1 tvg-id="" tvg-name="211 - O Grande Assalto (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nGvFQ1pB3YebdXYY0IsQfEIzm1C.jpg" group-title="FILMES: ACAO/CRIME",211 - O Grande Assalto (2018)
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/870.mp4
+#EXTINF:-1 tvg-id="" tvg-name="22 Milhas (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fcHq8q0cW49YlACLhwtknMtBv23.jpg" group-title="FILMES: ACAO/CRIME",22 Milhas (2018)
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/265.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Balada do Pistoleiro (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j9zyAYNfCjVd1hQp1qxgAMaMJsf.jpg" group-title="FILMES: ACAO/CRIME",A Balada do Pistoleiro (1995)
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/9488.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Batalha de Riddick (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pfKnyehXOdFFKO1akcW7kdEKz82.jpg" group-title="FILMES: ACAO/CRIME",A Batalha de Riddick (2004)
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/1442.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Justiceira (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h0OM8DvWEepVzVb6qKCuHwzqCUN.jpg" group-title="FILMES: ACAO/CRIME",A Justiceira (2018)
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/267.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Mula (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sPfvkCBzB9JUsjbF7RBwt5VwzYJ.jpg" group-title="FILMES: ACAO/CRIME",A Mula (2018)
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/6716.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alfa (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wiofc2cbzZlLEgdxts1GmSoWEMM.jpg" group-title="FILMES: ACAO/CRIME",Alfa (2018)
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/269.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alvo Triplo (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kWRI8Ew9RyJweGJycUfnaO6RtVY.jpg" group-title="FILMES: ACAO/CRIME",Alvo Triplo (2017)
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/1934.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arranha-Céu: Coragem Sem Limite (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fvwR00VUW2yFtSdYr8F3NUmusf6.jpg" group-title="FILMES: ACAO/CRIME",Arranha-Céu: Coragem Sem Limite (2018)
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/959.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bastardos Inglorios" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lVN78ZkaOFiNr9IHoPQ7M0gyNib.jpg" group-title="FILMES: ACAO/CRIME",Bastardos Inglorios
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/10046.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Batman" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kBf3g9crrADGMc2AMAMlLBgSm2h.jpg" group-title="FILMES: ACAO/CRIME",Batman
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/10045.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Batman Begins (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jrYbYRMRwCO7vNtTdoqNcgALwAi.jpg" group-title="FILMES: ACAO/CRIME",Batman Begins (2005)
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/1453.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Batman vs Superman: A Origem da Justiça (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vh6pjeGH0GQupLepPCZn5PylcRg.jpg" group-title="FILMES: ACAO/CRIME",Batman vs Superman: A Origem da Justiça (2016)
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/1457.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Batman: O Cavaleiro das Trevas (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iGZX91hIqM9Uu0KGhd4MUaJ0Rtm.jpg" group-title="FILMES: ACAO/CRIME",Batman: O Cavaleiro das Trevas (2008)
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/1456.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Batman: O Cavaleiro das Trevas Ressurge (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tAfdgD5THJ3m30DFNsWkQvALg3S.jpg" group-title="FILMES: ACAO/CRIME",Batman: O Cavaleiro das Trevas Ressurge (2012)
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/1455.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Battleship: A Batalha dos Mares (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rQP8WmFhPFuJipwKwa384hXUjqh.jpg" group-title="FILMES: ACAO/CRIME",Battleship: A Batalha dos Mares (2012)
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/272.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Blood Brother: Demônios" tvg-logo="http://vip.primeuhd.com:25461/images/23pWp5cos45I8BSTP8xbk5P5fZ0_small.jpg" group-title="FILMES: ACAO/CRIME",Blood Brother: Demônios
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/2829.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bright (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfWmA2k03GDWQmrcjusUcqBiYWT.jpg" group-title="FILMES: ACAO/CRIME",Bright (2017)
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/1935.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Asfalto de Sangue (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z7kel1zs55kLfSmwPGiSlNW5aAG.jpg" group-title="FILMES: ACAO/CRIME",Asfalto de Sangue (2017)
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/271.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Busca Explosiva (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ngRBNPSSeQ3aga7I51B2gN6jUaJ.jpg" group-title="FILMES: ACAO/CRIME",Busca Explosiva (2006)
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/10023.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Busca Explosiva 2 (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6eGlig64s1MCv4GkaXeEDczEkRQ.jpg" group-title="FILMES: ACAO/CRIME",Busca Explosiva 2 (2009)
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/10022.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Busca Explosiva 3 (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9liEU1O0GZIZXYf9SekjH5kb8bb.jpg" group-title="FILMES: ACAO/CRIME",Busca Explosiva 3 (2013)
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/10021.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Busca Explosiva 4 (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/znqYTKcFZ7g9QOX6MnNcfqXVv6p.jpg" group-title="FILMES: ACAO/CRIME",Busca Explosiva 4 (2015)
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/10020.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Busca Explosiva 5 - Campo de Batalha (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/scT71EjoMhoFUAddEzLMYDnvPlM.jpg" group-title="FILMES: ACAO/CRIME",Busca Explosiva 5 - Campo de Batalha (2017)
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/10019.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Busca Implacável (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gtsoJsoIweDa4pxFq4VenNdrcDz.jpg" group-title="FILMES: ACAO/CRIME",Busca Implacável (2008)
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/10018.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Busca Implacável 2 (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AePtWcNgawXIGOnB24fDPC1M6Rc.jpg" group-title="FILMES: ACAO/CRIME",Busca Implacável 2 (2012)
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/10017.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Busca Implacável 3 (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/urQE6vRrk0fkOtnRr68sef4D6aF.jpg" group-title="FILMES: ACAO/CRIME",Busca Implacável 3 (2014)
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/10016.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Caçadores De Homens (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gXqJb4VSQ9t4y0QADiGDTAfWvud.jpg" group-title="FILMES: ACAO/CRIME",Caçadores De Homens (2017)
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/7664.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Capitão América 2: O Soldado Invernal (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7lk0NvgL1ikOYElr5KdnyGnEui9.jpg" group-title="FILMES: ACAO/CRIME",Capitão América 2: O Soldado Invernal (2014)
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/324.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Capitão América: Guerra Civil (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lS5XvvUcJy5rJcbmBeX1GPoMnWJ.jpg" group-title="FILMES: ACAO/CRIME",Capitão América: Guerra Civil (2016)
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/325.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Capitão América: O Primeiro Vingador (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xYijVAPunk6neVW2KHKE4Lp45ZU.jpg" group-title="FILMES: ACAO/CRIME",Capitão América: O Primeiro Vingador (2011)
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/323.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carga" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l69vmy7RaPMRKOHTE5U40unE8j.jpg" group-title="FILMES: DRAMA",Carga
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/10104.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carga Bruta" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/met0gYYNyQYCZS4uD0TW1SJyPwA.jpg" group-title="FILMES: ACAO/CRIME",Carga Bruta
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/10103.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carga Explosiva (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4VfuE1wgsL9jIrmuI4AF6zEnDbb.jpg" group-title="FILMES: ACAO/CRIME",Carga Explosiva (2002)
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/1622.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carga Explosiva 2 (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aEvr1aoBcosbOrunlYMHfUPv7D6.jpg" group-title="FILMES: ACAO/CRIME",Carga Explosiva 2 (2005)
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/1623.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carga Explosiva 3 (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hC4lRSuZA29l4NbmQ8sdvkpRkO5.jpg" group-title="FILMES: ACAO/CRIME",Carga Explosiva 3 (2008)
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/1624.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carga Mortal (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jIrNVrtI6tGgSBMInOoPTHld4aw.jpg" group-title="FILMES: ACAO/CRIME",Carga Mortal (2018)
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/2649.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Caçada Brutal (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l8uTkFwft1wUuoTThCVLCtEQMIJ.jpg" group-title="FILMES: ACAO/CRIME",Caçada Brutal (2017)
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/1936.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Close (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ezHANaEtKOdwoY0NnDtxAwJQx6d.jpg" group-title="FILMES: ACAO/CRIME",Close (2019)
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/1410.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Conexão Ásia (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3vKFDPSjRrWoffqcZFc5ZDrrYbv.jpg" group-title="FILMES: ACAO/CRIME",Conexão Ásia (2016)
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/11146.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Conspiracao Terrorista" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zUaWqigoY9atp0X4ENBBTvpdpmy.jpg" group-title="FILMES: ACAO/CRIME",Conspiracao Terrorista
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/10073.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Contagem Regressiva" tvg-logo="http://vip.primeuhd.com:25461/images/sIy3iJgFA3pz5yMRNez5OP97Oqh_small.jpg" group-title="FILMES: ACAO/CRIME",Contagem Regressiva
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/1937.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Corrida Mortal (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a58L5z5LyADGVfAYfYmf5VaEk3y.jpg" group-title="FILMES: ACAO/CRIME",Corrida Mortal (2008)
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/889.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Corrida Mortal 2 (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rrGcj3TbaeIYlr5itXoLONI2Ki7.jpg" group-title="FILMES: ACAO/CRIME",Corrida Mortal 2 (2010)
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/888.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Corrida Mortal 2050 (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cVLgEozCt7Sws03V2dIVphBsFYK.jpg" group-title="FILMES: ACAO/CRIME",Corrida Mortal 2050 (2017)
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/890.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Corrida Mortal 3 - Inferno (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/egDHHUofifBhvjqmCxIe4RueE3a.jpg" group-title="FILMES: ACAO/CRIME",Corrida Mortal 3 - Inferno (2013)
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/891.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Corrida Mortal 4 - Além da Anarquia (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/licxEAA2QYy4zLrd6N03vvrBtzo.jpg" group-title="FILMES: ACAO/CRIME",Corrida Mortal 4 - Além da Anarquia (2018)
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/275.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Corridas Clandestinas" tvg-logo="http://vip.primeuhd.com:25461/images/gd5Ow4lnjpIgCzDWZyXDvgheMe9_small.jpg" group-title="FILMES: ACAO/CRIME",Corridas Clandestinas
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/2099.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Covil de Ladrões" tvg-logo="http://167.86.94.183:25461/images/AfybH6GbGFw1F9bcETe2yu25mIE_small.jpg" group-title="FILMES: ACAO/CRIME",Covil de Ladrões
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/892.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Criminosos de Novembro" tvg-logo="http://vip.primeuhd.com:25461/images/m2JxGgarPvtemudLZ1CB6gLJeUb_small.jpg" group-title="FILMES: ACAO/CRIME",Criminosos de Novembro
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/1938.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cyborg - O Dragão do Futuro" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uAEs65c1r25qY5bnT9TVEb21DIB.jpg" group-title="FILMES: ACAO/CRIME",Cyborg - O Dragão do Futuro
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/10113.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Darc (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bBxHNF0risAugpPJeAgLkiUW0P1.jpg" group-title="FILMES: ACAO/CRIME",Darc (2018)
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/896.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Deadpool (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g0ehjmoNsgH9RmlGiAfYzN2whps.jpg" group-title="FILMES: ACAO/CRIME",Deadpool (2016)
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/277.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Deadpool 2 (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6CABdPx68rYoLdvXhIJkilOj6XZ.jpg" group-title="FILMES: ACAO/CRIME",Deadpool 2 (2018)
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/278.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Demolidor: O Homem Sem Medo (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eG7xCJ3s3O0ihDXN4Nz5cG3mJv5.jpg" group-title="FILMES: ACAO/CRIME",Demolidor: O Homem Sem Medo (2003)
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/1868.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Desejo de Matar (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yo2FRPhsifn044quPVyMtYlnoyZ.jpg" group-title="FILMES: ACAO/CRIME",Desejo de Matar (2018)
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/963.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Deuses do Egito (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9hrtBguTRrPBIPeEMh27FelWXC.jpg" group-title="FILMES: ACAO/CRIME",Deuses do Egito (2016)
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/1444.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Doce Vinganca 3: A Vinganca é Minha" tvg-logo="http://vip.primeuhd.com:25461/images/6SnOlgrUoC5jqmgcYIM5lde5zYq_small.jpg" group-title="FILMES: ACAO/CRIME",Doce Vinganca 3: A Vinganca é Minha
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/1940.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Doce Vingança" tvg-logo="http://vip.primeuhd.com:25461/images/7hA8FfUAwBJut4MSIhR6eCF8li7_small.jpg" group-title="FILMES: ACAO/CRIME",Doce Vingança
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/1941.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Doce Vingança 2" tvg-logo="http://vip.primeuhd.com:25461/images/5gM5nslul301XNHzQ9DpVxhGnLn_small.jpg" group-title="FILMES: ACAO/CRIME",Doce Vingança 2
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/1939.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Doutor Estranho (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t0amAZ8KJFxBQZOxOnWlKVT4STi.jpg" group-title="FILMES: ACAO/CRIME",Doutor Estranho (2016)
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/326.mp4

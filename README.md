@@ -642,7 +642,7 @@ http://csrv.tv:80/live/SBV6j/q84Rk/30024.m3u8
 #EXTINF:-1 tvg-logo="http://iv.pe/h9I" group-title="Canais | 24 Horas",[24H] OS PINGUINS DE MADAGASCAR
 http://csrv.tv:80/live/SBV6j/q84Rk/30025.m3u8
 #EXTINF:-1 tvg-logo="http://iv.pe/TwL" group-title="Canais | 24 Horas",[24H] OS SETE MONSTRINHOS
-http://csrv.tv:80/live/SBV6j/q84Rk/30026.m3u8
+http://p2prime.xyz:80/TheGuardian/l6p6B3tXWQ/20468
 #EXTINF:-1 tvg-logo="http://iv.pe/2Zc" group-title="Canais | 24 Horas",[24H] OS SIMPSONS T01
 http://csrv.tv:80/live/SBV6j/q84Rk/29993.m3u8
 #EXTINF:-1 tvg-logo="http://iv.pe/4CO" group-title="Canais | 24 Horas",[24H] OS SIMPSONS T02

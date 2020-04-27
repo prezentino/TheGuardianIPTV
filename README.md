@@ -1474,3 +1474,15 @@ http://p2prime.xyz:80/FODASE/AB4F5CE51H/23165
 http://p2prime.xyz:80/FODASE/AB4F5CE51H/23166
 #EXTINF:-1 tvg-id="" tvg-name="XXX: GAY" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Adulto/%2B18.png" group-title="CANAIS | ADULTOS",XXX: GAY
 http://p2prime.xyz:80/FODASE/AB4F5CE51H/23167
+
+
+
+#########################################################################################################
+
+
+#########################################FILMES: COMEDIA##################################################
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Projeto X: Uma Festa Fora de Controle" tvg-logo="http://vip.primeuhd.com:25461/images/cWXkRLmzKfYutvWeJXaednoGKdF_small.jpg" group-title="FILMES: COMEDIA",Projeto X: Uma Festa Fora de Controle
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/7672.mp4

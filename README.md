@@ -269,7 +269,8 @@ http://p2prime.xyz:80/cvxvcvcvvc/5DToHNe1wE/15454
 #########################################CANAIS ABERTOS##################################################
 
 
-
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND 4K" tvg-logo="http://primeuhd.com/LOGOS/Logo%204k/BAND%204K.png" group-title="CANAIS | ABERTOS",BAND 4K
+http://p2prime.xyz:80/cvxvcvcvvc/5DToHNe1wE/11090
 #EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/BAND.png" group-title="CANAIS | ABERTOS",BAND FHD H265
 http://p2prime.xyz:80/cvxvcvcvvc/5DToHNe1wE/14161
 #EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND FHD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/BAND.png" group-title="CANAIS | ABERTOS",BAND FHD²
@@ -286,6 +287,8 @@ http://p2prime.xyz:80/cvxvcvcvvc/5DToHNe1wE/14163
 http://p2prime.xyz:80/cvxvcvcvvc/5DToHNe1wE/8871
 #EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="GAZETA SP FHD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/TV%20GAZETA.png" group-title="CANAIS | ABERTOS",GAZETA SP FHD²
 http://p2prime.xyz:80/cvxvcvcvvc/5DToHNe1wE/8869
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT 4K" tvg-logo="http://primeuhd.com/LOGOS/Logo%204k/SBT%204K.png" group-title="CANAIS | ABERTOS",SBT 4K
+http://p2prime.xyz:80/cvxvcvcvvc/5DToHNe1wE/11083
 #EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/SBT.png" group-title="CANAIS | ABERTOS",SBT FHD H265
 http://p2prime.xyz:80/cvxvcvcvvc/5DToHNe1wE/14159
 #EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT FHD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/SBT.png" group-title="CANAIS | ABERTOS",SBT FHD²
@@ -304,6 +307,8 @@ http://p2prime.xyz:80/cvxvcvcvvc/5DToHNe1wE/14155
 http://p2prime.xyz:80/cvxvcvcvvc/5DToHNe1wE/14158
 #EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT PARANA SD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/SBT.png" group-title="CANAIS | ABERTOS",SBT PARANA SD
 http://p2prime.xyz:80/cvxvcvcvvc/5DToHNe1wE/8883
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD 4K" tvg-logo="http://primeuhd.com/LOGOS/Logo%204k/RECORD%204K.png" group-title="CANAIS | ABERTOS",RECORD 4K
+http://p2prime.xyz:80/cvxvcvcvvc/5DToHNe1wE/11089
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD SP FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/RECORD%20TV.png" group-title="CANAIS | ABERTOS",RECORD SP FHD H265
 http://p2prime.xyz:80/cvxvcvcvvc/5DToHNe1wE/14151
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD SP FHD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/RECORD%20TV.png" group-title="CANAIS | ABERTOS",RECORD SP FHD²
@@ -336,6 +341,8 @@ http://p2prime.xyz:80/cvxvcvcvvc/5DToHNe1wE/16426
 http://p2prime.xyz:80/cvxvcvcvvc/5DToHNe1wE/16427
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD RIO HD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/RECORD%20TV.png" group-title="CANAIS | ABERTOS",RECORD RIO HD
 http://p2prime.xyz:80/cvxvcvcvvc/5DToHNe1wE/16428
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDETV 4K" tvg-logo="http://primeuhd.com/LOGOS/Logo%204k/REDETV%204K.png" group-title="CANAIS | ABERTOS",REDETV 4K
+http://p2prime.xyz:80/cvxvcvcvvc/5DToHNe1wE/11088
 #EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDE TV FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/REDE%20TV.png" group-title="CANAIS | ABERTOS",REDE TV FHD H265
 http://p2prime.xyz:80/cvxvcvcvvc/5DToHNe1wE/14164
 #EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDE TV HD¹" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Canais%20Abertos/REDE%20TV.png" group-title="CANAIS | ABERTOS",REDE TV HD¹
@@ -388,6 +395,8 @@ http://p2prime.xyz:80/cvxvcvcvvc/5DToHNe1wE/23124
 
 
 
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET 4K" tvg-logo="http://primeuhd.com/LOGOS/Logo%204k/ANIMAL%20PLANET%204K.png" group-title="CANAIS | DOCUMENTÁRIOS",ANIMAL PLANET 4K
+http://p2prime.xyz:80/cvxvcvcvvc/5DToHNe1wE/11082
 #EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Documentario/ANIMAL%20PLANET.png" group-title="CANAIS | DOCUMENTÁRIOS",ANIMAL PLANET FHD H265
 http://p2prime.xyz:80/cvxvcvcvvc/5DToHNe1wE/14263
 #EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET FHD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Documentario/ANIMAL%20PLANET.png" group-title="CANAIS | DOCUMENTÁRIOS",ANIMAL PLANET FHD
@@ -398,6 +407,8 @@ http://p2prime.xyz:80/cvxvcvcvvc/5DToHNe1wE/14264
 http://p2prime.xyz:80/cvxvcvcvvc/5DToHNe1wE/8946
 #EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET SD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Documentario/ANIMAL%20PLANET.png" group-title="CANAIS | DOCUMENTÁRIOS",ANIMAL PLANET SD
 http://p2prime.xyz:80/cvxvcvcvvc/5DToHNe1wE/8948
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL 4K" tvg-logo="http://primeuhd.com/LOGOS/Logo%204k/DISCOVERY%20CHANNEL%204K.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY CHANNEL 4K
+http://p2prime.xyz:80/cvxvcvcvvc/5DToHNe1wE/11086
 #EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Documentario/DISCOVERY%20CHANNEL.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY CHANNEL FHD H265
 http://p2prime.xyz:80/cvxvcvcvvc/5DToHNe1wE/14266
 #EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL FHD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Documentario/DISCOVERY%20CHANNEL.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY CHANNEL FHD
@@ -504,6 +515,8 @@ http://p2prime.xyz:80/cvxvcvcvvc/5DToHNe1wE/14288
 http://p2prime.xyz:80/cvxvcvcvvc/5DToHNe1wE/8906
 #EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="NAT GEO WILD SD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Documentario/NAT%20GEO%20WILD.png" group-title="CANAIS | DOCUMENTÁRIOS",NAT GEO WILD SD
 http://p2prime.xyz:80/cvxvcvcvvc/5DToHNe1wE/8907
+#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATGEO 4K" tvg-logo="http://primeuhd.com/LOGOS/Logo%204k/NATIONAL%20GEOGRAPHIC%204K.png" group-title="CANAIS | DOCUMENTÁRIOS",NATGEO 4K
+http://p2prime.xyz:80/cvxvcvcvvc/5DToHNe1wE/14033
 #EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATIONAL GEOGRAPHIC FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Documentario/NATIONAL%20GEOGRAPHIC.png" group-title="CANAIS | DOCUMENTÁRIOS",NATIONAL GEOGRAPHIC FHD H265
 http://p2prime.xyz:80/cvxvcvcvvc/5DToHNe1wE/14285
 #EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATIONAL GEOGRAPHIC FHD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Documentario/NATIONAL%20GEOGRAPHIC.png" group-title="CANAIS | DOCUMENTÁRIOS",NATIONAL GEOGRAPHIC FHD
@@ -536,6 +549,8 @@ http://p2prime.xyz:80/cvxvcvcvvc/5DToHNe1wE/8969
 http://p2prime.xyz:80/cvxvcvcvvc/5DToHNe1wE/26410
 #EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS SD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/BAND%20SPORT.png" group-title="CANAIS | ESPORTES",BAND SPORTS SD
 http://p2prime.xyz:80/cvxvcvcvvc/5DToHNe1wE/8330
+#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE 4K" tvg-logo="http://primeuhd.com/LOGOS/Logo%204k/COMBATE%204K.png" group-title="CANAIS | ESPORTES",COMBATE 4K
+http://p2prime.xyz:80/cvxvcvcvvc/5DToHNe1wE/11078
 #EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/COMBATE.png" group-title="CANAIS | ESPORTES",COMBATE FHD H265
 http://p2prime.xyz:80/cvxvcvcvvc/5DToHNe1wE/14096
 #EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE FHD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/COMBATE.png" group-title="CANAIS | ESPORTES",COMBATE FHD²
@@ -558,6 +573,8 @@ http://p2prime.xyz:80/cvxvcvcvvc/5DToHNe1wE/11062
 http://p2prime.xyz:80/cvxvcvcvvc/5DToHNe1wE/8949
 #EXTINF:-1 tvg-id="Esporteinterativo.br" tvg-name="ESPORTE INTERATIVO SD ¹" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/ESPORTE%20INTERATIVO.png" group-title="CANAIS | ESPORTES",ESPORTE INTERATIVO SD ¹
 http://p2prime.xyz:80/cvxvcvcvvc/5DToHNe1wE/8950
+#EXTINF:-1 tvg-id="ESPNInternational.br" tvg-name="ESPN 4K" tvg-logo="http://primeuhd.com/LOGOS/Logo%204k/ESPN%204K.png" group-title="CANAIS | ESPORTES",ESPN 4K
+http://p2prime.xyz:80/cvxvcvcvvc/5DToHNe1wE/14034
 #EXTINF:-1 tvg-id="ESPNInternational.br" tvg-name="ESPN FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/ESPN.png" group-title="CANAIS | ESPORTES",ESPN FHD H265
 http://p2prime.xyz:80/cvxvcvcvvc/5DToHNe1wE/14101
 #EXTINF:-1 tvg-id="ESPNInternational.br" tvg-name="ESPN FHD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/ESPN.png" group-title="CANAIS | ESPORTES",ESPN FHD²
@@ -604,6 +621,8 @@ http://p2prime.xyz:80/cvxvcvcvvc/5DToHNe1wE/14108
 http://p2prime.xyz:80/cvxvcvcvvc/5DToHNe1wE/8963
 #EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN EXTRA SD¹" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/ESPN%20EXTRA.png" group-title="CANAIS | ESPORTES",ESPN EXTRA SD¹
 http://p2prime.xyz:80/cvxvcvcvvc/5DToHNe1wE/26412
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS 4K" tvg-logo="http://primeuhd.com/LOGOS/Logo%204k/FOX%20SPORT%204K.png" group-title="CANAIS | ESPORTES",FOX SPORTS 4K
+http://p2prime.xyz:80/cvxvcvcvvc/5DToHNe1wE/11084
 #EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/FOX%20SPORTS.png" group-title="CANAIS | ESPORTES",FOX SPORTS FHD H265
 http://p2prime.xyz:80/cvxvcvcvvc/5DToHNe1wE/14109
 #EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS FHD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/FOX%20SPORTS.png" group-title="CANAIS | ESPORTES",FOX SPORTS FHD²
@@ -616,6 +635,8 @@ http://p2prime.xyz:80/cvxvcvcvvc/5DToHNe1wE/8971
 http://p2prime.xyz:80/cvxvcvcvvc/5DToHNe1wE/26424
 #EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS SD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/FOX%20SPORTS.png" group-title="CANAIS | ESPORTES",FOX SPORTS SD
 http://p2prime.xyz:80/cvxvcvcvvc/5DToHNe1wE/8976
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 4K" tvg-logo="http://primeuhd.com/LOGOS/Logo%204k/FOX%20SPORTS%202%204K.png" group-title="CANAIS | ESPORTES",FOX SPORTS 2 4K
+http://p2prime.xyz:80/cvxvcvcvvc/5DToHNe1wE/11124
 #EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/FOX%20SPORTS%202.png" group-title="CANAIS | ESPORTES",FOX SPORTS 2 FHD H265
 http://p2prime.xyz:80/cvxvcvcvvc/5DToHNe1wE/14110
 #EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 FHD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/FOX%20SPORTS%202.png" group-title="CANAIS | ESPORTES",FOX SPORTS 2 FHD²
@@ -762,6 +783,8 @@ http://p2prime.xyz:80/cvxvcvcvvc/5DToHNe1wE/11094
 http://p2prime.xyz:80/cvxvcvcvvc/5DToHNe1wE/14209
 #EXTINF:-1 tvg-id="iSat.br" tvg-name="I-SAT HD¹" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Filmes/I-SAT.png" group-title="CANAIS | FILMES E SÉRIES",I-SAT HD¹
 http://p2prime.xyz:80/cvxvcvcvvc/5DToHNe1wE/14210
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX 4K" tvg-logo="http://primeuhd.com/LOGOS/Logo%204k/MEGAPIX%204K.png" group-title="CANAIS | FILMES E SÉRIES",MEGAPIX 4K
+http://p2prime.xyz:80/cvxvcvcvvc/5DToHNe1wE/11123
 #EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Filmes/MEGAPIX.png" group-title="CANAIS | FILMES E SÉRIES",MEGAPIX FHD H265
 http://p2prime.xyz:80/cvxvcvcvvc/5DToHNe1wE/14211
 #EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX FHD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Filmes/MEGAPIX.png" group-title="CANAIS | FILMES E SÉRIES",MEGAPIX FHD
@@ -798,6 +821,8 @@ http://p2prime.xyz:80/cvxvcvcvvc/5DToHNe1wE/14218
 http://p2prime.xyz:80/cvxvcvcvvc/5DToHNe1wE/9037
 #EXTINF:-1 tvg-id="Sony.br" tvg-name="SONY SD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Filmes/CANAL%20SONY.png" group-title="CANAIS | FILMES E SÉRIES",SONY SD
 http://p2prime.xyz:80/cvxvcvcvvc/5DToHNe1wE/9038
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE 4K" tvg-logo="http://primeuhd.com/LOGOS/Logo%204k/SPACE%204K.png" group-title="CANAIS | FILMES E SÉRIES",SPACE 4K
+http://p2prime.xyz:80/cvxvcvcvvc/5DToHNe1wE/14035
 #EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Filmes/SPACE.png" group-title="CANAIS | FILMES E SÉRIES",SPACE FHD H265
 http://p2prime.xyz:80/cvxvcvcvvc/5DToHNe1wE/14219
 #EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE FHD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Filmes/SPACE.png" group-title="CANAIS | FILMES E SÉRIES",SPACE FHD
@@ -844,6 +869,8 @@ http://p2prime.xyz:80/cvxvcvcvvc/5DToHNe1wE/14227
 http://p2prime.xyz:80/cvxvcvcvvc/5DToHNe1wE/14228
 #EXTINF:-1 tvg-id="Tcm.br" tvg-name="TCM SD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Filmes/TCM.png" group-title="CANAIS | FILMES E SÉRIES",TCM SD
 http://p2prime.xyz:80/cvxvcvcvvc/5DToHNe1wE/9029
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT 4K" tvg-logo="http://primeuhd.com/LOGOS/Logo%204k/TNT%204K.png" group-title="CANAIS | FILMES E SÉRIES",TNT 4K
+http://p2prime.xyz:80/cvxvcvcvvc/5DToHNe1wE/11085
 #EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Filmes/TNT.png" group-title="CANAIS | FILMES E SÉRIES",TNT FHD H265
 http://p2prime.xyz:80/cvxvcvcvvc/5DToHNe1wE/14229
 #EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT FHD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Filmes/TNT.png" group-title="CANAIS | FILMES E SÉRIES",TNT FHD
@@ -854,6 +881,8 @@ http://p2prime.xyz:80/cvxvcvcvvc/5DToHNe1wE/14230
 http://p2prime.xyz:80/cvxvcvcvvc/5DToHNe1wE/9027
 #EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT SD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Filmes/TNT.png" group-title="CANAIS | FILMES E SÉRIES",TNT SD
 http://p2prime.xyz:80/cvxvcvcvvc/5DToHNe1wE/9028
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES 4K" tvg-logo="http://primeuhd.com/LOGOS/Logo%204k/TNT%20SERIES%204K.png" group-title="CANAIS | FILMES E SÉRIES",TNT SERIES 4K
+http://p2prime.xyz:80/cvxvcvcvvc/5DToHNe1wE/14032
 #EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Filmes/TNT%20SERIES.png" group-title="CANAIS | FILMES E SÉRIES",TNT SERIES FHD H265
 http://p2prime.xyz:80/cvxvcvcvvc/5DToHNe1wE/14231
 #EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES FHD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Filmes/TNT%20SERIES.png" group-title="CANAIS | FILMES E SÉRIES",TNT SERIES FHD
@@ -1012,6 +1041,8 @@ http://p2prime.xyz:80/cvxvcvcvvc/5DToHNe1wE/14240
 http://p2prime.xyz:80/cvxvcvcvvc/5DToHNe1wE/9123
 #EXTINF:-1 tvg-id="Boomerang.br" tvg-name="BOOMERANG SD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Infantil/BOOMERANG.png" group-title="CANAIS | INFANTIS",BOOMERANG SD
 http://p2prime.xyz:80/cvxvcvcvvc/5DToHNe1wE/9125
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK 4K" tvg-logo="http://primeuhd.com/LOGOS/Logo%204k/CARTOON%20NETWORK%204K.png" group-title="CANAIS | INFANTIS",CARTOON NETWORK 4K
+http://p2prime.xyz:80/cvxvcvcvvc/5DToHNe1wE/11122
 #EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Infantil/CARTOON%20NETWORK.png" group-title="CANAIS | INFANTIS",CARTOON NETWORK FHD H265
 http://p2prime.xyz:80/cvxvcvcvvc/5DToHNe1wE/14241
 #EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK FHD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Infantil/CARTOON%20NETWORK.png" group-title="CANAIS | INFANTIS",CARTOON NETWORK FHD
@@ -1253,6 +1284,8 @@ http://p2prime.xyz:80/cvxvcvcvvc/5DToHNe1wE/9157
 
 
 
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV 4K" tvg-logo="http://primeuhd.com/LOGOS/Logo%204k/SPORTV%204K.png" group-title="CANAIS | SPORTV",SPORTV 4K
+http://p2prime.xyz:80/cvxvcvcvvc/5DToHNe1wE/11081
 #EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/SPORTV.png" group-title="CANAIS | SPORTV",SPORTV FHD H265
 http://p2prime.xyz:80/cvxvcvcvvc/5DToHNe1wE/14090
 #EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV FHD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Esportes/SPORTV.png" group-title="CANAIS | SPORTV",SPORTV FHD²

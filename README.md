@@ -3907,3 +3907,5 @@ http://csrv.tv:80/movie/vQFXZ/aufNq/44184.mp4
 http://csrv.tv:80/movie/vQFXZ/aufNq/44236.mp4
 #EXTINF:-1 tvg-logo="http://iv.pe/TAJ" group-title="Filmes | Acao",Lágrimas do Sol
 http://csrv.tv:80/movie/vQFXZ/aufNq/44237.mp4
+#EXTINF:-1 tvg-logo="http://iv.pe/yBG" group-title="Filmes | Comedia",O Auto da Compadecida
+http://csrv.tv:80/movie/vQFXZ/aufNq/20731.mp4

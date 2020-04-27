@@ -27,6 +27,245 @@ http://teste.iptv.chave.live/
 #########################################################################################################
 
 
+#########################################DESENHOS 24 HORAS###############################################
+
+
+#EXTINF:-1 tvg-id="" tvg-name="24hs: 3 PALAVRINHAS" tvg-logo="https://trespalavrinhas.com.br/wp-content/uploads/2018/05/shows.png" group-title="PRIME DESENHOS 24HS",24hs: 3 PALAVRINHAS
+http://p2prime.xyz:80/grgrgrgeg/3dq9raqo19/4352
+#EXTINF:-1 tvg-id="" tvg-name="24hs: A NOSSA TURMA" tvg-logo="" group-title="PRIME DESENHOS 24HS",24hs: A NOSSA TURMA
+http://p2prime.xyz:80/grgrgrgeg/3dq9raqo19/15478
+#EXTINF:-1 tvg-id="" tvg-name="24hs: A PANTERA COR DE ROSA" tvg-logo="" group-title="PRIME DESENHOS 24HS",24hs: A PANTERA COR DE ROSA
+http://p2prime.xyz:80/grgrgrgeg/3dq9raqo19/20480
+#EXTINF:-1 tvg-id="" tvg-name="24hs: A PEQUENA SEREIA" tvg-logo="" group-title="PRIME DESENHOS 24HS",24hs: A PEQUENA SEREIA
+http://p2prime.xyz:80/grgrgrgeg/3dq9raqo19/12617
+#EXTINF:-1 tvg-id="" tvg-name="24hs: A TURMA DO PATETA" tvg-logo="" group-title="PRIME DESENHOS 24HS",24hs: A TURMA DO PATETA
+http://p2prime.xyz:80/grgrgrgeg/3dq9raqo19/20450
+#EXTINF:-1 tvg-id="" tvg-name="24hs: ALADDIN" tvg-logo="" group-title="PRIME DESENHOS 24HS",24hs: ALADDIN
+http://p2prime.xyz:80/grgrgrgeg/3dq9raqo19/20479
+#EXTINF:-1 tvg-id="" tvg-name="24hs: ANDY PANDA" tvg-logo="" group-title="PRIME DESENHOS 24HS",24hs: ANDY PANDA
+http://p2prime.xyz:80/grgrgrgeg/3dq9raqo19/20449
+#EXTINF:-1 tvg-id="" tvg-name="24hs: APENAS UM SHOW" tvg-logo="https://media.fstatic.com/CggA48sYIhqvq4tJOpnfqDCm2_4=/fit-in/290x478/smart/media/movies/covers/2015/07/apenas-um-show-1a-temporada_t45103.jpg" group-title="PRIME DESENHOS 24HS",24hs: APENAS UM SHOW
+http://p2prime.xyz:80/grgrgrgeg/3dq9raqo19/7253
+#EXTINF:-1 tvg-id="" tvg-name="24hs: AS TARTARUGAS NINJAS" tvg-logo="" group-title="PRIME DESENHOS 24HS",24hs: AS TARTARUGAS NINJAS
+http://p2prime.xyz:80/grgrgrgeg/3dq9raqo19/8633
+#EXTINF:-1 tvg-id="" tvg-name="24hs: ASTERIX E OBELIX" tvg-logo="" group-title="PRIME DESENHOS 24HS",24hs: ASTERIX E OBELIX
+http://p2prime.xyz:80/grgrgrgeg/3dq9raqo19/15455
+#EXTINF:-1 tvg-id="" tvg-name="24hs: BABY LOONEY TUNES" tvg-logo="" group-title="PRIME DESENHOS 24HS",24hs: BABY LOONEY TUNES
+http://p2prime.xyz:80/grgrgrgeg/3dq9raqo19/7260
+#EXTINF:-1 tvg-id="" tvg-name="24hs: BIBO PAI E BOB FILHO" tvg-logo="" group-title="PRIME DESENHOS 24HS",24hs: BIBO PAI E BOB FILHO
+http://p2prime.xyz:80/grgrgrgeg/3dq9raqo19/20474
+#EXTINF:-1 tvg-id="" tvg-name="24hs: BILLY E MANDY" tvg-logo="" group-title="PRIME DESENHOS 24HS",24hs: BILLY E MANDY
+http://p2prime.xyz:80/grgrgrgeg/3dq9raqo19/15456
+#EXTINF:-1 tvg-id="" tvg-name="24hs: BOB ESPONJA" tvg-logo="" group-title="PRIME DESENHOS 24HS",24hs: BOB ESPONJA
+http://p2prime.xyz:80/grgrgrgeg/3dq9raqo19/15474
+#EXTINF:-1 tvg-id="" tvg-name="24hs: BOB ZOOM" tvg-logo="" group-title="PRIME DESENHOS 24HS",24hs: BOB ZOOM
+http://p2prime.xyz:80/grgrgrgeg/3dq9raqo19/12619
+#EXTINF:-1 tvg-id="" tvg-name="24hs: CARMEM SANDIEGO" tvg-logo="" group-title="PRIME DESENHOS 24HS",24hs: CARMEM SANDIEGO
+http://p2prime.xyz:80/grgrgrgeg/3dq9raqo19/20451
+#EXTINF:-1 tvg-id="" tvg-name="24hs: CASCAO MARATONA" tvg-logo="" group-title="PRIME DESENHOS 24HS",24hs: CASCAO MARATONA
+http://p2prime.xyz:80/grgrgrgeg/3dq9raqo19/7249
+#EXTINF:-1 tvg-id="" tvg-name="24hs: CAVALEIROS DO ZODIACOS" tvg-logo="" group-title="PRIME DESENHOS 24HS",24hs: CAVALEIROS DO ZODIACOS
+http://p2prime.xyz:80/grgrgrgeg/3dq9raqo19/13175
+#EXTINF:-1 tvg-id="" tvg-name="24hs: CAVALO DE FOGO" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/4b/Cavalo_de_fogo.jpg" group-title="PRIME DESENHOS 24HS",24hs: CAVALO DE FOGO
+http://p2prime.xyz:80/grgrgrgeg/3dq9raqo19/7247
+#EXTINF:-1 tvg-id="" tvg-name="24hs: CAVERNA DO DRAGAO" tvg-logo="" group-title="PRIME DESENHOS 24HS",24hs: CAVERNA DO DRAGAO
+http://p2prime.xyz:80/grgrgrgeg/3dq9raqo19/20440
+#EXTINF:-1 tvg-id="" tvg-name="24hs: CAVERNA DO DRAGÃO" tvg-logo="https://ogimg.infoglobo.com.br/in/23662327-553-bce/FT1086A/652/xcaverna_dragao.jpg.pagespeed.ic.5z9quuUgvd.jpg" group-title="PRIME DESENHOS 24HS",24hs: CAVERNA DO DRAGÃO
+http://p2prime.xyz:80/grgrgrgeg/3dq9raqo19/7246
+#EXTINF:-1 tvg-id="" tvg-name="24hs: CEBOLINHA E CASCÃO" tvg-logo="" group-title="PRIME DESENHOS 24HS",24hs: CEBOLINHA E CASCÃO
+http://p2prime.xyz:80/grgrgrgeg/3dq9raqo19/20436
+#EXTINF:-1 tvg-id="" tvg-name="24hs: CHAPOLIN" tvg-logo="" group-title="PRIME DESENHOS 24HS",24hs: CHAPOLIN
+http://p2prime.xyz:80/grgrgrgeg/3dq9raqo19/7226
+#EXTINF:-1 tvg-id="" tvg-name="24hs: CHARLIE E LOLA" tvg-logo="" group-title="PRIME DESENHOS 24HS",24hs: CHARLIE E LOLA
+http://p2prime.xyz:80/grgrgrgeg/3dq9raqo19/15479
+#EXTINF:-1 tvg-id="24Horas.es" tvg-name="24hs: CHAVES" tvg-logo="https://portal.comunique-se.com.br/wp-content/uploads/2016/12/chaves-no-sbt-1.png" group-title="PRIME DESENHOS 24HS",24hs: CHAVES
+#EXTINF:-1 tvg-id="" tvg-name="24hs: COELHO RICOCHETE" tvg-logo="" group-title="PRIME DESENHOS 24HS",24hs: COELHO RICOCHETE
+http://p2prime.xyz:80/grgrgrgeg/3dq9raqo19/4360
+#EXTINF:-1 tvg-id="" tvg-name="24hs: CORAGEM O CAO COVARDE" tvg-logo="" group-title="PRIME DESENHOS 24HS",24hs: CORAGEM O CAO COVARDE
+http://p2prime.xyz:80/grgrgrgeg/3dq9raqo19/15473
+#EXTINF:-1 tvg-id="" tvg-name="24hs: CORRIDA MALUCA" tvg-logo="" group-title="PRIME DESENHOS 24HS",24hs: CORRIDA MALUCA
+http://p2prime.xyz:80/grgrgrgeg/3dq9raqo19/7224
+#EXTINF:-1 tvg-id="" tvg-name="24hs: DC SUPER HERO GIRLS" tvg-logo="" group-title="PRIME DESENHOS 24HS",24hs: DC SUPER HERO GIRLS
+http://p2prime.xyz:80/grgrgrgeg/3dq9raqo19/15457
+#EXTINF:-1 tvg-id="" tvg-name="24hs: DE VOLTA PARA O FUTURO" tvg-logo="" group-title="PRIME DESENHOS 24HS",24hs: DE VOLTA PARA O FUTURO
+http://p2prime.xyz:80/grgrgrgeg/3dq9raqo19/20452
+#EXTINF:-1 tvg-id="" tvg-name="24hs: DENNIS O PIMENTINHA" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/wPHYspIfCUWTOyUMLCv0NreHBf6.jpg" group-title="PRIME DESENHOS 24HS",24hs: DENNIS O PIMENTINHA
+http://p2prime.xyz:80/grgrgrgeg/3dq9raqo19/4361
+#EXTINF:-1 tvg-id="" tvg-name="24hs: DON QUIXOTE" tvg-logo="" group-title="PRIME DESENHOS 24HS",24hs: DON QUIXOTE
+http://p2prime.xyz:80/grgrgrgeg/3dq9raqo19/15458
+#EXTINF:-1 tvg-id="" tvg-name="24hs: DORA A AVENTUREIRA" tvg-logo="" group-title="PRIME DESENHOS 24HS",24hs: DORA A AVENTUREIRA
+http://p2prime.xyz:80/grgrgrgeg/3dq9raqo19/20481
+#EXTINF:-1 tvg-id="" tvg-name="24hs: DRAGON BALL GT" tvg-logo="" group-title="PRIME DESENHOS 24HS",24hs: DRAGON BALL GT
+http://p2prime.xyz:80/grgrgrgeg/3dq9raqo19/20448
+#EXTINF:-1 tvg-id="" tvg-name="24hs: DRAGON BALL KAI" tvg-logo="" group-title="PRIME DESENHOS 24HS",24hs: DRAGON BALL KAI
+http://p2prime.xyz:80/grgrgrgeg/3dq9raqo19/20447
+#EXTINF:-1 tvg-id="" tvg-name="24hs: DRAGON BALL SUPER" tvg-logo="" group-title="PRIME DESENHOS 24HS",24hs: DRAGON BALL SUPER
+http://p2prime.xyz:80/grgrgrgeg/3dq9raqo19/16745
+#EXTINF:-1 tvg-id="" tvg-name="24hs: DRAGON BALL Z" tvg-logo="" group-title="PRIME DESENHOS 24HS",24hs: DRAGON BALL Z
+http://p2prime.xyz:80/grgrgrgeg/3dq9raqo19/20446
+#EXTINF:-1 tvg-id="" tvg-name="24hs: DRAKE E JOSY" tvg-logo="" group-title="PRIME ESPECIAIS 24HS",24hs: DRAKE E JOSY
+http://p2prime.xyz:80/grgrgrgeg/3dq9raqo19/20372
+#EXTINF:-1 tvg-id="" tvg-name="24hs: DUCKTALES" tvg-logo="" group-title="PRIME DESENHOS 24HS",24hs: DUCKTALES
+http://p2prime.xyz:80/grgrgrgeg/3dq9raqo19/20482
+#EXTINF:-1 tvg-id="" tvg-name="24hs: ESQUILO SEM GRILO" tvg-logo="" group-title="PRIME DESENHOS 24HS",24hs: ESQUILO SEM GRILO
+http://p2prime.xyz:80/grgrgrgeg/3dq9raqo19/8626
+#EXTINF:-1 tvg-id="" tvg-name="24hs: EU SOU O MÁXIMO" tvg-logo="" group-title="PRIME DESENHOS 24HS",24hs: EU SOU O MÁXIMO
+http://p2prime.xyz:80/grgrgrgeg/3dq9raqo19/20469
+#EXTINF:-1 tvg-id="" tvg-name="24hs: FAISCA E FUMACA" tvg-logo="" group-title="PRIME DESENHOS 24HS",24hs: FAISCA E FUMACA
+http://p2prime.xyz:80/grgrgrgeg/3dq9raqo19/20441
+#EXTINF:-1 tvg-id="" tvg-name="24hs: FAMILIA URSO" tvg-logo="" group-title="PRIME DESENHOS 24HS",24hs: FAMILIA URSO
+http://p2prime.xyz:80/grgrgrgeg/3dq9raqo19/15459
+#EXTINF:-1 tvg-id="" tvg-name="24hs: FESTIVAL DE DESENHOS" tvg-logo="" group-title="PRIME DESENHOS 24HS",24hs: FESTIVAL DE DESENHOS
+http://p2prime.xyz:80/grgrgrgeg/3dq9raqo19/13182
+#EXTINF:-1 tvg-id="" tvg-name="24hs: GALINHA PINTADINHA" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/e/e7/Galinha_Pintadinha.png/255px-Galinha_Pintadinha.png" group-title="PRIME DESENHOS 24HS",24hs: GALINHA PINTADINHA
+http://p2prime.xyz:80/grgrgrgeg/3dq9raqo19/7242
+#EXTINF:-1 tvg-id="" tvg-name="24hs: GARFIELD E SEUS AMIGOS" tvg-logo="" group-title="PRIME DESENHOS 24HS",24hs: GARFIELD E SEUS AMIGOS
+http://p2prime.xyz:80/grgrgrgeg/3dq9raqo19/20453
+#EXTINF:-1 tvg-id="" tvg-name="24hs: GASPARZINHO" tvg-logo="" group-title="PRIME DESENHOS 24HS",24hs: GASPARZINHO
+http://p2prime.xyz:80/grgrgrgeg/3dq9raqo19/4344
+#EXTINF:-1 tvg-id="" tvg-name="24hs: GATO FELIX" tvg-logo="" group-title="PRIME DESENHOS 24HS",24hs: GATO FELIX
+http://p2prime.xyz:80/grgrgrgeg/3dq9raqo19/20454
+#EXTINF:-1 tvg-id="" tvg-name="24hs: HE-MAN" tvg-logo="" group-title="PRIME DESENHOS 24HS",24hs: HE-MAN
+http://p2prime.xyz:80/grgrgrgeg/3dq9raqo19/20435
+#EXTINF:-1 tvg-id="" tvg-name="24hs: HOMEM ARANHA" tvg-logo="" group-title="PRIME DESENHOS 24HS",24hs: HOMEM ARANHA
+http://p2prime.xyz:80/grgrgrgeg/3dq9raqo19/15460
+#EXTINF:-1 tvg-id="" tvg-name="24hs: HOMEM ARANHA" tvg-logo="" group-title="PRIME DESENHOS 24HS",24hs: HOMEM ARANHA
+http://p2prime.xyz:80/grgrgrgeg/3dq9raqo19/20437
+#EXTINF:-1 tvg-id="" tvg-name="24hs: IRMAO DO JOREL" tvg-logo="" group-title="PRIME DESENHOS 24HS",24hs: IRMAO DO JOREL
+http://p2prime.xyz:80/grgrgrgeg/3dq9raqo19/20442
+#EXTINF:-1 tvg-id="" tvg-name="24hs: IRMÃOS DE GUERRA" tvg-logo="" group-title="PRIME ESPECIAIS 24HS",24hs: IRMÃOS DE GUERRA
+http://p2prime.xyz:80/grgrgrgeg/3dq9raqo19/7223
+#EXTINF:-1 tvg-id="" tvg-name="24hs: JAMBO E RUIVAO" tvg-logo="" group-title="PRIME DESENHOS 24HS",24hs: JAMBO E RUIVAO
+http://p2prime.xyz:80/grgrgrgeg/3dq9raqo19/15461
+#EXTINF:-1 tvg-id="" tvg-name="24hs: JASPION & JONNY QUEST" tvg-logo="" group-title="PRIME DESENHOS 24HS",24hs: JASPION & JONNY QUEST
+http://p2prime.xyz:80/grgrgrgeg/3dq9raqo19/4363
+#EXTINF:-1 tvg-id="" tvg-name="24hs: JONNY QUEST" tvg-logo="" group-title="PRIME DESENHOS 24HS",24hs: JONNY QUEST
+http://p2prime.xyz:80/grgrgrgeg/3dq9raqo19/15475
+#EXTINF:-1 tvg-id="" tvg-name="24hs: KND A TURMA DO BAIRRO" tvg-logo="" group-title="PRIME DESENHOS 24HS",24hs: KND A TURMA DO BAIRRO
+http://p2prime.xyz:80/grgrgrgeg/3dq9raqo19/20455
+#EXTINF:-1 tvg-id="" tvg-name="24hs: LIGEIRINHO" tvg-logo="http://br.web.img2.acsta.net/c_215_290/pictures/16/04/06/15/09/397840.jpg" group-title="PRIME DESENHOS 24HS",24hs: LIGEIRINHO
+http://p2prime.xyz:80/grgrgrgeg/3dq9raqo19/12613
+#EXTINF:-1 tvg-id="" tvg-name="24hs: LULUZINHA" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/va4YktEQaDZk1Ct4dUUwTTX8zOd.jpg" group-title="PRIME DESENHOS 24HS",24hs: LULUZINHA
+http://p2prime.xyz:80/grgrgrgeg/3dq9raqo19/12616
+#EXTINF:-1 tvg-id="" tvg-name="24hs: MAGUILA O GORILA" tvg-logo="" group-title="PRIME DESENHOS 24HS",24hs: MAGUILA O GORILA
+http://p2prime.xyz:80/grgrgrgeg/3dq9raqo19/20456
+#EXTINF:-1 tvg-id="" tvg-name="24hs: MANDA CHUVA" tvg-logo="" group-title="PRIME DESENHOS 24HS",24hs: MANDA CHUVA
+http://p2prime.xyz:80/grgrgrgeg/3dq9raqo19/20439
+#EXTINF:-1 tvg-id="" tvg-name="24hs: MARINHEIRO POPEYE" tvg-logo="" group-title="PRIME DESENHOS 24HS",24hs: MARINHEIRO POPEYE
+http://p2prime.xyz:80/grgrgrgeg/3dq9raqo19/15476
+#EXTINF:-1 tvg-id="" tvg-name="24hs: MASHA E O URSO" tvg-logo="http://imagensemoldes.com.br/wp-content/uploads/2018/04/Masha-e-o-Urso-Imagem-Masha-e-o-Urso-PNG-295x300.png" group-title="PRIME DESENHOS 24HS",24hs: MASHA E O URSO
+http://p2prime.xyz:80/grgrgrgeg/3dq9raqo19/12615
+#EXTINF:-1 tvg-id="" tvg-name="24hs: MEU AMIGO DA ESCOLA É UM MACACO" tvg-logo="" group-title="PRIME DESENHOS 24HS",24hs: MEU AMIGO DA ESCOLA É UM MACACO
+http://p2prime.xyz:80/grgrgrgeg/3dq9raqo19/20457
+#EXTINF:-1 tvg-id="" tvg-name="24hs: MIB HOMENS DE PRETO" tvg-logo="" group-title="PRIME DESENHOS 24HS",24hs: MIB HOMENS DE PRETO
+http://p2prime.xyz:80/grgrgrgeg/3dq9raqo19/20458
+#EXTINF:-1 tvg-id="" tvg-name="24hs: MORANGUINHO" tvg-logo="" group-title="PRIME DESENHOS 24HS",24hs: MORANGUINHO
+http://p2prime.xyz:80/grgrgrgeg/3dq9raqo19/20438
+#EXTINF:-1 tvg-id="" tvg-name="24hs: MOSQUITO, MOSQUETE E MOSCARDO" tvg-logo="" group-title="PRIME DESENHOS 24HS",24hs: MOSQUITO, MOSQUETE E MOSCARDO
+http://p2prime.xyz:80/grgrgrgeg/3dq9raqo19/20470
+#EXTINF:-1 tvg-id="" tvg-name="24hs: MR. MAGOO" tvg-logo="" group-title="PRIME DESENHOS 24HS",24hs: MR. MAGOO
+http://p2prime.xyz:80/grgrgrgeg/3dq9raqo19/15462
+#EXTINF:-1 tvg-id="" tvg-name="24hs: MUNDO BITA E OS ANIMAIS" tvg-logo="" group-title="PRIME DESENHOS 24HS",24hs: MUNDO BITA E OS ANIMAIS
+http://p2prime.xyz:80/grgrgrgeg/3dq9raqo19/12611
+#EXTINF:-1 tvg-id="" tvg-name="24hs: NARUTO" tvg-logo="" group-title="PRIME DESENHOS 24HS",24hs: NARUTO
+http://p2prime.xyz:80/grgrgrgeg/3dq9raqo19/16199
+#EXTINF:-1 tvg-id="" tvg-name="24hs: O MASKARA" tvg-logo="" group-title="PRIME DESENHOS 24HS",24hs: O MASKARA
+http://p2prime.xyz:80/grgrgrgeg/3dq9raqo19/12612
+#EXTINF:-1 tvg-id="" tvg-name="24hs: O PEQUENO SCOOBY DOO" tvg-logo="" group-title="PRIME DESENHOS 24HS",24hs: O PEQUENO SCOOBY DOO
+http://p2prime.xyz:80/grgrgrgeg/3dq9raqo19/20459
+#EXTINF:-1 tvg-id="" tvg-name="24hs: O SHOW DA LUNA" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/i7pmSAArLM7kVHAWB1omIMHIqSf.jpg" group-title="PRIME DESENHOS 24HS",24hs: O SHOW DA LUNA
+http://p2prime.xyz:80/grgrgrgeg/3dq9raqo19/12606
+#EXTINF:-1 tvg-id="" tvg-name="24hs: O SHOW DO ZÉ COLMÉIA" tvg-logo="" group-title="PRIME DESENHOS 24HS",24hs: O SHOW DO ZÉ COLMÉIA
+http://p2prime.xyz:80/grgrgrgeg/3dq9raqo19/20472
+#EXTINF:-1 tvg-id="" tvg-name="24hs: O VALE DOS DINOSSAUROS" tvg-logo="" group-title="PRIME DESENHOS 24HS",24hs: O VALE DOS DINOSSAUROS
+http://p2prime.xyz:80/grgrgrgeg/3dq9raqo19/20478
+#EXTINF:-1 tvg-id="" tvg-name="24hs: O XODÓ DA VOVÓ" tvg-logo="" group-title="PRIME DESENHOS 24HS",24hs: O XODÓ DA VOVÓ
+http://p2prime.xyz:80/grgrgrgeg/3dq9raqo19/20462
+#EXTINF:-1 tvg-id="" tvg-name="24hs: OS CAVALEIROS DO ZODIACOS" tvg-logo="" group-title="PRIME DESENHOS 24HS",24hs: OS CAVALEIROS DO ZODIACOS
+http://p2prime.xyz:80/grgrgrgeg/3dq9raqo19/16314
+#EXTINF:-1 tvg-id="" tvg-name="24hs: OS JETSONS" tvg-logo="" group-title="PRIME DESENHOS 24HS",24hs: OS JETSONS
+http://p2prime.xyz:80/grgrgrgeg/3dq9raqo19/20464
+#EXTINF:-1 tvg-id="" tvg-name="24hs: OS MELHORES DA HANNA-BARBERA" tvg-logo="" group-title="PRIME DESENHOS 24HS",24hs: OS MELHORES DA HANNA-BARBERA
+http://p2prime.xyz:80/grgrgrgeg/3dq9raqo19/20475
+#EXTINF:-1 tvg-id="" tvg-name="24hs: OS SETE MONSTRINHOS" tvg-logo="" group-title="PRIME DESENHOS 24HS",24hs: OS SETE MONSTRINHOS
+http://p2prime.xyz:80/grgrgrgeg/3dq9raqo19/20468
+#EXTINF:-1 tvg-id="" tvg-name="24hs: OS SIMPSONS" tvg-logo="" group-title="PRIME DESENHOS 24HS",24hs: OS SIMPSONS
+http://p2prime.xyz:80/grgrgrgeg/3dq9raqo19/20434
+#EXTINF:-1 tvg-id="" tvg-name="24hs: OS TRES PORQUINHOS" tvg-logo="" group-title="PRIME DESENHOS 24HS",24hs: OS TRES PORQUINHOS
+http://p2prime.xyz:80/grgrgrgeg/3dq9raqo19/15463
+#EXTINF:-1 tvg-id="" tvg-name="24hs: OS VINGADORES" tvg-logo="" group-title="PRIME DESENHOS 24HS",24hs: OS VINGADORES
+http://p2prime.xyz:80/grgrgrgeg/3dq9raqo19/15464
+#EXTINF:-1 tvg-id="" tvg-name="24hs: PADRINHOS MAGICOS & PICA PAU" tvg-logo="" group-title="PRIME DESENHOS 24HS",24hs: PADRINHOS MAGICOS & PICA PAU
+http://p2prime.xyz:80/grgrgrgeg/3dq9raqo19/12586
+#EXTINF:-1 tvg-id="" tvg-name="24hs: PAPA-LEGUAS E COYOTE" tvg-logo="" group-title="PRIME DESENHOS 24HS",24hs: PAPA-LEGUAS E COYOTE
+http://p2prime.xyz:80/grgrgrgeg/3dq9raqo19/20476
+#EXTINF:-1 tvg-id="" tvg-name="24hs: PATATI PATATA" tvg-logo="" group-title="PRIME DESENHOS 24HS",24hs: PATATI PATATA
+http://p2prime.xyz:80/grgrgrgeg/3dq9raqo19/15466
+#EXTINF:-1 tvg-id="" tvg-name="24hs: PATRULHA CANINA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/27/PAW_Patrol_main_characters%2C_cast_promo_art.png" group-title="PRIME DESENHOS 24HS",24hs: PATRULHA CANINA
+http://p2prime.xyz:80/grgrgrgeg/3dq9raqo19/7227
+#EXTINF:-1 tvg-id="" tvg-name="24hs: PEPPA PIG" tvg-logo="https://yt3.ggpht.com/a/AGF-l7984gKadUliKYl-9KGpactH1WIa5p8YwdMC4g=s900-c-k-c0xffffffff-no-rj-mo" group-title="PRIME DESENHOS 24HS",24hs: PEPPA PIG
+http://p2prime.xyz:80/grgrgrgeg/3dq9raqo19/12599
+#EXTINF:-1 tvg-id="" tvg-name="24hs: PERNALONGA E SUA TURMA" tvg-logo="" group-title="PRIME DESENHOS 24HS",24hs: PERNALONGA E SUA TURMA
+http://p2prime.xyz:80/grgrgrgeg/3dq9raqo19/20467
+#EXTINF:-1 tvg-id="" tvg-name="24hs: PICA-PAU" tvg-logo="http://2.bp.blogspot.com/-4hz3uWNAwOw/UvElgsRwtLI/AAAAAAAAAAg/qHPxqY9eMyg/s1600/festa_pica_pau_painel_decorativo_piffer.jpg" group-title="PRIME DESENHOS 24HS",24hs: PICA-PAU
+http://p2prime.xyz:80/grgrgrgeg/3dq9raqo19/7229
+#EXTINF:-1 tvg-id="" tvg-name="24hs: PINKY E CÉREBRO" tvg-logo="" group-title="PRIME DESENHOS 24HS",24hs: PINKY E CÉREBRO
+http://p2prime.xyz:80/grgrgrgeg/3dq9raqo19/20461
+#EXTINF:-1 tvg-id="" tvg-name="24hs: POCOYO" tvg-logo="" group-title="PRIME DESENHOS 24HS",24hs: POCOYO
+http://p2prime.xyz:80/grgrgrgeg/3dq9raqo19/20443
+#EXTINF:-1 tvg-id="" tvg-name="24hs: RECRUTA ZERO" tvg-logo="" group-title="PRIME DESENHOS 24HS",24hs: RECRUTA ZERO
+http://p2prime.xyz:80/grgrgrgeg/3dq9raqo19/20473
+#EXTINF:-1 tvg-id="" tvg-name="24hs: RIQUINHO" tvg-logo="" group-title="PRIME DESENHOS 24HS",24hs: RIQUINHO
+http://p2prime.xyz:80/grgrgrgeg/3dq9raqo19/20463
+#EXTINF:-1 tvg-id="" tvg-name="24hs: SCOOBY DOO" tvg-logo="" group-title="PRIME DESENHOS 24HS",24hs: SCOOBY DOO
+http://p2prime.xyz:80/grgrgrgeg/3dq9raqo19/20460
+#EXTINF:-1 tvg-id="" tvg-name="24hs: SHAZAM" tvg-logo="" group-title="PRIME DESENHOS 24HS",24hs: SHAZAM
+http://p2prime.xyz:80/grgrgrgeg/3dq9raqo19/20444
+#EXTINF:-1 tvg-id="" tvg-name="24hs: SITIO DO PICAPAU AMARELO" tvg-logo="" group-title="PRIME DESENHOS 24HS",24hs: SITIO DO PICAPAU AMARELO
+http://p2prime.xyz:80/grgrgrgeg/3dq9raqo19/15477
+#EXTINF:-1 tvg-id="" tvg-name="24hs: SPACE GHOST" tvg-logo="" group-title="PRIME DESENHOS 24HS",24hs: SPACE GHOST
+http://p2prime.xyz:80/grgrgrgeg/3dq9raqo19/15480
+#EXTINF:-1 tvg-id="" tvg-name="24hs: SPEED RACER A NOVA GERACAO" tvg-logo="" group-title="PRIME DESENHOS 24HS",24hs: SPEED RACER A NOVA GERACAO
+http://p2prime.xyz:80/grgrgrgeg/3dq9raqo19/15467
+#EXTINF:-1 tvg-id="" tvg-name="24hs: STREET FIGHTER" tvg-logo="" group-title="PRIME DESENHOS 24HS",24hs: STREET FIGHTER
+http://p2prime.xyz:80/grgrgrgeg/3dq9raqo19/15465
+#EXTINF:-1 tvg-id="" tvg-name="24hs: STREET FIGHTER 2" tvg-logo="" group-title="PRIME DESENHOS 24HS",24hs: STREET FIGHTER 2
+http://p2prime.xyz:80/grgrgrgeg/3dq9raqo19/20371
+#EXTINF:-1 tvg-id="" tvg-name="24hs: SUPER DRAGON BALL HEROES" tvg-logo="" group-title="PRIME DESENHOS 24HS",24hs: SUPER DRAGON BALL HEROES
+http://p2prime.xyz:80/grgrgrgeg/3dq9raqo19/20445
+#EXTINF:-1 tvg-id="" tvg-name="24hs: SUPER MARIO BROSS 3" tvg-logo="" group-title="PRIME DESENHOS 24HS",24hs: SUPER MARIO BROSS 3
+http://p2prime.xyz:80/grgrgrgeg/3dq9raqo19/15468
+#EXTINF:-1 tvg-id="" tvg-name="24hs: TARTARUGA TOUCHE E DUM DUM" tvg-logo="" group-title="PRIME DESENHOS 24HS",24hs: TARTARUGA TOUCHE E DUM DUM
+http://p2prime.xyz:80/grgrgrgeg/3dq9raqo19/20477
+#EXTINF:-1 tvg-id="" tvg-name="24hs: TAZ MANIA" tvg-logo="" group-title="PRIME DESENHOS 24HS",24hs: TAZ MANIA
+http://p2prime.xyz:80/grgrgrgeg/3dq9raqo19/20466
+#EXTINF:-1 tvg-id="" tvg-name="24hs: THOMAS E SEUS AMIGOS" tvg-logo="" group-title="PRIME DESENHOS 24HS",24hs: THOMAS E SEUS AMIGOS
+http://p2prime.xyz:80/grgrgrgeg/3dq9raqo19/20471
+#EXTINF:-1 tvg-id="" tvg-name="24hs: THUNDERCATS" tvg-logo="" group-title="PRIME DESENHOS 24HS",24hs: THUNDERCATS
+http://p2prime.xyz:80/grgrgrgeg/3dq9raqo19/20465
+#EXTINF:-1 tvg-id="" tvg-name="24hs: TIMAO E PUMBA" tvg-logo="" group-title="PRIME DESENHOS 24HS",24hs: TIMAO E PUMBA
+http://p2prime.xyz:80/grgrgrgeg/3dq9raqo19/15469
+#EXTINF:-1 tvg-id="" tvg-name="24hs: TOM E JERRY" tvg-logo="" group-title="PRIME DESENHOS 24HS",24hs: TOM E JERRY
+http://p2prime.xyz:80/grgrgrgeg/3dq9raqo19/15470
+#EXTINF:-1 tvg-id="" tvg-name="24hs: TURMA DA MONICA" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/8e/Turma_da_M%C3%B4nica.jpg/300px-Turma_da_M%C3%B4nica.jpg" group-title="PRIME DESENHOS 24HS",24hs: TURMA DA MONICA
+http://p2prime.xyz:80/grgrgrgeg/3dq9raqo19/12578
+#EXTINF:-1 tvg-id="" tvg-name="24hs: TUTUBARAO" tvg-logo="" group-title="PRIME DESENHOS 24HS",24hs: TUTUBARAO
+http://p2prime.xyz:80/grgrgrgeg/3dq9raqo19/15471
+#EXTINF:-1 tvg-id="" tvg-name="24hs: URSINHOS CARINHOS & TOM E JERRY" tvg-logo="" group-title="PRIME DESENHOS 24HS",24hs: URSINHOS CARINHOS & TOM E JERRY
+http://p2prime.xyz:80/grgrgrgeg/3dq9raqo19/12603
+#EXTINF:-1 tvg-id="" tvg-name="24hs: WALLY GATOR" tvg-logo="" group-title="PRIME DESENHOS 24HS",24hs: WALLY GATOR
+http://p2prime.xyz:80/grgrgrgeg/3dq9raqo19/15452
+#EXTINF:-1 tvg-id="" tvg-name="24hs: YU YU HAKUSO" tvg-logo="" group-title="PRIME DESENHOS 24HS",24hs: YU YU HAKUSO
+http://p2prime.xyz:80/grgrgrgeg/3dq9raqo19/16197
+#EXTINF:-1 tvg-id="" tvg-name="24hs: ZATCH BELL" tvg-logo="" group-title="PRIME DESENHOS 24HS",24hs: ZATCH BELL
+http://p2prime.xyz:80/grgrgrgeg/3dq9raqo19/15453
+#EXTINF:-1 tvg-id="" tvg-name="24hs: ZE BUSCAPE" tvg-logo="" group-title="PRIME DESENHOS 24HS",24hs: ZE BUSCAPE
+http://p2prime.xyz:80/grgrgrgeg/3dq9raqo19/15454
+
+
+#########################################################################################################
+
+
 #########################################CANAIS ABERTOS##################################################
 
 
@@ -1776,6 +2015,194 @@ http://p2prime.xyz:80/movie/grgrgrgeg/3dq9raqo19/1636.mp4
 #EXTINF:-1 tvg-id="" tvg-name="La pantera negra (1957)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="FILMES | AÇÃO/CRIME",La pantera negra (1957)
 http://p2prime.xyz:80/movie/grgrgrgeg/3dq9raqo19/301.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Perseguição Criminosa (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/WHzdutcWNQFxwyosUqZUQ7t1sc.jpg" group-title="FILMES | AÇÃO/CRIME",Perseguição Criminosa (2018)
+http://p2prime.xyz:80/movie/grgrgrgeg/3dq9raqo19/1416.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Perseguição Explosiva" tvg-logo="http://vip.primeuhd.com:25461/images/rw5qHjaMTwER15MfwUG13WXQ0Cy_small.jpg" group-title="FILMES | AÇÃO/CRIME",Perseguição Explosiva
+http://p2prime.xyz:80/movie/grgrgrgeg/3dq9raqo19/1637.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pickpockets - Carteristas" tvg-logo="http://167.86.94.183:25461/images/7JYpjCTvWRRcBF5pRO5ZQONsGgg_small.jpg" group-title="FILMES | AÇÃO/CRIME",Pickpockets - Carteristas
+http://p2prime.xyz:80/movie/grgrgrgeg/3dq9raqo19/882.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Polar (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wCjTsAp7SsjmxpRmO4Zp5Jaaq53.jpg" group-title="FILMES | AÇÃO/CRIME",Polar (2019)
+http://p2prime.xyz:80/movie/grgrgrgeg/3dq9raqo19/1417.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Refém do Jogo" tvg-logo="http://vip.primeuhd.com:25461/images/jawqGBrUOHyXSyT7HknITUnL98_small.jpg" group-title="FILMES | AÇÃO/CRIME",Refém do Jogo
+http://p2prime.xyz:80/movie/grgrgrgeg/3dq9raqo19/2830.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Resposta Armada" tvg-logo="http://vip.primeuhd.com:25461/images/ozhEmqMpJMPg6Rz9lJ0AFhZaGMI_big.jpg" group-title="FILMES | AÇÃO/CRIME",Resposta Armada
+http://p2prime.xyz:80/movie/grgrgrgeg/3dq9raqo19/11158.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Revolt" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eM2zipCkAXhp0BZF2noDp7bRFgV.jpg" group-title="FILMES | AÇÃO/CRIME",Revolt
+http://p2prime.xyz:80/movie/grgrgrgeg/3dq9raqo19/11033.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rota de Fuga 2 (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cNK4ugSqah0vvBBgQy1moKZ6xi.jpg" group-title="FILMES | AÇÃO/CRIME",Rota de Fuga 2 (2018)
+http://p2prime.xyz:80/movie/grgrgrgeg/3dq9raqo19/991.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rota de Fuga 3: O Resgate (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m5zqbW35nCvHyEEM2OAAvsS24Ws.jpg" group-title="FILMES | AÇÃO/CRIME",Rota de Fuga 3: O Resgate (2019)
+http://p2prime.xyz:80/movie/grgrgrgeg/3dq9raqo19/10801.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sentenca de Morte" tvg-logo="http://vip.primeuhd.com:25461/images/yaf4WwHOAghlGQeC9qovOarLo27_small.jpg" group-title="FILMES | AÇÃO/CRIME",Sentenca de Morte
+http://p2prime.xyz:80/movie/grgrgrgeg/3dq9raqo19/1943.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Shaft (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zV4IrBpC4efLSxqyDBaHsrHjXB8.jpg" group-title="FILMES | AÇÃO/CRIME",Shaft (2019)
+http://p2prime.xyz:80/movie/grgrgrgeg/3dq9raqo19/10573.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Shazam! (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iVSfBSuAaCc0NREKIrEX4OC8MJ2.jpg" group-title="FILMES | AÇÃO/CRIME",Shazam! (2019)
+http://p2prime.xyz:80/movie/grgrgrgeg/3dq9raqo19/7687.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sherlock: A Abominável Noiva" tvg-logo="http://vip.primeuhd.com:25461/images/tohC9Ytf7akG9tJcdLIRtW6QL8b_small.jpg" group-title="FILMES | AÇÃO/CRIME",Sherlock: A Abominável Noiva
+http://p2prime.xyz:80/movie/grgrgrgeg/3dq9raqo19/2103.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sicario: Dia do Soldado" tvg-logo="http://167.86.94.183:25461/images/msqWSQkU403cQKjQHnWLnugv7EY_small.jpg" group-title="FILMES | AÇÃO/CRIME",Sicario: Dia do Soldado
+http://p2prime.xyz:80/movie/grgrgrgeg/3dq9raqo19/993.mp4
+#EXTINF:-1 tvg-id="" tvg-name="SuperFly - Crime e Poder" tvg-logo="http://167.86.94.183:25461/images/gGk9H5PVpWzbsYkmnBeKevQkwwf_small.jpg" group-title="FILMES | AÇÃO/CRIME",SuperFly - Crime e Poder
+http://p2prime.xyz:80/movie/grgrgrgeg/3dq9raqo19/306.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Terra Selvagem" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8uw0o6cMGIpd4IsMiTYUfdhRXdF.jpg" group-title="FILMES | AÇÃO/CRIME",Terra Selvagem
+http://p2prime.xyz:80/movie/grgrgrgeg/3dq9raqo19/11037.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Terremoto: A Falha de San Andreas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/urVkonkjHkf28r47NNb4Az9NxU7.jpg" group-title="FILMES | AÇÃO/CRIME",Terremoto: A Falha de San Andreas
+http://p2prime.xyz:80/movie/grgrgrgeg/3dq9raqo19/10994.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tokyo Ghoul" tvg-logo="http://vip.primeuhd.com:25461/images/tMs8ZJ2dNJ0fExF7ISXJvOov4Y6_small.jpg" group-title="FILMES | AÇÃO/CRIME",Tokyo Ghoul
+http://p2prime.xyz:80/movie/grgrgrgeg/3dq9raqo19/1869.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Triplo 9: Polícia em Poder da Máfia" tvg-logo="http://vip.primeuhd.com:25461/images/36zbHT728v00HbbUBmrsOMu7Hde_small.jpg" group-title="FILMES | AÇÃO/CRIME",Triplo 9: Polícia em Poder da Máfia
+http://p2prime.xyz:80/movie/grgrgrgeg/3dq9raqo19/3998.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Triplo X" tvg-logo="http://vip.primeuhd.com:25461/images/86BnliVDBo2TjKmrgQTJIPHxAKd_small.jpg" group-title="FILMES | AÇÃO/CRIME",Triplo X
+http://p2prime.xyz:80/movie/grgrgrgeg/3dq9raqo19/3999.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Truque de Mestre" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tcHJtUvWYDOByj1m5ZIEaXPt3DD.jpg" group-title="FILMES | AÇÃO/CRIME",Truque de Mestre
+http://p2prime.xyz:80/movie/grgrgrgeg/3dq9raqo19/10995.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Truque de Mestre: O 2º Ato" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e73RuxNhAkfULDfL0tpfn4qEHy8.jpg" group-title="FILMES | AÇÃO/CRIME",Truque de Mestre: O 2º Ato
+http://p2prime.xyz:80/movie/grgrgrgeg/3dq9raqo19/10996.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Três Anúncios Para um Crime" tvg-logo="http://vip.primeuhd.com:25461/images/vgvw6w1CtcFkuXXn004S5wQsHRl_small.jpg" group-title="FILMES | AÇÃO/CRIME",Três Anúncios Para um Crime
+http://p2prime.xyz:80/movie/grgrgrgeg/3dq9raqo19/949.mp4
+#EXTINF:-1 tvg-id="" tvg-name="UFO - Estamos Sozinhos?" tvg-logo="http://vip.primeuhd.com:25461/images/jdy1GTdaAXqhsCVOpIXokifYdCh_small.jpg" group-title="FILMES | AÇÃO/CRIME",UFO - Estamos Sozinhos?
+http://p2prime.xyz:80/movie/grgrgrgeg/3dq9raqo19/997.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Dia de Caos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v4Ic5tJBTLL83zd1RLailzDdJi0.jpg" group-title="FILMES | AÇÃO/CRIME",Um Dia de Caos
+http://p2prime.xyz:80/movie/grgrgrgeg/3dq9raqo19/11041.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Dia para Viver" tvg-logo="http://167.86.94.183:25461/images/w0MXP33x1bq48TDC7IaNqQ8nxcc_small.jpg" group-title="FILMES | AÇÃO/CRIME",Um Dia para Viver
+http://p2prime.xyz:80/movie/grgrgrgeg/3dq9raqo19/980.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Velozes e Furiosos: Hobbs & Shaw (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mKRiLf2SCU9ySjByMLMxKYs5c1i.jpg" group-title="FILMES | AÇÃO/CRIME",Velozes e Furiosos: Hobbs & Shaw (2019)
+http://p2prime.xyz:80/movie/grgrgrgeg/3dq9raqo19/11127.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Velozes e Furiosos (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7FUqXrudOZ1jbvnVxPLoph0H8yF.jpg" group-title="FILMES | AÇÃO/CRIME",Velozes e Furiosos (2001)
+http://p2prime.xyz:80/movie/grgrgrgeg/3dq9raqo19/257.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Venom (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ysV0NOrxUelK290XONEQePpw4zB.jpg" group-title="FILMES | AÇÃO/CRIME",Venom (2018)
+http://p2prime.xyz:80/movie/grgrgrgeg/3dq9raqo19/308.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vingança" tvg-logo="http://vip.primeuhd.com:25461/images/aMv5ILxjzA9S930eLImSjfecETH_small.jpg" group-title="FILMES | AÇÃO/CRIME",Vingança
+http://p2prime.xyz:80/movie/grgrgrgeg/3dq9raqo19/953.mp4
+#EXTINF:-1 tvg-id="" tvg-name="xXx 2 - Estado de Emergência" tvg-logo="http://vip.primeuhd.com:25461/images/yWKeTc8cxSZoDy5X45q3c64iN7v_small.jpg" group-title="FILMES | AÇÃO/CRIME",xXx 2 - Estado de Emergência
+http://p2prime.xyz:80/movie/grgrgrgeg/3dq9raqo19/4000.mp4
+#EXTINF:-1 tvg-id="" tvg-name="xXx: Reativado" tvg-logo="http://vip.primeuhd.com:25461/images/yNsdyNbQqaKN0TQxkHMws2KLTJ6_small.jpg" group-title="FILMES | AÇÃO/CRIME",xXx: Reativado
+http://p2prime.xyz:80/movie/grgrgrgeg/3dq9raqo19/4001.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Apocalypto" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vGYuWwwzISnXrYgJrd6mSCTPimt.jpg" group-title="FILMES | AÇÃO/CRIME",Apocalypto
+http://p2prime.xyz:80/movie/grgrgrgeg/3dq9raqo19/16765.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Mumia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vH9Hd7njePEe6xnRrYYaDmF2yqX.jpg" group-title="FILMES | AÇÃO/CRIME",A Mumia
+http://p2prime.xyz:80/movie/grgrgrgeg/3dq9raqo19/17664.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Múmia - Tumba do Imperador Dragão" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qCxL9PrN0ymx7AW9g5NgSyYSuyV.jpg" group-title="FILMES | AÇÃO/CRIME",A Múmia - Tumba do Imperador Dragão
+http://p2prime.xyz:80/movie/grgrgrgeg/3dq9raqo19/17665.mkv
+#EXTINF:-1 tvg-id="" tvg-name="O Retorno da Múmia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q9BH2p1zinSx5EZ1xD89PCOJl48.jpg" group-title="FILMES | AÇÃO/CRIME",O Retorno da Múmia
+http://p2prime.xyz:80/movie/grgrgrgeg/3dq9raqo19/17666.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Missão: Impossível - Nação Secreta" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fxL6ktSUDejDq9Ni6UsoY73DC2I.jpg" group-title="FILMES | AÇÃO/CRIME",Missão: Impossível - Nação Secreta
+http://p2prime.xyz:80/movie/grgrgrgeg/3dq9raqo19/17667.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Missão: Impossível - Protocolo Fantasma" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dMyEZsjcVy6bTgkTNDm05SbYp8A.jpg" group-title="FILMES | AÇÃO/CRIME",Missão: Impossível - Protocolo Fantasma
+http://p2prime.xyz:80/movie/grgrgrgeg/3dq9raqo19/17668.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Missão: Impossível" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mA3ltuXiYKYaFco8GX1BETUcs5y.jpg" group-title="FILMES | AÇÃO/CRIME",Missão: Impossível
+http://p2prime.xyz:80/movie/grgrgrgeg/3dq9raqo19/17669.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Missão: Impossível 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AuNrqvaPuAWTlVfBnqTKzM2uc3S.jpg" group-title="FILMES | AÇÃO/CRIME",Missão: Impossível 2
+http://p2prime.xyz:80/movie/grgrgrgeg/3dq9raqo19/17670.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Missão: Impossível 3" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qNZIK7Kf5j1K6vdOsXS5yE2cBcW.jpg" group-title="FILMES | AÇÃO/CRIME",Missão: Impossível 3
+http://p2prime.xyz:80/movie/grgrgrgeg/3dq9raqo19/17671.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Última Missão" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jrIBG0w9224hMNXpbwXc97WzYxI.jpg" group-title="FILMES | AÇÃO/CRIME",A Última Missão
+http://p2prime.xyz:80/movie/grgrgrgeg/3dq9raqo19/17672.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Múmia: A Ressurreição" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3VwEBuNOMfrLCgmJ1u8yQMEpghG.jpg" group-title="FILMES | AÇÃO/CRIME",Múmia: A Ressurreição
+http://p2prime.xyz:80/movie/grgrgrgeg/3dq9raqo19/17683.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Qualquer Custo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fz3RPQPquiyb4xi0isCIf6lIx7F.jpg" group-title="FILMES | AÇÃO/CRIME",A Qualquer Custo
+http://p2prime.xyz:80/movie/grgrgrgeg/3dq9raqo19/18641.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Toda Prova" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qwLaUaThy5PEdtLZHeH0DyrYo0g.jpg" group-title="FILMES | AÇÃO/CRIME",A Toda Prova
+http://p2prime.xyz:80/movie/grgrgrgeg/3dq9raqo19/18642.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vingança Perfeita" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rfshkd4jotXFIbmJirYpgxzpdCR.jpg" group-title="FILMES | AÇÃO/CRIME",A Vingança Perfeita
+http://p2prime.xyz:80/movie/grgrgrgeg/3dq9raqo19/18643.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Colônia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2hvCUhqdtV9n0vO1PxodlfhzHr.jpg" group-title="FILMES | AÇÃO/CRIME",A Colônia
+http://p2prime.xyz:80/movie/grgrgrgeg/3dq9raqo19/18644.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Hora do Rush" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mId62Hx1jQr6HBAMoORRkqSJbuk.jpg" group-title="FILMES | AÇÃO/CRIME",A Hora do Rush
+http://p2prime.xyz:80/movie/grgrgrgeg/3dq9raqo19/18645.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Hora do Rush 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Hl9YJlUBltve6NuV6AC8k3cQ9I.jpg" group-title="FILMES | AÇÃO/CRIME",A Hora do Rush 2
+http://p2prime.xyz:80/movie/grgrgrgeg/3dq9raqo19/18646.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Hora do Rush 3" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5YYhwFy8251SxAVgrU72rtoOHqg.jpg" group-title="FILMES | AÇÃO/CRIME",A Hora do Rush 3
+http://p2prime.xyz:80/movie/grgrgrgeg/3dq9raqo19/18647.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Identidade Bourne" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p2q17OHj5coMCq1cwWQ3V7AQhMF.jpg" group-title="FILMES | AÇÃO/CRIME",A Identidade Bourne
+http://p2prime.xyz:80/movie/grgrgrgeg/3dq9raqo19/18648.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Anjos da Lei" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dNHPgRd8hQt3o9zJjmiFGMWh5YU.jpg" group-title="FILMES | AÇÃO/CRIME",Anjos da Lei
+http://p2prime.xyz:80/movie/grgrgrgeg/3dq9raqo19/18649.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Anjos da Noite - A Evolução (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bI2VTnT7EjYt4ZJEHn0cmJQYqpV.jpg" group-title="FILMES | AÇÃO/CRIME",Anjos da Noite - A Evolução (2006)
+http://p2prime.xyz:80/movie/grgrgrgeg/3dq9raqo19/18650.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Anjos da Noite - Guerras de Sangue (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mNqzSbagMFI3BbF1SPCRjqHLYlk.jpg" group-title="FILMES | AÇÃO/CRIME",Anjos da Noite - Guerras de Sangue (2016)
+http://p2prime.xyz:80/movie/grgrgrgeg/3dq9raqo19/18651.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Anjos da Noite - O Despertar (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xUe1eAnuCfRqLJsbbR8j1VFqwLa.jpg" group-title="FILMES | AÇÃO/CRIME",Anjos da Noite - O Despertar (2012)
+http://p2prime.xyz:80/movie/grgrgrgeg/3dq9raqo19/18652.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Anjos da Noite - Underworld (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rz9oAnjaHV8Mbsneyv13xt72k2F.jpg" group-title="FILMES | AÇÃO/CRIME",Anjos da Noite - Underworld (2003)
+http://p2prime.xyz:80/movie/grgrgrgeg/3dq9raqo19/18653.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Anjos da Noite - A Rebelião (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/atPv2WJzlD76ZQP3wjaixZooR1l.jpg" group-title="FILMES | AÇÃO/CRIME",Anjos da Noite - A Rebelião (2009)
+http://p2prime.xyz:80/movie/grgrgrgeg/3dq9raqo19/18654.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Anjos da Vida - Mais Bravos que o Mar" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9Ih1mAbDqiMGAbRTL9SXAIVXiR.jpg" group-title="FILMES | AÇÃO/CRIME",Anjos da Vida - Mais Bravos que o Mar
+http://p2prime.xyz:80/movie/grgrgrgeg/3dq9raqo19/18655.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Supremacia Bourne" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYK3Yy5iHfFVPipcRgQl2oG8C0v.jpg" group-title="FILMES | AÇÃO/CRIME",A Supremacia Bourne
+http://p2prime.xyz:80/movie/grgrgrgeg/3dq9raqo19/18656.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Direção Explosiva" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m2o0EnLjpj83pn3JPxykSmzyqlf.jpg" group-title="FILMES | AÇÃO/CRIME",Direção Explosiva
+http://p2prime.xyz:80/movie/grgrgrgeg/3dq9raqo19/18657.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fúria em Alto Mar" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ral7cnZBQZGFmGaJUxrpcY8Xj3l.jpg" group-title="FILMES | AÇÃO/CRIME",Fúria em Alto Mar
+http://p2prime.xyz:80/movie/grgrgrgeg/3dq9raqo19/18658.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lukas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z2Ujt0FwMwHhAo7QJC0u1HG1m1h.jpg" group-title="FILMES | AÇÃO/CRIME",Lukas
+http://p2prime.xyz:80/movie/grgrgrgeg/3dq9raqo19/18659.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Na Corda Bamba" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jB6fEpUHm5W16u3b31lDxZ4Ta5Q.jpg" group-title="FILMES | AÇÃO/CRIME",Na Corda Bamba
+http://p2prime.xyz:80/movie/grgrgrgeg/3dq9raqo19/18660.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Livro de Eli" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/my1Xx9hUTZBGokZkGL4rsPHf7JB.jpg" group-title="FILMES | AÇÃO/CRIME",O Livro de Eli
+http://p2prime.xyz:80/movie/grgrgrgeg/3dq9raqo19/18661.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Rei das Drogas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vXqDNIp7CrUpkcBc8eMBtDPch4J.jpg" group-title="FILMES | AÇÃO/CRIME",O Rei das Drogas
+http://p2prime.xyz:80/movie/grgrgrgeg/3dq9raqo19/18662.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rota de Fuga 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cNK4ugSqah0vvBBgQy1moKZ6xi.jpg" group-title="FILMES | AÇÃO/CRIME",Rota de Fuga 2
+http://p2prime.xyz:80/movie/grgrgrgeg/3dq9raqo19/18663.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Velocidade Mortal" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7yVfmdpHElEePos52Z25ePHGsmw.jpg" group-title="FILMES | AÇÃO/CRIME",Velocidade Mortal
+http://p2prime.xyz:80/movie/grgrgrgeg/3dq9raqo19/18664.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Velozes e Furiosos 8" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3G6PUtqIKPKyZXXWB8jgZZJF1C8.jpg" group-title="FILMES | AÇÃO/CRIME",Velozes e Furiosos 8
+http://p2prime.xyz:80/movie/grgrgrgeg/3dq9raqo19/18665.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Velozes e Furiosos: Desafio em Tóquio" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sHojCCXnSW4Kn294E0BYgq74D5o.jpg" group-title="FILMES | AÇÃO/CRIME",Velozes e Furiosos: Desafio em Tóquio
+http://p2prime.xyz:80/movie/grgrgrgeg/3dq9raqo19/18666.mp4
+#EXTINF:-1 tvg-id="" tvg-name="+Velozes +Furiosos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tMUnCAgfARTdAu8ylPw4Wjh3e5N.jpg" group-title="FILMES | AÇÃO/CRIME",+Velozes +Furiosos
+http://p2prime.xyz:80/movie/grgrgrgeg/3dq9raqo19/18667.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Velozes e Furiosos 4" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zvjQPVttJWaCSbzMijyc2x2MLr4.jpg" group-title="FILMES | AÇÃO/CRIME",Velozes e Furiosos 4
+http://p2prime.xyz:80/movie/grgrgrgeg/3dq9raqo19/18668.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Velozes e Furiosos 6" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nLWnVSy5RvGqLKHxmb4obKER6gj.jpg" group-title="FILMES | AÇÃO/CRIME",Velozes e Furiosos 6
+http://p2prime.xyz:80/movie/grgrgrgeg/3dq9raqo19/18669.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Velozes & Furiosos 7" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aqJibUsewtEW8DwK4rBpba1lvEx.jpg" group-title="FILMES | AÇÃO/CRIME",Velozes & Furiosos 7
+http://p2prime.xyz:80/movie/grgrgrgeg/3dq9raqo19/18670.mp4
+#EXTINF:-1 tvg-id="" tvg-name="X-Men: Dias de um Futuro Esquecido" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4c1izbHKLLbYiDdrjiB2vfTnReC.jpg" group-title="FILMES | AÇÃO/CRIME",X-Men: Dias de um Futuro Esquecido
+http://p2prime.xyz:80/movie/grgrgrgeg/3dq9raqo19/18671.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Queda de Berlim" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1vlQMD0vPkYRKRBZYvhRAf0z8lV.jpg" group-title="FILMES | AÇÃO/CRIME",A Queda de Berlim
+http://p2prime.xyz:80/movie/grgrgrgeg/3dq9raqo19/18672.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LEAL Só Existe Uma Maneira de Viver" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uY23jloBJ0EzCa7gvs1u5HVnYf0.jpg" group-title="FILMES | AÇÃO/CRIME",LEAL Só Existe Uma Maneira de Viver
+http://p2prime.xyz:80/movie/grgrgrgeg/3dq9raqo19/18673.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Velozes e Furiosos 5 - Operação Rio" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9bZXL4mVkmE3exTk91WlndgpU8R.jpg" group-title="FILMES | AÇÃO/CRIME",Velozes e Furiosos 5 - Operação Rio
+http://p2prime.xyz:80/movie/grgrgrgeg/3dq9raqo19/18674.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Bad Boys" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fsB9sROlrUAuFPVjiiw4dDVmuOG.jpg" group-title="FILMES | AÇÃO/CRIME",Os Bad Boys
+http://p2prime.xyz:80/movie/grgrgrgeg/3dq9raqo19/21830.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Bad Boys II" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/680X9apSqmAcebLg8evnnUeQNeI.jpg" group-title="FILMES | AÇÃO/CRIME",Os Bad Boys II
+http://p2prime.xyz:80/movie/grgrgrgeg/3dq9raqo19/21831.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Táxi 4" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p3M9DFquu5uYg6x6cWPiSBDYu5v.jpg" group-title="FILMES | AÇÃO/CRIME",Táxi 4
+http://p2prime.xyz:80/movie/grgrgrgeg/3dq9raqo19/21832.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Táxi 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/48bHE0NPn8YqkdkHcqzYnX33LzZ.jpg" group-title="FILMES | AÇÃO/CRIME",Táxi 2
+http://p2prime.xyz:80/movie/grgrgrgeg/3dq9raqo19/21842.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Táxi 3" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hzYrnbPei3ufRUhiLZnCFFlNQCW.jpg" group-title="FILMES | AÇÃO/CRIME",Táxi 3
+http://p2prime.xyz:80/movie/grgrgrgeg/3dq9raqo19/21843.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Táxi 5" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lXeSraLgsLaeXRg6vEHv4tBrXxc.jpg" group-title="FILMES | AÇÃO/CRIME",Táxi 5
+http://p2prime.xyz:80/movie/grgrgrgeg/3dq9raqo19/21844.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Taxi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Ly55SeRBozH3ZBeSOodcgKGYlF.jpg" group-title="FILMES | AÇÃO/CRIME",Taxi
+http://p2prime.xyz:80/movie/grgrgrgeg/3dq9raqo19/21845.mkv
+#EXTINF:-1 tvg-id="" tvg-name="24 Horas: A Redenção" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7gcixG0uAFF63LHzmuBdIsdit94.jpg" group-title="FILMES | AÇÃO/CRIME",24 Horas: A Redenção
+http://p2prime.xyz:80/movie/grgrgrgeg/3dq9raqo19/24136.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agente Asher" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2lLGIi5aAwT3Pdp4m2YUARBkdG7.jpg" group-title="FILMES | AÇÃO/CRIME",Agente Asher
+http://p2prime.xyz:80/movie/grgrgrgeg/3dq9raqo19/24141.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Outra Face (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j7bTgNX6xDn13r9eyp63Etcc4F4.jpg" group-title="FILMES | AÇÃO/CRIME",A Outra Face (1997)
+http://p2prime.xyz:80/movie/grgrgrgeg/3dq9raqo19/27296.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Crime Sem Saída (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7kBgrB7LfMRwobWB27qCmgVOBrj.jpg" group-title="FILMES | AÇÃO/CRIME",Crime Sem Saída (2019)
+http://p2prime.xyz:80/movie/grgrgrgeg/3dq9raqo19/27297.mkv
+#EXTINF:-1 tvg-id="" tvg-name="O Plano Perfeito (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1f66DygexFZ3LsLk7aCLq13rLlG.jpg" group-title="FILMES | AÇÃO/CRIME",O Plano Perfeito (2006)
+http://p2prime.xyz:80/movie/grgrgrgeg/3dq9raqo19/27298.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Os Infiltrados (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3DD3dusHd2NTb25F2Kt5xwh7RlS.jpg" group-title="FILMES | AÇÃO/CRIME",Os Infiltrados (2006)
+http://p2prime.xyz:80/movie/grgrgrgeg/3dq9raqo19/27299.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Operação Fronteira (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2KfhMmTMNAj3NehyhrYtadDO7yc.jpg" group-title="FILMES | AÇÃO/CRIME",Operação Fronteira (2019)
+http://p2prime.xyz:80/movie/grgrgrgeg/3dq9raqo19/27327.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Viúvas (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ozjTdMMjPzgXylipArGXHObGXCH.jpg" group-title="FILMES | AÇÃO/CRIME",As Viúvas (2018)
+http://p2prime.xyz:80/movie/grgrgrgeg/3dq9raqo19/27330.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Robin Hood: A Origem (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mSlnp6REiluUxL0Xa628iWw5NJm.jpg" group-title="FILMES | AÇÃO/CRIME",Robin Hood: A Origem (2018)
+http://p2prime.xyz:80/movie/grgrgrgeg/3dq9raqo19/27331.mp4
+#EXTINF:-1 tvg-id="" tvg-name="60 Segundos (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jGhNRmkiyEU8vMakggBhL0OeJYH.jpg" group-title="FILMES | AÇÃO/CRIME",60 Segundos (2000)
+http://p2prime.xyz:80/movie/grgrgrgeg/3dq9raqo19/28016.mp4
+eguição Criminosa (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/WHzdutcWNQFxwyosUqZUQ7t1sc.jpg" group-title="FILMES | AÇÃO/CRIME",Perseguição Criminosa (2018)
 http://p2prime.xyz:80/movie/grgrgrgeg/3dq9raqo19/1416.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Perseguição Explosiva" tvg-logo="http://vip.primeuhd.com:25461/images/rw5qHjaMTwER15MfwUG13WXQ0Cy_small.jpg" group-title="FILMES | AÇÃO/CRIME",Perseguição Explosiva
 http://p2prime.xyz:80/movie/grgrgrgeg/3dq9raqo19/1637.mp4

@@ -2924,7 +2924,55 @@ http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/28012.mp4
 #########################################################################################################
 
 
-#########################################FILMES | DRAMA##################################################
+#########################################FILMES | FAROESTE###############################################
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="A Dificil Vinganca" tvg-logo="http://vip.primeuhd.com:25461/images/2Byh3n7RJfxU9NuiJhWB4WB7FJv_small.jpg" group-title="FILMES | FAROESTE",A Dificil Vinganca
+http://p2prime.xyz:80/movie/elydavid/wiK55MI1OM/9476.avi
+#EXTINF:-1 tvg-id="" tvg-name="A Lenda De Wild Bill Hickok" tvg-logo="http://vip.primeuhd.com:25461/images/yFAhzmqiBaxJjqKdA1iqKYr3YDo_small.jpg" group-title="FILMES | FAROESTE",A Lenda De Wild Bill Hickok
+http://p2prime.xyz:80/movie/elydavid/wiK55MI1OM/9756.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Proposta" tvg-logo="http://vip.primeuhd.com:25461/images/e4j7s9SzaJTfjkorMX1iY38IzZi_small.jpg" group-title="FILMES | FAROESTE",A Proposta
+http://p2prime.xyz:80/movie/elydavid/wiK55MI1OM/3870.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Torre Negra" tvg-logo="http://vip.primeuhd.com:25461/images/i9GUSgddIqrroubiLsvvMRYyRy0_small.jpg" group-title="FILMES | FAROESTE",A Torre Negra
+http://p2prime.xyz:80/movie/elydavid/wiK55MI1OM/3871.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vinganca De Lefty Brown" tvg-logo="http://vip.primeuhd.com:25461/images/p4L5DM3ZeEuAawFxd2ftgISQMZQ_small.jpg" group-title="FILMES | FAROESTE",A Vinganca De Lefty Brown
+http://p2prime.xyz:80/movie/elydavid/wiK55MI1OM/9703.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Vinganca De Wyatt Earp" tvg-logo="http://vip.primeuhd.com:25461/images/m1CQPm1tzzlxRj1nhOfUJ34Mkx_small.jpg" group-title="FILMES | FAROESTE",A Vinganca De Wyatt Earp
+http://p2prime.xyz:80/movie/elydavid/wiK55MI1OM/9828.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Appaloosa - Uma Cidade Sem Lei" tvg-logo="http://vip.primeuhd.com:25461/images/ar26XwTJz6BPFRricdNpMctyjB0_small.jpg" group-title="FILMES | FAROESTE",Appaloosa - Uma Cidade Sem Lei
+http://p2prime.xyz:80/movie/elydavid/wiK55MI1OM/3872.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cahill, Xerife do Oeste" tvg-logo="http://167.86.94.183:25461/images/dGGhGdskqlqFMPQdgxk1qiCbOA6_small.jpg" group-title="FILMES | FAROESTE",Cahill, Xerife do Oeste
+http://p2prime.xyz:80/movie/elydavid/wiK55MI1OM/518.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Criminosos e Anjos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xnUHmFt0on1kaBwUdbZrOc6sk1p.jpg" group-title="FILMES | FAROESTE",Criminosos e Anjos
+http://p2prime.xyz:80/movie/elydavid/wiK55MI1OM/10115.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Deadwood - O Filme (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fCQ13cqd02dop7Chkov0fPl4r3t.jpg" group-title="FILMES | FAROESTE",Deadwood - O Filme (2019)
+http://p2prime.xyz:80/movie/elydavid/wiK55MI1OM/9759.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Django Livre" tvg-logo="http://167.86.94.183:25461/images/5WJnxuw41sddupf8cwOxYftuvJG_small.jpg" group-title="FILMES | FAROESTE",Django Livre
+http://p2prime.xyz:80/movie/elydavid/wiK55MI1OM/516.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Inferno no Faroeste 2" tvg-logo="http://167.86.94.183:25461/images/esk9F3hBlNYsUk9koPrOyfYlLaB_small.jpg" group-title="FILMES | FAROESTE",Inferno no Faroeste 2
+http://p2prime.xyz:80/movie/elydavid/wiK55MI1OM/514.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Cavaleiro Solitário" tvg-logo="http://167.86.94.183:25461/images/7C18VUCvZH5O0ibZogZP4TQJTiu_small.jpg" group-title="FILMES | FAROESTE",O Cavaleiro Solitário
+http://p2prime.xyz:80/movie/elydavid/wiK55MI1OM/510.mkv
+#EXTINF:-1 tvg-id="" tvg-name="O Retorno de John Henry" tvg-logo="http://167.86.94.183:25461/images/fbTpSiqGn6ImqSAyawHlLf7goat_small.jpg" group-title="FILMES | FAROESTE",O Retorno de John Henry
+http://p2prime.xyz:80/movie/elydavid/wiK55MI1OM/508.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Oeste Sem Lei" tvg-logo="http://167.86.94.183:25461/images/uZ9dBBn0GaEw0YIBvQd01Io3pho_small.jpg" group-title="FILMES | FAROESTE",Oeste Sem Lei
+http://p2prime.xyz:80/movie/elydavid/wiK55MI1OM/503.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Oito Odiados" tvg-logo="http://vip.primeuhd.com:25461/images/fqe8JxDNO8B8QfOGTdjh6sPCdSC_small.jpg" group-title="FILMES | FAROESTE",Os Oito Odiados
+http://p2prime.xyz:80/movie/elydavid/wiK55MI1OM/3873.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rastro de Maldade" tvg-logo="http://167.86.94.183:25461/images/8A51Ur47D0CNJhmvQlbif0vzyqZ_small.jpg" group-title="FILMES | FAROESTE",Rastro de Maldade
+http://p2prime.xyz:80/movie/elydavid/wiK55MI1OM/504.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sete Homens e Um Destino" tvg-logo="http://167.86.94.183:25461/images/cparcxTFuHdlSOP3MJOpN7Ec9NB_small.jpg" group-title="FILMES | FAROESTE",Sete Homens e Um Destino
+http://p2prime.xyz:80/movie/elydavid/wiK55MI1OM/505.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Westworld: Onde Ninguém Tem Alma" tvg-logo="http://167.86.94.183:25461/images/cOJsaT8jEmG9s1MziVIPpHBRpQ7_small.jpg" group-title="FILMES | FAROESTE",Westworld: Onde Ninguém Tem Alma
+http://p2prime.xyz:80/movie/elydavid/wiK55MI1OM/507.mp4
+
+
+
+#########################################################################################################
+
+
+#########################################FILMES | FICCAO CIENTIFICA######################################
 
 
 
@@ -2938,34 +2986,22 @@ http://p2prime.xyz:80/movie/elydavid/wiK55MI1OM/9487.mp4
 http://p2prime.xyz:80/movie/elydavid/wiK55MI1OM/1947.mp4
 #EXTINF:-1 tvg-id="" tvg-name="A Conquista do Planeta dos Macacos - 1972" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d3nsEUnH5XtQThsxs29Bhcg2h2A.jpg" group-title="FILMES | FICCAO CIENTIFICA",A Conquista do Planeta dos Macacos - 1972
 http://p2prime.xyz:80/movie/elydavid/wiK55MI1OM/9479.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A Dificil Vinganca" tvg-logo="http://vip.primeuhd.com:25461/images/2Byh3n7RJfxU9NuiJhWB4WB7FJv_small.jpg" group-title="FILMES: FAROESTE",A Dificil Vinganca
-http://p2prime.xyz:80/movie/elydavid/wiK55MI1OM/9476.avi
 #EXTINF:-1 tvg-id="" tvg-name="A Experiência - 1995" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wxddZZM4LzlCMVcC4Bdiborh7Jf.jpg" group-title="FILMES | FICCAO CIENTIFICA",A Experiência - 1995
 http://p2prime.xyz:80/movie/elydavid/wiK55MI1OM/9470.mkv
 #EXTINF:-1 tvg-id="" tvg-name="A Experiência III - 2004" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zwvHWaHPvislnywDgpeidbEudNr.jpg" group-title="FILMES | FICCAO CIENTIFICA",A Experiência III - 2004
 http://p2prime.xyz:80/movie/elydavid/wiK55MI1OM/9468.mkv
 #EXTINF:-1 tvg-id="" tvg-name="A Experiência 4 - 2007" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k55zLxB2Qm6bfPv4Q1guTia6tDo.jpg" group-title="FILMES | FICCAO CIENTIFICA",A Experiência 4 - 2007
 http://p2prime.xyz:80/movie/elydavid/wiK55MI1OM/9469.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A Lenda De Wild Bill Hickok" tvg-logo="http://vip.primeuhd.com:25461/images/yFAhzmqiBaxJjqKdA1iqKYr3YDo_small.jpg" group-title="FILMES: FAROESTE",A Lenda De Wild Bill Hickok
-http://p2prime.xyz:80/movie/elydavid/wiK55MI1OM/9756.mkv
 #EXTINF:-1 tvg-id="" tvg-name="A Origem (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o1SB1gHCmEEURs8P6dfmSC9O3iu.jpg" group-title="FILMES | FICCAO CIENTIFICA",A Origem (2010)
 http://p2prime.xyz:80/movie/elydavid/wiK55MI1OM/9735.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Proposta" tvg-logo="http://vip.primeuhd.com:25461/images/e4j7s9SzaJTfjkorMX1iY38IzZi_small.jpg" group-title="FILMES: FAROESTE",A Proposta
-http://p2prime.xyz:80/movie/elydavid/wiK55MI1OM/3870.mkv
 #EXTINF:-1 tvg-id="" tvg-name="A Série Divergente: Convergente - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uHmrpk2IdShezSJK36IZ2IM8xbW.jpg" group-title="FILMES | FICCAO CIENTIFICA",A Série Divergente: Convergente - 2016
 http://p2prime.xyz:80/movie/elydavid/wiK55MI1OM/9715.mp4
 #EXTINF:-1 tvg-id="" tvg-name="A Série Divergente: Insurgente - 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2iUd6Bhtlzdwsf0UaCQyyHrjuSv.jpg" group-title="FILMES | FICCAO CIENTIFICA",A Série Divergente: Insurgente - 2015
 http://p2prime.xyz:80/movie/elydavid/wiK55MI1OM/9714.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Torre Negra" tvg-logo="http://vip.primeuhd.com:25461/images/i9GUSgddIqrroubiLsvvMRYyRy0_small.jpg" group-title="FILMES: FAROESTE",A Torre Negra
-http://p2prime.xyz:80/movie/elydavid/wiK55MI1OM/3871.mp4
 #EXTINF:-1 tvg-id="" tvg-name="A Viagem" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/nTuBst6meMjjSX6KYqd4oPhYHYy.jpg" group-title="FILMES | FICCAO CIENTIFICA",A Viagem
 http://p2prime.xyz:80/movie/elydavid/wiK55MI1OM/4097.mp4
 #EXTINF:-1 tvg-id="" tvg-name="A Vigilante do Amanhã: Ghost in the Shell - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cPvWQRAlYLx72ahAHr9ORdeJA4.jpg" group-title="FILMES | FICCAO CIENTIFICA",A Vigilante do Amanhã: Ghost in the Shell - 2017
 http://p2prime.xyz:80/movie/elydavid/wiK55MI1OM/9705.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Vinganca De Lefty Brown" tvg-logo="http://vip.primeuhd.com:25461/images/p4L5DM3ZeEuAawFxd2ftgISQMZQ_small.jpg" group-title="FILMES: FAROESTE",A Vinganca De Lefty Brown
-http://p2prime.xyz:80/movie/elydavid/wiK55MI1OM/9703.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A Vinganca De Wyatt Earp" tvg-logo="http://vip.primeuhd.com:25461/images/m1CQPm1tzzlxRj1nhOfUJ34Mkx_small.jpg" group-title="FILMES: FAROESTE",A Vinganca De Wyatt Earp
-http://p2prime.xyz:80/movie/elydavid/wiK55MI1OM/9828.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Aniquilação (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/K2EFOnSxDaLHqBB9UpfznaIkWh.jpg" group-title="FILMES | FICCAO CIENTIFICA",Aniquilação (2018)
 http://p2prime.xyz:80/movie/elydavid/wiK55MI1OM/1408.mp4
 #EXTINF:-1 tvg-id="" tvg-name="ARQ (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mU4VeXVK18JtCZsy7i0zczlA9p7.jpg" group-title="FILMES | FICCAO CIENTIFICA",ARQ (2016)
@@ -2974,8 +3010,6 @@ http://p2prime.xyz:80/movie/elydavid/wiK55MI1OM/1948.mp4
 http://p2prime.xyz:80/movie/elydavid/wiK55MI1OM/1949.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Avatar" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gy3L9Ki5539VjcKN1cRXo9lBKNu.jpg" group-title="FILMES | FICCAO CIENTIFICA",Avatar
 http://p2prime.xyz:80/movie/elydavid/wiK55MI1OM/10053.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cahill, Xerife do Oeste" tvg-logo="http://167.86.94.183:25461/images/dGGhGdskqlqFMPQdgxk1qiCbOA6_small.jpg" group-title="FILMES: FAROESTE",Cahill, Xerife do Oeste
-http://p2prime.xyz:80/movie/elydavid/wiK55MI1OM/518.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Chappie (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cg93jYwHiDVkesAkllPfeiO6brm.jpg" group-title="FILMES | FICCAO CIENTIFICA",Chappie (2015)
 http://p2prime.xyz:80/movie/elydavid/wiK55MI1OM/7900.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Circulo de Fogo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wkeKhseRUJd4SavrCu5BtD5DgcB.jpg" group-title="FILMES | FICCAO CIENTIFICA",Circulo de Fogo
@@ -2986,12 +3020,8 @@ http://p2prime.xyz:80/movie/elydavid/wiK55MI1OM/10123.mp4
 http://p2prime.xyz:80/movie/elydavid/wiK55MI1OM/10081.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Cowboys e Aliens" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/L8UadIfdvMhkYR0rHf3HtikjSn.jpg" group-title="FILMES | FICCAO CIENTIFICA",Cowboys e Aliens
 http://p2prime.xyz:80/movie/elydavid/wiK55MI1OM/10117.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Criminosos e Anjos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xnUHmFt0on1kaBwUdbZrOc6sk1p.jpg" group-title="FILMES: FAROESTE",Criminosos e Anjos
-http://p2prime.xyz:80/movie/elydavid/wiK55MI1OM/10115.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Diário dos Mortos (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tGktSJW5dPf8QIjmcqum4KOEZPZ.jpg" group-title="FILMES | FICCAO CIENTIFICA",Diário dos Mortos (2007)
 http://p2prime.xyz:80/movie/elydavid/wiK55MI1OM/7902.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Django Livre" tvg-logo="http://167.86.94.183:25461/images/5WJnxuw41sddupf8cwOxYftuvJG_small.jpg" group-title="FILMES: FAROESTE",Django Livre
-http://p2prime.xyz:80/movie/elydavid/wiK55MI1OM/516.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Drones (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/utTr0XDyL3IwMUXdydRPHV5Gek0.jpg" group-title="FILMES | FICCAO CIENTIFICA",Drones (2018)
 http://p2prime.xyz:80/movie/elydavid/wiK55MI1OM/2095.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Fim do Mundo (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6rwPXazSZHl379aBcBVN9d44ze4.jpg" group-title="FILMES | FICCAO CIENTIFICA",Fim do Mundo (2019)
@@ -3002,8 +3032,6 @@ http://p2prime.xyz:80/movie/elydavid/wiK55MI1OM/1950.mp4
 http://p2prime.xyz:80/movie/elydavid/wiK55MI1OM/8167.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Independence Day: O Ressurgimento (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uh7dnhLboTzjNfPVTsqr8sBo6wh.jpg" group-title="FILMES | FICCAO CIENTIFICA",Independence Day: O Ressurgimento (2016)
 http://p2prime.xyz:80/movie/elydavid/wiK55MI1OM/1951.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Inferno no Faroeste 2" tvg-logo="http://167.86.94.183:25461/images/esk9F3hBlNYsUk9koPrOyfYlLaB_small.jpg" group-title="FILMES: FAROESTE",Inferno no Faroeste 2
-http://p2prime.xyz:80/movie/elydavid/wiK55MI1OM/514.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Invasão Alienígena" tvg-logo="http://vip.primeuhd.com:25461/images/yq2DGzM0kNWtGwkplGAcEEM4eSH_small.jpg" group-title="FILMES | FICCAO CIENTIFICA",Invasão Alienígena
 http://p2prime.xyz:80/movie/elydavid/wiK55MI1OM/1952.mp4
 #EXTINF:-1 tvg-id="" tvg-name="IO – O Último na Terra (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/utH781EwjzzXQC6fZUO3cw8L5Ht.jpg" group-title="FILMES | FICCAO CIENTIFICA",IO – O Último na Terra (2019)
@@ -3026,18 +3054,10 @@ http://p2prime.xyz:80/movie/elydavid/wiK55MI1OM/1954.mp4
 http://p2prime.xyz:80/movie/elydavid/wiK55MI1OM/1955.mp4
 #EXTINF:-1 tvg-id="" tvg-name="O Ataque dos Vermes Malditos 6: Um Dia Frio no Inferno" tvg-logo="http://vip.primeuhd.com:25461/images/aFOdiHaRjeTmHG67e5B7md2Q1cq_small.jpg" group-title="FILMES | FICCAO CIENTIFICA",O Ataque dos Vermes Malditos 6: Um Dia Frio no Inferno
 http://p2prime.xyz:80/movie/elydavid/wiK55MI1OM/2817.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Cavaleiro Solitário" tvg-logo="http://167.86.94.183:25461/images/7C18VUCvZH5O0ibZogZP4TQJTiu_small.jpg" group-title="FILMES: FAROESTE",O Cavaleiro Solitário
-http://p2prime.xyz:80/movie/elydavid/wiK55MI1OM/510.mkv
 #EXTINF:-1 tvg-id="" tvg-name="O Passageiro - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yhjD4QZPu1SJsSdZ7c8dS1nBIBq.jpg" group-title="FILMES | FICCAO CIENTIFICA",O Passageiro - 2018
 http://p2prime.xyz:80/movie/elydavid/wiK55MI1OM/11027.mp4
 #EXTINF:-1 tvg-id="" tvg-name="O Policial do Futuro" tvg-logo="http://vip.primeuhd.com:25461/images/xTtJpfelvkA024hHuNGcn13aZPU_small.jpg" group-title="FILMES | FICCAO CIENTIFICA",O Policial do Futuro
 http://p2prime.xyz:80/movie/elydavid/wiK55MI1OM/1957.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Retorno de John Henry" tvg-logo="http://167.86.94.183:25461/images/fbTpSiqGn6ImqSAyawHlLf7goat_small.jpg" group-title="FILMES: FAROESTE",O Retorno de John Henry
-http://p2prime.xyz:80/movie/elydavid/wiK55MI1OM/508.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Oeste Sem Lei" tvg-logo="http://167.86.94.183:25461/images/uZ9dBBn0GaEw0YIBvQd01Io3pho_small.jpg" group-title="FILMES: FAROESTE",Oeste Sem Lei
-http://p2prime.xyz:80/movie/elydavid/wiK55MI1OM/503.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Os Oito Odiados" tvg-logo="http://vip.primeuhd.com:25461/images/fqe8JxDNO8B8QfOGTdjh6sPCdSC_small.jpg" group-title="FILMES: FAROESTE",Os Oito Odiados
-http://p2prime.xyz:80/movie/elydavid/wiK55MI1OM/3873.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Pandemia" tvg-logo="http://vip.primeuhd.com:25461/images/o5Zt3nVlDJZLgeRgrhglgymDJym_small.jpg" group-title="FILMES | FICCAO CIENTIFICA",Pandemia
 http://p2prime.xyz:80/movie/elydavid/wiK55MI1OM/1958.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Paralisia" tvg-logo="http://vip.primeuhd.com:25461/images/g0AgiPF1qBObVDLK7pwncujVpuo_small.jpg" group-title="FILMES | FICCAO CIENTIFICA",Paralisia
@@ -3048,14 +3068,10 @@ http://p2prime.xyz:80/movie/elydavid/wiK55MI1OM/1960.mp4
 http://p2prime.xyz:80/movie/elydavid/wiK55MI1OM/2097.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Power Rangers: O Filme" tvg-logo="http://vip.primeuhd.com:25461/images/A3ijhraMN0tvpDnPoyVP7NulkSr_small.jpg" group-title="FILMES | FICCAO CIENTIFICA",Power Rangers: O Filme
 http://p2prime.xyz:80/movie/elydavid/wiK55MI1OM/2098.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rastro de Maldade" tvg-logo="http://167.86.94.183:25461/images/8A51Ur47D0CNJhmvQlbif0vzyqZ_small.jpg" group-title="FILMES: FAROESTE",Rastro de Maldade
-http://p2prime.xyz:80/movie/elydavid/wiK55MI1OM/504.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Riddick - Eclipse Mortal" tvg-logo="http://vip.primeuhd.com:25461/images/j4iBVA49KDBX4ypfVcZxl1y7CCT_small.jpg" group-title="FILMES | FICCAO CIENTIFICA",Riddick - Eclipse Mortal
 http://p2prime.xyz:80/movie/elydavid/wiK55MI1OM/3995.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Riddick 3" tvg-logo="http://vip.primeuhd.com:25461/images/duoN6oNGp1emHkkhlTcY76Wz2ED_small.jpg" group-title="FILMES | FICCAO CIENTIFICA",Riddick 3
 http://p2prime.xyz:80/movie/elydavid/wiK55MI1OM/3994.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sete Homens e Um Destino" tvg-logo="http://167.86.94.183:25461/images/cparcxTFuHdlSOP3MJOpN7Ec9NB_small.jpg" group-title="FILMES: FAROESTE",Sete Homens e Um Destino
-http://p2prime.xyz:80/movie/elydavid/wiK55MI1OM/505.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Skyline: A invasão" tvg-logo="http://vip.primeuhd.com:25461/images/AdadT2HuwHkYWxbzme4QP77M6Wt_small.jpg" group-title="FILMES | FICCAO CIENTIFICA",Skyline: A invasão
 http://p2prime.xyz:80/movie/elydavid/wiK55MI1OM/1962.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Sleight: O Truque Perfeito" tvg-logo="http://vip.primeuhd.com:25461/images/wridRvGxDqGldhzAIh3IcZhHT5F_small.jpg" group-title="FILMES | FICCAO CIENTIFICA",Sleight: O Truque Perfeito
@@ -3068,8 +3084,6 @@ http://p2prime.xyz:80/movie/elydavid/wiK55MI1OM/1964.mp4
 http://p2prime.xyz:80/movie/elydavid/wiK55MI1OM/11036.mp4
 #EXTINF:-1 tvg-id="" tvg-name="O Titã - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uZNgL1aXLdXSSTGdf9acxW7a5gR.jpg" group-title="FILMES | FICCAO CIENTIFICA",O Titã - 2018
 http://p2prime.xyz:80/movie/elydavid/wiK55MI1OM/11038.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Westworld: Onde Ninguém Tem Alma" tvg-logo="http://167.86.94.183:25461/images/cOJsaT8jEmG9s1MziVIPpHBRpQ7_small.jpg" group-title="FILMES: FAROESTE",Westworld: Onde Ninguém Tem Alma
-http://p2prime.xyz:80/movie/elydavid/wiK55MI1OM/507.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Stargate - A Chave para o Futuro da Humanidade" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wKz6b936E4FV7RWGlZChhgHLgnB.jpg" group-title="FILMES | FICCAO CIENTIFICA",Stargate - A Chave para o Futuro da Humanidade
 http://p2prime.xyz:80/movie/elydavid/wiK55MI1OM/17679.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Poderes Extraordinários" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fKJECMy7sikWhlCu0qUJkzZbF7J.jpg" group-title="FILMES | FICCAO CIENTIFICA",Poderes Extraordinários
@@ -3090,11 +3104,12 @@ http://p2prime.xyz:80/movie/elydavid/wiK55MI1OM/27304.mkv
 http://p2prime.xyz:80/movie/elydavid/wiK55MI1OM/27307.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Máquinas Mortais (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sBdtAsZNVPMOOYcq8zh0XULqU9T.jpg" group-title="FILMES | FICCAO CIENTIFICA",Máquinas Mortais (2018)
 http://p2prime.xyz:80/movie/elydavid/wiK55MI1OM/27333.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Último Duelo (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nMkAKBBlxRW4ZAXr0TvMThMSTW4.jpg" group-title="FILMES: FAROESTE",O Último Duelo (2019)
-http://p2prime.xyz:80/movie/elydavid/wiK55MI1OM/27338.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Bumblebee (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u2IZcVw0tclP7UOusTVtI5J6rmx.jpg" group-title="FILMES | FICCAO CIENTIFICA",Bumblebee (2018)
 http://p2prime.xyz:80/movie/elydavid/wiK55MI1OM/27339.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Vírus (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sXwshSzVsMvpJpGxvuPGsRxGzpV.jpg" group-title="FILMES | FICCAO CIENTIFICA",Vírus (2009)
 http://p2prime.xyz:80/movie/elydavid/wiK55MI1OM/27344.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Epidemia (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uhOQUHQ2fKs59jRBddyP9pqBIUu.jpg" group-title="FILMES | FICCAO CIENTIFICA",Epidemia (1995)
 http://p2prime.xyz:80/movie/elydavid/wiK55MI1OM/28013.mp4
+
+
+

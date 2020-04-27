@@ -890,41 +890,41 @@ http://p2prime.xyz:80/FODASE/AB4F5CE51H/9089
 
 
 
-#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Noticias/BAND%20NEWS.png" group-title="NOTÍCIAS",BAND NEWS FHD H265
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Noticias/BAND%20NEWS.png" group-title="CANAIS | NOTÍCIAS",BAND NEWS FHD H265
 http://p2prime.xyz:80/FODASE/AB4F5CE51H/14325
-#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS FHD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Noticias/BAND%20NEWS.png" group-title="NOTÍCIAS",BAND NEWS FHD²
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS FHD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Noticias/BAND%20NEWS.png" group-title="CANAIS | NOTÍCIAS",BAND NEWS FHD²
 http://p2prime.xyz:80/FODASE/AB4F5CE51H/9147
-#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS HD¹" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Noticias/BAND%20NEWS.png" group-title="NOTÍCIAS",BAND NEWS HD¹
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS HD¹" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Noticias/BAND%20NEWS.png" group-title="CANAIS | NOTÍCIAS",BAND NEWS HD¹
 http://p2prime.xyz:80/FODASE/AB4F5CE51H/14326
-#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS HD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Noticias/BAND%20NEWS.png" group-title="NOTÍCIAS",BAND NEWS HD²
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS HD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Noticias/BAND%20NEWS.png" group-title="CANAIS | NOTÍCIAS",BAND NEWS HD²
 http://p2prime.xyz:80/FODASE/AB4F5CE51H/9146
-#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS SD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Noticias/BAND%20NEWS.png" group-title="NOTÍCIAS",BAND NEWS SD
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS SD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Noticias/BAND%20NEWS.png" group-title="CANAIS | NOTÍCIAS",BAND NEWS SD
 http://p2prime.xyz:80/FODASE/AB4F5CE51H/9148
-#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Noticias/GLOBO%20NEWS.png" group-title="NOTÍCIAS",GLOBO NEWS FHD H265
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Noticias/GLOBO%20NEWS.png" group-title="CANAIS | NOTÍCIAS",GLOBO NEWS FHD H265
 http://p2prime.xyz:80/FODASE/AB4F5CE51H/14327
-#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS FHD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Noticias/GLOBO%20NEWS.png" group-title="NOTÍCIAS",GLOBO NEWS FHD²
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS FHD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Noticias/GLOBO%20NEWS.png" group-title="CANAIS | NOTÍCIAS",GLOBO NEWS FHD²
 http://p2prime.xyz:80/FODASE/AB4F5CE51H/11105
-#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS HD¹" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Noticias/GLOBO%20NEWS.png" group-title="NOTÍCIAS",GLOBO NEWS HD¹
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS HD¹" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Noticias/GLOBO%20NEWS.png" group-title="CANAIS | NOTÍCIAS",GLOBO NEWS HD¹
 http://p2prime.xyz:80/FODASE/AB4F5CE51H/14328
-#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS HD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Noticias/GLOBO%20NEWS.png" group-title="NOTÍCIAS",GLOBO NEWS HD²
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS HD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Noticias/GLOBO%20NEWS.png" group-title="CANAIS | NOTÍCIAS",GLOBO NEWS HD²
 http://p2prime.xyz:80/FODASE/AB4F5CE51H/9149
-#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS SD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Noticias/GLOBO%20NEWS.png" group-title="NOTÍCIAS",GLOBO NEWS SD
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS SD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Noticias/GLOBO%20NEWS.png" group-title="CANAIS | NOTÍCIAS",GLOBO NEWS SD
 http://p2prime.xyz:80/FODASE/AB4F5CE51H/9150
-#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="RECORD NEWS FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Noticias/RECORD%20NEWS.png" group-title="NOTÍCIAS",RECORD NEWS FHD H265
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="RECORD NEWS FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Noticias/RECORD%20NEWS.png" group-title="CANAIS | NOTÍCIAS",RECORD NEWS FHD H265
 http://p2prime.xyz:80/FODASE/AB4F5CE51H/14329
-#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="RECORD NEWS FHD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Noticias/RECORD%20NEWS.png" group-title="NOTÍCIAS",RECORD NEWS FHD²
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="RECORD NEWS FHD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Noticias/RECORD%20NEWS.png" group-title="CANAIS | NOTÍCIAS",RECORD NEWS FHD²
 http://p2prime.xyz:80/FODASE/AB4F5CE51H/9144
-#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="RECORD NEWS HD¹" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Noticias/RECORD%20NEWS.png" group-title="NOTÍCIAS",RECORD NEWS HD¹
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="RECORD NEWS HD¹" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Noticias/RECORD%20NEWS.png" group-title="CANAIS | NOTÍCIAS",RECORD NEWS HD¹
 http://p2prime.xyz:80/FODASE/AB4F5CE51H/14330
-#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="RECORD NEWS HD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Noticias/RECORD%20NEWS.png" group-title="NOTÍCIAS",RECORD NEWS HD²
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="RECORD NEWS HD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Noticias/RECORD%20NEWS.png" group-title="CANAIS | NOTÍCIAS",RECORD NEWS HD²
 http://p2prime.xyz:80/FODASE/AB4F5CE51H/9143
-#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="RECORD NEWS SD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Noticias/RECORD%20NEWS.png" group-title="NOTÍCIAS",RECORD NEWS SD
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="RECORD NEWS SD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Noticias/RECORD%20NEWS.png" group-title="CANAIS | NOTÍCIAS",RECORD NEWS SD
 http://p2prime.xyz:80/FODASE/AB4F5CE51H/9145
-#EXTINF:-1 tvg-id="Cnnbrasil.br" tvg-name="CNN BRASIL FHD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Noticias/CNN.png" group-title="NOTÍCIAS",CNN BRASIL FHD
+#EXTINF:-1 tvg-id="Cnnbrasil.br" tvg-name="CNN BRASIL FHD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Noticias/CNN.png" group-title="CANAIS | NOTÍCIAS",CNN BRASIL FHD
 http://p2prime.xyz:80/FODASE/AB4F5CE51H/26782
-#EXTINF:-1 tvg-id="Cnnbrasil.br" tvg-name="CNN BRASIL HD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Noticias/CNN.png" group-title="NOTÍCIAS",CNN BRASIL HD
+#EXTINF:-1 tvg-id="Cnnbrasil.br" tvg-name="CNN BRASIL HD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Noticias/CNN.png" group-title="CANAIS | NOTÍCIAS",CNN BRASIL HD
 http://p2prime.xyz:80/FODASE/AB4F5CE51H/27305
-#EXTINF:-1 tvg-id="Cnnbrasil.br" tvg-name="CNN BRASIL SD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Noticias/CNN.png" group-title="NOTÍCIAS",CNN BRASIL SD
+#EXTINF:-1 tvg-id="Cnnbrasil.br" tvg-name="CNN BRASIL SD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Noticias/CNN.png" group-title="CANAIS | NOTÍCIAS",CNN BRASIL SD
 http://p2prime.xyz:80/FODASE/AB4F5CE51H/27306
 
 
@@ -1132,3 +1132,345 @@ http://p2prime.xyz:80/FODASE/AB4F5CE51H/9225
 http://p2prime.xyz:80/FODASE/AB4F5CE51H/26423
 #EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH SD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20TeleCine/TELECINE%20TOUCH.png" group-title="CANAIS | TELECINE",TELECINE TOUCH SD
 http://p2prime.xyz:80/FODASE/AB4F5CE51H/8369
+
+
+
+#########################################################################################################
+
+
+#########################################CANAIS VARIEDADES###############################################
+
+
+
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1  FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/ARTE1.png" group-title="CANAIS | VARIEDADES",ARTE 1  FHD H265
+http://p2prime.xyz:80/FODASE/AB4F5CE51H/14304
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 FHD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/ARTE1.png" group-title="CANAIS | VARIEDADES",ARTE 1 FHD²
+http://p2prime.xyz:80/FODASE/AB4F5CE51H/9265
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 HD¹" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/ARTE1.png" group-title="CANAIS | VARIEDADES",ARTE 1 HD¹
+http://p2prime.xyz:80/FODASE/AB4F5CE51H/14305
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 HD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/ARTE1.png" group-title="CANAIS | VARIEDADES",ARTE 1 HD²
+http://p2prime.xyz:80/FODASE/AB4F5CE51H/9264
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 SD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/ARTE1.png" group-title="CANAIS | VARIEDADES",ARTE 1 SD
+http://p2prime.xyz:80/FODASE/AB4F5CE51H/9266
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/COMEDY%20CENTRAL.png" group-title="CANAIS | VARIEDADES",COMEDY CENTRAL FHD H265
+http://p2prime.xyz:80/FODASE/AB4F5CE51H/14303
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL FHD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/COMEDY%20CENTRAL.png" group-title="CANAIS | VARIEDADES",COMEDY CENTRAL FHD²
+http://p2prime.xyz:80/FODASE/AB4F5CE51H/9262
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL HD¹" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/COMEDY%20CENTRAL.png" group-title="CANAIS | VARIEDADES",COMEDY CENTRAL HD¹
+http://p2prime.xyz:80/FODASE/AB4F5CE51H/14302
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL HD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/COMEDY%20CENTRAL.png" group-title="CANAIS | VARIEDADES",COMEDY CENTRAL HD²
+http://p2prime.xyz:80/FODASE/AB4F5CE51H/9261
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL SD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/COMEDY%20CENTRAL.png" group-title="CANAIS | VARIEDADES",COMEDY CENTRAL SD
+http://p2prime.xyz:80/FODASE/AB4F5CE51H/9263
+#EXTINF:-1 tvg-id="Curta.br" tvg-name="CURTA!  FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/CURTA%21.png" group-title="CANAIS | VARIEDADES",CURTA!  FHD H265
+http://p2prime.xyz:80/FODASE/AB4F5CE51H/14307
+#EXTINF:-1 tvg-id="Curta.br" tvg-name="CURTA! HD¹" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/CURTA%21.png" group-title="CANAIS | VARIEDADES",CURTA! HD¹
+http://p2prime.xyz:80/FODASE/AB4F5CE51H/14306
+#EXTINF:-1 tvg-id="Curta.br" tvg-name="CURTA! HD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/CURTA%21.png" group-title="CANAIS | VARIEDADES",CURTA! HD²
+http://p2prime.xyz:80/FODASE/AB4F5CE51H/9259
+#EXTINF:-1 tvg-id="Curta.br" tvg-name="CURTA! SD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/CURTA%21.png" group-title="CANAIS | VARIEDADES",CURTA! SD
+http://p2prime.xyz:80/FODASE/AB4F5CE51H/9260
+#EXTINF:-1 tvg-id="" tvg-name="DOG TV FHD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/DOG%20TV.png" group-title="CANAIS | VARIEDADES",DOG TV FHD²
+http://p2prime.xyz:80/FODASE/AB4F5CE51H/9110
+#EXTINF:-1 tvg-id="" tvg-name="DOG TV HD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/DOG%20TV.png" group-title="CANAIS | VARIEDADES",DOG TV HD²
+http://p2prime.xyz:80/FODASE/AB4F5CE51H/9109
+#EXTINF:-1 tvg-id="E.br" tvg-name="E! FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/E%21.png" group-title="CANAIS | VARIEDADES",E! FHD H265
+http://p2prime.xyz:80/FODASE/AB4F5CE51H/9257
+#EXTINF:-1 tvg-id="E.br" tvg-name="E! HD¹" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/E%21.png" group-title="CANAIS | VARIEDADES",E! HD¹
+http://p2prime.xyz:80/FODASE/AB4F5CE51H/14308
+#EXTINF:-1 tvg-id="E.br" tvg-name="E! SD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/E%21.png" group-title="CANAIS | VARIEDADES",E! SD
+http://p2prime.xyz:80/FODASE/AB4F5CE51H/8477
+#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/FOOD%20NETWORK.png" group-title="CANAIS | VARIEDADES",FOOD NETWORK FHD H265
+http://p2prime.xyz:80/FODASE/AB4F5CE51H/14309
+#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK FHD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/FOOD%20NETWORK.png" group-title="CANAIS | VARIEDADES",FOOD NETWORK FHD²
+http://p2prime.xyz:80/FODASE/AB4F5CE51H/9255
+#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK HD¹" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/FOOD%20NETWORK.png" group-title="CANAIS | VARIEDADES",FOOD NETWORK HD¹
+http://p2prime.xyz:80/FODASE/AB4F5CE51H/14310
+#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK HD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/FOOD%20NETWORK.png" group-title="CANAIS | VARIEDADES",FOOD NETWORK HD²
+http://p2prime.xyz:80/FODASE/AB4F5CE51H/9254
+#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK SD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/FOOD%20NETWORK.png" group-title="CANAIS | VARIEDADES",FOOD NETWORK SD
+http://p2prime.xyz:80/FODASE/AB4F5CE51H/9256
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="MAIS GLOBOSAT FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/MAIS%20GLOBOSAT.png" group-title="CANAIS | VARIEDADES",MAIS GLOBOSAT FHD H265
+http://p2prime.xyz:80/FODASE/AB4F5CE51H/14315
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="MAIS GLOBOSAT FHD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/MAIS%20GLOBOSAT.png" group-title="CANAIS | VARIEDADES",MAIS GLOBOSAT FHD²
+http://p2prime.xyz:80/FODASE/AB4F5CE51H/14324
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="MAIS GLOBOSAT HD¹" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/MAIS%20GLOBOSAT.png" group-title="CANAIS | VARIEDADES",MAIS GLOBOSAT HD¹
+http://p2prime.xyz:80/FODASE/AB4F5CE51H/14316
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="MAIS GLOBOSAT HD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/MAIS%20GLOBOSAT.png" group-title="CANAIS | VARIEDADES",MAIS GLOBOSAT HD²
+http://p2prime.xyz:80/FODASE/AB4F5CE51H/9179
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="MAIS GLOBOSAT SD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/MAIS%20GLOBOSAT.png" group-title="CANAIS | VARIEDADES",MAIS GLOBOSAT SD
+http://p2prime.xyz:80/FODASE/AB4F5CE51H/9180
+#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT  FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/GNT.png" group-title="CANAIS | VARIEDADES",GNT  FHD H265
+http://p2prime.xyz:80/FODASE/AB4F5CE51H/14311
+#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT FHD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/GNT.png" group-title="CANAIS | VARIEDADES",GNT FHD²
+http://p2prime.xyz:80/FODASE/AB4F5CE51H/11104
+#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT HD¹" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/GNT.png" group-title="CANAIS | VARIEDADES",GNT HD¹
+http://p2prime.xyz:80/FODASE/AB4F5CE51H/14312
+#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT HD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/GNT.png" group-title="CANAIS | VARIEDADES",GNT HD²
+http://p2prime.xyz:80/FODASE/AB4F5CE51H/9252
+#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT SD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/GNT.png" group-title="CANAIS | VARIEDADES",GNT SD
+http://p2prime.xyz:80/FODASE/AB4F5CE51H/9253
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/LIFETIME.png" group-title="CANAIS | VARIEDADES",LIFETIME FHD H265
+http://p2prime.xyz:80/FODASE/AB4F5CE51H/14313
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME FHD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/LIFETIME.png" group-title="CANAIS | VARIEDADES",LIFETIME FHD²
+http://p2prime.xyz:80/FODASE/AB4F5CE51H/8892
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME HD¹" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/LIFETIME.png" group-title="CANAIS | VARIEDADES",LIFETIME HD¹
+http://p2prime.xyz:80/FODASE/AB4F5CE51H/14314
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME HD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/LIFETIME.png" group-title="CANAIS | VARIEDADES",LIFETIME HD²
+http://p2prime.xyz:80/FODASE/AB4F5CE51H/9267
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME SD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/LIFETIME.png" group-title="CANAIS | VARIEDADES",LIFETIME SD
+http://p2prime.xyz:80/FODASE/AB4F5CE51H/9268
+#EXTINF:-1 tvg-id="Nhk.br" tvg-name="NHK HD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/NHK.png" group-title="CANAIS | VARIEDADES",NHK HD²
+http://p2prime.xyz:80/FODASE/AB4F5CE51H/8890
+#EXTINF:-1 tvg-id="Nhk.br" tvg-name="NHK SD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/NHK.png" group-title="CANAIS | VARIEDADES",NHK SD
+http://p2prime.xyz:80/FODASE/AB4F5CE51H/8493
+#EXTINF:-1 tvg-id="Playtv.br" tvg-name="PLAY TV FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/PLAYTV.png" group-title="CANAIS | VARIEDADES",PLAY TV FHD H265
+http://p2prime.xyz:80/FODASE/AB4F5CE51H/14317
+#EXTINF:-1 tvg-id="Playtv.br" tvg-name="PLAY TV HD¹" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/PLAYTV.png" group-title="CANAIS | VARIEDADES",PLAY TV HD¹
+http://p2prime.xyz:80/FODASE/AB4F5CE51H/14318
+#EXTINF:-1 tvg-id="Playtv.br" tvg-name="PLAY TV SD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/PLAYTV.png" group-title="CANAIS | VARIEDADES",PLAY TV SD
+http://p2prime.xyz:80/FODASE/AB4F5CE51H/9251
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/TLC.png" group-title="CANAIS | VARIEDADES",TLC FHD H265
+http://p2prime.xyz:80/FODASE/AB4F5CE51H/14319
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC FHD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/TLC.png" group-title="CANAIS | VARIEDADES",TLC FHD²
+http://p2prime.xyz:80/FODASE/AB4F5CE51H/11106
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC HD¹" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/TLC.png" group-title="CANAIS | VARIEDADES",TLC HD¹
+http://p2prime.xyz:80/FODASE/AB4F5CE51H/14320
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC HD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/TLC.png" group-title="CANAIS | VARIEDADES",TLC HD²
+http://p2prime.xyz:80/FODASE/AB4F5CE51H/9249
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC SD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/TLC.png" group-title="CANAIS | VARIEDADES",TLC SD
+http://p2prime.xyz:80/FODASE/AB4F5CE51H/9250
+#EXTINF:-1 tvg-id="Trutv.br" tvg-name="TRUTV FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/TRUTV.png" group-title="CANAIS | VARIEDADES",TRUTV FHD H265
+http://p2prime.xyz:80/FODASE/AB4F5CE51H/8469
+#EXTINF:-1 tvg-id="Trutv.br" tvg-name="TRUTV HD¹" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/TRUTV.png" group-title="CANAIS | VARIEDADES",TRUTV HD¹
+http://p2prime.xyz:80/FODASE/AB4F5CE51H/14321
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/VIVA.png" group-title="CANAIS | VARIEDADES",VIVA FHD H265
+http://p2prime.xyz:80/FODASE/AB4F5CE51H/14322
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA FHD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/VIVA.png" group-title="CANAIS | VARIEDADES",VIVA FHD²
+http://p2prime.xyz:80/FODASE/AB4F5CE51H/9248
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA HD¹" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/VIVA.png" group-title="CANAIS | VARIEDADES",VIVA HD¹
+http://p2prime.xyz:80/FODASE/AB4F5CE51H/14323
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA HD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/VIVA.png" group-title="CANAIS | VARIEDADES",VIVA HD²
+http://p2prime.xyz:80/FODASE/AB4F5CE51H/9245
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA SD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/VIVA.png" group-title="CANAIS | VARIEDADES",VIVA SD
+http://p2prime.xyz:80/FODASE/AB4F5CE51H/9247
+#EXTINF:-1 tvg-id="Woohoo.br" tvg-name="WOOHOO HD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/WOOHOO.png" group-title="CANAIS | VARIEDADES",WOOHOO HD²
+http://p2prime.xyz:80/FODASE/AB4F5CE51H/9243
+#EXTINF:-1 tvg-id="Woohoo.br" tvg-name="WOOHOO SD" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/WOOHOO.png" group-title="CANAIS | VARIEDADES",WOOHOO SD
+http://p2prime.xyz:80/FODASE/AB4F5CE51H/9244
+#EXTINF:-1 tvg-id="Fashiontv.br" tvg-name="FASHION TV FHD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/FASHION%20TV.png" group-title="CANAIS | VARIEDADES",FASHION TV FHD²
+http://p2prime.xyz:80/FODASE/AB4F5CE51H/11103
+#EXTINF:-1 tvg-id="Fashiontv.br" tvg-name="FASHION TV HD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/FASHION%20TV.png" group-title="CANAIS | VARIEDADES",FASHION TV HD²
+http://p2prime.xyz:80/FODASE/AB4F5CE51H/11092
+#EXTINF:-1 tvg-id="Showtime.us" tvg-name="SHOP TIME HD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/SHOPTIME.png" group-title="CANAIS | VARIEDADES",SHOP TIME HD²
+http://p2prime.xyz:80/FODASE/AB4F5CE51H/11091
+#EXTINF:-1 tvg-id="Woohoo.br" tvg-name="WOOHOO FHD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Variedades/WOOHOO.png" group-title="CANAIS | VARIEDADES",WOOHOO FHD²
+http://p2prime.xyz:80/FODASE/AB4F5CE51H/11107
+
+
+
+#########################################################################################################
+
+
+#########################################CANAIS ADULTOS##################################################
+
+
+
+#EXTINF:-1 tvg-id="Playboytv.br" tvg-name="XXX: PLAYBOY FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Adulto/playboy-logo.png" group-title="CANAIS | ADULTOS",XXX: PLAYBOY FHD H265
+http://p2prime.xyz:80/FODASE/AB4F5CE51H/14294
+#EXTINF:-1 tvg-id="Playboytv.br" tvg-name="XXX: PLAYBOY FHD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Adulto/playboy-logo.png" group-title="CANAIS | ADULTOS",XXX: PLAYBOY FHD²
+http://p2prime.xyz:80/FODASE/AB4F5CE51H/11099
+#EXTINF:-1 tvg-id="Playboytv.br" tvg-name="XXX: PLAYBOY HD¹" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Adulto/playboy-logo.png" group-title="CANAIS | ADULTOS",XXX: PLAYBOY HD¹
+http://p2prime.xyz:80/FODASE/AB4F5CE51H/14295
+#EXTINF:-1 tvg-id="Playboytv.br" tvg-name="XXX: PLAYBOY HD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Adulto/playboy-logo.png" group-title="CANAIS | ADULTOS",XXX: PLAYBOY HD²
+http://p2prime.xyz:80/FODASE/AB4F5CE51H/10554
+#EXTINF:-1 tvg-id="Sexyhot.br" tvg-name="XXX: SEXY HOT FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Adulto/Sexy%2520Hot.png" group-title="CANAIS | ADULTOS",XXX: SEXY HOT FHD H265
+http://p2prime.xyz:80/FODASE/AB4F5CE51H/14296
+#EXTINF:-1 tvg-id="Sexyhot.br" tvg-name="XXX: SEXY HOT HD¹" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Adulto/Sexy%2520Hot.png" group-title="CANAIS | ADULTOS",XXX: SEXY HOT HD¹
+http://p2prime.xyz:80/FODASE/AB4F5CE51H/14297
+#EXTINF:-1 tvg-id="" tvg-name="XXX: SEXY HOT HD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Adulto/Sexy%2520Hot.png" group-title="CANAIS | ADULTOS",XXX: SEXY HOT HD²
+http://p2prime.xyz:80/FODASE/AB4F5CE51H/10553
+#EXTINF:-1 tvg-id="" tvg-name="XXX: SEX PRIVE FHD H265" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Adulto/Sex%2520Privé.png" group-title="CANAIS | ADULTOS",XXX: SEX PRIVE FHD H265
+http://p2prime.xyz:80/FODASE/AB4F5CE51H/14300
+#EXTINF:-1 tvg-id="" tvg-name="XXX: SEX PRIVE HD¹" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Adulto/Sex%2520Privé.png" group-title="CANAIS | ADULTOS",XXX: SEX PRIVE HD¹
+http://p2prime.xyz:80/FODASE/AB4F5CE51H/14301
+#EXTINF:-1 tvg-id="Sextreme.cl" tvg-name="XXX: SEXTREME SD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Adulto/Sextreme.png" group-title="CANAIS | ADULTOS",XXX: SEXTREME SD²
+http://p2prime.xyz:80/FODASE/AB4F5CE51H/10552
+#EXTINF:-1 tvg-id="venus.pt" tvg-name="XXX: VENUS HD²" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Adulto/Venus.png" group-title="CANAIS | ADULTOS",XXX: VENUS HD²
+http://p2prime.xyz:80/FODASE/AB4F5CE51H/10539
+#EXTINF:-1 tvg-id="" tvg-name="GAY01" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Adulto/Venus.png" group-title="CANAIS | ADULTOS",GAY01
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/10782.mp4
+#EXTINF:-1 tvg-id="" tvg-name="GAY02" tvg-logo="http://primeuhd.com/Adultos.png" group-title="CANAIS | ADULTOS",GAY02
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/10783.mp4
+#EXTINF:-1 tvg-id="" tvg-name="GAY03" tvg-logo="http://primeuhd.com/Adultos.png" group-title="CANAIS | ADULTOS",GAY03
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/10784.mp4
+#EXTINF:-1 tvg-id="" tvg-name="GAY04" tvg-logo="http://primeuhd.com/Adultos.png" group-title="CANAIS | ADULTOS",GAY04
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/10785.mp4
+#EXTINF:-1 tvg-id="" tvg-name="GAY05" tvg-logo="http://primeuhd.com/Adultos.png" group-title="CANAIS | ADULTOS",GAY05
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/10786.mp4
+#EXTINF:-1 tvg-id="" tvg-name="GAY06" tvg-logo="http://primeuhd.com/Adultos.png" group-title="CANAIS | ADULTOS",GAY06
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/10787.mp4
+#EXTINF:-1 tvg-id="" tvg-name="GAY07" tvg-logo="http://primeuhd.com/Adultos.png" group-title="CANAIS | ADULTOS",GAY07
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/10788.mp4
+#EXTINF:-1 tvg-id="" tvg-name="GAY08" tvg-logo="http://primeuhd.com/Adultos.png" group-title="CANAIS | ADULTOS",GAY08
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/10789.mp4
+#EXTINF:-1 tvg-id="" tvg-name="GAY09" tvg-logo="http://primeuhd.com/Adultos.png" group-title="CANAIS | ADULTOS",GAY09
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/10790.mp4
+#EXTINF:-1 tvg-id="" tvg-name="GAY10" tvg-logo="http://primeuhd.com/Adultos.png" group-title="CANAIS | ADULTOS",GAY10
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/10791.mp4
+#EXTINF:-1 tvg-id="" tvg-name="GAY11" tvg-logo="http://primeuhd.com/Adultos.png" group-title="CANAIS | ADULTOS",GAY11
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/10792.mp4
+#EXTINF:-1 tvg-id="" tvg-name="GAY12" tvg-logo="http://primeuhd.com/Adultos.png" group-title="CANAIS | ADULTOS",GAY12
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/10793.mp4
+#EXTINF:-1 tvg-id="" tvg-name="GAY13" tvg-logo="http://primeuhd.com/Adultos.png" group-title="CANAIS | ADULTOS",GAY13
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/10794.mp4
+#EXTINF:-1 tvg-id="" tvg-name="GAY14" tvg-logo="http://primeuhd.com/Adultos.png" group-title="CANAIS | ADULTOS",GAY14
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/10795.mp4
+#EXTINF:-1 tvg-id="" tvg-name="GAY15" tvg-logo="http://primeuhd.com/Adultos.png" group-title="CANAIS | ADULTOS",GAY15
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/10796.mp4
+#EXTINF:-1 tvg-id="" tvg-name="GAY16" tvg-logo="http://primeuhd.com/Adultos.png" group-title="CANAIS | ADULTOS",GAY16
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/10797.mp4
+#EXTINF:-1 tvg-id="" tvg-name="GAY17" tvg-logo="http://primeuhd.com/Adultos.png" group-title="CANAIS | ADULTOS",GAY17
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/10798.mp4
+#EXTINF:-1 tvg-id="" tvg-name="XXX01" tvg-logo="http://primeuhd.com/Adultos.png" group-title="CANAIS | ADULTOS",XXX01
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/10716.mp4
+#EXTINF:-1 tvg-id="" tvg-name="XXX02" tvg-logo="http://primeuhd.com/Adultos.png" group-title="CANAIS | ADULTOS",XXX02
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/10717.mp4
+#EXTINF:-1 tvg-id="" tvg-name="XXX03" tvg-logo="http://primeuhd.com/Adultos.png" group-title="CANAIS | ADULTOS",XXX03
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/10718.mp4
+#EXTINF:-1 tvg-id="" tvg-name="XXX04" tvg-logo="http://primeuhd.com/Adultos.png" group-title="CANAIS | ADULTOS",XXX04
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/10719.mp4
+#EXTINF:-1 tvg-id="" tvg-name="XXX05" tvg-logo="http://primeuhd.com/Adultos.png" group-title="CANAIS | ADULTOS",XXX05
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/10720.mp4
+#EXTINF:-1 tvg-id="" tvg-name="XXX06" tvg-logo="http://primeuhd.com/Adultos.png" group-title="CANAIS | ADULTOS",XXX06
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/10721.mp4
+#EXTINF:-1 tvg-id="" tvg-name="XXX07" tvg-logo="http://primeuhd.com/Adultos.png" group-title="CANAIS | ADULTOS",XXX07
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/10722.mp4
+#EXTINF:-1 tvg-id="" tvg-name="XXX08" tvg-logo="http://primeuhd.com/Adultos.png" group-title="CANAIS | ADULTOS",XXX08
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/10723.mp4
+#EXTINF:-1 tvg-id="" tvg-name="XXX09" tvg-logo="http://primeuhd.com/Adultos.png" group-title="CANAIS | ADULTOS",XXX09
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/10724.mp4
+#EXTINF:-1 tvg-id="" tvg-name="XXX10" tvg-logo="http://primeuhd.com/Adultos.png" group-title="CANAIS | ADULTOS",XXX10
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/10725.mp4
+#EXTINF:-1 tvg-id="" tvg-name="XXX11" tvg-logo="http://primeuhd.com/Adultos.png" group-title="CANAIS | ADULTOS",XXX11
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/10726.mp4
+#EXTINF:-1 tvg-id="" tvg-name="XXX12" tvg-logo="http://primeuhd.com/Adultos.png" group-title="CANAIS | ADULTOS",XXX12
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/10727.mp4
+#EXTINF:-1 tvg-id="" tvg-name="XXX13" tvg-logo="http://primeuhd.com/Adultos.png" group-title="CANAIS | ADULTOS",XXX13
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/10728.mp4
+#EXTINF:-1 tvg-id="" tvg-name="XXX14" tvg-logo="http://primeuhd.com/Adultos.png" group-title="CANAIS | ADULTOS",XXX14
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/10729.mp4
+#EXTINF:-1 tvg-id="" tvg-name="XXX15" tvg-logo="http://primeuhd.com/Adultos.png" group-title="CANAIS | ADULTOS",XXX15
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/10730.mp4
+#EXTINF:-1 tvg-id="" tvg-name="XXX16" tvg-logo="http://primeuhd.com/Adultos.png" group-title="CANAIS | ADULTOS",XXX16
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/10731.mp4
+#EXTINF:-1 tvg-id="" tvg-name="XXX17" tvg-logo="http://primeuhd.com/Adultos.png" group-title="CANAIS | ADULTOS",XXX17
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/10732.mp4
+#EXTINF:-1 tvg-id="" tvg-name="XXX18" tvg-logo="http://primeuhd.com/Adultos.png" group-title="CANAIS | ADULTOS",XXX18
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/10733.mp4
+#EXTINF:-1 tvg-id="" tvg-name="XXX19" tvg-logo="http://primeuhd.com/Adultos.png" group-title="CANAIS | ADULTOS",XXX19
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/10734.mp4
+#EXTINF:-1 tvg-id="" tvg-name="XXX20" tvg-logo="http://primeuhd.com/Adultos.png" group-title="CANAIS | ADULTOS",XXX20
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/10735.mp4
+#EXTINF:-1 tvg-id="" tvg-name="XXX21" tvg-logo="http://primeuhd.com/Adultos.png" group-title="CANAIS | ADULTOS",XXX21
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/10736.mp4
+#EXTINF:-1 tvg-id="" tvg-name="XXX22" tvg-logo="http://primeuhd.com/Adultos.png" group-title="CANAIS | ADULTOS",XXX22
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/10737.mp4
+#EXTINF:-1 tvg-id="" tvg-name="XXX23" tvg-logo="http://primeuhd.com/Adultos.png" group-title="CANAIS | ADULTOS",XXX23
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/10738.mp4
+#EXTINF:-1 tvg-id="" tvg-name="XXX24" tvg-logo="http://primeuhd.com/Adultos.png" group-title="CANAIS | ADULTOS",XXX24
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/10739.mp4
+#EXTINF:-1 tvg-id="" tvg-name="XXX25" tvg-logo="http://primeuhd.com/Adultos.png" group-title="CANAIS | ADULTOS",XXX25
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/10740.mp4
+#EXTINF:-1 tvg-id="" tvg-name="XXX26" tvg-logo="http://primeuhd.com/Adultos.png" group-title="CANAIS | ADULTOS",XXX26
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/10741.mp4
+#EXTINF:-1 tvg-id="" tvg-name="XXX27" tvg-logo="http://primeuhd.com/Adultos.png" group-title="CANAIS | ADULTOS",XXX27
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/10742.mp4
+#EXTINF:-1 tvg-id="" tvg-name="XXX28" tvg-logo="http://primeuhd.com/Adultos.png" group-title="CANAIS | ADULTOS",XXX28
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/10743.mp4
+#EXTINF:-1 tvg-id="" tvg-name="XXX29" tvg-logo="http://primeuhd.com/Adultos.png" group-title="CANAIS | ADULTOS",XXX29
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/10744.mp4
+#EXTINF:-1 tvg-id="" tvg-name="XXX30" tvg-logo="http://primeuhd.com/Adultos.png" group-title="CANAIS | ADULTOS",XXX30
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/10745.mp4
+#EXTINF:-1 tvg-id="" tvg-name="XXX31" tvg-logo="http://primeuhd.com/Adultos.png" group-title="CANAIS | ADULTOS",XXX31
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/10746.mp4
+#EXTINF:-1 tvg-id="" tvg-name="XXX32" tvg-logo="http://primeuhd.com/Adultos.png" group-title="CANAIS | ADULTOS",XXX32
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/10747.mp4
+#EXTINF:-1 tvg-id="" tvg-name="XXX33" tvg-logo="http://primeuhd.com/Adultos.png" group-title="CANAIS | ADULTOS",XXX33
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/10748.mp4
+#EXTINF:-1 tvg-id="" tvg-name="XXX34" tvg-logo="http://primeuhd.com/Adultos.png" group-title="CANAIS | ADULTOS",XXX34
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/10749.mp4
+#EXTINF:-1 tvg-id="" tvg-name="XXX35" tvg-logo="http://primeuhd.com/Adultos.png" group-title="CANAIS | ADULTOS",XXX35
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/10750.mp4
+#EXTINF:-1 tvg-id="" tvg-name="XXX36" tvg-logo="http://primeuhd.com/Adultos.png" group-title="CANAIS | ADULTOS",XXX36
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/10751.mp4
+#EXTINF:-1 tvg-id="" tvg-name="XXX37" tvg-logo="http://primeuhd.com/Adultos.png" group-title="CANAIS | ADULTOS",XXX37
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/10752.mp4
+#EXTINF:-1 tvg-id="" tvg-name="XXX38" tvg-logo="http://primeuhd.com/Adultos.png" group-title="CANAIS | ADULTOS",XXX38
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/10753.mp4
+#EXTINF:-1 tvg-id="" tvg-name="XXX39" tvg-logo="http://primeuhd.com/Adultos.png" group-title="CANAIS | ADULTOS",XXX39
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/10754.mp4
+#EXTINF:-1 tvg-id="" tvg-name="XXX40" tvg-logo="http://primeuhd.com/Adultos.png" group-title="CANAIS | ADULTOS",XXX40
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/10755.mp4
+#EXTINF:-1 tvg-id="" tvg-name="XXX41" tvg-logo="http://primeuhd.com/Adultos.png" group-title="CANAIS | ADULTOS",XXX41
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/10756.mp4
+#EXTINF:-1 tvg-id="" tvg-name="XXX42" tvg-logo="http://primeuhd.com/Adultos.png" group-title="CANAIS | ADULTOS",XXX42
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/10757.mp4
+#EXTINF:-1 tvg-id="" tvg-name="XXX43" tvg-logo="http://primeuhd.com/Adultos.png" group-title="CANAIS | ADULTOS",XXX43
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/10758.mp4
+#EXTINF:-1 tvg-id="" tvg-name="XXX44" tvg-logo="http://primeuhd.com/Adultos.png" group-title="CANAIS | ADULTOS",XXX44
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/10759.mp4
+#EXTINF:-1 tvg-id="" tvg-name="XXX45" tvg-logo="http://primeuhd.com/Adultos.png" group-title="CANAIS | ADULTOS",XXX45
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/10760.mp4
+#EXTINF:-1 tvg-id="" tvg-name="XXX46" tvg-logo="http://primeuhd.com/Adultos.png" group-title="CANAIS | ADULTOS",XXX46
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/10761.mp4
+#EXTINF:-1 tvg-id="" tvg-name="XXX47" tvg-logo="http://primeuhd.com/Adultos.png" group-title="CANAIS | ADULTOS",XXX47
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/10762.mp4
+#EXTINF:-1 tvg-id="" tvg-name="XXX48" tvg-logo="http://primeuhd.com/Adultos.png" group-title="CANAIS | ADULTOS",XXX48
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/10763.mp4
+#EXTINF:-1 tvg-id="" tvg-name="XXX49" tvg-logo="http://primeuhd.com/Adultos.png" group-title="CANAIS | ADULTOS",XXX49
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/10764.mp4
+#EXTINF:-1 tvg-id="" tvg-name="XXX50" tvg-logo="http://primeuhd.com/Adultos.png" group-title="CANAIS | ADULTOS",XXX50
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/10765.mp4
+#EXTINF:-1 tvg-id="" tvg-name="XXX51" tvg-logo="http://primeuhd.com/Adultos.png" group-title="CANAIS | ADULTOS",XXX51
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/10766.mp4
+#EXTINF:-1 tvg-id="" tvg-name="XXX52" tvg-logo="http://primeuhd.com/Adultos.png" group-title="CANAIS | ADULTOS",XXX52
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/10767.mp4
+#EXTINF:-1 tvg-id="" tvg-name="XXX53" tvg-logo="http://primeuhd.com/Adultos.png" group-title="CANAIS | ADULTOS",XXX53
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/10768.mp4
+#EXTINF:-1 tvg-id="" tvg-name="XXX54" tvg-logo="http://primeuhd.com/Adultos.png" group-title="CANAIS | ADULTOS",XXX54
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/10769.mp4
+#EXTINF:-1 tvg-id="" tvg-name="XXX55" tvg-logo="http://primeuhd.com/Adultos.png" group-title="CANAIS | ADULTOS",XXX55
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/10770.mp4
+#EXTINF:-1 tvg-id="" tvg-name="XXX56" tvg-logo="http://primeuhd.com/Adultos.png" group-title="CANAIS | ADULTOS",XXX56
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/10771.mp4
+#EXTINF:-1 tvg-id="" tvg-name="XXX57" tvg-logo="http://primeuhd.com/Adultos.png" group-title="CANAIS | ADULTOS",XXX57
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/10772.mp4
+#EXTINF:-1 tvg-id="" tvg-name="XXX58" tvg-logo="http://primeuhd.com/Adultos.png" group-title="CANAIS | ADULTOS",XXX58
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/10773.mp4
+#EXTINF:-1 tvg-id="" tvg-name="XXX59" tvg-logo="http://primeuhd.com/Adultos.png" group-title="CANAIS | ADULTOS",XXX59
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/10774.mp4
+#EXTINF:-1 tvg-id="" tvg-name="XXX60" tvg-logo="http://primeuhd.com/Adultos.png" group-title="CANAIS | ADULTOS",XXX60
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/10775.mp4
+#EXTINF:-1 tvg-id="" tvg-name="XXX61" tvg-logo="http://primeuhd.com/Adultos.png" group-title="CANAIS | ADULTOS",XXX61
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/10776.mp4
+#EXTINF:-1 tvg-id="" tvg-name="XXX62" tvg-logo="http://primeuhd.com/Adultos.png" group-title="CANAIS | ADULTOS",XXX62
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/10777.mp4
+#EXTINF:-1 tvg-id="" tvg-name="XXX63" tvg-logo="http://primeuhd.com/Adultos.png" group-title="CANAIS | ADULTOS",XXX63
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/10778.mp4
+#EXTINF:-1 tvg-id="" tvg-name="XXX64" tvg-logo="http://primeuhd.com/Adultos.png" group-title="CANAIS | ADULTOS",XXX64
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/10779.mp4
+#EXTINF:-1 tvg-id="" tvg-name="XXX65" tvg-logo="http://primeuhd.com/Adultos.png" group-title="CANAIS | ADULTOS",XXX65
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/10780.mp4
+#EXTINF:-1 tvg-id="" tvg-name="XXX66" tvg-logo="http://primeuhd.com/Adultos.png" group-title="CANAIS | ADULTOS",XXX66
+http://p2prime.xyz:80/movie/FODASE/AB4F5CE51H/10781.mp4
+#EXTINF:-1 tvg-id="" tvg-name="XXX: AS PANTERAS" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Adulto/%2B18.png" group-title="CANAIS | ADULTOS",XXX: AS PANTERAS
+http://p2prime.xyz:80/FODASE/AB4F5CE51H/23163
+#EXTINF:-1 tvg-id="" tvg-name="XXX: BRUNA FERRAZ" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Adulto/%2B18.png" group-title="CANAIS | ADULTOS",XXX: BRUNA FERRAZ
+http://p2prime.xyz:80/FODASE/AB4F5CE51H/23164
+#EXTINF:-1 tvg-id="" tvg-name="XXX: CLEO CADILAC" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Adulto/%2B18.png" group-title="CANAIS | ADULTOS",XXX: CLEO CADILAC
+http://p2prime.xyz:80/FODASE/AB4F5CE51H/23165
+#EXTINF:-1 tvg-id="" tvg-name="XXX: INDIAS SAFADAS" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Adulto/%2B18.png" group-title="CANAIS | ADULTOS",XXX: INDIAS SAFADAS
+http://p2prime.xyz:80/FODASE/AB4F5CE51H/23166
+#EXTINF:-1 tvg-id="" tvg-name="XXX: GAY" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Adulto/%2B18.png" group-title="CANAIS | ADULTOS",XXX: GAY
+http://p2prime.xyz:80/FODASE/AB4F5CE51H/23167

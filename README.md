@@ -2370,7 +2370,7 @@ http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/28011.mkv
 #########################################################################################################
 
 
-#########################################FILMES | COMÉDIA############################################
+#########################################FILMES | COMÉDIA################################################
 
 
 
@@ -2716,3 +2716,225 @@ http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/28008.mp4
 http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/28009.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Click (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5ZPbBXyjkgIbOasAIduF19EYYGZ.jpg" group-title="FILMES | COMÉDIA",Click (2006)
 http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/28010.mkv
+
+
+
+#########################################################################################################
+
+
+#########################################FILMES | DOCUMENTÁRIOS##########################################
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="A Bíblia do Diabo" tvg-logo="http://vip.primeuhd.com:25461/images/tNUldOVuPsXwtRlyLEVnlYFSP0i_small.jpg" group-title="FILMES | DOCUMENTÁRIOS",A Bíblia do Diabo
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/3953.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Conspiração da Vaca: O Segredo da Sustentabilidade" tvg-logo="http://vip.primeuhd.com:25461/images/yTJAP34YPAEMr8fCdpSiYbzcFTb_small.jpg" group-title="FILMES | DOCUMENTÁRIOS",A Conspiração da Vaca: O Segredo da Sustentabilidade
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/1264.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Terra é Plana" tvg-logo="http://vip.primeuhd.com:25461/images/mOJrtSMmUpfFytvxlUEA8hej2At_small.jpg" group-title="FILMES | DOCUMENTÁRIOS",A Terra é Plana
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/3954.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amanda Knox" tvg-logo="http://vip.primeuhd.com:25461/images/1mdW2sL08fMe6jst372t8g9EZRF_small.jpg" group-title="FILMES | DOCUMENTÁRIOS",Amanda Knox
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/1262.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Amigos da Clínica" tvg-logo="http://167.86.94.183:25461/images/i8lsiLjNuEED3yxlmp89s4WAlOp_small.jpg" group-title="FILMES | DOCUMENTÁRIOS",Amigos da Clínica
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/878.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Após o Furacão Maria (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iJpJDEEhe3CfS8U8InfXWbI02CQ.jpg" group-title="FILMES | DOCUMENTÁRIOS",Após o Furacão Maria (2019)
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/7679.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Aventuras no Novo Ártico" tvg-logo="http://vip.primeuhd.com:25461/images/fiaMFMDUxPiDm1tNZ5YoTMbk8Fc_small.jpg" group-title="FILMES | DOCUMENTÁRIOS",Aventuras no Novo Ártico
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/1263.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Blackfish - Furia Animal" tvg-logo="http://vip.primeuhd.com:25461/images/aqAYjUWZyoOjG9mHj380O0kFSxZ_small.jpg" group-title="FILMES | DOCUMENTÁRIOS",Blackfish - Furia Animal
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/7891.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Crise na Siria" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eNfvQKttsz9Gw1veOi05FxeHQRL.jpg" group-title="FILMES | DOCUMENTÁRIOS",Crise na Siria
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/10114.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Democracia em Vertigem (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hrpL7VJW6jHW7cDilpRINLIPzg9.jpg" group-title="FILMES | DOCUMENTÁRIOS",Democracia em Vertigem (2019)
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/9760.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Eles Não Envelhecerão" tvg-logo="http://vip.primeuhd.com:25461/images/xK5aQyY8WED2vzLlsKNAFPVLUaB_small.jpg" group-title="FILMES | DOCUMENTÁRIOS",Eles Não Envelhecerão
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/2082.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Feministas: O Que Elas Estavam Pensando?" tvg-logo="http://vip.primeuhd.com:25461/images/dmSlkxFmbZmhdsvxuVIhgmlPmRK_small.jpg" group-title="FILMES | DOCUMENTÁRIOS",Feministas: O Que Elas Estavam Pensando?
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/1265.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Free Solo" tvg-logo="http://vip.primeuhd.com:25461/images/oQZ4T3638UIZS7JV1SLTdqPmezx_small.jpg" group-title="FILMES | DOCUMENTÁRIOS",Free Solo
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/3956.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Grass is Greener: Baseado em Fatos Raciais" tvg-logo="http://vip.primeuhd.com:25461/images/ogQH7xlfc7C1CC6UUENOi5kLjVE_small.jpg" group-title="FILMES | DOCUMENTÁRIOS",Grass is Greener: Baseado em Fatos Raciais
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/3955.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Minhas Famílias (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Dx1PAOPqwHPESFAAVnRFzGYPjF.jpg" group-title="FILMES | DOCUMENTÁRIOS",Minhas Famílias (2019)
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/4185.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Minimalismo - Um Documentário Sobre Coisas Importantes Legendado" tvg-logo="http://vip.primeuhd.com:25461/images/bDj37y5dzytRDYILXlU3sshPGhv_small.jpg" group-title="FILMES | DOCUMENTÁRIOS",Minimalismo - Um Documentário Sobre Coisas Importantes Legendado
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/3957.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Intestino - O Nosso Segundo Cérebro" tvg-logo="http://vip.primeuhd.com:25461/images/t2lMOMYm8vNDG23MXT4Kf01yFpj_small.jpg" group-title="FILMES | DOCUMENTÁRIOS",O Intestino - O Nosso Segundo Cérebro
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/3958.mkv
+#EXTINF:-1 tvg-id="" tvg-name="O Invasor Americano" tvg-logo="http://vip.primeuhd.com:25461/images/fu3yXLoYtMxbv3NLquCDVLNK35p_small.jpg" group-title="FILMES | DOCUMENTÁRIOS",O Invasor Americano
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/1266.mkv
+#EXTINF:-1 tvg-id="" tvg-name="O Que é Saúde" tvg-logo="http://vip.primeuhd.com:25461/images/sz9cPeSmiGLA1EDUPszlrWfSrId_small.jpg" group-title="FILMES | DOCUMENTÁRIOS",O Que é Saúde
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/1271.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Papa Francisco: Um Homem de Palavra" tvg-logo="http://vip.primeuhd.com:25461/images/4pGMnjyebbDY33AkWqaJbvC5eEo_small.jpg" group-title="FILMES | DOCUMENTÁRIOS",Papa Francisco: Um Homem de Palavra
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/1267.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pegue a Bola, Passe a Bola" tvg-logo="http://vip.primeuhd.com:25461/images/8B8mP53hPGPRCbFm72hcg1wz0RM_small.jpg" group-title="FILMES | DOCUMENTÁRIOS",Pegue a Bola, Passe a Bola
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/1268.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Predadores Perigosos - Os Mais Temidos Dos Oceanos" tvg-logo="http://vip.primeuhd.com:25461/images/uv1XI92F00ERvOridBHoAtszae1_small.jpg" group-title="FILMES | DOCUMENTÁRIOS",Predadores Perigosos - Os Mais Temidos Dos Oceanos
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/3959.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sereias - Novos Indícios" tvg-logo="http://vip.primeuhd.com:25461/images/jz5s7qtBzOQdEME7c3U0t1JDYNz_small.jpg" group-title="FILMES | DOCUMENTÁRIOS",Sereias - Novos Indícios
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/3960.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Seremos História?" tvg-logo="http://vip.primeuhd.com:25461/images/lOu2ETjnndhk89SgqK9lFb3Lb4i_small.jpg" group-title="FILMES | DOCUMENTÁRIOS",Seremos História?
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/1269.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Uma Verdade Mais Inconveniente" tvg-logo="http://vip.primeuhd.com:25461/images/2WauUg4DcUxng5nwhisu7UFZq4Z_small.jpg" group-title="FILMES | DOCUMENTÁRIOS",Uma Verdade Mais Inconveniente
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/1270.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Wig (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rHYJo4528f4KCRbgKgQGYOnaqFx.jpg" group-title="FILMES | DOCUMENTÁRIOS",Wig (2019)
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/10574.mkv
+
+
+
+#########################################################################################################
+
+
+#########################################FILMES | DOCUMENTÁRIOS##########################################
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Cartas para Deus" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xVo3Bm6oGa5CgwLoPbDuBUxYtxU.jpg" group-title="FILMES | DRAMA",Cartas para Deus
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/10099.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cidades de Papel" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h2ru9iUk3Q0pHu4LZSzRxJQFmNd.jpg" group-title="FILMES | DRAMA",Cidades de Papel
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/10085.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Consequências (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rRmIIKq7Dp9LxSrjM5qq0xhcKnz.jpg" group-title="FILMES | DRAMA",Consequências (2019)
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/8809.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Corajosos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6RAMQAgGgy47TuQjvfansXKz7VI.jpg" group-title="FILMES | DRAMA",Corajosos
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/10122.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Corrida Selvagem" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tKamnwAPJ4ANFI6UtfyPpYnZxpB.jpg" group-title="FILMES | DRAMA",Corrida Selvagem
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/10118.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Código de Conduta" tvg-logo="http://167.86.94.183:25461/images/p7zwLp8gCKyrNLCHP3RhmN5izHo_small.jpg" group-title="FILMES | DRAMA",Código de Conduta
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/20.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Demolição" tvg-logo="http://vip.primeuhd.com:25461/images/mPIHDFbwpDAEnyW4yM75ZV2Z2oQ_small.jpg" group-title="FILMES | DRAMA",Demolição
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/7877.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Depois Daquela Montanha" tvg-logo="http://vip.primeuhd.com:25461/images/3XNfYTW4XGscI81nXMSWGsQ8cpu_small.jpg" group-title="FILMES | DRAMA",Depois Daquela Montanha
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/11013.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Elisa e Marcela (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zeiTUo8xhosPHSjuCTZWcK3jmW6.jpg" group-title="FILMES | DRAMA",Elisa e Marcela (2019)
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/8811.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Em Busca da Terra do Nunca" tvg-logo="http://vip.primeuhd.com:25461/images/7VNtGDhKLefRhJWYokfP3hBh0uV_small.jpg" group-title="FILMES | DRAMA",Em Busca da Terra do Nunca
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/1925.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Em Pedaços" tvg-logo="http://167.86.94.183:25461/images/qaLbKxjHaOkY7lT6jmsS1lsRocy_small.jpg" group-title="FILMES | DRAMA",Em Pedaços
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/899.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Entrevista com Deus" tvg-logo="http://vip.primeuhd.com:25461/images/gYPNPhdt8bxio8MLVn2EcupzdAD_small.jpg" group-title="FILMES | DRAMA",Entrevista com Deus
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/2614.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Escobar: A Traição" tvg-logo="http://vip.primeuhd.com:25461/images/xFc8RCsQGQv016ELpggiEKoBNAe_small.jpg" group-title="FILMES | DRAMA",Escobar: A Traição
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/966.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Eu Só Posso Imaginar" tvg-logo="http://vip.primeuhd.com:25461/images/veZszwMZu8d3WMU6TJX9sV5w1Y4_small.jpg" group-title="FILMES | DRAMA",Eu Só Posso Imaginar
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/6679.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Extraordinário" tvg-logo="http://167.86.94.183:25461/images/ouYgAatYH4JzIThj6FI3UYf31RI_small.jpg" group-title="FILMES | DRAMA",Extraordinário
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/905.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fahrenheit 451" tvg-logo="http://167.86.94.183:25461/images/urH9H50gKbUK8U6qTVd89SLQPjx_small.jpg" group-title="FILMES | DRAMA",Fahrenheit 451
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/906.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hip-Hop Beats (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b8P13nIvkkizVBzd2RpegsRt5zP.jpg" group-title="FILMES | DRAMA",Hip-Hop Beats (2019)
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/10570.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Interestelar" tvg-logo="http://vip.primeuhd.com:25461/images/nBNZadXqJSdt05SHLqgT0HuC5Gm_small.jpg" group-title="FILMES | DRAMA",Interestelar
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/1926.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Marcas da Prisao" tvg-logo="http://vip.primeuhd.com:25461/images/4xrcXJDA2v4nAiKIHW2iEfukdve_small.jpg" group-title="FILMES | DRAMA",Marcas da Prisao
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/10988.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Massacre na Ucrânia (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mgHl5QA4LWpxJ4IlAylLeS59HoT.jpg" group-title="FILMES | DRAMA",Massacre na Ucrânia (2017)
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/6719.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Minha Fama de Mau (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uMx8QhEZrnHRjeDUDRAhZyUFiaY.jpg" group-title="FILMES | DRAMA",Minha Fama de Mau (2019)
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/7685.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Minha Primeira Luta" tvg-logo="http://167.86.94.183:25461/images/zwmtK6A7jwriIY0gh0HUgvI1ETA_small.jpg" group-title="FILMES | DRAMA",Minha Primeira Luta
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/915.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mudbound - Lágrimas Sobre o Mississipi" tvg-logo="http://167.86.94.183:25461/images/7cL7UgVMeP9xDSxU2NyAqeAQAbt_small.jpg" group-title="FILMES | DRAMA",Mudbound - Lágrimas Sobre o Mississipi
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/512.mp4
+#EXTINF:-1 tvg-id="" tvg-name="No Coração da Escuridão" tvg-logo="http://167.86.94.183:25461/images/p2UylV0hPefEuWPFMo1r56vu2nb_small.jpg" group-title="FILMES | DRAMA",No Coração da Escuridão
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/985.mp4
+#EXTINF:-1 tvg-id="" tvg-name="No Ritmo da Sedução" tvg-logo="http://167.86.94.183:25461/images/bcRWfy52zCivMslO0noORHtibrN_small.jpg" group-title="FILMES | DRAMA",No Ritmo da Sedução
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/986.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Fotografo de Mauthausen" tvg-logo="http://vip.primeuhd.com:25461/images/1GzwDodNHSQM7Wu8VIbvTmYXJQB_small.jpg" group-title="FILMES | DRAMA",O Fotografo de Mauthausen
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/2088.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Gênio e o Louco (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1B8pVr4bxhA8cHyv4drb6cSqghk.jpg" group-title="FILMES | DRAMA",O Gênio e o Louco (2019)
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/10571.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Heroi" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/hJYaoyVXZeXVRTdSqYYmydZfFzj.jpg" group-title="FILMES | DRAMA",O Heroi
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/11025.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Insulto" tvg-logo="http://167.86.94.183:25461/images/w9mlrckg3ZU2rsAlKUbLD1CgBTk_small.jpg" group-title="FILMES | DRAMA",O Insulto
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/925.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Legado Kennedy" tvg-logo="http://167.86.94.183:25461/images/kkTD7ufZd7AqAnZP5IMnrQXKRpM_small.jpg" group-title="FILMES | DRAMA",O Legado Kennedy
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/294.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Menino que Descobriu o Vento (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jZofpz4gmiH7MQAYWrgvTtdIq3l.jpg" group-title="FILMES | DRAMA",O Menino que Descobriu o Vento (2019)
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/295.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Primeiro Homem" tvg-logo="http://vip.primeuhd.com:25461/images/i91mfvFcPPlaegcbOyjGgiWfZzh_small.jpg" group-title="FILMES | DRAMA",O Primeiro Homem
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/1927.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Protegido" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kXkV3RKsSf49wbSnUerKZFMQORB.jpg" group-title="FILMES | DRAMA",O Protegido
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/10119.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Que Te Faz Mais Forte" tvg-logo="http://vip.primeuhd.com:25461/images/nnkxdFeY7YAgnicxkvwuxY7gVaT_small.jpg" group-title="FILMES | DRAMA",O Que Te Faz Mais Forte
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/11029.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Rei do Show" tvg-logo="http://167.86.94.183:25461/images/b9CeobiihCx1uG1tpw8hXmpi7nm_small.jpg" group-title="FILMES | DRAMA",O Rei do Show
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/529.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Silêncio (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pE0rAuyupUL326JsgG5FwK7a2tb.jpg" group-title="FILMES | DRAMA",O Silêncio (2019)
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/1867.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Soldado de Cristo (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yx2Tgzrq20sMjrX5lLnpi5LZnW.jpg" group-title="FILMES | DRAMA",O Soldado de Cristo (2019)
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/6704.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Túnel" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/xeoy33iYnZs2gFdzY14pG6LoSWW.jpg" group-title="FILMES | DRAMA",O Túnel
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/7671.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Operação Final" tvg-logo="http://167.86.94.183:25461/images/nlIdPeH5IrR1qRErschnVQeZAQu_small.jpg" group-title="FILMES | DRAMA",Operação Final
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/988.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Papillon" tvg-logo="http://167.86.94.183:25461/images/ahF5c6vyP8HWMqIwlhecbRALkjq_small.jpg" group-title="FILMES | DRAMA",Papillon
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/303.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Poderia Me Perdoar?" tvg-logo="http://vip.primeuhd.com:25461/images/hPuZR2bFoV0kuBrA98exWyvTf40_small.jpg" group-title="FILMES | DRAMA",Poderia Me Perdoar?
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/2615.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Projeto Flórida" tvg-logo="http://vip.primeuhd.com:25461/images/bnSTP1PY2fDyat0eUa4QouuGV7F_small.jpg" group-title="FILMES | DRAMA",Projeto Flórida
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/938.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Quando os Anjos Dormem" tvg-logo="http://vip.primeuhd.com:25461/images/zikvJ0XscL7vVeJln0ZagGXw5wY_small.jpg" group-title="FILMES | DRAMA",Quando os Anjos Dormem
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/2616.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Quem Cantará as suas Canções? (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mmV5TX3IYy7NEd6WEHgpnM6VLZx.jpg" group-title="FILMES | DRAMA",Quem Cantará as suas Canções? (2018)
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/237.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Raça e Redenção (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2SZw4eBmDRDGjgG7ACxBdiiKBpO.jpg" group-title="FILMES | DRAMA",Raça e Redenção (2019)
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/9763.avi
+#EXTINF:-1 tvg-id="" tvg-name="Rocketman (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tCfzNtsMVGYVJNsAEgVCBmuXHYF.jpg" group-title="FILMES | DRAMA",Rocketman (2019)
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/10567.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Salvando Leningrado (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5wcVdtdtmYoDxq7eeECR1DmQWnR.jpg" group-title="FILMES | DRAMA",Salvando Leningrado (2019)
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/10572.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SOL DA MEIA NOITE" tvg-logo="http://vip.primeuhd.com:25461/images/bfeMuUduPznPBBPJIkRZzTZwcPs_small.jpg" group-title="FILMES | DRAMA",SOL DA MEIA NOITE
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/9504.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sombras da Vida" tvg-logo="http://vip.primeuhd.com:25461/images/rp5JPIyZi9sMob15l46zNQLe5cO_small.jpg" group-title="FILMES | DRAMA",Sombras da Vida
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/11035.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Superação: O Milagre da Fé (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Pb4LUXQRpnHhKXUwCfeB90ykz7.jpg" group-title="FILMES | DRAMA",Superação: O Milagre da Fé (2019)
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/10568.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Dirt: Confissões do Mötley Crüe (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nnxHnjTP0aev1bxjKN7LRAcHrQe.jpg" group-title="FILMES | DRAMA",The Dirt: Confissões do Mötley Crüe (2019)
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/1419.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Post: A Guerra Secreta" tvg-logo="http://vip.primeuhd.com:25461/images/h4XG3g6uMMPIBPjAoQhC2QIMdkl_small.jpg" group-title="FILMES | DRAMA",The Post: A Guerra Secreta
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/945.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tinta Bruta (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yn1ItLM1iymMqlqSA3Ursv9FAPi.jpg" group-title="FILMES | DRAMA",Tinta Bruta (2019)
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/6707.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Todo o Dinheiro do Mundo" tvg-logo="http://vip.primeuhd.com:25461/images/q6nE9Hf0ezszjI4DbCxwzQ73MMy_small.jpg" group-title="FILMES | DRAMA",Todo o Dinheiro do Mundo
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/946.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Todos Já Sabem" tvg-logo="http://vip.primeuhd.com:25461/images/um7ikmficsPsiOZwp7VkKdSnBs7_small.jpg" group-title="FILMES | DRAMA",Todos Já Sabem
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/7593.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tão Forte Tão Perto" tvg-logo="http://vip.primeuhd.com:25461/images/EEf53z7xAUZzUHA5KVHVVLwgnQ_small.jpg" group-title="FILMES | DRAMA",Tão Forte Tão Perto
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/7878.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vida Dupla" tvg-logo="http://vip.primeuhd.com:25461/images/9xferigjA87Zjzke9LcTbuyDz0w_small.jpg" group-title="FILMES | DRAMA",Vida Dupla
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/7879.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vidro (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d8rvXqqZ3hzrWfFGS47jU7sCx69.jpg" group-title="FILMES | DRAMA",Vidro (2019)
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/2106.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Yonlu" tvg-logo="http://vip.primeuhd.com:25461/images/oqV8kaWOwhR67zpbbxmRmIP5TIR_small.jpg" group-title="FILMES | DRAMA",Yonlu
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/2090.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Árvore de Sangue" tvg-logo="http://vip.primeuhd.com:25461/images/z3GhO9usvGOkGm9Okiym8RyET8t_small.jpg" group-title="FILMES | DRAMA",Árvore de Sangue
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/2613.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ártico" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Xqzvo7KG8oYj9DitvzN3NTI7rS.jpg" group-title="FILMES | DRAMA",Ártico
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/24142.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bonnie & Clyde: Justified" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/faGq4raUDFEKODYHr9Us010N3TL.jpg" group-title="FILMES | DRAMA",Bonnie & Clyde: Justified
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/25537.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sócrates" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3vpt31q4931VVKtulXtfAdH2cbK.jpg" group-title="FILMES | DRAMA",Sócrates
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/26382.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Lei da Noite" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/clr9r0EYddoTjKH6AZXDRji5l6G.jpg" group-title="FILMES | DRAMA",A Lei da Noite
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/26383.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Inimigos Íntimos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8b63u6pfSUqZt0BXgYIxpPLw3SA.jpg" group-title="FILMES | DRAMA",Inimigos Íntimos
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/26384.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Caçadora de Gigantes (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1llJ6a7P4JShSqJtNGnmY8J6YC8.jpg" group-title="FILMES | DRAMA",Caçadora de Gigantes (2018)
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/27314.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Colette (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pGiUIkcTOEn2CwE5CUBFxWkcyxO.jpg" group-title="FILMES | DRAMA",Colette (2018)
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/27315.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Creed II (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qPQFWrLoQYyGxmeBgmpX901Q0mF.jpg" group-title="FILMES | DRAMA",Creed II (2018)
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/27316.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Elle (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aRomjtoVqEZRjDHgLNvtj7c8ixG.jpg" group-title="FILMES | DRAMA",Elle (2016)
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/27317.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Andar Montar Rodeio - A Virada de Amberley (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1QTtPymPoq97vfZ2mVN0siOHUKs.jpg" group-title="FILMES | DRAMA",Andar Montar Rodeio - A Virada de Amberley (2019)
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/27321.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Favorita (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gbpKBgFRQpCi0dIU9Vyh4ZV4DvE.jpg" group-title="FILMES | DRAMA",A Favorita (2018)
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/27332.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Creed: Nascido para Lutar (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mK7bfl9oXTCBSXCdwMRGyOHyTEa.jpg" group-title="FILMES | DRAMA",Creed: Nascido para Lutar (2015)
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/27341.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Gripe (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7fQlPXebfjEqjysW3rv4RyNplih.jpg" group-title="FILMES | DRAMA",A Gripe (2013)
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/27343.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Downton Abbey - O Filme (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lXoUmgHslfmC6kIhy814unBhptx.jpg" group-title="FILMES | DRAMA",Downton Abbey - O Filme (2019)
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/27380.mp4
+#EXTINF:-1 tvg-id="" tvg-name="100 Metros (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xONHMx9skbDotapUuRMOj9huXTq.jpg" group-title="FILMES | DRAMA",100 Metros (2016)
+http://p2prime.xyz:80/movie/cvxvcvcvvc/5DToHNe1wE/28012.mp4

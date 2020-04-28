@@ -3588,8 +3588,6 @@ http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/1303.mp4
 http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/7882.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Contos Macabros 2" tvg-logo="http://vip.primeuhd.com:25461/images/k93d4au1KByYKi6FsE0dLrKWowj_small.jpg" group-title="FILMES | TERROR/SUSPENSE",Contos Macabros 2
 http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/4179.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Contra a Parede" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u57xQrINxJIDjjdG78mHLUOWZsJ.jpg" group-title="FILMES: BRASILEIROS",Contra a Parede
-http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/10126.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Coração Sangrento - 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5n0J1mTicxZgdp1VeKekZQ4EjA3.jpg" group-title="FILMES | TERROR/SUSPENSE",Coração Sangrento - 2015
 http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/11147.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Corra!" tvg-logo="http://vip.primeuhd.com:25461/images/1SwAVYpuLj8KsHxllTF8Dt9dSSX_small.jpg" group-title="FILMES | TERROR/SUSPENSE",Corra!
@@ -3658,16 +3656,12 @@ http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/287.mp4
 http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/2833.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Medo Profundo" tvg-logo="http://167.86.94.183:25461/images/2IgdRUTdHyoI3nFORcnnYEKOGIH_small.jpg" group-title="FILMES | TERROR/SUSPENSE",Medo Profundo
 http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/914.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Megan Leavey" tvg-logo="http://vip.primeuhd.com:25461/images/yq66hYkXFaj2DDqCkF6T2wT7VxQ_small.jpg" group-title="FILMES: GUERRA/MEDIEVAL",Megan Leavey
-http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/513.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Megatubarão" tvg-logo="http://167.86.94.183:25461/images/eyWICPcxOuTcDDDbTMOZawoOn8d_small.jpg" group-title="FILMES | TERROR/SUSPENSE",Megatubarão
 http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/975.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Mentes Sombrias" tvg-logo="http://167.86.94.183:25461/images/94RaS52zmsqaiAe1TG20pdbJCZr_small.jpg" group-title="FILMES | TERROR/SUSPENSE",Mentes Sombrias
 http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/976.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Mercy" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/2hDePrZbde3pmcaXrESANfIJkeL.jpg" group-title="FILMES | TERROR/SUSPENSE",Mercy
 http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/1928.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Meu Amigo Vampiro" tvg-logo="http://vip.primeuhd.com:25461/images/yUyFqkuEUuvtjICy33dqpOLE8Os_small.jpg" group-title="FILMES: INFANTIS",Meu Amigo Vampiro
-http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/11023.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Meu Bebê é o Diabo!" tvg-logo="http://vip.primeuhd.com:25461/images/wUyEk4Q8udCbaTLHGMQWhUqvwfA_small.jpg" group-title="FILMES | TERROR/SUSPENSE",Meu Bebê é o Diabo!
 http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/3881.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Mimic: Não Confie nas Vozes" tvg-logo="http://vip.primeuhd.com:25461/images/wWseLt8PzOgMMzE3Jnoz2PN11NP_small.jpg" group-title="FILMES | TERROR/SUSPENSE",Mimic: Não Confie nas Vozes

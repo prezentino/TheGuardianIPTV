@@ -3644,3 +3644,190 @@ http://p2prime.xyz:80/movie/theguardianp2p/osYN2p3Stg/27342.mp4
 http://p2prime.xyz:80/movie/theguardianp2p/osYN2p3Stg/28014.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Contágio - Epidemia Mortal (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iK0kVIOSOQ4ZAoV3MNTehHnzZEL.jpg" group-title="FILMES | TERROR/SUSPENSE",Contágio - Epidemia Mortal (2015)
 http://p2prime.xyz:80/movie/theguardianp2p/osYN2p3Stg/28015.mp4
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Os Originais S01 E01" tvg-logo="http://vip.primeuhd.com:25461/images/iGBU4N04Vva5XehAQiFHtWHBLQq_small.jpg" group-title="SERIE: OS ORIGINAIS",Os Originais S01 E01
+http://p2prime.xyz:80/series/theguardianp2pp/LPeW07HFRg/13193.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Originais S01 E02" tvg-logo="http://vip.primeuhd.com:25461/images/zsFfApYRZE0FoVohuBwTT9D9ITJ_small.jpg" group-title="SERIE: OS ORIGINAIS",Os Originais S01 E02
+http://p2prime.xyz:80/series/theguardianp2pp/LPeW07HFRg/13194.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Originais S01 E03" tvg-logo="http://vip.primeuhd.com:25461/images/1PYF4I4YFIJFPTM3RLMp5iMWNft_small.jpg" group-title="SERIE: OS ORIGINAIS",Os Originais S01 E03
+http://p2prime.xyz:80/series/theguardianp2pp/LPeW07HFRg/13195.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Originais S01 E04" tvg-logo="http://vip.primeuhd.com:25461/images/mnWAccctSB64lhAKXUmD86uftbP_small.jpg" group-title="SERIE: OS ORIGINAIS",Os Originais S01 E04
+http://p2prime.xyz:80/series/theguardianp2pp/LPeW07HFRg/13196.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Originais S01 E05" tvg-logo="http://vip.primeuhd.com:25461/images/76Zz59oH3WZegce0PJK045mP6N0_small.jpg" group-title="SERIE: OS ORIGINAIS",Os Originais S01 E05
+http://p2prime.xyz:80/series/theguardianp2pp/LPeW07HFRg/13197.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Originais S01 E06" tvg-logo="http://vip.primeuhd.com:25461/images/mFbuwPVLs2icbvcAMyidWvbhtka_small.jpg" group-title="SERIE: OS ORIGINAIS",Os Originais S01 E06
+http://p2prime.xyz:80/series/theguardianp2pp/LPeW07HFRg/13198.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Originais S01 E07" tvg-logo="http://vip.primeuhd.com:25461/images/6cBZpV9jkJCzFy4EsAcCvNHTMZj_small.jpg" group-title="SERIE: OS ORIGINAIS",Os Originais S01 E07
+http://p2prime.xyz:80/series/theguardianp2pp/LPeW07HFRg/13199.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Originais S01 E08" tvg-logo="http://vip.primeuhd.com:25461/images/hBtfy6tiZN3ZZh6CUuZ6gXxKkDw_small.jpg" group-title="SERIE: OS ORIGINAIS",Os Originais S01 E08
+http://p2prime.xyz:80/series/theguardianp2pp/LPeW07HFRg/13200.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Originais S01 E09" tvg-logo="http://vip.primeuhd.com:25461/images/41eLaF0TmTqp1hTZc4j0tyStXHi_small.jpg" group-title="SERIE: OS ORIGINAIS",Os Originais S01 E09
+http://p2prime.xyz:80/series/theguardianp2pp/LPeW07HFRg/13201.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Originais S01 E10" tvg-logo="http://vip.primeuhd.com:25461/images/QUmUYLmgOZ40jYT2ReZdwxshBt_small.jpg" group-title="SERIE: OS ORIGINAIS",Os Originais S01 E10
+http://p2prime.xyz:80/series/theguardianp2pp/LPeW07HFRg/13202.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Originais S01 E11" tvg-logo="http://vip.primeuhd.com:25461/images/eV9dxAZLXnhlj44Zu6yYy4QdEsd_small.jpg" group-title="SERIE: OS ORIGINAIS",Os Originais S01 E11
+http://p2prime.xyz:80/series/theguardianp2pp/LPeW07HFRg/13203.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Originais S01 E12" tvg-logo="http://vip.primeuhd.com:25461/images/u9lsoCen2xEcnaBw2iJ2u4w5XUD_small.jpg" group-title="SERIE: OS ORIGINAIS",Os Originais S01 E12
+http://p2prime.xyz:80/series/theguardianp2pp/LPeW07HFRg/13204.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Originais S01 E13" tvg-logo="http://vip.primeuhd.com:25461/images/nOhbbyl9mGOcvPiroXYolOsxAV_small.jpg" group-title="SERIE: OS ORIGINAIS",Os Originais S01 E13
+http://p2prime.xyz:80/series/theguardianp2pp/LPeW07HFRg/13205.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Originais S01 E14" tvg-logo="http://vip.primeuhd.com:25461/images/sEecHs60ixAFk7FzZU6QhmVscmL_small.jpg" group-title="SERIE: OS ORIGINAIS",Os Originais S01 E14
+http://p2prime.xyz:80/series/theguardianp2pp/LPeW07HFRg/13206.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Originais S01 E15" tvg-logo="http://vip.primeuhd.com:25461/images/cBBt0YlzRy0GsJw4nBbhPOoOo4t_small.jpg" group-title="SERIE: OS ORIGINAIS",Os Originais S01 E15
+http://p2prime.xyz:80/series/theguardianp2pp/LPeW07HFRg/13207.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Originais S01 E16" tvg-logo="http://vip.primeuhd.com:25461/images/dj8iLErDdGBVjpqlLeUEmjlqXOU_small.jpg" group-title="SERIE: OS ORIGINAIS",Os Originais S01 E16
+http://p2prime.xyz:80/series/theguardianp2pp/LPeW07HFRg/13208.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Originais S01 E17" tvg-logo="http://vip.primeuhd.com:25461/images/fxJTMEQZ8AXBZOyLA93JUhRMNqb_small.jpg" group-title="SERIE: OS ORIGINAIS",Os Originais S01 E17
+http://p2prime.xyz:80/series/theguardianp2pp/LPeW07HFRg/13209.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Originais S01 E18" tvg-logo="http://vip.primeuhd.com:25461/images/2oJy2vORmpFFqseoq1rPRa2svRs_small.jpg" group-title="SERIE: OS ORIGINAIS",Os Originais S01 E18
+http://p2prime.xyz:80/series/theguardianp2pp/LPeW07HFRg/13210.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Originais S01 E19" tvg-logo="http://vip.primeuhd.com:25461/images/li0Zq8aMIj4XqNgJFBngayO1Thy_small.jpg" group-title="SERIE: OS ORIGINAIS",Os Originais S01 E19
+http://p2prime.xyz:80/series/theguardianp2pp/LPeW07HFRg/13211.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Originais S01 E20" tvg-logo="http://vip.primeuhd.com:25461/images/cs5HWzUvqcFlIwtCw31W1vk1JQv_small.jpg" group-title="SERIE: OS ORIGINAIS",Os Originais S01 E20
+http://p2prime.xyz:80/series/theguardianp2pp/LPeW07HFRg/13212.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Originais S01 E21" tvg-logo="http://vip.primeuhd.com:25461/images/dhd2EAoIMFHRPGsFcNW7DRlxNsM_small.jpg" group-title="SERIE: OS ORIGINAIS",Os Originais S01 E21
+http://p2prime.xyz:80/series/theguardianp2pp/LPeW07HFRg/13213.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Originais S01 E22" tvg-logo="http://vip.primeuhd.com:25461/images/tFnjxlHovm0dkJksHdB2PfA3qHM_small.jpg" group-title="SERIE: OS ORIGINAIS",Os Originais S01 E22
+http://p2prime.xyz:80/series/theguardianp2pp/LPeW07HFRg/13214.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Originais S02 E01" tvg-logo="http://vip.primeuhd.com:25461/images/3LhcZUVe3lFdPAR0UI6m8RCcuxu_small.jpg" group-title="SERIE: OS ORIGINAIS",Os Originais S02 E01
+http://p2prime.xyz:80/series/theguardianp2pp/LPeW07HFRg/13215.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Originais S02 E02" tvg-logo="http://vip.primeuhd.com:25461/images/dliSxIFf0seLqzD4m5lFAaEQR3o_small.jpg" group-title="SERIE: OS ORIGINAIS",Os Originais S02 E02
+http://p2prime.xyz:80/series/theguardianp2pp/LPeW07HFRg/13216.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Originais S02 E03" tvg-logo="http://vip.primeuhd.com:25461/images/kDm9sC5ph5dz2zcSkDrOXv0a8pM_small.jpg" group-title="SERIE: OS ORIGINAIS",Os Originais S02 E03
+http://p2prime.xyz:80/series/theguardianp2pp/LPeW07HFRg/13217.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Originais S02 E04" tvg-logo="http://vip.primeuhd.com:25461/images/xtO9ir0UjCAkoTNmccFzMeO8Nij_small.jpg" group-title="SERIE: OS ORIGINAIS",Os Originais S02 E04
+http://p2prime.xyz:80/series/theguardianp2pp/LPeW07HFRg/13218.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Originais S02 E05" tvg-logo="http://vip.primeuhd.com:25461/images/zwo1igSzFKqBOCqWnGUexfqJ1hj_small.jpg" group-title="SERIE: OS ORIGINAIS",Os Originais S02 E05
+http://p2prime.xyz:80/series/theguardianp2pp/LPeW07HFRg/13219.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Originais S02 E06" tvg-logo="http://vip.primeuhd.com:25461/images/vIE00PUzsaXhWaU8gfXvY5WWBid_small.jpg" group-title="SERIE: OS ORIGINAIS",Os Originais S02 E06
+http://p2prime.xyz:80/series/theguardianp2pp/LPeW07HFRg/13220.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Originais S02 E07" tvg-logo="http://vip.primeuhd.com:25461/images/n8vUEPyDjvenb1odDVWJ0fkTh3d_small.jpg" group-title="SERIE: OS ORIGINAIS",Os Originais S02 E07
+http://p2prime.xyz:80/series/theguardianp2pp/LPeW07HFRg/13221.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Originais S02 E08" tvg-logo="http://vip.primeuhd.com:25461/images/g9PSo84oNhXItn7G1ih7PtygVo3_small.jpg" group-title="SERIE: OS ORIGINAIS",Os Originais S02 E08
+http://p2prime.xyz:80/series/theguardianp2pp/LPeW07HFRg/13222.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Originais S02 E09" tvg-logo="http://vip.primeuhd.com:25461/images/eECXjxOimBCQ2HHHf8QlHfrq7jF_small.jpg" group-title="SERIE: OS ORIGINAIS",Os Originais S02 E09
+http://p2prime.xyz:80/series/theguardianp2pp/LPeW07HFRg/13223.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Originais S02 E10" tvg-logo="http://vip.primeuhd.com:25461/images/6aqxqIK0xiU7Rgu9UgWI9aKesX3_small.jpg" group-title="SERIE: OS ORIGINAIS",Os Originais S02 E10
+http://p2prime.xyz:80/series/theguardianp2pp/LPeW07HFRg/13224.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Originais S02 E11" tvg-logo="http://vip.primeuhd.com:25461/images/lEWpXGnymp3vhXQ5WQTmEYNqhqY_small.jpg" group-title="SERIE: OS ORIGINAIS",Os Originais S02 E11
+http://p2prime.xyz:80/series/theguardianp2pp/LPeW07HFRg/13225.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Originais S02 E12" tvg-logo="http://vip.primeuhd.com:25461/images/1Hx6FaW0x3TgzotJW0MLXRgxv6h_small.jpg" group-title="SERIE: OS ORIGINAIS",Os Originais S02 E12
+http://p2prime.xyz:80/series/theguardianp2pp/LPeW07HFRg/13226.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Originais S02 E13" tvg-logo="http://vip.primeuhd.com:25461/images/73bXYbO6wGjYVz2Il5fNz7H7x9h_small.jpg" group-title="SERIE: OS ORIGINAIS",Os Originais S02 E13
+http://p2prime.xyz:80/series/theguardianp2pp/LPeW07HFRg/13227.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Originais S02 E14" tvg-logo="http://vip.primeuhd.com:25461/images/qUJW66ENjib1oSd3HZhj8RSEVZv_small.jpg" group-title="SERIE: OS ORIGINAIS",Os Originais S02 E14
+http://p2prime.xyz:80/series/theguardianp2pp/LPeW07HFRg/13228.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Originais S02 E15" tvg-logo="http://vip.primeuhd.com:25461/images/o0xIQ3omHtPPicTEqbXYds7RmaX_small.jpg" group-title="SERIE: OS ORIGINAIS",Os Originais S02 E15
+http://p2prime.xyz:80/series/theguardianp2pp/LPeW07HFRg/13229.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Originais S02 E16" tvg-logo="http://vip.primeuhd.com:25461/images/d6ae1utwWRhuSPXEMPVw3Wueqws_small.jpg" group-title="SERIE: OS ORIGINAIS",Os Originais S02 E16
+http://p2prime.xyz:80/series/theguardianp2pp/LPeW07HFRg/13230.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Originais S02 E17" tvg-logo="http://vip.primeuhd.com:25461/images/yaAV3MQLqsncKEVNxP33zX7Tg1p_small.jpg" group-title="SERIE: OS ORIGINAIS",Os Originais S02 E17
+http://p2prime.xyz:80/series/theguardianp2pp/LPeW07HFRg/13231.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Originais S02 E18" tvg-logo="http://vip.primeuhd.com:25461/images/70wzKCnqOE64qaZaKlJckrOxkuS_small.jpg" group-title="SERIE: OS ORIGINAIS",Os Originais S02 E18
+http://p2prime.xyz:80/series/theguardianp2pp/LPeW07HFRg/13232.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Originais S02 E19" tvg-logo="http://vip.primeuhd.com:25461/images/4n6s0Hs7Si4bFgyalAW8GiXGXEl_small.jpg" group-title="SERIE: OS ORIGINAIS",Os Originais S02 E19
+http://p2prime.xyz:80/series/theguardianp2pp/LPeW07HFRg/13233.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Originais S02 E20" tvg-logo="http://vip.primeuhd.com:25461/images/xRnvZk7io7ZgxWBrm3yi7cPPBVs_small.jpg" group-title="SERIE: OS ORIGINAIS",Os Originais S02 E20
+http://p2prime.xyz:80/series/theguardianp2pp/LPeW07HFRg/13234.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Originais S02 E21" tvg-logo="http://vip.primeuhd.com:25461/images/nhASFa1FlE5ZC98xDwxdSvVQEXX_small.jpg" group-title="SERIE: OS ORIGINAIS",Os Originais S02 E21
+http://p2prime.xyz:80/series/theguardianp2pp/LPeW07HFRg/13235.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Originais S02 E22" tvg-logo="http://vip.primeuhd.com:25461/images/qHLtvhm9MjGdE9JvMNcZOssMvFT_small.jpg" group-title="SERIE: OS ORIGINAIS",Os Originais S02 E22
+http://p2prime.xyz:80/series/theguardianp2pp/LPeW07HFRg/13236.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Originais S03 E01" tvg-logo="http://vip.primeuhd.com:25461/images/edUS5PWgQ2c4HKj4IUeXZUpcwh3_small.jpg" group-title="SERIE: OS ORIGINAIS",Os Originais S03 E01
+http://p2prime.xyz:80/series/theguardianp2pp/LPeW07HFRg/13237.avi
+#EXTINF:-1 tvg-id="" tvg-name="Os Originais S03 E02" tvg-logo="http://vip.primeuhd.com:25461/images/ur5kEaO3PQZQqzftQUOLb4ydzIS_small.jpg" group-title="SERIE: OS ORIGINAIS",Os Originais S03 E02
+http://p2prime.xyz:80/series/theguardianp2pp/LPeW07HFRg/13238.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Originais S03 E03" tvg-logo="http://vip.primeuhd.com:25461/images/3Xn7th3JU6Oz3uBYyDrG70UmGZ3_small.jpg" group-title="SERIE: OS ORIGINAIS",Os Originais S03 E03
+http://p2prime.xyz:80/series/theguardianp2pp/LPeW07HFRg/13239.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Originais S03 E04" tvg-logo="http://vip.primeuhd.com:25461/images/ws0ViLKPhzdFXbtzgaMk85ILE6E_small.jpg" group-title="SERIE: OS ORIGINAIS",Os Originais S03 E04
+http://p2prime.xyz:80/series/theguardianp2pp/LPeW07HFRg/13240.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Originais S03 E05" tvg-logo="http://vip.primeuhd.com:25461/images/wwmUtQLddiguEhTTrvXnwVrCFx_small.jpg" group-title="SERIE: OS ORIGINAIS",Os Originais S03 E05
+http://p2prime.xyz:80/series/theguardianp2pp/LPeW07HFRg/13241.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Originais S03 E06" tvg-logo="http://vip.primeuhd.com:25461/images/dVpDKj1elytN9NlqRP5CNHyRmoG_small.jpg" group-title="SERIE: OS ORIGINAIS",Os Originais S03 E06
+http://p2prime.xyz:80/series/theguardianp2pp/LPeW07HFRg/13242.avi
+#EXTINF:-1 tvg-id="" tvg-name="Os Originais S03 E07" tvg-logo="http://vip.primeuhd.com:25461/images/z5ii8DWKvhTewlb51NAuZT2LL6M_small.jpg" group-title="SERIE: OS ORIGINAIS",Os Originais S03 E07
+http://p2prime.xyz:80/series/theguardianp2pp/LPeW07HFRg/13243.avi
+#EXTINF:-1 tvg-id="" tvg-name="Os Originais S03 E08" tvg-logo="http://vip.primeuhd.com:25461/images/sARt9XuFojtU3FWYcs410IErDvy_small.jpg" group-title="SERIE: OS ORIGINAIS",Os Originais S03 E08
+http://p2prime.xyz:80/series/theguardianp2pp/LPeW07HFRg/13244.avi
+#EXTINF:-1 tvg-id="" tvg-name="Os Originais S03 E09" tvg-logo="http://vip.primeuhd.com:25461/images/nSTFSEbXFkbVkVZbAffWAvwH3GE_small.jpg" group-title="SERIE: OS ORIGINAIS",Os Originais S03 E09
+http://p2prime.xyz:80/series/theguardianp2pp/LPeW07HFRg/13245.avi
+#EXTINF:-1 tvg-id="" tvg-name="Os Originais S03 E10" tvg-logo="http://vip.primeuhd.com:25461/images/bdfe4aOBpjwWPoC2IiPPDfIeesT_small.jpg" group-title="SERIE: OS ORIGINAIS",Os Originais S03 E10
+http://p2prime.xyz:80/series/theguardianp2pp/LPeW07HFRg/13246.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Os Originais S03 E11" tvg-logo="http://vip.primeuhd.com:25461/images/zPmbuX6g9DePKD3ziYu0nqBhOel_small.jpg" group-title="SERIE: OS ORIGINAIS",Os Originais S03 E11
+http://p2prime.xyz:80/series/theguardianp2pp/LPeW07HFRg/13247.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Os Originais S03 E12" tvg-logo="http://vip.primeuhd.com:25461/images/3y5zxE91nwCTmUF35TMdOX4hLfj_small.jpg" group-title="SERIE: OS ORIGINAIS",Os Originais S03 E12
+http://p2prime.xyz:80/series/theguardianp2pp/LPeW07HFRg/13248.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Os Originais S03 E13" tvg-logo="http://vip.primeuhd.com:25461/images/9GnNsJ2IgUJkk6mWrqsBpGQUwiI_small.jpg" group-title="SERIE: OS ORIGINAIS",Os Originais S03 E13
+http://p2prime.xyz:80/series/theguardianp2pp/LPeW07HFRg/13249.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Os Originais S03 E14" tvg-logo="http://vip.primeuhd.com:25461/images/482TD0Za6zoV18J9egx1OHS5yz3_small.jpg" group-title="SERIE: OS ORIGINAIS",Os Originais S03 E14
+http://p2prime.xyz:80/series/theguardianp2pp/LPeW07HFRg/13250.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Os Originais S03 E15" tvg-logo="http://vip.primeuhd.com:25461/images/z1RAsATKSPgLg7y1HMp420tUvSx_small.jpg" group-title="SERIE: OS ORIGINAIS",Os Originais S03 E15
+http://p2prime.xyz:80/series/theguardianp2pp/LPeW07HFRg/13251.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Os Originais S03 E16" tvg-logo="http://vip.primeuhd.com:25461/images/cChtcGESf9zrlvxs4mg0pJ6F0nC_small.jpg" group-title="SERIE: OS ORIGINAIS",Os Originais S03 E16
+http://p2prime.xyz:80/series/theguardianp2pp/LPeW07HFRg/13252.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Os Originais S03 E17" tvg-logo="http://vip.primeuhd.com:25461/images/9gu8jrM8XYSpWKWypUENgry8ZxP_small.jpg" group-title="SERIE: OS ORIGINAIS",Os Originais S03 E17
+http://p2prime.xyz:80/series/theguardianp2pp/LPeW07HFRg/13253.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Os Originais S03 E18" tvg-logo="http://vip.primeuhd.com:25461/images/yTAH5fHUGuSVfWJc6JD8sJN2kgs_small.jpg" group-title="SERIE: OS ORIGINAIS",Os Originais S03 E18
+http://p2prime.xyz:80/series/theguardianp2pp/LPeW07HFRg/13254.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Os Originais S03 E19" tvg-logo="http://vip.primeuhd.com:25461/images/10MDOl5XeQ59CDGqE8bB9CaZ2MZ_small.jpg" group-title="SERIE: OS ORIGINAIS",Os Originais S03 E19
+http://p2prime.xyz:80/series/theguardianp2pp/LPeW07HFRg/13255.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Os Originais S03 E20" tvg-logo="http://vip.primeuhd.com:25461/images/hO5MnwvbeTiVJo3HhKwxFDRVGiZ_small.jpg" group-title="SERIE: OS ORIGINAIS",Os Originais S03 E20
+http://p2prime.xyz:80/series/theguardianp2pp/LPeW07HFRg/13256.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Os Originais S03 E21" tvg-logo="http://vip.primeuhd.com:25461/images/icXDZcBiCvxPApZk5TMttst058M_small.jpg" group-title="SERIE: OS ORIGINAIS",Os Originais S03 E21
+http://p2prime.xyz:80/series/theguardianp2pp/LPeW07HFRg/13257.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Os Originais S03 E22" tvg-logo="http://vip.primeuhd.com:25461/images/dUkqhwHLVQTG9TrvWauBfZLZ7BG_small.jpg" group-title="SERIE: OS ORIGINAIS",Os Originais S03 E22
+http://p2prime.xyz:80/series/theguardianp2pp/LPeW07HFRg/13258.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Os Originais S04 E01" tvg-logo="http://vip.primeuhd.com:25461/images/e0pwSYdYfE9If8Sy2GOmcMxk1ra_small.jpg" group-title="SERIE: OS ORIGINAIS",Os Originais S04 E01
+http://p2prime.xyz:80/series/theguardianp2pp/LPeW07HFRg/13259.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Os Originais S04 E02" tvg-logo="http://vip.primeuhd.com:25461/images/bBg9NV23ZkcXXXMf2mFxB3VdIKB_small.jpg" group-title="SERIE: OS ORIGINAIS",Os Originais S04 E02
+http://p2prime.xyz:80/series/theguardianp2pp/LPeW07HFRg/13260.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Os Originais S04 E03" tvg-logo="http://vip.primeuhd.com:25461/images/3Libd1K1jcr6a2VQdCJj5kF0Gtp_small.jpg" group-title="SERIE: OS ORIGINAIS",Os Originais S04 E03
+http://p2prime.xyz:80/series/theguardianp2pp/LPeW07HFRg/13261.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Os Originais S04 E04" tvg-logo="http://vip.primeuhd.com:25461/images/eKJcrYj3moPv9dv8ZqgmijGIF13_small.jpg" group-title="SERIE: OS ORIGINAIS",Os Originais S04 E04
+http://p2prime.xyz:80/series/theguardianp2pp/LPeW07HFRg/13262.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Os Originais S04 E05" tvg-logo="http://vip.primeuhd.com:25461/images/ez3WrI3OaSmyfkDcfZkRMdvHXhX_small.jpg" group-title="SERIE: OS ORIGINAIS",Os Originais S04 E05
+http://p2prime.xyz:80/series/theguardianp2pp/LPeW07HFRg/13263.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Os Originais S04 E06" tvg-logo="http://vip.primeuhd.com:25461/images/dvFKf0mzdtPuYaU3Yo7A5F97Pra_small.jpg" group-title="SERIE: OS ORIGINAIS",Os Originais S04 E06
+http://p2prime.xyz:80/series/theguardianp2pp/LPeW07HFRg/13264.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Os Originais S04 E07" tvg-logo="http://vip.primeuhd.com:25461/images/gSV2KZllKFCkoV3D2hlBBJQYLxc_small.jpg" group-title="SERIE: OS ORIGINAIS",Os Originais S04 E07
+http://p2prime.xyz:80/series/theguardianp2pp/LPeW07HFRg/13265.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Os Originais S04 E08" tvg-logo="http://vip.primeuhd.com:25461/images/xljBaYi9QDr3iqGutUjJl1OFUfH_small.jpg" group-title="SERIE: OS ORIGINAIS",Os Originais S04 E08
+http://p2prime.xyz:80/series/theguardianp2pp/LPeW07HFRg/13266.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Os Originais S04 E09" tvg-logo="http://vip.primeuhd.com:25461/images/xmFgVkz60gUtJZLDoxtcdalWbav_small.jpg" group-title="SERIE: OS ORIGINAIS",Os Originais S04 E09
+http://p2prime.xyz:80/series/theguardianp2pp/LPeW07HFRg/13267.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Os Originais S04 E10" tvg-logo="http://vip.primeuhd.com:25461/images/sYpcsQ4KrtXMK9JC6JFa96qSEFv_small.jpg" group-title="SERIE: OS ORIGINAIS",Os Originais S04 E10
+http://p2prime.xyz:80/series/theguardianp2pp/LPeW07HFRg/13268.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Os Originais S04 E11" tvg-logo="http://vip.primeuhd.com:25461/images/mrXaRxPDU1qrRWS0rJQUZoX155b_small.jpg" group-title="SERIE: OS ORIGINAIS",Os Originais S04 E11
+http://p2prime.xyz:80/series/theguardianp2pp/LPeW07HFRg/13269.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Os Originais S04 E12" tvg-logo="http://vip.primeuhd.com:25461/images/6vD2hVHdxZKxayjktLM1vhhaKjM_small.jpg" group-title="SERIE: OS ORIGINAIS",Os Originais S04 E12
+http://p2prime.xyz:80/series/theguardianp2pp/LPeW07HFRg/13270.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Os Originais S04 E13" tvg-logo="http://vip.primeuhd.com:25461/images/zlgm80YwDFZB9nDf9NVbj24Jp9f_small.jpg" group-title="SERIE: OS ORIGINAIS",Os Originais S04 E13
+http://p2prime.xyz:80/series/theguardianp2pp/LPeW07HFRg/13271.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Os Originais S05 E01" tvg-logo="http://vip.primeuhd.com:25461/images/5l8Hazml9IQzYwtMWQOYa7yjigt_small.jpg" group-title="SERIE: OS ORIGINAIS",Os Originais S05 E01
+http://p2prime.xyz:80/series/theguardianp2pp/LPeW07HFRg/13272.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Os Originais S05 E02" tvg-logo="http://vip.primeuhd.com:25461/images/jibPRUCrb6sF9aNe5hDGiNJsmZo_small.jpg" group-title="SERIE: OS ORIGINAIS",Os Originais S05 E02
+http://p2prime.xyz:80/series/theguardianp2pp/LPeW07HFRg/13273.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Os Originais S05 E03" tvg-logo="http://vip.primeuhd.com:25461/images/43HoPliKT6RqN7wUTt42pGMW6VT_small.jpg" group-title="SERIE: OS ORIGINAIS",Os Originais S05 E03
+http://p2prime.xyz:80/series/theguardianp2pp/LPeW07HFRg/13274.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Os Originais S05 E04" tvg-logo="http://vip.primeuhd.com:25461/images/62WctgGfZQHwBgVqh3O5oW9flXl_small.jpg" group-title="SERIE: OS ORIGINAIS",Os Originais S05 E04
+http://p2prime.xyz:80/series/theguardianp2pp/LPeW07HFRg/13275.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Os Originais S05 E05" tvg-logo="http://vip.primeuhd.com:25461/images/qKSDMB3vUR6kVBWSMFdp6BpTFUU_small.jpg" group-title="SERIE: OS ORIGINAIS",Os Originais S05 E05
+http://p2prime.xyz:80/series/theguardianp2pp/LPeW07HFRg/13276.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Os Originais S05 E06" tvg-logo="http://vip.primeuhd.com:25461/images/eQb0xu3B35UASHuhmjWYLiMdLFJ_small.jpg" group-title="SERIE: OS ORIGINAIS",Os Originais S05 E06
+http://p2prime.xyz:80/series/theguardianp2pp/LPeW07HFRg/13277.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Os Originais S05 E07" tvg-logo="http://vip.primeuhd.com:25461/images/pgWOAqSAjEEMnVfw5MIlP1ovrZQ_small.jpg" group-title="SERIE: OS ORIGINAIS",Os Originais S05 E07
+http://p2prime.xyz:80/series/theguardianp2pp/LPeW07HFRg/13278.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Os Originais S05 E08" tvg-logo="http://vip.primeuhd.com:25461/images/gS99YbEpn6yvYSxcVNB4UhGE5u8_small.jpg" group-title="SERIE: OS ORIGINAIS",Os Originais S05 E08
+http://p2prime.xyz:80/series/theguardianp2pp/LPeW07HFRg/13279.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Os Originais S05 E09" tvg-logo="http://vip.primeuhd.com:25461/images/t3CZyq68STwxqim6o3xwX42KETp_small.jpg" group-title="SERIE: OS ORIGINAIS",Os Originais S05 E09
+http://p2prime.xyz:80/series/theguardianp2pp/LPeW07HFRg/13280.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Os Originais S05 E10" tvg-logo="http://vip.primeuhd.com:25461/images/psueBmG3r0MMa1TGY5dXx9YL1s3_small.jpg" group-title="SERIE: OS ORIGINAIS",Os Originais S05 E10
+http://p2prime.xyz:80/series/theguardianp2pp/LPeW07HFRg/13281.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Os Originais S05 E11" tvg-logo="http://vip.primeuhd.com:25461/images/hlS3qkjt5evlmnFGpZBnQ9uQFuC_small.jpg" group-title="SERIE: OS ORIGINAIS",Os Originais S05 E11
+http://p2prime.xyz:80/series/theguardianp2pp/LPeW07HFRg/13282.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Os Originais S05 E12" tvg-logo="http://vip.primeuhd.com:25461/images/a8SZjTpo7peoy0bJH5xTvnZ6N0N_small.jpg" group-title="SERIE: OS ORIGINAIS",Os Originais S05 E12
+http://p2prime.xyz:80/series/theguardianp2pp/LPeW07HFRg/13283.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Os Originais S05 E13" tvg-logo="http://vip.primeuhd.com:25461/images/jWuQBupM4JPXpnPsBYGnWjHdoNl_small.jpg" group-title="SERIE: OS ORIGINAIS",Os Originais S05 E13
+http://p2prime.xyz:80/series/theguardianp2pp/LPeW07HFRg/13284.mkv

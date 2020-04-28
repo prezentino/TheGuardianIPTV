@@ -626,43 +626,43 @@ http://canais.servidor.tv:8080/nmbh74/9hjkek/2703
 #########################################CANAIS GLOBO####################################################
 
 
-#EXTINF:-1 tvg-logo="http://z4.vc/xDI" aspect-ratio="16:9" group-title="",HBO HD
+#EXTINF:-1 tvg-logo="http://z4.vc/xDI" aspect-ratio="16:9" group-title="Canais | HBO",HBO HD
 http://purpleserver.net:80/yVsbHSZR/QMVU3CuC/18773
 
 
-#EXTINF:-1 tvg-logo="http://z4.vc/xDI" aspect-ratio="16:9" group-title="",HBO HD+
+#EXTINF:-1 tvg-logo="http://z4.vc/xDI" aspect-ratio="16:9" group-title="Canais | HBO",HBO HD+
 http://canais.servidor.tv:8080/nmbh74/9hjkek/227
 
 
-#EXTINF:-1 tvg-logo="http://z4.vc/jVz" aspect-ratio="16:9" group-title="",HBO 2 HD
+#EXTINF:-1 tvg-logo="http://z4.vc/jVz" aspect-ratio="16:9" group-title="Canais | HBO",HBO 2 HD
 http://canais.servidor.tv:8080/nmbh74/9hjkek/1460
 
 
-#EXTINF:-1 tvg-logo="http://z4.vc/jVz" aspect-ratio="16:9" group-title="",HBO 2 HD+
+#EXTINF:-1 tvg-logo="http://z4.vc/jVz" aspect-ratio="16:9" group-title="Canais | HBO",HBO 2 HD+
 http://canais.servidor.tv:8080/nmbh74/9hjkek/231
 
 
-#EXTINF:-1 tvg-logo="http://z4.vc/VUR" aspect-ratio="16:9" group-title="",HBO Family HD
+#EXTINF:-1 tvg-logo="http://z4.vc/VUR" aspect-ratio="16:9" group-title="Canais | HBO",HBO Family HD
 http://canais.servidor.tv:8080/nmbh74/9hjkek/1464
 
 
-#EXTINF:-1 tvg-logo="http://z4.vc/VUR" aspect-ratio="16:9" group-title="",HBO Family HD+
+#EXTINF:-1 tvg-logo="http://z4.vc/VUR" aspect-ratio="16:9" group-title="Canais | HBO",HBO Family HD+
 http://canais.servidor.tv:8080/nmbh74/9hjkek/229
 
 
-#EXTINF:-1 tvg-logo="http://z4.vc/YOR" aspect-ratio="16:9" group-title="",HBO Plus HD
+#EXTINF:-1 tvg-logo="http://z4.vc/YOR" aspect-ratio="16:9" group-title="Canais | HBO",HBO Plus HD
 http://canais.servidor.tv:8080/nmbh74/9hjkek/1462
 
 
-#EXTINF:-1 tvg-logo="http://z4.vc/YOR" aspect-ratio="16:9" group-title="",HBO Plus HD+
+#EXTINF:-1 tvg-logo="http://z4.vc/YOR" aspect-ratio="16:9" group-title="Canais | HBO",HBO Plus HD+
 http://canais.servidor.tv:8080/nmbh74/9hjkek/226
 
 
-#EXTINF:-1 tvg-logo="http://z4.vc/97M" aspect-ratio="16:9" group-title="",HBO Signature HD
+#EXTINF:-1 tvg-logo="http://z4.vc/97M" aspect-ratio="16:9" group-title="Canais | HBO",HBO Signature HD
 http://canais.servidor.tv:8080/nmbh74/9hjkek/1461
 
 
-#EXTINF:-1 tvg-logo="http://z4.vc/97M" aspect-ratio="16:9" group-title="",HBO Signature HD+
+#EXTINF:-1 tvg-logo="http://z4.vc/97M" aspect-ratio="16:9" group-title="Canais | HBO",HBO Signature HD+
 http://canais.servidor.tv:8080/nmbh74/9hjkek/224
 
 

@@ -429,208 +429,217 @@ http://canais.servidor.tv:8080/nmbh74/9hjkek/1430
 http://canais.servidor.tv:8080/nmbh74/9hjkek/61
 
 
-#EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="",
 
+#########################################################################################################
 
 
-#EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="",
 
+#########################################CANAIS GLOBO####################################################
 
 
-#EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="",
 
+#EXTINF:-1 tvg-logo="http://z4.vc/aZb" aspect-ratio="16:9" group-title="Canais | Globo",Globo Bahia HD+
+http://canais.servidor.tv:8080/nmbh74/9hjkek/2707
 
 
-#EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="",
+#EXTINF:-1 tvg-logo="http://z4.vc/aZb" aspect-ratio="16:9" group-title="Canais | Globo",Globo Bahia SD
+http://canais.servidor.tv:8080/nmbh74/9hjkek/260
 
 
+#EXTINF:-1 tvg-logo="http://z4.vc/aZb" aspect-ratio="16:9" group-title="Canais | Globo",Globo Brasilia HD
+http://canais.servidor.tv:8080/nmbh74/9hjkek/291
 
-#EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="",
 
+#EXTINF:-1 tvg-logo="http://z4.vc/aZb" aspect-ratio="16:9" group-title="Canais | Globo",Globo Centro America HD+
+http://canais.servidor.tv:8080/nmbh74/9hjkek/2712
 
 
-#EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="",
+#EXTINF:-1 tvg-logo="http://z4.vc/aZb" aspect-ratio="16:9" group-title="Canais | Globo",Globo EPTV Campinas HD
+http://canais.servidor.tv:8080/nmbh74/9hjkek/289
 
 
+#EXTINF:-1 tvg-logo="http://z4.vc/aZb" aspect-ratio="16:9" group-title="Canais | Globo",Globo EPTV Campinas HD+
+http://canais.servidor.tv:8080/nmbh74/9hjkek/2711
 
-#EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="",
 
+#EXTINF:-1 tvg-logo="http://z4.vc/aZb" aspect-ratio="16:9" group-title="Canais | Globo",Globo EPTV Ribeirão Preto HD
+http://canais.servidor.tv:8080/nmbh74/9hjkek/287
 
 
-#EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="",
+#EXTINF:-1 tvg-logo="http://z4.vc/aZb" aspect-ratio="16:9" group-title="Canais | Globo",Globo EPTV Ribeirão Preto HD+
+http://canais.servidor.tv:8080/nmbh74/9hjkek/2952
 
 
+#EXTINF:-1 tvg-logo="http://z4.vc/aZb" aspect-ratio="16:9" group-title="Canais | Globo",Globo EPTV Sul Minas HD
+http://canais.servidor.tv:8080/nmbh74/9hjkek/4469
 
-#EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="",
 
+#EXTINF:-1 tvg-logo="http://z4.vc/aZb" aspect-ratio="16:9" group-title="Canais | Globo",Globo EPTV Sul Minas HD+
+http://canais.servidor.tv:8080/nmbh74/9hjkek/4468
 
 
-#EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="",
+#EXTINF:-1 tvg-logo="http://z4.vc/aZb" aspect-ratio="16:9" group-title="Canais | Globo",Globo EPTV São Carlos HD
+http://canais.servidor.tv:8080/nmbh74/9hjkek/2941
 
 
+#EXTINF:-1 tvg-logo="http://z4.vc/aZb" aspect-ratio="16:9" group-title="Canais | Globo",Globo EPTV São Carlos HD+
+http://canais.servidor.tv:8080/nmbh74/9hjkek/2940
 
-#EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="",
 
+#EXTINF:-1 tvg-logo="http://z4.vc/aZb" aspect-ratio="16:9" group-title="Canais | Globo",Globo Goiânia SD
+http://canais.servidor.tv:8080/nmbh74/9hjkek/262
 
 
-#EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="",
+#EXTINF:-1 tvg-logo="http://z4.vc/aZb" aspect-ratio="16:9" group-title="Canais | Globo",Globo Inter TV Grande Minas HD
+http://canais.servidor.tv:8080/nmbh74/9hjkek/4471
 
 
+#EXTINF:-1 tvg-logo="http://z4.vc/aZb" aspect-ratio="16:9" group-title="Canais | Globo",Globo Inter TV Grande Minas HD+
+http://canais.servidor.tv:8080/nmbh74/9hjkek/4470
 
-#EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="",
 
+#EXTINF:-1 tvg-logo="http://z4.vc/aZb" aspect-ratio="16:9" group-title="Canais | Globo",Globo Manaus
+http://canais.servidor.tv:8080/nmbh74/9hjkek/19
 
 
-#EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="",
+#EXTINF:-1 tvg-logo="http://z4.vc/aZb" aspect-ratio="16:9" group-title="Canais | Globo",Globo Minas HD
+http://canais.servidor.tv:8080/nmbh74/9hjkek/279
 
 
+#EXTINF:-1 tvg-logo="http://z4.vc/aZb" aspect-ratio="16:9" group-title="Canais | Globo",Globo Minas HD+
+http://canais.servidor.tv:8080/nmbh74/9hjkek/2713
 
-#EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="",
 
+#EXTINF:-1 tvg-logo="http://z4.vc/aZb" aspect-ratio="16:9" group-title="Canais | Globo",Globo Nordeste HD
+http://canais.servidor.tv:8080/nmbh74/9hjkek/275
 
 
-#EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="",
+#EXTINF:-1 tvg-logo="http://z4.vc/aZb" aspect-ratio="16:9" group-title="Canais | Globo",Globo Nordeste HD+
+http://canais.servidor.tv:8080/nmbh74/9hjkek/2714
 
 
+#EXTINF:-1 tvg-logo="http://z4.vc/aZb" aspect-ratio="16:9" group-title="Canais | Globo",Globo NSC Floripa HD+
+http://canais.servidor.tv:8080/nmbh74/9hjkek/2710
 
-#EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="",
 
+#EXTINF:-1 tvg-logo="http://z4.vc/aZb" aspect-ratio="16:9" group-title="Canais | Globo",Globo RBS Poa HD
+http://canais.servidor.tv:8080/nmbh74/9hjkek/1467
 
 
-#EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="",
+#EXTINF:-1 tvg-logo="http://z4.vc/aZb" aspect-ratio="16:9" group-title="Canais | Globo",Globo RBS Poa HD+
+http://canais.servidor.tv:8080/nmbh74/9hjkek/271
 
 
+#EXTINF:-1 tvg-logo="http://z4.vc/aZb" aspect-ratio="16:9" group-title="Canais | Globo",Globo RJ HD
+http://canais.servidor.tv:8080/nmbh74/9hjkek/1504
 
-#EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="",
 
+#EXTINF:-1 tvg-logo="http://z4.vc/aZb" aspect-ratio="16:9" group-title="Canais | Globo",Globo RJ HD+
+http://canais.servidor.tv:8080/nmbh74/9hjkek/268
 
 
-#EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="",
+#EXTINF:-1 tvg-logo="http://z4.vc/aZb" aspect-ratio="16:9" group-title="Canais | Globo",Globo RPC Paranaense HD+
+http://canais.servidor.tv:8080/nmbh74/9hjkek/2709
 
 
+#EXTINF:-1 tvg-logo="http://z4.vc/aZb" aspect-ratio="16:9" group-title="Canais | Globo",Globo RPC SD
+http://canais.servidor.tv:8080/nmbh74/9hjkek/266
 
-#EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="",
 
+#EXTINF:-1 tvg-logo="http://z4.vc/aZb" aspect-ratio="16:9" group-title="Canais | Globo",Globo S.J Rio Preto HD
+http://canais.servidor.tv:8080/nmbh74/9hjkek/2945
 
 
-#EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="",
+#EXTINF:-1 tvg-logo="http://z4.vc/aZb" aspect-ratio="16:9" group-title="Canais | Globo",Globo S.J Rio Preto HD+
+http://canais.servidor.tv:8080/nmbh74/9hjkek/2944
 
 
+#EXTINF:-1 tvg-logo="http://z4.vc/aZb" aspect-ratio="16:9" group-title="Canais | Globo",Globo Sergipe HD+
+http://canais.servidor.tv:8080/nmbh74/9hjkek/250
 
-#EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="",
 
+#EXTINF:-1 tvg-logo="http://z4.vc/aZb" aspect-ratio="16:9" group-title="Canais | Globo",Globo São Paulo HD
+http://canais.servidor.tv:8080/nmbh74/9hjkek/1466
 
 
-#EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="",
+#EXTINF:-1 tvg-logo="http://z4.vc/aZb" aspect-ratio="16:9" group-title="Canais | Globo",Globo São Paulo HD+
+http://canais.servidor.tv:8080/nmbh74/9hjkek/265
 
 
+#EXTINF:-1 tvg-logo="http://z4.vc/aZb" aspect-ratio="16:9" group-title="Canais | Globo",Globo TV Anhanguera HD+
+http://canais.servidor.tv:8080/nmbh74/9hjkek/2708
 
-#EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="",
 
+#EXTINF:-1 tvg-logo="http://z4.vc/aZb" aspect-ratio="16:9" group-title="Canais | Globo",Globo TV Diario Mogi HD
+http://canais.servidor.tv:8080/nmbh74/9hjkek/2947
 
 
-#EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="",
+#EXTINF:-1 tvg-logo="http://z4.vc/aZb" aspect-ratio="16:9" group-title="Canais | Globo",Globo TV Diario Mogi HD+
+http://canais.servidor.tv:8080/nmbh74/9hjkek/2946
 
 
+#EXTINF:-1 tvg-logo="http://z4.vc/aZb" aspect-ratio="16:9" group-title="Canais | Globo",Globo TV Fronteira HD
+http://canais.servidor.tv:8080/nmbh74/9hjkek/2943
 
-#EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="",
 
+#EXTINF:-1 tvg-logo="http://z4.vc/aZb" aspect-ratio="16:9" group-title="Canais | Globo",Globo TV Fronteira HD+
+http://canais.servidor.tv:8080/nmbh74/9hjkek/2942
 
 
-#EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="",
+#EXTINF:-1 tvg-logo="http://z4.vc/aZb" aspect-ratio="16:9" group-title="Canais | Globo",Globo TV Gazeta Alagoas HD+
+http://canais.servidor.tv:8080/nmbh74/9hjkek/4467
 
 
+#EXTINF:-1 tvg-logo="http://z4.vc/aZb" aspect-ratio="16:9" group-title="Canais | Globo",Globo TV Gazeta HD+
+http://canais.servidor.tv:8080/nmbh74/9hjkek/75
 
-#EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="",
 
+#EXTINF:-1 tvg-logo="http://z4.vc/aZb" aspect-ratio="16:9" group-title="Canais | Globo",Globo TV Integração HD
+http://canais.servidor.tv:8080/nmbh74/9hjkek/22505
 
 
-#EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="",
+#EXTINF:-1 tvg-logo="http://z4.vc/aZb" aspect-ratio="16:9" group-title="Canais | Globo",Globo TV Integração HD+
+http://canais.servidor.tv:8080/nmbh74/9hjkek/22504
 
 
+#EXTINF:-1 tvg-logo="http://z4.vc/aZb" aspect-ratio="16:9" group-title="Canais | Globo",Globo TV Liberal
+http://canais.servidor.tv:8080/nmbh74/9hjkek/2706
 
-#EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="",
 
+#EXTINF:-1 tvg-logo="http://z4.vc/aZb" aspect-ratio="16:9" group-title="Canais | Globo",Globo TV Mirante HD+
+http://canais.servidor.tv:8080/nmbh74/9hjkek/2705
 
 
-#EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="",
+#EXTINF:-1 tvg-logo="http://z4.vc/aZb" aspect-ratio="16:9" group-title="Canais | Globo",Globo TV Morena HD+
+http://canais.servidor.tv:8080/nmbh74/9hjkek/2704
 
 
+#EXTINF:-1 tvg-logo="http://z4.vc/aZb" aspect-ratio="16:9" group-title="Canais | Globo",Globo TV TEM Sorocaba HD
+http://canais.servidor.tv:8080/nmbh74/9hjkek/2949
 
-#EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="",
 
+#EXTINF:-1 tvg-logo="http://z4.vc/aZb" aspect-ratio="16:9" group-title="Canais | Globo",Globo TV TEM Sorocaba HD+
+http://canais.servidor.tv:8080/nmbh74/9hjkek/2948
 
 
-#EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="",
+#EXTINF:-1 tvg-logo="http://z4.vc/aZb" aspect-ratio="16:9" group-title="Canais | Globo",Globo TV TRIBUNA HD
+http://canais.servidor.tv:8080/nmbh74/9hjkek/2954
 
 
+#EXTINF:-1 tvg-logo="http://z4.vc/aZb" aspect-ratio="16:9" group-title="Canais | Globo",Globo TV TRIBUNA HD+
+http://canais.servidor.tv:8080/nmbh74/9hjkek/2953
 
-#EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="",
 
+#EXTINF:-1 tvg-logo="http://z4.vc/aZb" aspect-ratio="16:9" group-title="Canais | Globo",Globo TV VANGUARDA HD
+http://canais.servidor.tv:8080/nmbh74/9hjkek/2951
 
 
-#EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="",
+#EXTINF:-1 tvg-logo="http://z4.vc/aZb" aspect-ratio="16:9" group-title="Canais | Globo",Globo TV VANGUARDA HD+
+http://canais.servidor.tv:8080/nmbh74/9hjkek/2950
 
 
-
-#EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="",
-
-
-
-#EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="",
-
-
-
-#EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="",
-
-
-
-#EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="",
-
-
-
-#EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="",
-
-
-
-#EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="",
-
-
-
-#EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="",
-
-
-
-#EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="",
-
-
-
-#EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="",
-
-
-
-#EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="",
-
-
-
-#EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="",
-
-
-
-#EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="",
-
-
-
-#EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="",
-
-
-
-#EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="",
-
-
-
-#EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="",
-
+#EXTINF:-1 tvg-logo="http://z4.vc/aZb" aspect-ratio="16:9" group-title="Canais | Globo",Globo TV Verdes Mares HD+
+http://canais.servidor.tv:8080/nmbh74/9hjkek/2703
 
 
 #EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="",

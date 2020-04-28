@@ -3113,3 +3113,89 @@ http://p2prime.xyz:80/movie/elydavid/wiK55MI1OM/28013.mp4
 
 
 
+#########################################################################################################
+
+
+#########################################FILMES | GUERRA MUNDIAL######################################
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="12 Heróis (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xiiyh02DvmfoIJYZFHE3CJren50.jpg" group-title="FILMES | GUERRA/MEDIEVAL",12 Heróis (2018)
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/868.mp4
+#EXTINF:-1 tvg-id="" tvg-name="13 Horas: Os Soldados Secretos de Benghazi (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/K4lEgO47Axbidt5MJo5KljpP3G.jpg" group-title="FILMES | GUERRA/MEDIEVAL",13 Horas: Os Soldados Secretos de Benghazi (2016)
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/9497.mp4
+#EXTINF:-1 tvg-id="" tvg-name="300 (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dFXb30biVItPuNY3scjbcZ70oxD.jpg" group-title="FILMES | GUERRA/MEDIEVAL",300 (2007)
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/1441.mp4
+#EXTINF:-1 tvg-id="" tvg-name="300: A Ascensão do Império (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l9T9hsVca2mh0S29olWRUE3uBpz.jpg" group-title="FILMES | GUERRA/MEDIEVAL",300: A Ascensão do Império (2014)
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/1440.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Conquista da Honra" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AaFC0467S4BLvKMVmUcnNGwrtk8.jpg" group-title="FILMES | GUERRA/MEDIEVAL",A Conquista da Honra
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/16502.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Espada da Vingança" tvg-logo="http://167.86.94.183:25461/images/uyZdLJxPRsNPvrLDZQatE3CE3af_small.jpg" group-title="FILMES | GUERRA/MEDIEVAL",A Espada da Vingança
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/528.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Fera da Guerra" tvg-logo="http://vip.primeuhd.com:25461/images/pm8uCoGRjECy7TnIHCnINDuzyKq_small.jpg" group-title="FILMES | GUERRA/MEDIEVAL",A Fera da Guerra
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/7898.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Guerra de Hart" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hePkUbOc3d0uV6Nt576Hvs9m8kK.jpg" group-title="FILMES | GUERRA/MEDIEVAL",A Guerra de Hart
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/16501.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Águia da Legião Perdida" tvg-logo="http://167.86.94.183:25461/images/1e3SKFIEy8zPYICzQXBqeKM6xx8_small.jpg" group-title="FILMES | GUERRA/MEDIEVAL",A Águia da Legião Perdida
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/527.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Última Jornada" tvg-logo="http://167.86.94.183:25461/images/5gGkt84bCPt7XRo35FcsrOeer78_small.jpg" group-title="FILMES | GUERRA/MEDIEVAL",A Última Jornada
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/867.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alexander" tvg-logo="http://vip.primeuhd.com:25461/images/cJrnmbsFm5cEt0pHZZ2a1ueH5aT_small.jpg" group-title="FILMES | GUERRA/MEDIEVAL",Alexander
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/9813.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arn - O Cavaleiro Templário" tvg-logo="http://167.86.94.183:25461/images/fLglbtUCyMUaYPhxfXnkSvOo5N5_small.jpg" group-title="FILMES | GUERRA/MEDIEVAL",Arn - O Cavaleiro Templário
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/526.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ate o Ultimo Homem" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7iVdjPGTWQ3PcEE6faZSoIAOPvX.jpg" group-title="FILMES | GUERRA/MEDIEVAL",Ate o Ultimo Homem
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/10060.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Baahubali: O Início" tvg-logo="http://vip.primeuhd.com:25461/images/5uurRfH9KdMiecCNTzO1MSi9Tqw_small.jpg" group-title="FILMES | GUERRA/MEDIEVAL",Baahubali: O Início
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/1443.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cartas de Iwo Jima" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c74jxfLk5KgmzXZVioAdLnjr7mD.jpg" group-title="FILMES | GUERRA/MEDIEVAL",Cartas de Iwo Jima
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/10100.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Centurião" tvg-logo="http://167.86.94.183:25461/images/lwQs5DNvy9RHTB0RWEScgZqPPiS_small.jpg" group-title="FILMES | GUERRA/MEDIEVAL",Centurião
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/525.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Coração Valente" tvg-logo="http://167.86.94.183:25461/images/2qAgGeYdLjelOEqjW9FYvPHpplC_small.jpg" group-title="FILMES | GUERRA/MEDIEVAL",Coração Valente
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/524.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Corações de Ferro" tvg-logo="http://vip.primeuhd.com:25461/images/pfte7wdMobMF4CVHuOxyu6oqeeA_small.jpg" group-title="FILMES | GUERRA/MEDIEVAL",Corações de Ferro
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/1458.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cruzada" tvg-logo="http://167.86.94.183:25461/images/aB4urkgTxBURJMUkd0kceDD7FUM_small.jpg" group-title="FILMES | GUERRA/MEDIEVAL",Cruzada
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/523.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dunkirk" tvg-logo="http://167.86.94.183:25461/images/bOXBV303Fgkzn2K4FeKDc0O31q4_small.jpg" group-title="FILMES | GUERRA/MEDIEVAL",Dunkirk
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/515.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Falcão Negro em Perigo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fr4zpvDYpBKLiXrY5M7zDWT9XZM.jpg" group-title="FILMES | GUERRA/MEDIEVAL",Falcão Negro em Perigo
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/16510.mp4
+#EXTINF:-1 tvg-id="" tvg-name="God of War - Deus da Guerra" tvg-logo="http://167.86.94.183:25461/images/4rWq9Vwb1gVhQIqkhUKE0hPVwnz_small.jpg" group-title="FILMES | GUERRA/MEDIEVAL",God of War - Deus da Guerra
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/517.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Guerra ao Terror" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lxayvkmq1Ka7aVUeujxLxwgcrD4.jpg" group-title="FILMES | GUERRA/MEDIEVAL",Guerra ao Terror
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/16504.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Joana D'Arc" tvg-logo="http://167.86.94.183:25461/images/3XCzDTqh4X5YHxwys0IOpDyi7ly_small.jpg" group-title="FILMES | GUERRA/MEDIEVAL",Joana D'Arc
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/522.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Megan Leavey" tvg-logo="http://vip.primeuhd.com:25461/images/yq66hYkXFaj2DDqCkF6T2wT7VxQ_small.jpg" group-title="FILMES | GUERRA/MEDIEVAL",Megan Leavey
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/513.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Na Mira do Atirador" tvg-logo="http://167.86.94.183:25461/images/8POAZwZpp24l1IgKKM8ZRAQ2kid_small.jpg" group-title="FILMES | GUERRA/MEDIEVAL",Na Mira do Atirador
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/511.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Resgate do Soldado Ryan" tvg-logo="http://167.86.94.183:25461/images/miDoEMlYDJhOCvxlzI0wZqBs9Yt_small.jpg" group-title="FILMES | GUERRA/MEDIEVAL",O Resgate do Soldado Ryan
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/509.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Sobrevivente" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hd491WgKPxeQus2LnvFbYmyUFmt.jpg" group-title="FILMES | GUERRA/MEDIEVAL",O Sobrevivente
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/16505.mkv
+#EXTINF:-1 tvg-id="" tvg-name="O Último Rei" tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/giPM7WXcE9RnOmM3eAIKdzZ7oOX.jpg" group-title="FILMES | GUERRA/MEDIEVAL",O Último Rei
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/7670.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Último Samurai" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8BfZCxCru5SuEmMcnmPsdaSAELS.jpg" group-title="FILMES | GUERRA/MEDIEVAL",O Último Samurai
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/16506.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rei Arthur: A Lenda da Espada" tvg-logo="http://167.86.94.183:25461/images/gvSWdJN7peehxJYOugV9IwqiAFi_small.jpg" group-title="FILMES | GUERRA/MEDIEVAL",Rei Arthur: A Lenda da Espada
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/521.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue e Honra 2" tvg-logo="http://vip.primeuhd.com:25461/images/flyelQOhTljphOS4LcVaNhDrTC1_small.jpg" group-title="FILMES | GUERRA/MEDIEVAL",Sangue e Honra 2
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/7666.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Soldado Anônimo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8jnsA9IsroHDsREG3LLOOIC99Ep.jpg" group-title="FILMES | GUERRA/MEDIEVAL",Soldado Anônimo
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/16507.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Terra de Minas" tvg-logo="http://167.86.94.183:25461/images/7TOYH2VDnYbXpBKlrkdQZUSC3Du_small.jpg" group-title="FILMES | GUERRA/MEDIEVAL",Terra de Minas
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/506.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Terreno Proibido" tvg-logo="http://vip.primeuhd.com:25461/images/qy7RjS18AoS24hSiopUC2cSyXWr_small.jpg" group-title="FILMES | GUERRA/MEDIEVAL",Terreno Proibido
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/7904.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tróia" tvg-logo="http://167.86.94.183:25461/images/edMlij7nw2NMla32xskDnzMCFBM_small.jpg" group-title="FILMES | GUERRA/MEDIEVAL",Tróia
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/520.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vikingdom: O Reino Viking" tvg-logo="http://167.86.94.183:25461/images/1WkvcHvSa1EWwAYHrldLCq4bHsJ_small.jpg" group-title="FILMES | GUERRA/MEDIEVAL",Vikingdom: O Reino Viking
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/519.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Zona Verde" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8xsN1CidLgq2H1wN5FnU3P6FIAo.jpg" group-title="FILMES | GUERRA/MEDIEVAL",Zona Verde
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/16509.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Zoo: Uma Amizade Maior que a Vida" tvg-logo="http://vip.primeuhd.com:25461/images/tUlO39EcZzPlKS4JOhlUansgKFJ_small.jpg" group-title="FILMES | GUERRA/MEDIEVAL",Zoo: Uma Amizade Maior que a Vida
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/2083.mp4

@@ -627,7 +627,7 @@ http://canais.servidor.tv:8080/nmbh74/9hjkek/2703
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/xDI" aspect-ratio="16:9" group-title="",HBO HD
-http://canais.servidor.tv:8080/nmbh74/9hjkek/1463
+http://purpleserver.net:80/yVsbHSZR/QMVU3CuC/18773
 
 
 #EXTINF:-1 tvg-logo="http://z4.vc/xDI" aspect-ratio="16:9" group-title="",HBO HD+
@@ -650,11 +650,11 @@ http://canais.servidor.tv:8080/nmbh74/9hjkek/1464
 http://canais.servidor.tv:8080/nmbh74/9hjkek/229
 
 
-#EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="",HBO Plus HD
+#EXTINF:-1 tvg-logo="http://z4.vc/YOR" aspect-ratio="16:9" group-title="",HBO Plus HD
 http://canais.servidor.tv:8080/nmbh74/9hjkek/1462
 
 
-#EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="",HBO Plus HD+
+#EXTINF:-1 tvg-logo="http://z4.vc/YOR" aspect-ratio="16:9" group-title="",HBO Plus HD+
 http://canais.servidor.tv:8080/nmbh74/9hjkek/226
 
 

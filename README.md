@@ -3113,10 +3113,11 @@ http://p2prime.xyz:80/movie/elydavid/wiK55MI1OM/28013.mp4
 
 
 
+
 #########################################################################################################
 
 
-#########################################FILMES | GUERRA MUNDIAL######################################
+#########################################FILMES | GUERRA MUNDIAL#########################################
 
 
 
@@ -3199,3 +3200,245 @@ http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/519.mp4
 http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/16509.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Zoo: Uma Amizade Maior que a Vida" tvg-logo="http://vip.primeuhd.com:25461/images/tUlO39EcZzPlKS4JOhlUansgKFJ_small.jpg" group-title="FILMES | GUERRA/MEDIEVAL",Zoo: Uma Amizade Maior que a Vida
 http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/2083.mp4
+
+
+
+#########################################################################################################
+
+
+#########################################FILMES | INFANTIS###############################################
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="A Abelhinha Maya: O Filme" tvg-logo="http://vip.primeuhd.com:25461/images/aBfeHekIIjC4mFlark5MWJWDyZn_small.jpg" group-title="FILMES | INFANTIS",A Abelhinha Maya: O Filme
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/9490.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Canção do Oceano" tvg-logo="http://vip.primeuhd.com:25461/images/uvNv23Arf2ZYtimiStSB2c1DAEX_small.jpg" group-title="FILMES | INFANTIS",A Canção do Oceano
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/7897.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Lady e o Lobo: A Caverna Misteriosa" tvg-logo="http://vip.primeuhd.com:25461/images/7Zsc6ruXalHbj8iTlgTU4KW09Ve_small.jpg" group-title="FILMES | INFANTIS",A Lady e o Lobo: A Caverna Misteriosa
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/7899.avi
+#EXTINF:-1 tvg-id="" tvg-name="A Pequena Sereia 2 - O Retorno Para O Mar" tvg-logo="http://vip.primeuhd.com:25461/images/1P7zIGdv3Z0A5L6F30Qx0r69cmI_small.jpg" group-title="FILMES | INFANTIS",A Pequena Sereia 2 - O Retorno Para O Mar
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/9731.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Pequena Sereia: A Historia De Ariel" tvg-logo="http://vip.primeuhd.com:25461/images/mBnN8so6MG0q0i2TqtPgravPOZe_small.jpg" group-title="FILMES | INFANTIS",A Pequena Sereia: A Historia De Ariel
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/9730.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Princesa Encantada Um Misterio Real" tvg-logo="http://vip.primeuhd.com:25461/images/ljktBZh0wM8yVZcgMt3i43sjkdy_small.jpg" group-title="FILMES | INFANTIS",A Princesa Encantada Um Misterio Real
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/9512.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alice No Pais Das Maravilhas" tvg-logo="http://vip.primeuhd.com:25461/images/AdwfqyNiH8UqeYKFYoiKhwTtjAb_small.jpg" group-title="FILMES | INFANTIS",Alice No Pais Das Maravilhas
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/9810.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alvin e os Esquilos" tvg-logo="http://vip.primeuhd.com:25461/images/sAt2yb4dgrpkHjbB9dQaKD9Caor_small.jpg" group-title="FILMES | INFANTIS",Alvin e os Esquilos
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/1425.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alvin e os Esquilos 2" tvg-logo="http://vip.primeuhd.com:25461/images/8mdPqOga5fty15nXmaNcK1fsNMa_small.jpg" group-title="FILMES | INFANTIS",Alvin e os Esquilos 2
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/1422.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Alvin e os Esquilos 3" tvg-logo="http://vip.primeuhd.com:25461/images/s1nHXSJTq45RUHn7RmW6fO7kHu9_small.jpg" group-title="FILMES | INFANTIS",Alvin e os Esquilos 3
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/1423.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Alvin e os Esquilos: Na Estrada" tvg-logo="http://vip.primeuhd.com:25461/images/Lg83xE4X2EBiXkA1ZCu6dFOjSx_small.jpg" group-title="FILMES | INFANTIS",Alvin e os Esquilos: Na Estrada
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/1424.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amigos Alienigena" tvg-logo="http://vip.primeuhd.com:25461/images/5oq7s5ru4hjp83mi4fWSJ0L7yUA_small.jpg" group-title="FILMES | INFANTIS",Amigos Alienigena
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/9798.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Aventuras de Tadeo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5FEufinpUnfY3aCMszZRyKm10ua.jpg" group-title="FILMES | INFANTIS",As Aventuras de Tadeo
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/10069.mkv
+#EXTINF:-1 tvg-id="" tvg-name="As Aventuras de Tadeo 2: O Segredo do Rei Midas" tvg-logo="http://vip.primeuhd.com:25461/images/7WtFoWtGp45PLNmajM8iGtjAA7B_small.jpg" group-title="FILMES | INFANTIS",As Aventuras de Tadeo 2: O Segredo do Rei Midas
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/1603.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Avioes" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/avpnIa8tCEkr849RqkbjV6XVI3V.jpg" group-title="FILMES | INFANTIS",Avioes
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/10052.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Avioes 2: Herois Do Fogo Ao Resgate" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/adhs3EdPlCENNtQkWWuAUk7AlCN.jpg" group-title="FILMES | INFANTIS",Avioes 2: Herois Do Fogo Ao Resgate
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/10051.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ballerina" tvg-logo="http://vip.primeuhd.com:25461/images/qBxMhcmNnFniuDAZTKEHcSgKtsn_small.jpg" group-title="FILMES | INFANTIS",Ballerina
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/1602.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Barbie: Agentes Secretas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lcxZ4WARcUoTX1ab6fvLF6sE32D.jpg" group-title="FILMES | INFANTIS",Barbie: Agentes Secretas
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/10049.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Big Pai, Big Filho" tvg-logo="http://vip.primeuhd.com:25461/images/5yCQvhFuFPY0pACxoUpLUlYCxop_small.jpg" group-title="FILMES | INFANTIS",Big Pai, Big Filho
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/1604.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carros 2" tvg-logo="http://vip.primeuhd.com:25461/images/AblhtULOVtrkSnFxRPQ8gBemxw9_small.jpg" group-title="FILMES | INFANTIS",Carros 2
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/1606.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carros 3" tvg-logo="http://vip.primeuhd.com:25461/images/fyy1nDC8wm553FCiBDojkJmKLCs_small.jpg" group-title="FILMES | INFANTIS",Carros 3
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/1607.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Christopher Robin: Um Reencontro Inesquecível" tvg-logo="http://vip.primeuhd.com:25461/images/fQYgljzKgkeGEukezaJsMWp7oq1_small.jpg" group-title="FILMES | INFANTIS",Christopher Robin: Um Reencontro Inesquecível
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/962.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CONDORITO O FILME" tvg-logo="http://vip.primeuhd.com:25461/images/5Vt2k8e7yfQHtUPBuYols3TmY1Q_small.jpg" group-title="FILMES | INFANTIS",CONDORITO O FILME
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/9511.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Crônicas de Natal (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yKnSdQ0hjc9e6LG1e9r5EvjLfwy.jpg" group-title="FILMES | INFANTIS",Crônicas de Natal (2018)
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/276.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Divertida Mente" tvg-logo="http://vip.primeuhd.com:25461/images/aAmfIX3TT40zUHGcCKrlOZRKC7u_small.jpg" group-title="FILMES | INFANTIS",Divertida Mente
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/1915.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Emoji: O Filme" tvg-logo="http://vip.primeuhd.com:25461/images/f5pF4OYzh4wb1dYL2ARQNdqUsEZ_small.jpg" group-title="FILMES | INFANTIS",Emoji: O Filme
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/1608.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hotel Transilvânia 3: Férias Monstruosas" tvg-logo="http://167.86.94.183:25461/images/gjAFM4xhA5vyLxxKMz38ujlUfDL_small.jpg" group-title="FILMES | INFANTIS",Hotel Transilvânia 3: Férias Monstruosas
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/973.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lino: Uma Aventura De Sete Vidas" tvg-logo="http://vip.primeuhd.com:25461/images/d21rfVSBRvNbOk9m7K7UCgQhA2J_small.jpg" group-title="FILMES | INFANTIS",Lino: Uma Aventura De Sete Vidas
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/1429.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Meu Amigo Vampiro" tvg-logo="http://vip.primeuhd.com:25461/images/yUyFqkuEUuvtjICy33dqpOLE8Os_small.jpg" group-title="FILMES | INFANTIS",Meu Amigo Vampiro
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/11023.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Meu Malvado Favorito" tvg-logo="http://vip.primeuhd.com:25461/images/4zHJhBSY4kNZXfhTlmy2TzXD51M_small.jpg" group-title="FILMES | INFANTIS",Meu Malvado Favorito
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/1609.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Meu Malvado Favorito 2" tvg-logo="http://vip.primeuhd.com:25461/images/kQrYyZQHkwkUg2KlUDyvymj9FAp_small.jpg" group-title="FILMES | INFANTIS",Meu Malvado Favorito 2
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/1610.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Meu Malvado Favorito 3" tvg-logo="http://vip.primeuhd.com:25461/images/6t3YWl7hrr88lCEFlGVqW5yV99R_small.jpg" group-title="FILMES | INFANTIS",Meu Malvado Favorito 3
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/1611.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mogli: Entre Dois Mundos (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wL8qLcZt8Hyf8Z8FYH1SucNySeq.jpg" group-title="FILMES | INFANTIS",Mogli: Entre Dois Mundos (2018)
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/290.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mune, O Guardião da Lua" tvg-logo="http://vip.primeuhd.com:25461/images/4vzqow7mVUahqA4hHoe2UpQOxy_small.jpg" group-title="FILMES | INFANTIS",Mune, O Guardião da Lua
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/1612.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mistério do Relógio na Parede (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/80YksI3o7SLKGQ3KBmAKIEX9L4o.jpg" group-title="FILMES | INFANTIS",O Mistério do Relógio na Parede (2018)
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/296.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Poderoso Chefinho" tvg-logo="http://vip.primeuhd.com:25461/images/unPB1iyEeTBcKiLg8W083rlViFH_small.jpg" group-title="FILMES | INFANTIS",O Poderoso Chefinho
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/1615.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Que Será de Nozes 2" tvg-logo="http://vip.primeuhd.com:25461/images/xOfdQHNF9TlrdujyAjiKfUhxSXy_small.jpg" group-title="FILMES | INFANTIS",O Que Será de Nozes 2
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/1614.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Que Será de Nozes?" tvg-logo="http://vip.primeuhd.com:25461/images/rXdSfDu08cs0fU9S6l3AK1bJqy8_small.jpg" group-title="FILMES | INFANTIS",O Que Será de Nozes?
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/1613.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Touro Ferdinando" tvg-logo="http://vip.primeuhd.com:25461/images/rMm94JsRfcOPiPVsTRcBiiVBOhz_small.jpg" group-title="FILMES | INFANTIS",O Touro Ferdinando
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/1432.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Batutinhas" tvg-logo="http://vip.primeuhd.com:25461/images/9B0t7TJxmkktGd0OBQWyXCP9dW_small.jpg" group-title="FILMES | INFANTIS",Os Batutinhas
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/1916.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Os Incríveis" tvg-logo="http://vip.primeuhd.com:25461/images/2LqaLgk4Z226KkgPJuiOQ58wvrm_small.jpg" group-title="FILMES | INFANTIS",Os Incríveis
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/1617.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Os Incríveis 2" tvg-logo="http://167.86.94.183:25461/images/9lFKBtaVIhP7E2Pk0IY1CwTKTMZ_small.jpg" group-title="FILMES | INFANTIS",Os Incríveis 2
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/989.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Paddington 2" tvg-logo="http://167.86.94.183:25461/images/gnXaUxdKD2t1B74cutWA5rjBLgD_small.jpg" group-title="FILMES | INFANTIS",Paddington 2
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/933.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pato Pato Ganso" tvg-logo="http://vip.primeuhd.com:25461/images/7XURM64DYa9DpS70I2rM4suvq1s_small.jpg" group-title="FILMES | INFANTIS",Pato Pato Ganso
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/936.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Patrulha Caça-Fantasma" tvg-logo="http://vip.primeuhd.com:25461/images/wACHN9x2NvGFxBRGlOnNQ8UDqMR_small.jpg" group-title="FILMES | INFANTIS",Patrulha Caça-Fantasma
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/1616.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Peter Pan: À Procura do Livro do Nunca" tvg-logo="http://vip.primeuhd.com:25461/images/w5fyfHCi2rgJoVH772tZKfrkhpW_small.jpg" group-title="FILMES | INFANTIS",Peter Pan: À Procura do Livro do Nunca
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/2814.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pica-Pau: O Filme" tvg-logo="http://vip.primeuhd.com:25461/images/vFGUsJTa8z0OfDTbjdyppAireeB_small.jpg" group-title="FILMES | INFANTIS",Pica-Pau: O Filme
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/1620.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pokémon, o Filme: Eu Escolho Você!" tvg-logo="http://vip.primeuhd.com:25461/images/cmpOaiRtjnhLNF2iPslMXCOcVJ_small.jpg" group-title="FILMES | INFANTIS",Pokémon, o Filme: Eu Escolho Você!
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/1619.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pé Pequeno" tvg-logo="http://167.86.94.183:25461/images/zfaiO7QgpcvR8XDOMokWLRfKeTE_small.jpg" group-title="FILMES | INFANTIS",Pé Pequeno
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/304.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ratatouille (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lpyqGZXjaPpr2dzkD9XD5DUGMkN.jpg" group-title="FILMES | INFANTIS",Ratatouille (2007)
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/11160.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Trolls" tvg-logo="http://vip.primeuhd.com:25461/images/zKu5MNy9QW1a5ZHgv7iAp3kRZpE_small.jpg" group-title="FILMES | INFANTIS",Trolls
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/2084.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Trolls: Dias de Festa" tvg-logo="http://vip.primeuhd.com:25461/images/ioEv9lRn2IXIu0Dbfo9Qyo2IKhD_small.jpg" group-title="FILMES | INFANTIS",Trolls: Dias de Festa
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/2085.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Acampamento do Barulho" tvg-logo="http://vip.primeuhd.com:25461/images/e5AG8ESF1JpG3A8AFKoUC1WztsD_small.jpg" group-title="FILMES | INFANTIS",Um Acampamento do Barulho
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/11040.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Lobo em Pele de Cordeiro" tvg-logo="http://vip.primeuhd.com:25461/images/9VfDqMXWFrLticZqb1krSZQbNEk_small.jpg" group-title="FILMES | INFANTIS",Um Lobo em Pele de Cordeiro
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/1618.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Viva - A Vida é uma Festa" tvg-logo="http://vip.primeuhd.com:25461/images/eKi8dIrr8voobbaGzDpe8w0PVbC_small.jpg" group-title="FILMES | INFANTIS",Viva - A Vida é uma Festa
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/1621.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Quebra-Nozes e os Quatro Reinos (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qQziRQeYUIc9I3lVEcdwQJGy5dS.jpg" group-title="FILMES | INFANTIS",O Quebra-Nozes e os Quatro Reinos (2018)
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/27312.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Scooby-Doo! e a Maldição do 13° Fantasma (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5tLSOyfDnrQvhIaTKQOjpnfNCu.jpg" group-title="FILMES | INFANTIS",Scooby-Doo! e a Maldição do 13° Fantasma (2019)
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/27326.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Grinch (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fDKfziciaKrdTzBZEnXH9tx6u2G.jpg" group-title="FILMES | INFANTIS",O Grinch (2018)
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/27328.mp4
+#EXTINF:-1 tvg-id="" tvg-name="WiFi Ralph: Quebrando a Internet (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEKa0zBtlohBlloTDskP7ASh6Lx.jpg" group-title="FILMES | INFANTIS",WiFi Ralph: Quebrando a Internet (2018)
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/27329.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Barbie: Aventura nas Estrelas (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4s9CoIDiC9O1H9cdV97ogci5HdH.jpg" group-title="FILMES | INFANTIS",Barbie: Aventura nas Estrelas (2016)
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/27334.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Barbie Em Um Mundo de Video Game (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uS3u0owsEhFZXq2CUVX1eDFofnS.jpg" group-title="FILMES | INFANTIS",Barbie Em Um Mundo de Video Game (2017)
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/27335.mp4
+
+
+
+#########################################################################################################
+
+
+#########################################FILMES | ROMANCE###############################################
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="A Barraca Do Beijo" tvg-logo="http://vip.primeuhd.com:25461/images/7Dktk2ST6aL8h9Oe5rpk903VLhx_small.jpg" group-title="FILMES | ROMANCE",A Barraca Do Beijo
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/1870.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Bela e a Fera" tvg-logo="http://vip.primeuhd.com:25461/images/tWqifoYuwLETmmasnGHO7xBjEtt_small.jpg" group-title="FILMES | ROMANCE",A Bela e a Fera
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/9485.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Culpa E Das Estrelas" tvg-logo="http://vip.primeuhd.com:25461/images/sc6XLX6J714LDkVV3Ys3clgypQS_small.jpg" group-title="FILMES | ROMANCE",A Culpa E Das Estrelas
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/9478.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Menina Do Chale" tvg-logo="http://vip.primeuhd.com:25461/images/64AQrBEKJVSIRaocOCtkMqExToz_small.jpg" group-title="FILMES | ROMANCE",A Menina Do Chale
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/9743.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Pequena Morte" tvg-logo="http://vip.primeuhd.com:25461/images/eFxgujAuoCZ3mwqAjhHi5nvZ8Sd_small.jpg" group-title="FILMES | ROMANCE",A Pequena Morte
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/9732.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Princesa E A Plebeia" tvg-logo="http://vip.primeuhd.com:25461/images/biRUM4CBgfJtEQDCttf3zca4epp_small.jpg" group-title="FILMES | ROMANCE",A Princesa E A Plebeia
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/9728.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Saga Crepúsculo: Amanhecer Parte 1" tvg-logo="http://vip.primeuhd.com:25461/images/q23U9glt0RJIvM0f7g5BqJbqncx_small.jpg" group-title="FILMES | ROMANCE",A Saga Crepúsculo: Amanhecer Parte 1
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/1920.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Saga Crepúsculo: Amanhecer parte 2" tvg-logo="http://vip.primeuhd.com:25461/images/kJQPygYB8aNEevZZHRifyYrAdU9_small.jpg" group-title="FILMES | ROMANCE",A Saga Crepúsculo: Amanhecer parte 2
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/1921.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Saga Crepúsculo: Eclipse" tvg-logo="http://vip.primeuhd.com:25461/images/4IIFFKd9vxrlicNbAPS8ONEgIFp_small.jpg" group-title="FILMES | ROMANCE",A Saga Crepúsculo: Eclipse
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/1922.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sociedade Literaria E A Torta De Casca De Batata" tvg-logo="http://vip.primeuhd.com:25461/images/55oz5d6NdH7ohbM1I1Euh1Tt6PN_small.jpg" group-title="FILMES | ROMANCE",A Sociedade Literaria E A Torta De Casca De Batata
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/9712.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Travessa" tvg-logo="http://vip.primeuhd.com:25461/images/2mlv1R8MlhlGw4dZ0tXy0K6u7ew_small.jpg" group-title="FILMES | ROMANCE",A Travessa
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/9709.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Acertando O Passo" tvg-logo="http://vip.primeuhd.com:25461/images/iX9Shyt2NlczCn27KhhWintZ8xM_small.jpg" group-title="FILMES | ROMANCE",Acertando O Passo
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/9821.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agua Para Elefantes" tvg-logo="http://vip.primeuhd.com:25461/images/yL2GKiIZTnr8w3M9NkCXSdbDTxA_small.jpg" group-title="FILMES | ROMANCE",Agua Para Elefantes
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/9818.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aliados" tvg-logo="http://vip.primeuhd.com:25461/images/nzXzLFTnd0Zb3ExfhOxlQgizgSu_small.jpg" group-title="FILMES | ROMANCE",Aliados
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/9811.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amizade Colorida" tvg-logo="http://vip.primeuhd.com:25461/images/nKhhDFCdzxeJ3GUunQ570LDpUkz_small.jpg" group-title="FILMES | ROMANCE",Amizade Colorida
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/9796.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor E Amizade" tvg-logo="http://vip.primeuhd.com:25461/images/v1Vrrmh8CH9waRdwbRRZqKy8Jr5_small.jpg" group-title="FILMES | ROMANCE",Amor E Amizade
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/9794.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor Em Middleton" tvg-logo="http://vip.primeuhd.com:25461/images/pJZDvfzFQM7vymHwhEuTGuNPcEj_small.jpg" group-title="FILMES | ROMANCE",Amor Em Middleton
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/9793.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Amor Em Tempos De Guerra" tvg-logo="http://vip.primeuhd.com:25461/images/c5E8KTDuGNdF4Lmv3OhsQ0W1zPw_small.jpg" group-title="FILMES | ROMANCE",Amor Em Tempos De Guerra
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/9792.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor Sem Querer" tvg-logo="http://vip.primeuhd.com:25461/images/vN3NFavmErbBqILpqMkfCgvHVF7_small.jpg" group-title="FILMES | ROMANCE",Amor Sem Querer
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/9787.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Antes Do Adeus" tvg-logo="http://vip.primeuhd.com:25461/images/b9YNJaIqkA2zoNdP4ORtpVMnmVo_small.jpg" group-title="FILMES | ROMANCE",Antes Do Adeus
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/9771.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Antes Do Amanhecer" tvg-logo="http://vip.primeuhd.com:25461/images/khKJwHxgXSpDl3iKGJ5S15I8ABI_small.jpg" group-title="FILMES | ROMANCE",Antes Do Amanhecer
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/9770.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Antes Que Termine O Dia" tvg-logo="http://vip.primeuhd.com:25461/images/2Ww5EcDpAZMV3RdmTeQf6B5M4S9_small.jpg" group-title="FILMES | ROMANCE",Antes Que Termine O Dia
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/9767.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Leis da Termodinamica" tvg-logo="http://vip.primeuhd.com:25461/images/mtGxNRKQoQauWJkkRlnhvkEwyB9_small.jpg" group-title="FILMES | ROMANCE",As Leis da Termodinamica
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/11020.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cartao de Natal" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qOl3l8cYBsM29APM2k20UhmDTKG.jpg" group-title="FILMES | ROMANCE",Cartao de Natal
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/10101.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cidade dos Anjos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8xBgd2JhpX4MD7uK6K0L47Q3erY.jpg" group-title="FILMES | ROMANCE",Cidade dos Anjos
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/10087.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cinderela Pop (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uL0TrrV5MHQFkwRxlho0dDKTwvm.jpg" group-title="FILMES | ROMANCE",Cinderela Pop (2019)
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/4177.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cinquenta Tons de Liberdade" tvg-logo="http://167.86.94.183:25461/images/jjPJ4s3DWZZvI4vw8Xfi4Vqa1Q8_small.jpg" group-title="FILMES | ROMANCE",Cinquenta Tons de Liberdade
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/883.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Com Amor Simon" tvg-logo="http://167.86.94.183:25461/images/5YUYg5q7QfC4IoNwNUtiwdiYKPr_small.jpg" group-title="FILMES | ROMANCE",Com Amor Simon
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/884.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Como Eu Era Antes de Você" tvg-logo="http://vip.primeuhd.com:25461/images/oN5lELHH5Xheiy0YdhnY3JB4hx2_small.jpg" group-title="FILMES | ROMANCE",Como Eu Era Antes de Você
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/7668.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Como Perder um Homem em 10 Dias" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q94nQEHzjkWd1fkTHya8mwvggVw.jpg" group-title="FILMES | ROMANCE",Como Perder um Homem em 10 Dias
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/10077.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Como Se Fosse A Primeira Vez" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hd9tXD5qahj1UMSQ60owNsBHHwx.jpg" group-title="FILMES | ROMANCE",Como Se Fosse A Primeira Vez
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/10076.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Crepúsculo" tvg-logo="http://vip.primeuhd.com:25461/images/lcMp3AONdNhjYE9MmTtMMTOiRDP_small.jpg" group-title="FILMES | ROMANCE",Crepúsculo
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/1923.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Crepúsculo Lua Nova" tvg-logo="http://vip.primeuhd.com:25461/images/4O6OCHVrXie2Th8asDn5utvlTwC_small.jpg" group-title="FILMES | ROMANCE",Crepúsculo Lua Nova
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/1924.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Footloose" tvg-logo="http://vip.primeuhd.com:25461/images/kDpo6G7rYRHQ1bFhyLiJEW9ESPO_small.jpg" group-title="FILMES | ROMANCE",Footloose
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/11016.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ibiza: Tudo Pelo DJ" tvg-logo="http://167.86.94.183:25461/images/xm0QJ3eumZ5LSewpYKQe6KfwWRW_small.jpg" group-title="FILMES | ROMANCE",Ibiza: Tudo Pelo DJ
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/908.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mademoiselle Vingança" tvg-logo="http://167.86.94.183:25461/images/u0iF4m7q1Qe3UrQwsObz1VtzcUJ_small.jpg" group-title="FILMES | ROMANCE",Mademoiselle Vingança
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/974.mp4
+#EXTINF:-1 tvg-id="" tvg-name="MAMMA MIA LA VAMOS NOS" tvg-logo="http://vip.primeuhd.com:25461/images/vzI4gNJDUwWgmNDSBWxYoeGkIEY_small.jpg" group-title="FILMES | ROMANCE",MAMMA MIA LA VAMOS NOS
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/9508.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nasce Uma Estrela" tvg-logo="http://167.86.94.183:25461/images/wrFpXMNBRj2PBiN4Z5kix51XaIZ_small.jpg" group-title="FILMES | ROMANCE",Nasce Uma Estrela
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/984.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Bom Sam (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xMu9BUwSOJxkCSiP0UJI87KQ2m8.jpg" group-title="FILMES | ROMANCE",O Bom Sam (2019)
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/6702.mkv
+#EXTINF:-1 tvg-id="" tvg-name="O Melhor Presente e o Amor" tvg-logo="http://vip.primeuhd.com:25461/images/wyq0BLdyPEXcBsTprGYtWn6b2Dj_small.jpg" group-title="FILMES | ROMANCE",O Melhor Presente e o Amor
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/11026.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Para Sempre Minha Garota" tvg-logo="http://167.86.94.183:25461/images/bKqdggnIPeOI15VqtBZTkvh4hA9_small.jpg" group-title="FILMES | ROMANCE",Para Sempre Minha Garota
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/981.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Quando nos conhecemos" tvg-logo="http://vip.primeuhd.com:25461/images/u5VJ1XmPRUWNz9l0mP2rHmkUuvQ_small.jpg" group-title="FILMES | ROMANCE",Quando nos conhecemos
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/11032.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Siberia" tvg-logo="http://vip.primeuhd.com:25461/images/eGfIsvdrUhTlQOkxQIELU7obDYj_small.jpg" group-title="FILMES | ROMANCE",Siberia
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/941.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sol da Meia-noite" tvg-logo="http://167.86.94.183:25461/images/vPG2zEKPXhovPW9S91SRnwr5JM1_small.jpg" group-title="FILMES | ROMANCE",Sol da Meia-noite
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/977.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Submersão" tvg-logo="http://vip.primeuhd.com:25461/images/sPwANB5cMjJLfRru45sc7Mnkjrq_small.jpg" group-title="FILMES | ROMANCE",Submersão
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/943.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Trama Fantasma" tvg-logo="http://vip.primeuhd.com:25461/images/6jsqmMgR75VYC9AM6eToMJh3RxF_small.jpg" group-title="FILMES | ROMANCE",Trama Fantasma
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/948.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Perfil Para Dois" tvg-logo="http://vip.primeuhd.com:25461/images/1gBeuyLkZd1uHOlrsrQM2e8LNUN_small.jpg" group-title="FILMES | ROMANCE",Um Perfil Para Dois
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/11042.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Titanic" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hBTPwTkwmdi3rX2qV3IpkTqu11i.jpg" group-title="FILMES | ROMANCE",Titanic
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/17680.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor em Little Italy (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pjcynieK2PzZNmhTzfD3X9Avzqo.jpg" group-title="FILMES | ROMANCE",Amor em Little Italy (2018)
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/27322.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vida em Si (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o3btqYtTmY2GLrMmLcNFVpPxLD4.jpg" group-title="FILMES | ROMANCE",A Vida em Si (2018)
+http://p2prime.xyz:80/movie/theguardian/N7K2gN1rSX/27323.mp4

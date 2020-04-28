@@ -309,30 +309,6 @@ http://canais.servidor.tv:8080/nmbh74/9hjkek/1458
 http://canais.servidor.tv:8080/nmbh74/9hjkek/216
 
 
-#EXTINF:-1 tvg-logo="http://z4.vc/amW" aspect-ratio="16:9" group-title="Canais | Filmes e Séries",Max HD
-http://canais.servidor.tv:8080/nmbh74/9hjkek/1457
-
-
-#EXTINF:-1 tvg-logo="http://z4.vc/amW" aspect-ratio="16:9" group-title="Canais | Filmes e Séries",Max HD+
-http://canais.servidor.tv:8080/nmbh74/9hjkek/211
-
-
-#EXTINF:-1 tvg-logo="http://z4.vc/i97" aspect-ratio="16:9" group-title="Canais | Filmes e Séries",Max Prime HD
-http://canais.servidor.tv:8080/nmbh74/9hjkek/1456
-
-
-#EXTINF:-1 tvg-logo="http://z4.vc/i97" aspect-ratio="16:9" group-title="Canais | Filmes e Séries",Max Prime HD+
-http://canais.servidor.tv:8080/nmbh74/9hjkek/209
-
-
-#EXTINF:-1 tvg-logo="http://z4.vc/CmH" aspect-ratio="16:9" group-title="Canais | Filmes e Séries",Max UP HD
-http://canais.servidor.tv:8080/nmbh74/9hjkek/1455
-
-
-#EXTINF:-1 tvg-logo="http://z4.vc/CmH" aspect-ratio="16:9" group-title="Canais | Filmes e Séries",Max UP HD+
-http://canais.servidor.tv:8080/nmbh74/9hjkek/207
-
-
 #EXTINF:-1 tvg-logo="http://z4.vc/jWK" aspect-ratio="16:9" group-title="Canais | Filmes e Séries",Megapix HD
 http://canais.servidor.tv:8080/nmbh74/9hjkek/1454
 
@@ -640,6 +616,210 @@ http://canais.servidor.tv:8080/nmbh74/9hjkek/2950
 
 #EXTINF:-1 tvg-logo="http://z4.vc/aZb" aspect-ratio="16:9" group-title="Canais | Globo",Globo TV Verdes Mares HD+
 http://canais.servidor.tv:8080/nmbh74/9hjkek/2703
+
+
+
+#########################################################################################################
+
+
+
+#########################################CANAIS GLOBO####################################################
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/xDI" aspect-ratio="16:9" group-title="",HBO HD
+http://canais.servidor.tv:8080/nmbh74/9hjkek/1463
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/xDI" aspect-ratio="16:9" group-title="",HBO HD+
+http://canais.servidor.tv:8080/nmbh74/9hjkek/227
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/jVz" aspect-ratio="16:9" group-title="",HBO 2 HD
+http://canais.servidor.tv:8080/nmbh74/9hjkek/1460
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/jVz" aspect-ratio="16:9" group-title="",HBO 2 HD+
+http://canais.servidor.tv:8080/nmbh74/9hjkek/231
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/VUR" aspect-ratio="16:9" group-title="",HBO Family HD
+http://canais.servidor.tv:8080/nmbh74/9hjkek/1464
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/VUR" aspect-ratio="16:9" group-title="",HBO Family HD+
+http://canais.servidor.tv:8080/nmbh74/9hjkek/229
+
+
+#EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="",HBO Plus HD
+http://canais.servidor.tv:8080/nmbh74/9hjkek/1462
+
+
+#EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="",HBO Plus HD+
+http://canais.servidor.tv:8080/nmbh74/9hjkek/226
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/97M" aspect-ratio="16:9" group-title="",HBO Signature HD
+http://canais.servidor.tv:8080/nmbh74/9hjkek/1461
+
+
+#EXTINF:-1 tvg-logo="http://z4.vc/97M" aspect-ratio="16:9" group-title="",HBO Signature HD+
+http://canais.servidor.tv:8080/nmbh74/9hjkek/224
+
+
+#EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="",
+
+
+
+#EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="",
+
+
+
+#EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="",
+
+
+
+#EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="",
+
+
+
+#EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="",
+
+
+
+#EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="",
+
+
+
+#EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="",
+
+
+
+#EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="",
+
+
+
+#EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="",
+
+
+
+#EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="",
+
+
+
+#EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="",
+
+
+
+#EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="",
+
+
+
+#EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="",
+
+
+
+#EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="",
+
+
+
+#EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="",
+
+
+
+#EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="",
+
+
+
+#EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="",
+
+
+
+#EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="",
+
+
+
+#EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="",
+
+
+
+#EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="",
+
+
+
+#EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="",
+
+
+
+#EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="",
+
+
+
+#EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="",
+
+
+
+#EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="",
+
+
+
+#EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="",
+
+
+
+#EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="",
+
+
+
+#EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="",
+
+
+
+#EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="",
+
+
+
+#EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="",
+
+
+
+#EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="",
+
+
+
+#EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="",
+
+
+
+#EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="",
+
+
+
+#EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="",
+
+
+
+#EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="",
+
+
+
+#EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="",
+
+
+
+#EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="",
+
+
+
+#EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="",
+
+
+
+#EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="",
+
+
+
+#EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="",
+
 
 
 #EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="",

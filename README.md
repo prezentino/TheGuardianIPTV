@@ -4752,8 +4752,6 @@ http://eyplay.io:80/movie/YYnVMD/bSDwYW/14877.mp4
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/14878.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/396db7b3678664e29ff05bccf66304c2.jpg" group-title="Filmes | Ação",Assassino a Preço Fixo 2 - A Ressurreição - 2016
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/14879.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8JtL1oAKo6MzfxxWSSVdd4NvD5D.jpg" group-title="Filmes @ Suspense",Assassino Em Série - 2017
-http://eyplay.io:80/movie/YYnVMD/bSDwYW/17401.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/620e4b372cc0b1f09e74d47ac7c79ab2.jpg" group-title="Filmes | Ação",Assassinos Anônimos - 2019
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/14880.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/6ad187f4abc60a291f0d4a9998e9cc38.jpg" group-title="Filmes | Ação",Assassinos de Guerra - 2019
@@ -4888,8 +4886,6 @@ http://eyplay.io:80/movie/YYnVMD/bSDwYW/14953.mp4
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/14954.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/a320f90a0e6221483bd75bf8746294c7.jpg" group-title="Filmes | Ação",Corrida Mortal 4 - Além da Anarquia - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/14955.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/c2496cb57875a557daa802d7792490b6.jpg" group-title="Filmes @ Drama",Corrida Selvagem - 2017
-http://eyplay.io:80/movie/YYnVMD/bSDwYW/16288.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/f81d0909d3e68a437ceb13a30d317e0e.jpg" group-title="Filmes | Ação",Corridas Clandestinas - 2003
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/14956.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/dddad9a633fb3339fc7f776ee838355d.jpg" group-title="Filmes | Ação",Cortina de Fogo 2 - 2019

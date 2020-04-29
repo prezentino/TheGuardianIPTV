@@ -1507,3 +1507,51 @@ http://eyplay.io:80/dPRPQR/St3gc1/355
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/premiere.png" aspect-ratio="16:9" group-title="Canais | Premiere",Premiere 7 SD
 http://eyplay.io:80/dPRPQR/St3gc1/356
 
+
+
+###########################################CANAIS SPORTV###############################################
+
+
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/tqnaak8" group-title="Canais | SporTV",[COLOR blue][B]THE GUARDIAN[/B][/COLOR]
+https://facebook.com/xx.ely.david.xx
+
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/wrzf2ze" group-title="Canais | SporTV",[COLOR lightsalmon]SUPORTE VIA DISCORD: discord.gg/bVSswd[/COLOR]
+https://facebook.com/xx.ely.david.xx
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/sportv.png" aspect-ratio="16:9" group-title="Canais SporTV",SporTV FHD (H265)
+http://eyplay.io:80/dPRPQR/St3gc1/398
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/sportv.png" aspect-ratio="16:9" group-title="Canais SporTV",SporTV HD
+http://eyplay.io:80/dPRPQR/St3gc1/399
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/sportv.png" aspect-ratio="16:9" group-title="Canais SporTV",SporTV SD
+http://eyplay.io:80/dPRPQR/St3gc1/400
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/sportv2.png" aspect-ratio="16:9" group-title="Canais SporTV",SporTV 2 FHD (H265)
+http://eyplay.io:80/dPRPQR/St3gc1/392
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/sportv2.png" aspect-ratio="16:9" group-title="Canais SporTV",SporTV 2 HD
+http://eyplay.io:80/dPRPQR/St3gc1/393
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/sportv2.png" aspect-ratio="16:9" group-title="Canais SporTV",SporTV 2 SD
+http://eyplay.io:80/dPRPQR/St3gc1/394
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/sportv3.png" aspect-ratio="16:9" group-title="Canais SporTV",SporTV 3 FHD (H265)
+http://eyplay.io:80/dPRPQR/St3gc1/395
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/sportv3.png" aspect-ratio="16:9" group-title="Canais SporTV",SporTV 3 HD
+http://eyplay.io:80/dPRPQR/St3gc1/396
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/sportv3.png" aspect-ratio="16:9" group-title="Canais SporTV",SporTV 3 SD
+http://eyplay.io:80/dPRPQR/St3gc1/397

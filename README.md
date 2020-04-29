@@ -190,6 +190,14 @@ http://eyplay.io:80/dPRPQR/St3gc1/14073
 
 
 
+#EXTINF:-1 tvg-logo="https://tinyurl.com/tqnaak8" group-title="Canais | Documentários",[COLOR blue][B]THE GUARDIAN[/B][/COLOR]
+https://facebook.com/xx.ely.david.xx
+
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/wrzf2ze" group-title="Canais | Documentários",[COLOR lightsalmon]SUPORTE VIA DISCORD: discord.gg/bVSswd[/COLOR]
+https://facebook.com/xx.ely.david.xx
+
+
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/animalplanet.png" aspect-ratio="16:9" group-title="Canais | Documentários",Animal Planet FHD (H265)
 http://eyplay.io:80/dPRPQR/St3gc1/5
 
@@ -357,6 +365,14 @@ http://eyplay.io:80/dPRPQR/St3gc1/445
 
 #########################################################################################################
 
+
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/tqnaak8" group-title="Canais | Esportes",[COLOR blue][B]THE GUARDIAN[/B][/COLOR]
+https://facebook.com/xx.ely.david.xx
+
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/wrzf2ze" group-title="Canais | Esportes",[COLOR lightsalmon]SUPORTE VIA DISCORD: discord.gg/bVSswd[/COLOR]
+https://facebook.com/xx.ely.david.xx
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/bandsports.png" aspect-ratio="16:9" group-title="Canais | Esportes",BandSports FHD (H265)
@@ -554,6 +570,14 @@ http://eyplay.io:80/dPRPQR/St3gc1/363
 
 #########################################################################################################
 
+
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/tqnaak8" group-title="Canais | Filmes e Séries",[COLOR blue][B]THE GUARDIAN[/B][/COLOR]
+https://facebook.com/xx.ely.david.xx
+
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/wrzf2ze" group-title="Canais | Filmes e Séries",[COLOR lightsalmon]SUPORTE VIA DISCORD: discord.gg/bVSswd[/COLOR]
+https://facebook.com/xx.ely.david.xx
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/amc.png" aspect-ratio="16:9" group-title="Canais | Filmes e Séries",AMC FHD (H265)
@@ -803,6 +827,14 @@ http://eyplay.io:80/dPRPQR/St3gc1/463
 
 #########################################################################################################
 
+
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/tqnaak8" group-title="Canais | Globo",[COLOR blue][B]THE GUARDIAN[/B][/COLOR]
+https://facebook.com/xx.ely.david.xx
+
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/wrzf2ze" group-title="Canais | Globo",[COLOR lightsalmon]SUPORTE VIA DISCORD: discord.gg/bVSswd[/COLOR]
+https://facebook.com/xx.ely.david.xx
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/globo.png" aspect-ratio="16:9" group-title="Canais | Globo",Globo Brasilia HD
@@ -1062,108 +1094,255 @@ http://eyplay.io:80/dPRPQR/St3gc1/251
 
 
 
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/hbo.png" aspect-ratio="16:9" group-title="Canais | Filmes e Séries",HBO FHD (H265)
+#EXTINF:-1 tvg-logo="https://tinyurl.com/tqnaak8" group-title="Canais | HBO",[COLOR blue][B]THE GUARDIAN[/B][/COLOR]
+https://facebook.com/xx.ely.david.xx
+
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/wrzf2ze" group-title="Canais | HBO",[COLOR lightsalmon]SUPORTE VIA DISCORD: discord.gg/bVSswd[/COLOR]
+https://facebook.com/xx.ely.david.xx
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/hbo.png" aspect-ratio="16:9" group-title="Canais | HBO",HBO FHD (H265)
 http://eyplay.io:80/dPRPQR/St3gc1/270
 
 
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/hbo.png" aspect-ratio="16:9" group-title="Canais | Filmes e Séries",HBO HD
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/hbo.png" aspect-ratio="16:9" group-title="Canais | HBO",HBO HD
 http://eyplay.io:80/dPRPQR/St3gc1/271
 
 
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/hbo.png" aspect-ratio="16:9" group-title="Canais | Filmes e Séries",HBO SD
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/hbo.png" aspect-ratio="16:9" group-title="Canais | HBO",HBO SD
 http://eyplay.io:80/dPRPQR/St3gc1/281
 
 
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/hbo2.png" aspect-ratio="16:9" group-title="Canais | Filmes e Séries",HBO 2 FHD (H265)
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/hbo2.png" aspect-ratio="16:9" group-title="Canais | HBO",HBO 2 FHD (H265)
 http://eyplay.io:80/dPRPQR/St3gc1/264
 
 
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/hbo2.png" aspect-ratio="16:9" group-title="Canais | Filmes e Séries",HBO 2 HD
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/hbo2.png" aspect-ratio="16:9" group-title="Canais | HBO",HBO 2 HD
 http://eyplay.io:80/dPRPQR/St3gc1/265
 
 
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/hbo2.png" aspect-ratio="16:9" group-title="Canais | Filmes e Séries",HBO 2 SD
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/hbo2.png" aspect-ratio="16:9" group-title="Canais | HBO",HBO 2 SD
 http://eyplay.io:80/dPRPQR/St3gc1/266
 
 
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/hbofamily.png" aspect-ratio="16:9" group-title="Canais | Filmes e Séries",HBO Family FHD (H265)
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/hbofamily.png" aspect-ratio="16:9" group-title="Canais | HBO",HBO Family FHD (H265)
 http://eyplay.io:80/dPRPQR/St3gc1/267
 
 
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/hbofamily.png" aspect-ratio="16:9" group-title="Canais | Filmes e Séries",HBO Family HD
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/hbofamily.png" aspect-ratio="16:9" group-title="Canais | HBO",HBO Family HD
 http://eyplay.io:80/dPRPQR/St3gc1/268
 
 
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/hbofamily.png" aspect-ratio="16:9" group-title="Canais | Filmes e Séries",HBO Family SD
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/hbofamily.png" aspect-ratio="16:9" group-title="Canais | HBO",HBO Family SD
 http://eyplay.io:80/dPRPQR/St3gc1/269
 
 
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/hbomundi.png" aspect-ratio="16:9" group-title="Canais | Filmes e Séries",HBO Mundi FHD (H265)
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/hbomundi.png" aspect-ratio="16:9" group-title="Canais | HBO",HBO Mundi FHD (H265)
 http://eyplay.io:80/dPRPQR/St3gc1/272
 
 
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/hbomundi.png" aspect-ratio="16:9" group-title="Canais | Filmes e Séries",HBO Mundi HD
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/hbomundi.png" aspect-ratio="16:9" group-title="Canais | HBO",HBO Mundi HD
 http://eyplay.io:80/dPRPQR/St3gc1/273
 
 
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/hbomundi.png" aspect-ratio="16:9" group-title="Canais | Filmes e Séries",HBO Mundi SD
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/hbomundi.png" aspect-ratio="16:9" group-title="Canais | HBO",HBO Mundi SD
 http://eyplay.io:80/dPRPQR/St3gc1/274
 
 
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/hboplus.png" aspect-ratio="16:9" group-title="Canais | Filmes e Séries",HBO Plus FHD (H265)
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/hboplus.png" aspect-ratio="16:9" group-title="Canais | HBO",HBO Plus FHD (H265)
 http://eyplay.io:80/dPRPQR/St3gc1/275
 
 
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/hboplus.png" aspect-ratio="16:9" group-title="Canais | Filmes e Séries",HBO Plus HD
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/hboplus.png" aspect-ratio="16:9" group-title="Canais | HBO",HBO Plus HD
 http://eyplay.io:80/dPRPQR/St3gc1/276
 
 
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/hboplus.png" aspect-ratio="16:9" group-title="Canais | Filmes e Séries",HBO Plus SD
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/hboplus.png" aspect-ratio="16:9" group-title="Canais | HBO",HBO Plus SD
 http://eyplay.io:80/dPRPQR/St3gc1/277
 
 
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/hbopop.png" aspect-ratio="16:9" group-title="Canais | Filmes e Séries",HBO Pop FHD (H265)
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/hbopop.png" aspect-ratio="16:9" group-title="Canais | HBO",HBO Pop FHD (H265)
 http://eyplay.io:80/dPRPQR/St3gc1/278
 
 
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/hbopop.png" aspect-ratio="16:9" group-title="Canais | Filmes e Séries",HBO Pop HD
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/hbopop.png" aspect-ratio="16:9" group-title="Canais | HBO",HBO Pop HD
 http://eyplay.io:80/dPRPQR/St3gc1/279
 
 
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/hbopop.png" aspect-ratio="16:9" group-title="Canais | Filmes e Séries",HBO Pop SD
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/hbopop.png" aspect-ratio="16:9" group-title="Canais | HBO",HBO Pop SD
 http://eyplay.io:80/dPRPQR/St3gc1/280
 
 
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/hbosignature.png" aspect-ratio="16:9" group-title="Canais | Filmes e Séries",HBO Signature FHD (H265)
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/hbosignature.png" aspect-ratio="16:9" group-title="Canais | HBO",HBO Signature FHD (H265)
 http://eyplay.io:80/dPRPQR/St3gc1/282
 
 
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/hbosignature.png" aspect-ratio="16:9" group-title="Canais | Filmes e Séries",HBO Signature HD
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/hbosignature.png" aspect-ratio="16:9" group-title="Canais | HBO",HBO Signature HD
 http://eyplay.io:80/dPRPQR/St3gc1/283
 
 
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/hbosignature.png" aspect-ratio="16:9" group-title="Canais | Filmes e Séries",HBO Signature SD
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/hbosignature.png" aspect-ratio="16:9" group-title="Canais | HBO",HBO Signature SD
 http://eyplay.io:80/dPRPQR/St3gc1/284
 
 
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/hboxtreme.png" aspect-ratio="16:9" group-title="Canais | Filmes e Séries",HBO Xtreme FHD (H265)
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/hboxtreme.png" aspect-ratio="16:9" group-title="Canais | HBO",HBO Xtreme FHD (H265)
 http://eyplay.io:80/dPRPQR/St3gc1/285
 
 
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/hboxtreme.png" aspect-ratio="16:9" group-title="Canais | Filmes e Séries",HBO Xtreme HD
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/hboxtreme.png" aspect-ratio="16:9" group-title="Canais | HBO",HBO Xtreme HD
 http://eyplay.io:80/dPRPQR/St3gc1/286
 
 
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/hboxtreme.png" aspect-ratio="16:9" group-title="Canais | Filmes e Séries",HBO Xtreme SD
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/hboxtreme.png" aspect-ratio="16:9" group-title="Canais | HBO",HBO Xtreme SD
 http://eyplay.io:80/dPRPQR/St3gc1/287
 
 
 
 #########################################################################################################
 
-                                          CANAIS HBO
+                                          CANAIS INFANTIS
 
 #########################################################################################################
 
 
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/tqnaak8" group-title="Canais | Infantis",[COLOR blue][B]THE GUARDIAN[/B][/COLOR]
+https://facebook.com/xx.ely.david.xx
+
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/wrzf2ze" group-title="Canais | Infantis",[COLOR lightsalmon]SUPORTE VIA DISCORD: discord.gg/bVSswd[/COLOR]
+https://facebook.com/xx.ely.david.xx
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/discoverykids.png" aspect-ratio="16:9" group-title="Canais | Infantis",Discovery Kids FHD (H265)
+http://eyplay.io:80/dPRPQR/St3gc1/104
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/discoverykids.png" aspect-ratio="16:9" group-title="Canais | Infantis",Discovery Kids HD
+http://eyplay.io:80/dPRPQR/St3gc1/105
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/discoverykids.png" aspect-ratio="16:9" group-title="Canais | Infantis",Discovery Kids SD
+http://eyplay.io:80/dPRPQR/St3gc1/106
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/disney.png" aspect-ratio="16:9" group-title="Canais | Infantis",Disney Channel FHD (H265)
+http://eyplay.io:80/dPRPQR/St3gc1/119
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/disney.png" aspect-ratio="16:9" group-title="Canais | Infantis",Disney Channel HD
+http://eyplay.io:80/dPRPQR/St3gc1/120
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/disney.png" aspect-ratio="16:9" group-title="Canais | Infantis",Disney Channel SD
+http://eyplay.io:80/dPRPQR/St3gc1/121
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/disneyjr.png" aspect-ratio="16:9" group-title="Canais | Infantis",Disney Jr FHD (H265)
+http://eyplay.io:80/dPRPQR/St3gc1/122
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/disneyjr.png" aspect-ratio="16:9" group-title="Canais | Infantis",Disney Jr HD
+http://eyplay.io:80/dPRPQR/St3gc1/123
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/disneyjr.png" aspect-ratio="16:9" group-title="Canais | Infantis",Disney Jr SD
+http://eyplay.io:80/dPRPQR/St3gc1/124
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/disneyxd.png" aspect-ratio="16:9" group-title="Canais | Infantis",Disney XD FHD (H265)
+http://eyplay.io:80/dPRPQR/St3gc1/125
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/disneyxd.png" aspect-ratio="16:9" group-title="Canais | Infantis",Disney XD HD
+http://eyplay.io:80/dPRPQR/St3gc1/126
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/disneyxd.png" aspect-ratio="16:9" group-title="Canais | Infantis",Disney XD SD
+http://eyplay.io:80/dPRPQR/St3gc1/127
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/gloob.png" aspect-ratio="16:9" group-title="Canais | Infantis",Gloob FHD (H265)
+http://eyplay.io:80/dPRPQR/St3gc1/252
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/gloob.png" aspect-ratio="16:9" group-title="Canais | Infantis",Gloob HD
+http://eyplay.io:80/dPRPQR/St3gc1/253
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/gloob.png" aspect-ratio="16:9" group-title="Canais | Infantis",Gloob SD
+http://eyplay.io:80/dPRPQR/St3gc1/254
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/gloobinho.png" aspect-ratio="16:9" group-title="Canais | Infantis",Gloobinho FHD (H265)
+http://eyplay.io:80/dPRPQR/St3gc1/255
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/gloobinho.png" aspect-ratio="16:9" group-title="Canais | Infantis",Gloobinho HD
+http://eyplay.io:80/dPRPQR/St3gc1/256
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/gloobinho.png" aspect-ratio="16:9" group-title="Canais | Infantis",Gloobinho SD
+http://eyplay.io:80/dPRPQR/St3gc1/257
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/natgeokids.png" aspect-ratio="16:9" group-title="Canais | Infantis",Natgeo Kids FHD (H265)
+http://eyplay.io:80/dPRPQR/St3gc1/317
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/natgeokids.png" aspect-ratio="16:9" group-title="Canais | Infantis",Natgeo Kids HD
+http://eyplay.io:80/dPRPQR/St3gc1/318
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/natgeokids.png" aspect-ratio="16:9" group-title="Canais | Infantis",Natgeo Kids SD
+http://eyplay.io:80/dPRPQR/St3gc1/319
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/nickjr.png" aspect-ratio="16:9" group-title="Canais | Infantis",Nick Jr FHD (H265)
+http://eyplay.io:80/dPRPQR/St3gc1/324
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/nickjr.png" aspect-ratio="16:9" group-title="Canais | Infantis",Nick Jr HD
+http://eyplay.io:80/dPRPQR/St3gc1/325
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/nickjr.png" aspect-ratio="16:9" group-title="Canais | Infantis",Nick Jr SD
+http://eyplay.io:80/dPRPQR/St3gc1/326
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/nick.png" aspect-ratio="16:9" group-title="Canais | Infantis",Nickelodeon FHD (H265)
+http://eyplay.io:80/dPRPQR/St3gc1/328
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/nick.png" aspect-ratio="16:9" group-title="Canais | Infantis",Nickelodeon HD
+http://eyplay.io:80/dPRPQR/St3gc1/329
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/nick.png" aspect-ratio="16:9" group-title="Canais | Infantis",Nickelodeon SD
+http://eyplay.io:80/dPRPQR/St3gc1/327
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/tooncast.png" aspect-ratio="16:9" group-title="Canais | Infantis",Tooncast FHD (H265)
+http://eyplay.io:80/dPRPQR/St3gc1/440
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/tooncast.png" aspect-ratio="16:9" group-title="Canais | Infantis",Tooncast HD
+http://eyplay.io:80/dPRPQR/St3gc1/441
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/tooncast.png" aspect-ratio="16:9" group-title="Canais | Infantis",Tooncast SD
+http://eyplay.io:80/dPRPQR/St3gc1/442
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/ratimbum.png" aspect-ratio="16:9" group-title="Canais | Infantis",TV Ra Tim Bum FHD (H265)
+http://eyplay.io:80/dPRPQR/St3gc1/447
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/ratimbum.png" aspect-ratio="16:9" group-title="Canais | Infantis",TV Ra Tim Bum HD
+http://eyplay.io:80/dPRPQR/St3gc1/448
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/ratimbum.png" aspect-ratio="16:9" group-title="Canais | Infantis",TV Ra Tim Bum SD
+http://eyplay.io:80/dPRPQR/St3gc1/449
 

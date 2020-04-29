@@ -1322,6 +1322,13 @@ http://eyplay.io:80/dPRPQR/St3gc1/449
 ###########################################CANAIS NOTÍCIAS###############################################
 
 
+#EXTINF:-1 tvg-logo="https://tinyurl.com/tqnaak8" group-title="Canais | Notícias",[COLOR blue][B]THE GUARDIAN[/B][/COLOR]
+https://facebook.com/xx.ely.david.xx
+
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/wrzf2ze" group-title="Canais | Notícias",[COLOR lightsalmon]SUPORTE VIA DISCORD: discord.gg/bVSswd[/COLOR]
+https://facebook.com/xx.ely.david.xx
+
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/bandnews.png" aspect-ratio="16:9" group-title="Canais | Notícias",BandNews FHD (H265)
 http://eyplay.io:80/dPRPQR/St3gc1/20

@@ -1509,7 +1509,7 @@ http://eyplay.io:80/YYnVMD/bSDwYW/356
 
 
 
-###########################################CANAIS SPORTV###############################################
+###########################################Canais | SporTV###############################################
 
 
 
@@ -1521,39 +1521,39 @@ https://facebook.com/xx.ely.david.xx
 https://facebook.com/xx.ely.david.xx
 
 
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/sportv.png" aspect-ratio="16:9" group-title="Canais SporTV",SporTV FHD (H265)
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/sportv.png" aspect-ratio="16:9" group-title="Canais | SporTV",SporTV FHD (H265)
 http://eyplay.io:80/YYnVMD/bSDwYW/398
 
 
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/sportv.png" aspect-ratio="16:9" group-title="Canais SporTV",SporTV HD
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/sportv.png" aspect-ratio="16:9" group-title="Canais | SporTV",SporTV HD
 http://eyplay.io:80/YYnVMD/bSDwYW/399
 
 
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/sportv.png" aspect-ratio="16:9" group-title="Canais SporTV",SporTV SD
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/sportv.png" aspect-ratio="16:9" group-title="Canais | SporTV",SporTV SD
 http://eyplay.io:80/YYnVMD/bSDwYW/400
 
 
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/sportv2.png" aspect-ratio="16:9" group-title="Canais SporTV",SporTV 2 FHD (H265)
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/sportv2.png" aspect-ratio="16:9" group-title="Canais | SporTV",SporTV 2 FHD (H265)
 http://eyplay.io:80/YYnVMD/bSDwYW/392
 
 
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/sportv2.png" aspect-ratio="16:9" group-title="Canais SporTV",SporTV 2 HD
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/sportv2.png" aspect-ratio="16:9" group-title="Canais | SporTV",SporTV 2 HD
 http://eyplay.io:80/YYnVMD/bSDwYW/393
 
 
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/sportv2.png" aspect-ratio="16:9" group-title="Canais SporTV",SporTV 2 SD
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/sportv2.png" aspect-ratio="16:9" group-title="Canais | SporTV",SporTV 2 SD
 http://eyplay.io:80/YYnVMD/bSDwYW/394
 
 
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/sportv3.png" aspect-ratio="16:9" group-title="Canais SporTV",SporTV 3 FHD (H265)
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/sportv3.png" aspect-ratio="16:9" group-title="Canais | SporTV",SporTV 3 FHD (H265)
 http://eyplay.io:80/YYnVMD/bSDwYW/395
 
 
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/sportv3.png" aspect-ratio="16:9" group-title="Canais SporTV",SporTV 3 HD
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/sportv3.png" aspect-ratio="16:9" group-title="Canais | SporTV",SporTV 3 HD
 http://eyplay.io:80/YYnVMD/bSDwYW/396
 
 
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/sportv3.png" aspect-ratio="16:9" group-title="Canais SporTV",SporTV 3 SD
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/sportv3.png" aspect-ratio="16:9" group-title="Canais | SporTV",SporTV 3 SD
 http://eyplay.io:80/YYnVMD/bSDwYW/397
 
 
@@ -1969,136 +1969,268 @@ http://eyplay.io:80/YYnVMD/bSDwYW/464
 
 #EXTINF:-1 tvg-logo="http://iv.pe/W2q" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) 101 DALMATAS
 http://eyplay.io:80/YYnVMD/bSDwYW/478
+
+
 #EXTINF:-1 tvg-logo="http://iv.pe/Oym" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) 3 PALAVRINHAS
 http://eyplay.io:80/YYnVMD/bSDwYW/480
+
+
 #EXTINF:-1 tvg-logo="http://iv.pe/Gkw" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) A BRUXINHA SABRINA
 http://eyplay.io:80/YYnVMD/bSDwYW/481
+
+
 #EXTINF:-1 tvg-logo="http://iv.pe/gMc" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) A CEGONHA PERNA FINA
 http://eyplay.io:80/YYnVMD/bSDwYW/482
+
+
 #EXTINF:-1 tvg-logo="http://iv.pe/rpW" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) A COBRINHA AZUL
 http://eyplay.io:80/YYnVMD/bSDwYW/483
+
+
 #EXTINF:-1 tvg-logo="http://iv.pe/JEs" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) A ESCOLINHA DO PROFESSOR RAIMUNDO
 http://eyplay.io:80/YYnVMD/bSDwYW/484
+
+
 #EXTINF:-1 tvg-logo="http://iv.pe/WLj" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) A FAMILIA ADDAMS 1992
 http://eyplay.io:80/YYnVMD/bSDwYW/485
+
+
 #EXTINF:-1 tvg-logo="http://iv.pe/VpD" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) A FAMILIA DRACULA
 http://eyplay.io:80/YYnVMD/bSDwYW/486
+
+
 #EXTINF:-1 tvg-logo="http://iv.pe/oXz" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) A FAMILIA DRACULA
 http://eyplay.io:80/YYnVMD/bSDwYW/487
+
+
 #EXTINF:-1 tvg-logo="http://iv.pe/oxJ" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) A FAMÍLIA DINOSSAURO
 http://eyplay.io:80/YYnVMD/bSDwYW/488
+
+
 #EXTINF:-1 tvg-logo="http://iv.pe/xQy" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) A FEITICEIRA FACEIRA
 http://eyplay.io:80/YYnVMD/bSDwYW/490
+
+
 #EXTINF:-1 tvg-logo="http://iv.pe/rmg" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) A FORMIGA ATÔMICA
 http://eyplay.io:80/YYnVMD/bSDwYW/491
+
+
 #EXTINF:-1 tvg-logo="http://iv.pe/ct4" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) A MANSÃO FOSTER PARA AMIGOS IMAGINÁRIOS
 http://eyplay.io:80/YYnVMD/bSDwYW/492
+
+
 #EXTINF:-1 tvg-logo="http://iv.pe/8fr" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) A MUMIA
 http://eyplay.io:80/YYnVMD/bSDwYW/493
+
+
 #EXTINF:-1 tvg-logo="http://iv.pe/rgL" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) A NOSSA TURMA
 http://eyplay.io:80/YYnVMD/bSDwYW/494
+
+
 #EXTINF:-1 tvg-logo="http://iv.pe/dBZ" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) A PANTERA COR DE ROSA
 http://eyplay.io:80/YYnVMD/bSDwYW/495
+
+
 #EXTINF:-1 tvg-logo="http://iv.pe/yfa" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) A PEQUENA SEREIA
 http://eyplay.io:80/YYnVMD/bSDwYW/496
+
+
 #EXTINF:-1 tvg-logo="http://iv.pe/PLZ" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) A PEQUENA SEREIA
 http://eyplay.io:80/YYnVMD/bSDwYW/497
+
+
 #EXTINF:-1 tvg-logo="http://iv.pe/b9e" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) A TURMA DE CHARLIE BROWN E SNOOPY
 http://eyplay.io:80/YYnVMD/bSDwYW/498
+
+
 #EXTINF:-1 tvg-logo="http://iv.pe/DFd" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) A VACA E O FRANGO
 http://eyplay.io:80/YYnVMD/bSDwYW/500
+
+
 #EXTINF:-1 tvg-logo="http://iv.pe/u8R" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) A VIDA MODERNA DE ROCKO
 http://eyplay.io:80/YYnVMD/bSDwYW/501
+
+
 #EXTINF:-1 tvg-logo="http://iv.pe/nnb" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) ACAMPAMENTO LAKEBOTTOM
 http://eyplay.io:80/YYnVMD/bSDwYW/502
+
+
 #EXTINF:-1 tvg-logo="http://iv.pe/Dkk" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) ALADDIN DESENHO ANIMADO
 http://eyplay.io:80/YYnVMD/bSDwYW/503
+
+
 #EXTINF:-1 tvg-logo="http://iv.pe/25A" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) ANDY PANDA
 http://eyplay.io:80/YYnVMD/bSDwYW/504
+
+
 #EXTINF:-1 tvg-logo="http://iv.pe/Y6A" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) ANIMANIACS
 http://eyplay.io:80/YYnVMD/bSDwYW/505
+
+
 #EXTINF:-1 tvg-logo="http://iv.pe/YOR" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) ARQUIVO CÃOFIDENCIAL
 http://eyplay.io:80/YYnVMD/bSDwYW/506
+
+
 #EXTINF:-1 tvg-logo="http://iv.pe/zsb" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) AS AVENTURAS DE JACKIE CHAN
 http://eyplay.io:80/YYnVMD/bSDwYW/507
+
+
 #EXTINF:-1 tvg-logo="http://iv.pe/WYd" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) AS AVENTURAS DE TINTIM
 http://eyplay.io:80/YYnVMD/bSDwYW/508
+
+
 #EXTINF:-1 tvg-logo="http://iv.pe/UXr" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) AS MENINAS SUPERPODEROSAS
 http://eyplay.io:80/YYnVMD/bSDwYW/510
+
+
 #EXTINF:-1 tvg-logo="http://iv.pe/6ig" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) AS MUMIAS VIVAS
 http://eyplay.io:80/YYnVMD/bSDwYW/511
+
+
 #EXTINF:-1 tvg-logo="http://iv.pe/yci" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) AS TARTARUGAS NINJAS
 http://eyplay.io:80/YYnVMD/bSDwYW/512
+
+
 #EXTINF:-1 tvg-logo="http://iv.pe/yfQ" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) AS TRAPALHADAS DE FLAPJACK
 http://eyplay.io:80/YYnVMD/bSDwYW/513
+
+
 #EXTINF:-1 tvg-logo="http://iv.pe/7dO" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) AS TRIGÊMIAS
 http://eyplay.io:80/YYnVMD/bSDwYW/514
+
+
 #EXTINF:-1 tvg-logo="http://iv.pe/Sbk" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) AVATAR ANIME COMPLETO
 http://eyplay.io:80/YYnVMD/bSDwYW/515
+
+
 #EXTINF:-1 tvg-logo="http://iv.pe/q0F" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) BABY LOONEY TOONES
 http://eyplay.io:80/YYnVMD/bSDwYW/516
+
+
 #EXTINF:-1 tvg-logo="http://iv.pe/K0W" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) BACKYARDIGANS
 http://eyplay.io:80/YYnVMD/bSDwYW/517
+
+
 #EXTINF:-1 tvg-logo="http://iv.pe/XZX" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) BAKUGAN
 http://eyplay.io:80/YYnVMD/bSDwYW/518
+
+
 #EXTINF:-1 tvg-logo="http://iv.pe/7cW" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) BATES MOTEL T01
 http://eyplay.io:80/YYnVMD/bSDwYW/520
+
+
 #EXTINF:-1 tvg-logo="http://iv.pe/BJb" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) BATES MOTEL T02
 http://eyplay.io:80/YYnVMD/bSDwYW/521
+
+
 #EXTINF:-1 tvg-logo="http://iv.pe/u9Y" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) BATES MOTEL T03
 http://eyplay.io:80/YYnVMD/bSDwYW/522
+
+
 #EXTINF:-1 tvg-logo="http://iv.pe/g0k" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) BATES MOTEL T04
 http://eyplay.io:80/YYnVMD/bSDwYW/523
+
+
 #EXTINF:-1 tvg-logo="http://iv.pe/yXN" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) BATES MOTEL T05
 http://eyplay.io:80/YYnVMD/bSDwYW/524
+
+
 #EXTINF:-1 tvg-logo="http://iv.pe/fgp" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) BEN 10 2006 - 2008
 http://eyplay.io:80/YYnVMD/bSDwYW/525
+
+
 #EXTINF:-1 tvg-logo="http://iv.pe/Se7" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) BEN 10 FORCA ALIENIGENA 2008 - 2010
 http://eyplay.io:80/YYnVMD/bSDwYW/526
+
+
 #EXTINF:-1 tvg-logo="http://iv.pe/fRG" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) BEN 10 OMNIVERSE 2012 - 2014
 http://eyplay.io:80/YYnVMD/bSDwYW/527
+
+
 #EXTINF:-1 tvg-logo="http://iv.pe/kAS" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) BEN 10 SUPREMACIA ALIENIGENA 2010 - 2012
 http://eyplay.io:80/YYnVMD/bSDwYW/528
+
+
 #EXTINF:-1 tvg-logo="http://iv.pe/ZgD" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) BEYBLADE G REVOLUTION 2003
 http://eyplay.io:80/YYnVMD/bSDwYW/530
+
+
 #EXTINF:-1 tvg-logo="http://iv.pe/Npo" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) BEYBLADE METAL FUSION 2010
 http://eyplay.io:80/YYnVMD/bSDwYW/531
+
+
 #EXTINF:-1 tvg-logo="http://iv.pe/Ir2" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) BEYBLADE V FORCE
 http://eyplay.io:80/YYnVMD/bSDwYW/532
+
+
 #EXTINF:-1 tvg-logo="http://iv.pe/hkX" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) BIBO PAI E BOB FILHO
 http://eyplay.io:80/YYnVMD/bSDwYW/533
+
+
 #EXTINF:-1 tvg-logo="http://iv.pe/u2i" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) BICUDO
 http://eyplay.io:80/YYnVMD/bSDwYW/534
+
+
 #EXTINF:-1 tvg-logo="http://iv.pe/NKM" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) BOB ESPONJA T01
 http://eyplay.io:80/YYnVMD/bSDwYW/535
+
+
 #EXTINF:-1 tvg-logo="http://iv.pe/WL4" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) BOB ESPONJA T02
 http://eyplay.io:80/YYnVMD/bSDwYW/536
+
+
 #EXTINF:-1 tvg-logo="http://iv.pe/lYX" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) BOB ESPONJA T03
 http://eyplay.io:80/YYnVMD/bSDwYW/537
+
+
 #EXTINF:-1 tvg-logo="http://iv.pe/Esx" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) BOB ESPONJA T04
 http://eyplay.io:80/YYnVMD/bSDwYW/538
+
+
 #EXTINF:-1 tvg-logo="http://iv.pe/eR6" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) BOB ESPONJA T06
 http://eyplay.io:80/YYnVMD/bSDwYW/540
+
+
 #EXTINF:-1 tvg-logo="http://iv.pe/8mV" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) BOB ESPONJA T07
 http://eyplay.io:80/YYnVMD/bSDwYW/541
+
+
 #EXTINF:-1 tvg-logo="http://iv.pe/qzG" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) BOB ESPONJA T08
 http://eyplay.io:80/YYnVMD/bSDwYW/542
+
+
 #EXTINF:-1 tvg-logo="http://iv.pe/Z9a" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) BOB ESPONJA T09
 http://eyplay.io:80/YYnVMD/bSDwYW/543
+
+
 #EXTINF:-1 tvg-logo="http://iv.pe/6tk" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) BOB ESPONJA T10
 http://eyplay.io:80/YYnVMD/bSDwYW/544
+
+
 #EXTINF:-1 tvg-logo="http://iv.pe/6k6" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) BREAKING BAD T01
 http://eyplay.io:80/YYnVMD/bSDwYW/545
+
+
 #EXTINF:-1 tvg-logo="http://iv.pe/2kU" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) BREAKING BAD T02
 http://eyplay.io:80/YYnVMD/bSDwYW/546
+
+
 #EXTINF:-1 tvg-logo="http://iv.pe/363" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) BREAKING BAD T03
 http://eyplay.io:80/YYnVMD/bSDwYW/547
+
+
 #EXTINF:-1 tvg-logo="http://iv.pe/jhW" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) BREAKING BAD T04
 http://eyplay.io:80/YYnVMD/bSDwYW/548
+
+
 #EXTINF:-1 tvg-logo="http://iv.pe/pMr" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) BUCKY JIBAKU KUN
 http://eyplay.io:80/YYnVMD/bSDwYW/550
+
+
 #EXTINF:-1 tvg-logo="http://iv.pe/hXv" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) BUZZ LIGHTYEAR DO COMANDO
 http://eyplay.io:80/YYnVMD/bSDwYW/551
+
+
 #EXTINF:-1 tvg-logo="http://iv.pe/MZY" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) CADILLACS E DINOSSAUROS
 http://eyplay.io:80/YYnVMD/bSDwYW/552
 #EXTINF:-1 tvg-logo="http://iv.pe/XRp" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) CAEZINHOS DO CANIL

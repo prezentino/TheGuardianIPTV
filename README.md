@@ -11738,3 +11738,813 @@ http://eyplay.io:80/movie/4oyoIG/iAuhTR/16669.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/35HFXkITwmVAXUZf9UWPZ6zedBO.jpg" group-title="Filmes | Drama",Uma Lição de Vida - 2010
 http://eyplay.io:80/movie/4oyoIG/iAuhTR/18000.mp4
 
+
+
+###########################################FILMES FANTASIA###############################################
+
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/5204d4df29c528e76497719063ea1961.jpg" group-title="Filmes | Fantasia",2036 Origem Desconhecida - 2018
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16702.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bmUtI1DMEAOnGcpcdla2FiH1XsA.jpg" group-title="Filmes | Fantasia",A 5ª Onda - 2016
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16703.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9V4wl4rnUcLfGuTe4J5NjOFbDil.jpg" group-title="Filmes | Fantasia",A Bela e a Fera - 2017
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16704.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/443c1094e410c47f4de6175c098752cc.jpg" group-title="Filmes | Fantasia",A Boneca que Virou Gente 2 - 2018
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16705.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/3d9ab6e872ed8c35d0972d397183b52f.jpg" group-title="Filmes | Fantasia",A Colina Escarlate - 2015
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16706.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wxddZZM4LzlCMVcC4Bdiborh7Jf.jpg" group-title="Filmes | Fantasia",A Experiência 1 - 1995
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16708.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/53IqPn7T5uP5SSv6ToQW0a3i9Rk.jpg" group-title="Filmes | Fantasia",Experiência 2 - 1998
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16709.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zwvHWaHPvislnywDgpeidbEudNr.jpg" group-title="Filmes | Fantasia",A Experiência 3 - 2004
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16710.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k55zLxB2Qm6bfPv4Q1guTia6tDo.jpg" group-title="Filmes | Fantasia",A Experiência 4 - 2007
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16711.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/5a635ff50fbd0b2d13e65d9e422d91ec.jpg" group-title="Filmes | Fantasia",A Fantástica Fábrica de Chocolate - 1971
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16712.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/6dc5e9dc55fb15a38339f3a1e28faa9a.jpg" group-title="Filmes | Fantasia",A Garota da Capa Vermelha - 2011
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16713.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/66015636d255bc00c9729d489b10e714.jpg" group-title="Filmes | Fantasia",A Gente Se Vê Ontem - 2019
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16714.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/4e4760713eadec911933e2dcbfc58ecd.jpg" group-title="Filmes | Fantasia",A Lenda de Beowulf - 2007
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/15366.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/9ca492fb1d56eb0a4d052760aa8f9997.jpg" group-title="Filmes | Fantasia",A Liga Extraordinária - 2003
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16720.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i8M9qjL1j47MYjxKjnLKEBHtg8j.jpg" group-title="Filmes | Fantasia",A Maldição da Bela Adormecida - 2016
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16721.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/aea090b14072768a93f650ccb303ebf8.jpg" group-title="Filmes | Fantasia",A Menina e o Leão - 2018
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16723.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/338822027a9c3f54e054d75baab1826e.jpg" group-title="Filmes | Fantasia",A Máquina De Lembranças - 2017
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16722.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/0b2befd75853e065ecd5e4633095107c.jpg" group-title="Filmes | Fantasia",A Rebelião - 2011
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16731.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/73b3df0afd4dfe48dace70f804d678af.jpg" group-title="Filmes | Fantasia",Ad Astra - Rumo às Estrelas - 2019
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16707.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/e517dd31c92002bbef2f51d7067e3d87.jpg" group-title="Filmes | Fantasia",Alice Através do Espelho - 2016
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16716.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/0a4ca663e6c98bc37c6c75f8170a7b14.jpg" group-title="Filmes | Fantasia",Alice no País das Maravilhas - 1903
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16717.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2DKoPom57PVtJWcJlq7bS7JpahU.jpg" group-title="Filmes | Fantasia",Alien vs. Predador 1 - 2004
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16718.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yfzjOzCGY6O3Z64kJlpekTpNfTN.jpg" group-title="Filmes | Fantasia",Alien vs. Predador 2 - 2007
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16719.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kFgEl52DNhI6QqwN2CsKuxKl19T.jpg" group-title="Filmes | Fantasia",Animais Fantásticos e Onde Habitam - 2016
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16724.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/b9139581f5adc083de559207102654b1.jpg" group-title="Filmes | Fantasia",Animais Fantásticos: Os Crimes de Grindelwald - 2018
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16725.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rz9oAnjaHV8Mbsneyv13xt72k2F.jpg" group-title="Filmes | Fantasia",Anjos da Noite 1 - 2003
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16726.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bI2VTnT7EjYt4ZJEHn0cmJQYqpV.jpg" group-title="Filmes | Fantasia",Anjos da Noite 2 - 2006
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16727.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/atPv2WJzlD76ZQP3wjaixZooR1l.jpg" group-title="Filmes | Fantasia",Anjos da Noite 3 - 2009
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16728.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xUe1eAnuCfRqLJsbbR8j1VFqwLa.jpg" group-title="Filmes | Fantasia",Anjos da Noite 4 - 2012
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16729.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mNqzSbagMFI3BbF1SPCRjqHLYlk.jpg" group-title="Filmes | Fantasia",Anjos da Noite 5 - 2016
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16730.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/da9f837cdd0cca21f126036cba68e2a7.jpg" group-title="Filmes | Fantasia",As Aventuras de Sharkboy e Lavagirl - 2005
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16732.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/6721a818c7fa0919f280e612e9ac1bc0.jpg" group-title="Filmes | Fantasia",As Crônicas de Nárnia: A Viagem do Peregrino da Alvorada - 2010
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16734.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/efce7d6e9306b781ef850949458aca39.jpg" group-title="Filmes | Fantasia",As Crônicas de Nárnia: O Leão, a Feiticeira e o Guarda-Roupa - 2005
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16735.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/c2c4a68c7ec2734e70e1550526d446ca.jpg" group-title="Filmes | Fantasia",As Crônicas de Nárnia: Príncipe Caspian - 2008
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16733.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tpyr5jo8ASgsyGgNU8ajM6FPNzy.jpg" group-title="Filmes | Fantasia",As Tartarugas Ninja 1 - 2014
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16736.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/d304f98624238caac3e0812609ceaa58.jpg" group-title="Filmes @ Faroeste",Big Kill - A Cidade do Medo - 2018
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16985.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/a18712c9b21bd328007d9ae927d0e74b.jpg" group-title="Filmes @ Faroeste",Black '47 - 2018
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16986.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/c43bc74322dfe786d43e949644145863.jpg" group-title="Filmes | Fantasia",Black Mirror - Bandersnatch - 2018
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16738.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/420b43e2e34ddcdc1de645d52190c980.jpg" group-title="Filmes | Fantasia",Blade Runner 2049 - 2017
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16739.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/f727aefb248fcdd6d3cfea52145e5651.jpg" group-title="Filmes | Fantasia",Bleach - 2018
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16740.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/2a4415941e45964c748eb6e3b09a363a.jpg" group-title="Filmes | Fantasia",Branca de Neve e o Caçador - 2012
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16741.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/cfba83c668ab84efce12c39ba356e8f1.jpg" group-title="Filmes | Fantasia",Bright - 2017
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16742.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/26273d08b257bfd7ac35e8e1907815c7.jpg" group-title="Filmes | Fantasia",Brilho Eterno de uma Mente sem Lembranças - 2004
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16743.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/7e3653b962ebb35e349a6c484606ea02.jpg" group-title="Filmes | Fantasia",Cada Um na Sua Casa - 2015
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16745.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/e9ce2226cf89697fbe374977af06912c.jpg" group-title="Filmes | Fantasia",Caça-Fantasmas - Na Trilha do Gelo - 2015
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16994.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/47882b95db6e4b33d3ad3c5ba2cafcad.jpg" group-title="Filmes | Fantasia",Caçadora de Gigantes - 2018
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16744.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/3c35c2778856515f28bdb1903e200a8c.jpg" group-title="Filmes | Fantasia",Cinderela - 2015
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16746.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/e66f5af8a3432c8cefcc931c5f13eba2.jpg" group-title="Filmes | Fantasia",Convenção das Bruxas - 1990
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16747.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sgxHeCZE3H9n5jQFumQPs9HBnTV.jpg" group-title="Filmes | Fantasia",Crepúsculo 1 - 2008
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16749.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uRl49JRhLi2mBhe1HcQcby205QN.jpg" group-title="Filmes | Fantasia",Crepúsculo 2 - 2009
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16750.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/eba46fba70561b1a904b6c2683361ae5.jpg" group-title="Filmes | Fantasia",Crepúsculo: Amanhecer - Parte 1 - 2011
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16752.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/2b7f63c6f0ad265268d2e4a757db728b.jpg" group-title="Filmes | Fantasia",Crepúsculo: Amanhecer - Parte 2 - 2012
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16753.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/70a3f04591ac5914bf5e02ad3ab406d2.jpg" group-title="Filmes | Fantasia",Crepúsculo: Eclipse - 2010
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16751.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/a0fa7002b2329e96e5372562603f9b05.jpg" group-title="Filmes | Fantasia",Cópias: De Volta à Vida - 2018
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16748.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/01fa760db88e847ef4e5adbab56e5a85.jpg" group-title="Filmes | Fantasia",Darken – O Universo Paralelo - 2017
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16754.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i996T0lI1fGtFEowiH3V6eZthL0.jpg" group-title="Filmes | Fantasia",De Volta para o Futuro 1 - 1985
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16758.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dAAnK6EUBDUpM9H5EBfYV3GmtC1.jpg" group-title="Filmes | Fantasia",De Volta para o Futuro 2 - 1989
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16759.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4FSf6KTBa765KxmocOFjg8cnQpx.jpg" group-title="Filmes | Fantasia",De Volta para o Futuro 3 - 1990
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16760.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/af4d945b515a7d22e9a1e81942982f88.jpg" group-title="Filmes | Fantasia",Descendentes 2 - 2017
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16756.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/d24a99e62ad898cda731fa8ebc1d5e63.jpg" group-title="Filmes | Fantasia",Donnie Darko - 2001
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16761.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/040d7c19027aa3793b98b430d482d852.jpg" group-title="Filmes | Fantasia",Dora e a Cidade Perdida - 2019
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16762.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t0amAZ8KJFxBQZOxOnWlKVT4STi.jpg" group-title="Filmes | Fantasia",Doutor Estranho - 2016
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16763.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/e46671fbccbffdb9a3ee558076f298e4.jpg" group-title="Filmes | Fantasia",Dracula: A História Nunca Contada - 2014
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16764.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/900663a07f75408758e400b93df09548.jpg" group-title="Filmes | Fantasia",Drones - 2013
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16765.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/4d5dfeb8d00f413b4567045c28ff8eec.jpg" group-title="Filmes | Fantasia",Dummie A Múmia e a Tumba de Achnetut - 2017
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16766.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/acc5376d04e5da58b1e73b0907616b7d.jpg" group-title="Filmes | Fantasia",Edward Mãos de Tesoura - 1990
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16767.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ojyrQRIQ6f0hHFpJoXTAeUx0ynX.jpg" group-title="Filmes | Fantasia",Efeito Borboleta 1 - 2004
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16768.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qqpZjpV4hFs9ExbUcvkXzTQs0Tr.jpg" group-title="Filmes | Fantasia",Efeito Borboleta 2 - 2006
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16769.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fZkhTaB0jLaHNulq1q0hULQShu9.jpg" group-title="Filmes | Fantasia",Efeito Borboleta 3 - 2009
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16770.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/400012974f08f50538fe623ba337beb6.jpg" group-title="Filmes | Fantasia",Elmo na Terra dos Rabugentos - 1999
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16771.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/0b1504c29b7f5b46df4001697d34cd3c.jpg" group-title="Filmes | Fantasia",Em Busca da Carta Proibida - 2017
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16772.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9nPnDDPrSgMw7TUrYShiZ3Ud07.jpg" group-title="Filmes | Fantasia",Extinção - 2018
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16773.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/e1e8b44c816a04852f061235758541be.jpg" group-title="Filmes | Fantasia",Gantz - 2011
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16775.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/2c3167c97450fd0412d27d8c1a5d655e.jpg" group-title="Filmes | Fantasia",Godzilla - 1998
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16776.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/49e1aae2536bb8345bf89c71df4497f8.jpg" group-title="Filmes | Fantasia",Guardiões da Galáxia Vol. 3 - 2023
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16777.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/57a47bd411f658b653f9f29d00f31f19.jpg" group-title="Filmes | Fantasia",Guerreiros do Futuro - 2018
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16778.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/1b6c73bb71ea5c279ec1eb3fce3cdd2c.jpg" group-title="Filmes | Fantasia",Han Solo: Uma História Star Wars - 2018
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16779.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qnw9610ojLT0jU3lMSZOAFttt1e.jpg" group-title="Filmes | Fantasia",Harry Potter 1 - 2001
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16780.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/811j0Jf2D0mK1U6RxXJoZgOB29n.jpg" group-title="Filmes | Fantasia",Harry Potter 2 - 2002
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16781.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1HdMUghqlgOIvbsU9ZtO40IPRzl.jpg" group-title="Filmes | Fantasia",Harry Potter 3 - 2004
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16782.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5oWB3hjzyECRBAjgWkmZinxl9qA.jpg" group-title="Filmes | Fantasia",Harry Potter 4 - 2005
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16783.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tIf9aUyNljda9MG1pjlOLHCZ3b0.jpg" group-title="Filmes | Fantasia",Harry Potter 5 - 2007
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16784.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hTQQ5l9mxA3Rob8PTyvrNNGuj6y.jpg" group-title="Filmes | Fantasia",Harry Potter 6 - 2009
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16785.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/67FVFOTaeBUQnimhCWpUkDawDct.jpg" group-title="Filmes | Fantasia",Harry Potter 7 - 2010
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16786.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yD3VosOVW8WxPUzBDpEdzfv5pGx.jpg" group-title="Filmes | Fantasia",Harry Potter 8 - 2011
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16787.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/b6964bf74699c825490db463e63b823a.jpg" group-title="Filmes | Fantasia",Hellboy - 2004
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16788.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ZFnYUkYDlwJQvODkQ0JyTRZDSO.jpg" group-title="Filmes | Fantasia",Hellboy 2 - O Exército Dourado - 2008
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16789.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/219c2585cac52ed78f6a81276bb731bd.jpg" group-title="Filmes | Fantasia",Hook - A Volta do Capitão Gancho - 1991
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16790.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/aad884474629ca004cd4fb6d5958c5dd.jpg" group-title="Filmes | Fantasia",I Am Mother - 2019
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16791.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/85f0aa0218e99115e0fe641db02a2268.jpg" group-title="Filmes | Fantasia",IO – O Último na Terra - 2019
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16792.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/db8acbf6b517e9a5ae3867894c8a1205.jpg" group-title="Filmes | Fantasia",Jogador N° 1 - 2018
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16794.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8ox62tj8RY0yDAe7fXn3OURKgjK.jpg" group-title="Filmes | Fantasia",Jornada nas Estrelas 10 - 2002
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16804.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qZ9VC2XGEqdPWOO8yA5BSBU5vDd.jpg" group-title="Filmes | Fantasia",Jornada Nas Estrelas 11 - 2009
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16805.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/by3jCQ1KXqzzIInw0Dr14GHC0nJ.jpg" group-title="Filmes | Fantasia",Jornada Nas Estrelas 13 - 2016
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16806.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bHgbWah5GVryVCjI21Gpsxb8FnM.jpg" group-title="Filmes | Fantasia",Jornada nas Estrelas 1 - 1979
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16795.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b9FyLkPyIXqZC1IunApc6e7xJ6l.jpg" group-title="Filmes | Fantasia",Jornada nas Estrelas 2 - 1982
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16796.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vkqWTEnTDpP1BpXhzUq8U0lR1PK.jpg" group-title="Filmes | Fantasia",Jornada nas Estrelas 3 - 1984
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16797.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dLnsbQZ1CQ54jKMwVTeCGFRwlQk.jpg" group-title="Filmes | Fantasia",Jornada nas Estrelas 4 - 1986
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16798.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ohA8ogNltkGmyIiO3vpw3UUltmK.jpg" group-title="Filmes | Fantasia",Jornada nas Estrelas 5 - 1989
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16799.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/DLF3vrVHNmaMTI5AIDYEUF7zdo.jpg" group-title="Filmes | Fantasia",Jornada nas Estrelas 6 - 1991
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16800.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gf5aHVU85r1hv4Pv0USY6jHxAKs.jpg" group-title="Filmes | Fantasia",Jornada nas Estrelas 7 - 1994
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16801.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c0eK77D0UUzvY0bJ6Rftpo9VHg4.jpg" group-title="Filmes | Fantasia",Jornada nas Estrelas 8 - 1996
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16802.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7m253YYciU4BjFUU1fxi2yL5Cgv.jpg" group-title="Filmes | Fantasia",Jornada nas Estrelas 9 - 1998
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16803.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pNAOG8mvstBhUE1jhbGkB87G2VV.jpg" group-title="Filmes | Fantasia",João e Maria: Caçadores de Bruxas 1 - 2013
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16793.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/38ef32109cb723115d33a2a8621541ff.jpg" group-title="Filmes | Fantasia",Jurassic World: Reino Ameaçado - 2018
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16807.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/fc718c3b1ce1df80d54a05d9a0aba6e7.jpg" group-title="Filmes | Fantasia",Kronos: O Fim Da Humanidade? - 2017
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16808.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/8b167d35141523462daa99bb37927a12.jpg" group-title="Filmes | Fantasia",Labirinto: A Magia do Tempo - 1986
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16809.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/7aaba21deb649a0a109668d48d1b2e86.jpg" group-title="Filmes | Fantasia",Liga da Justiça - 1997
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16810.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/6168f82dd038e7c7d456e4be733eb70c.jpg" group-title="Filmes | Fantasia",Loucura do Tempo - 2018
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16811.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/95b8c5b9fd55c2c34718e4bf68099e34.jpg" group-title="Filmes | Fantasia",Lua de Júpiter - 2017
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16812.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/0488c48e3775b216cc1f89590d0a1091.jpg" group-title="Filmes | Fantasia",Lucas, um Intruso no Formigueiro - 2006
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16813.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/3a7a0d0134fc6688e34a248e19673953.jpg" group-title="Filmes | Fantasia",Malévola - 2014
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16814.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/d292d33ccb06dd1d71f3748f5ed3d864.jpg" group-title="Filmes | Fantasia",Marjorie Prime - 2017
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16815.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r07H7rKvPGLqiIPPJCoxzAMulDh.jpg" group-title="Filmes | Fantasia",Maze Runner 1 - 2014
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16816.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zpdGT57Rn3mAZsNOkeDeINB6L9v.jpg" group-title="Filmes | Fantasia",Maze Runner 2 - 2015
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16817.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/9eb918f2705fe0519877f5b974111bbc.jpg" group-title="Filmes | Fantasia",Megatubarão - 2018
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16818.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/9d1cf812029c5f6fc35ed290b025af37.jpg" group-title="Filmes | Fantasia",Mentes Sombrias - 2018
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16819.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nVdsXW3oJKBCMpNVZcg8teCk0cS.jpg" group-title="Filmes | Fantasia",Noé - 2014
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/17270.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/cc74c9b7f1fa564589f71afdeaa76d6c.jpg" group-title="Filmes | Fantasia",O Ataque do Tubarão de 6 Cabeças - 2018
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16820.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/8e0c8705919b07e456454e7cac92d2d1.jpg" group-title="Filmes | Fantasia",O Baile das Bruxas - 2017
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16821.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/be40b36b2daf7674219e93d22aa6daaf.jpg" group-title="Filmes | Fantasia",O Bom Gigante Amigo - 2016
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16823.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/581d5f2bd963d29f117f73725bbb186b.jpg" group-title="Filmes | Fantasia",O Corcunda de Notre Dame - 1939
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16824.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/4acf21fda6fe0222ab5408babd35de0f.jpg" group-title="Filmes | Fantasia",O Culto - 2018
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16825.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/24bf8473b8a0d7fdfd998b2ed0bc8267.jpg" group-title="Filmes | Fantasia",O Destino de Júpiter - 2015
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16826.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/2550569af1a7d5c6e4f28c4e16d7abe2.jpg" group-title="Filmes | Fantasia",O Estranho Mundo de Jack - 1993
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16827.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bsLapI6DxME6niIb74aSD71DRH.jpg" group-title="Filmes | Fantasia",O Exterminador do Futuro 5 - Gênesis - 2015
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16828.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/56666482b3efc9de2a3f04e583695934.jpg" group-title="Filmes | Fantasia",O Feitiço de Áquila - 1985
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16829.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/24d68280cdbab0b98ecd248691ea6f84.jpg" group-title="Filmes | Fantasia",O Fim do Mundo - 2019
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16774.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/59iyNnj6xFhoQq7QMegQx0JpMrp.jpg" group-title="Filmes | Fantasia",O Hobbit 1 - 2012
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16830.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/beqHE5BZY5LczMxJezL4FdY7mBp.jpg" group-title="Filmes | Fantasia",O Hobbit 2 - 2013
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16831.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q9eDVkrj2moWTZp8PZiPccjs5Vo.jpg" group-title="Filmes | Fantasia",O Hobbit 3 - 2014
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16832.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uvHWsmniMfN8vfXerzwQueacv6w.jpg" group-title="Filmes | Fantasia",O Ilusionista - 2006
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16833.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/b58d7246cf654b3bb6a6552ddaa5abbd.jpg" group-title="Filmes | Fantasia",O Lar das Crianças Peculiares - 2016
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16834.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/f50cb59f3a34a102e01131bcf3ec7247.jpg" group-title="Filmes | Fantasia",O Menino Que Queria Ser Rei - 2019
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16836.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/34d112ef33417844b57f37b1e2539c89.jpg" group-title="Filmes | Fantasia",O Máskara - 1994
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16835.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/1f26f87dd7c45802adc822bfb02e2c09.jpg" group-title="Filmes | Fantasia",O Núcleo - Missão ao Centro da Terra - 2003
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16838.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lCC2WiDjCBnVkKAz7GqJ80kAi27.jpg" group-title="Filmes | Fantasia",O Predador 1 - 1987
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16839.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sTaSUR11QJZKqQQ40dGahiWQWZw.jpg" group-title="Filmes | Fantasia",O Predador 2 - 1990
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16840.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qn3W5RwPBlsYLosiSUZBR608Cqr.jpg" group-title="Filmes | Fantasia",O Predador 3- 2010
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16841.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8NQd3uDbOsEvpvDRGusZnUbRDOO.jpg" group-title="Filmes | Fantasia",O Predador - 2018
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16842.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/ee14978e9ff7df27c6fefac980088e7a.jpg" group-title="Filmes | Fantasia",O Quebra-Nozes e os Quatro Reinos - 2018
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16843.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zoht5lmzBXxL7FWkHHu3JISGzEg.jpg" group-title="Filmes | Fantasia",O Senhor dos Anéis 1 - 2001
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16845.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u2shqvdy3wRawg5RgWAESMEdz4N.jpg" group-title="Filmes | Fantasia",O Senhor dos Anéis 2 - 2002
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16846.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/izPNMzffsgZUvlbiYlPxjFr3TAa.jpg" group-title="Filmes | Fantasia",O Senhor dos Anéis 3 - 2003
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16847.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/bbf78e0efad4f5d3dece3fb4f468de9d.jpg" group-title="Filmes | Fantasia",O Último Caçador de Bruxas - 2015
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16851.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/0850ee9b14553cf77dd3c98aecb9ed54.jpg" group-title="Filmes | Fantasia",O Último Sharknado: Já Estava na Hora - 2018
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/17123.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/189b5071084466541330c3d87e685751.jpg" group-title="Filmes | Fantasia",Oblivion - 2013
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16822.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/4924e2d4972e31d9c7aec69caf051ceb.jpg" group-title="Filmes | Fantasia",Os Fantasmas se Divertem - 1988
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16848.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/bd64d224184d65a9aa2a5a5cfc5e8662.jpg" group-title="Filmes | Fantasia",Os Guardiões - 2012
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16849.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/ba5dcc396435249ae18cc3af3b250e5d.jpg" group-title="Filmes | Fantasia",Os Investigadores e a Maldição da Montanha - 2017
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16850.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/96dd6260de2b5800a86098306cc74a68.jpg" group-title="Filmes | Fantasia",Oz, Mágico e Poderoso - 2013
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16852.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/abc1ad263ad959f63961cf3a9ccd049c.jpg" group-title="Filmes | Fantasia",Paralisia - 2016
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16853.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/7a5c2fa70b6c359f7d68ff4d55d5d164.jpg" group-title="Filmes | Fantasia",Percy Jackson e o Ladrão de Raios - 2010
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16854.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/046d5aba6b660e7a9d0a250e12c922bf.jpg" group-title="Filmes | Fantasia",Percy Jackson e o Mar de Monstros - 2013
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16855.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qbp03aY63aWpJ9Ihr4aNiiKK94R.jpg" group-title="Filmes | Fantasia",Piratas do Caribe 1 - 2003
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16856.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nufZahJOOpBv6MOGmEK8legVzwg.jpg" group-title="Filmes | Fantasia",Piratas do Caribe 2 - 2006
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16857.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j15lZasREutscon6e61LSSNJoN7.jpg" group-title="Filmes | Fantasia",Piratas do Caribe 3 - 2007
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16858.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yDTAIbvELmyZrQV5EAFyklqWo5C.jpg" group-title="Filmes | Fantasia",Piratas do Caribe 4 - 2011
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16859.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/4ce7d1d1895d3ee14caaa1827d44a46c.jpg" group-title="Filmes | Fantasia",Piratas do Caribe: A Vingança de Salazar - 2017
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16860.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qxe4ONZAgtC0mfsIuOyqVU9JREj.jpg" group-title="Filmes | Fantasia",Planeta dos Macacos 1 - 2011
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16861.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4vLhF6R3lmhTjTVUdK4gI1s5a8v.jpg" group-title="Filmes | Fantasia",Planeta dos Macacos 2 - 2014
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16862.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kG4ZxEBVw4eS23QSXG0PaUaDoEx.jpg" group-title="Filmes | Fantasia",Planeta dos Macacos 3 - 2017
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16863.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/409f43abe7c138f94f008f9bb1463580.jpg" group-title="Filmes | Fantasia",Power Rangers - 2017
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16864.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/ab33db97265d7efddc9f4234875c8d90.jpg" group-title="Filmes | Fantasia",Prisão Estelar - 2018
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16865.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/bf32ac293951ccbe8f9d269183d9960f.jpg" group-title="Filmes | Fantasia",Projeto Almanaque - 2015
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16866.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sRITPlHYjHiOLQXr0sFxVz5TPmj.jpg" group-title="Filmes | Fantasia",Alien: Covenant - 2017
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16867.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/1cc25a1d83cd0bfc25f805bf9b7c9e35.jpg" group-title="Filmes | Fantasia",R.I.P.D. - Agentes do Além - 2013
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16868.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7V4WfCUWYzMcBby8e6jAwVxw2Ai.jpg" group-title="Filmes | Fantasia",Riddick 1 - 2000
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16869.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pfKnyehXOdFFKO1akcW7kdEKz82.jpg" group-title="Filmes | Fantasia",Riddick 2 - 2004
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16870.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gHWn62awXUQmG8ZcVUuDqx1C9sj.jpg" group-title="Filmes | Fantasia",Riddick 3 - 2013
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16871.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/da6fc67658efbec2c26e7c0b1dbe9d81.jpg" group-title="Filmes | Fantasia",Saída Proibida - 2018
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16872.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/c590ad81cacb40fd5709188e443b6bf8.jpg" group-title="Filmes | Fantasia",Sereias - Elas Existem - 2017
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16873.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iSNdwFauC1QODm1ntk07wqJV1pf.jpg" group-title="Filmes | Fantasia",Guerra nas Estrelas 1 - 1977
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16874.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iXXSUFpfBKZimPyugKQShUO5NMS.jpg" group-title="Filmes | Fantasia",Guerra nas Estrelas 2 - 1980
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16875.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e57CeQLHE5WWzWy3oq03IVmAyfp.jpg" group-title="Filmes | Fantasia",Guerra nas Estrelas 3 - 1983
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16876.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/noVm3w6RiIftkvLZbi7upH2Ws0S.jpg" group-title="Filmes | Fantasia",Guerra nas Estrelas 4 - 1999
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16877.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s2ONgVK8ucLfobZn7VTyaAKH0yA.jpg" group-title="Filmes | Fantasia",Guerra nas Estrelas 5 - 2002
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16878.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m4ihKTuWHiNa5u09OgFtvpnedQ6.jpg" group-title="Filmes | Fantasia",Guerra nas Estrelas 6 - 2005
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16879.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d6YOfi0T9GowglzIkDQGGvGYVTM.jpg" group-title="Filmes | Fantasia",Guerra nas Estrelas 7 - 2008
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16880.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mc9hsb5BTTFGmPhHkXxonKP5rFN.jpg" group-title="Filmes | Fantasia",Guerra nas Estrelas 8  - 2015
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16881.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/5f2d7f6759913b7234cb0e7ce1833a86.jpg" group-title="Filmes | Fantasia",Tau - 2018
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16882.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/be8a3448c322a0d4dea43c45c7cf8cb9.jpg" group-title="Filmes | Fantasia",Tempestade: Planeta em Fúria - 2017
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16883.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uZNgL1aXLdXSSTGdf9acxW7a5gR.jpg" group-title="Filmes | Fantasia",O Titã - 2018
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16884.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/685db85392f4442c8f59c6112a130e28.jpg" group-title="Filmes | Fantasia",Tomorrowland: Um Lugar Onde Nada é Impossível - 2015
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16885.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oz7WsSLalkh60q1e0uzqqpbaB2g.jpg" group-title="Filmes | Fantasia",Transformers 1 - 2007
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16886.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/19AaiftqKuLJQu0cUrfpiPanR6l.jpg" group-title="Filmes | Fantasia",Transformers 2 - 2009
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16887.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dS5kxfgLUPw3ukVg0Pu1OMTfzn2.jpg" group-title="Filmes | Fantasia",Transformers 3 - 2011
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16888.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mEoefzCucns2lKgw5eH35EW3kjL.jpg" group-title="Filmes | Fantasia",Transformers 4 - 2014
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16889.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7FhfQhH1Qppc9Xlyiglj75QQSKx.jpg" group-title="Filmes | Fantasia",Transformers 5 - 2017
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16890.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/om0wXlt8ANcHWE0EJlYjxaUD5Ga.jpg" group-title="Filmes | Fantasia",Tróia - 2004
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16662.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/77d780ab3e198318d7a50e1b4bb5ad8f.jpg" group-title="Filmes | Fantasia",Ultravioleta - 2014
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16891.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/4f98702a732cc01b67d60caea1bd6b47.jpg" group-title="Filmes | Fantasia",Um Olhar do Paraíso - 2009
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16896.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/838e240f7f275846a5a43972ac156356.jpg" group-title="Filmes | Fantasia",Uma Ajuda Natalina - 2012
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16715.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/ff5e761e543fa9799d5b866c13ba41ac.jpg" group-title="Filmes | Fantasia",Uma Dobra no Tempo - 2018
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16892.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i9fRoPChc680PJWRvltPAMzri6I.jpg" group-title="Filmes | Fantasia",Uma Noite de Crime 1 - 2013
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16893.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vkJ9MP7yqtwt0pm4LaLIfSxTqm2.jpg" group-title="Filmes | Fantasia",Uma Noite de Crime 2 - 2014
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16894.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2MLDMRWXZEIZsQ1KEelUeX2dUAZ.jpg" group-title="Filmes | Fantasia",Uma Noite de Crime 3 - 2016
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16895.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/3ad6f21f4def3e6ce2bf7d1d734edc61.jpg" group-title="Filmes | Fantasia",Valerian e a Cidade dos Mil Planetas - 2017
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16897.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/8fbc3da02be93e8c32560e040a098088.jpg" group-title="Filmes | Fantasia",Vingadores: Guerra Infinita - 2018
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16898.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/a81bbc3ff1faa4aa0a5885ce3466f316.jpg" group-title="Filmes | Fantasia",Volcano - 2019
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16899.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nzjrL2KBb1xjbcqTKY3han9VbvE.jpg" group-title="Filmes | Fantasia",Voldemort: Origins of the Heir - 2018
+http://eyplay.io:80/movie/4oyoIG/iAuhTR/16900.mp4
+
+

@@ -475,6 +475,18 @@ http://eyplay.io:80/dPRPQR/St3gc1/142
 http://eyplay.io:80/dPRPQR/St3gc1/141
 
 
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/espn.png" aspect-ratio="16:9" group-title="Canais | Esportes",ESPN FHD (H265)
+http://eyplay.io:80/dPRPQR/St3gc1/152
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/espn.png" aspect-ratio="16:9" group-title="Canais | Esportes",ESPN HD
+http://eyplay.io:80/dPRPQR/St3gc1/153
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/espn.png" aspect-ratio="16:9" group-title="Canais | Esportes",ESPN SD
+http://eyplay.io:80/dPRPQR/St3gc1/154
+
+
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/espn2.png" aspect-ratio="16:9" group-title="Canais | Esportes",ESPN 2 FHD (H265)
 http://eyplay.io:80/dPRPQR/St3gc1/144
 
@@ -505,18 +517,6 @@ http://eyplay.io:80/dPRPQR/St3gc1/150
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/espnextra.png" aspect-ratio="16:9" group-title="Canais | Esportes",ESPN Extra SD
 http://eyplay.io:80/dPRPQR/St3gc1/151
-
-
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/espn.png" aspect-ratio="16:9" group-title="Canais | Esportes",ESPN FHD (H265)
-http://eyplay.io:80/dPRPQR/St3gc1/152
-
-
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/espn.png" aspect-ratio="16:9" group-title="Canais | Esportes",ESPN HD
-http://eyplay.io:80/dPRPQR/St3gc1/153
-
-
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/espn.png" aspect-ratio="16:9" group-title="Canais | Esportes",ESPN SD
-http://eyplay.io:80/dPRPQR/St3gc1/154
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/foxsports1.png" aspect-ratio="16:9" group-title="Canais | Esportes",Fox Sports FHD (H265)

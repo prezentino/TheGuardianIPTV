@@ -27,11 +27,11 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/tqnaak8" group-title="Canais | Abertos",[COLOR blue][B]THE GUARDIAN[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://tinyurl.com/tqnaak8" group-title="Canais | Abertos",ELY DAVID
 https://facebook.com/xx.ely.david.xx
 
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/wrzf2ze" group-title="Canais | Abertos",[COLOR lightsalmon]SUPORTE VIA DISCORD: discord.gg/bVSswd[/COLOR]
+#EXTINF:-1 tvg-logo="https://tinyurl.com/wrzf2ze" group-title="Canais | Abertos",SUPORTE VIA DISCORD: discord.gg/bVSswd
 https://facebook.com/xx.ely.david.xx
 
 
@@ -181,11 +181,11 @@ http://eyplay.io:80/wnqqy9/TWYc5C/14073
 
 
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/tqnaak8" group-title="Canais | Documentários",[COLOR blue][B]THE GUARDIAN[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://tinyurl.com/tqnaak8" group-title="Canais | Documentários",ELY DAVID
 https://facebook.com/xx.ely.david.xx
 
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/wrzf2ze" group-title="Canais | Documentários",[COLOR lightsalmon]SUPORTE VIA DISCORD: discord.gg/bVSswd[/COLOR]
+#EXTINF:-1 tvg-logo="https://tinyurl.com/wrzf2ze" group-title="Canais | Documentários",SUPORTE VIA DISCORD: discord.gg/bVSswd
 https://facebook.com/xx.ely.david.xx
 
 
@@ -354,11 +354,11 @@ http://eyplay.io:80/wnqqy9/TWYc5C/445
 
 
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/tqnaak8" group-title="Canais | Esportes",[COLOR blue][B]THE GUARDIAN[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://tinyurl.com/tqnaak8" group-title="Canais | Esportes",ELY DAVID
 https://facebook.com/xx.ely.david.xx
 
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/wrzf2ze" group-title="Canais | Esportes",[COLOR lightsalmon]SUPORTE VIA DISCORD: discord.gg/bVSswd[/COLOR]
+#EXTINF:-1 tvg-logo="https://tinyurl.com/wrzf2ze" group-title="Canais | Esportes",SUPORTE VIA DISCORD: discord.gg/bVSswd
 https://facebook.com/xx.ely.david.xx
 
 
@@ -555,11 +555,11 @@ http://eyplay.io:80/wnqqy9/TWYc5C/363
 
 
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/tqnaak8" group-title="Canais | Filmes e Séries",[COLOR blue][B]THE GUARDIAN[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://tinyurl.com/tqnaak8" group-title="Canais | Filmes e Séries",ELY DAVID
 https://facebook.com/xx.ely.david.xx
 
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/wrzf2ze" group-title="Canais | Filmes e Séries",[COLOR lightsalmon]SUPORTE VIA DISCORD: discord.gg/bVSswd[/COLOR]
+#EXTINF:-1 tvg-logo="https://tinyurl.com/wrzf2ze" group-title="Canais | Filmes e Séries",SUPORTE VIA DISCORD: discord.gg/bVSswd
 https://facebook.com/xx.ely.david.xx
 
 
@@ -808,11 +808,11 @@ http://eyplay.io:80/wnqqy9/TWYc5C/463
 
 
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/tqnaak8" group-title="Canais | Globo",[COLOR blue][B]THE GUARDIAN[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://tinyurl.com/tqnaak8" group-title="Canais | Globo",ELY DAVID
 https://facebook.com/xx.ely.david.xx
 
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/wrzf2ze" group-title="Canais | Globo",[COLOR lightsalmon]SUPORTE VIA DISCORD: discord.gg/bVSswd[/COLOR]
+#EXTINF:-1 tvg-logo="https://tinyurl.com/wrzf2ze" group-title="Canais | Globo",SUPORTE VIA DISCORD: discord.gg/bVSswd
 https://facebook.com/xx.ely.david.xx
 
 
@@ -1069,11 +1069,11 @@ http://eyplay.io:80/wnqqy9/TWYc5C/251
 
 
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/tqnaak8" group-title="Canais | HBO",[COLOR blue][B]THE GUARDIAN[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://tinyurl.com/tqnaak8" group-title="Canais | HBO",ELY DAVID
 https://facebook.com/xx.ely.david.xx
 
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/wrzf2ze" group-title="Canais | HBO",[COLOR lightsalmon]SUPORTE VIA DISCORD: discord.gg/bVSswd[/COLOR]
+#EXTINF:-1 tvg-logo="https://tinyurl.com/wrzf2ze" group-title="Canais | HBO",SUPORTE VIA DISCORD: discord.gg/bVSswd
 https://facebook.com/xx.ely.david.xx
 
 
@@ -1178,11 +1178,11 @@ http://eyplay.io:80/wnqqy9/TWYc5C/287
 
 
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/tqnaak8" group-title="Canais | Infantis",[COLOR blue][B]THE GUARDIAN[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://tinyurl.com/tqnaak8" group-title="Canais | Infantis",ELY DAVID
 https://facebook.com/xx.ely.david.xx
 
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/wrzf2ze" group-title="Canais | Infantis",[COLOR lightsalmon]SUPORTE VIA DISCORD: discord.gg/bVSswd[/COLOR]
+#EXTINF:-1 tvg-logo="https://tinyurl.com/wrzf2ze" group-title="Canais | Infantis",SUPORTE VIA DISCORD: discord.gg/bVSswd
 https://facebook.com/xx.ely.david.xx
 
 
@@ -1323,11 +1323,11 @@ http://eyplay.io:80/wnqqy9/TWYc5C/449
 
 
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/tqnaak8" group-title="Canais | Notícias",[COLOR blue][B]THE GUARDIAN[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://tinyurl.com/tqnaak8" group-title="Canais | Notícias",ELY DAVID
 https://facebook.com/xx.ely.david.xx
 
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/wrzf2ze" group-title="Canais | Notícias",[COLOR lightsalmon]SUPORTE VIA DISCORD: discord.gg/bVSswd[/COLOR]
+#EXTINF:-1 tvg-logo="https://tinyurl.com/wrzf2ze" group-title="Canais | Notícias",SUPORTE VIA DISCORD: discord.gg/bVSswd
 https://facebook.com/xx.ely.david.xx
 
 
@@ -1416,11 +1416,11 @@ http://eyplay.io:80/wnqqy9/TWYc5C/366
 
 
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/tqnaak8" group-title="Canais | Premiere",[COLOR blue][B]THE GUARDIAN[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://tinyurl.com/tqnaak8" group-title="Canais | Premiere",ELY DAVID
 https://facebook.com/xx.ely.david.xx
 
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/wrzf2ze" group-title="Canais | Premiere",[COLOR lightsalmon]SUPORTE VIA DISCORD: discord.gg/bVSswd[/COLOR]
+#EXTINF:-1 tvg-logo="https://tinyurl.com/wrzf2ze" group-title="Canais | Premiere",SUPORTE VIA DISCORD: discord.gg/bVSswd
 https://facebook.com/xx.ely.david.xx
 
 
@@ -1513,11 +1513,11 @@ http://eyplay.io:80/wnqqy9/TWYc5C/356
 
 
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/tqnaak8" group-title="Canais | SporTV",[COLOR blue][B]THE GUARDIAN[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://tinyurl.com/tqnaak8" group-title="Canais | SporTV",ELY DAVID
 https://facebook.com/xx.ely.david.xx
 
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/wrzf2ze" group-title="Canais | SporTV",[COLOR lightsalmon]SUPORTE VIA DISCORD: discord.gg/bVSswd[/COLOR]
+#EXTINF:-1 tvg-logo="https://tinyurl.com/wrzf2ze" group-title="Canais | SporTV",SUPORTE VIA DISCORD: discord.gg/bVSswd
 https://facebook.com/xx.ely.david.xx
 
 
@@ -1562,11 +1562,11 @@ http://eyplay.io:80/wnqqy9/TWYc5C/397
 
 
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/tqnaak8" group-title="Canais | Telecine",[COLOR blue][B]THE GUARDIAN[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://tinyurl.com/tqnaak8" group-title="Canais | Telecine",ELY DAVID
 https://facebook.com/xx.ely.david.xx
 
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/wrzf2ze" group-title="Canais | Telecine",[COLOR lightsalmon]SUPORTE VIA DISCORD: discord.gg/bVSswd[/COLOR]
+#EXTINF:-1 tvg-logo="https://tinyurl.com/wrzf2ze" group-title="Canais | Telecine",SUPORTE VIA DISCORD: discord.gg/bVSswd
 https://facebook.com/xx.ely.david.xx
 
 
@@ -1647,11 +1647,11 @@ http://eyplay.io:80/wnqqy9/TWYc5C/430
 
 
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/tqnaak8" group-title="Canais | Variedades",[COLOR blue][B]THE GUARDIAN[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://tinyurl.com/tqnaak8" group-title="Canais | Variedades",ELY DAVID
 https://facebook.com/xx.ely.david.xx
 
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/wrzf2ze" group-title="Canais | Variedades",[COLOR lightsalmon]SUPORTE VIA DISCORD: discord.gg/bVSswd[/COLOR]
+#EXTINF:-1 tvg-logo="https://tinyurl.com/wrzf2ze" group-title="Canais | Variedades",SUPORTE VIA DISCORD: discord.gg/bVSswd
 https://facebook.com/xx.ely.david.xx
 
 

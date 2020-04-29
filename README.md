@@ -4694,6 +4694,10 @@ http://eyplay.io:80/movie/YYnVMD/bSDwYW/14839.mp4
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/14837.mp4
 
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j9zyAYNfCjVd1hQp1qxgAMaMJsf.jpg" group-title="Filmes | Ação",A Balada do Pistoleiro - 1995
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/18028.mp4
+
+
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/68781a449c596ef0fdf7e4225fa4306e.jpg" group-title="Filmes | Ação",A Arqueira - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/14842.mp4
 
@@ -6813,2651 +6817,2651 @@ http://eyplay.io:80/movie/YYnVMD/bSDwYW/18018.mp4
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/11fe72f9138450920770f375e3f231ef.jpg" group-title="Filmes | Comédia",A Casa Caiu - Um Cassino na Vizinhança - 2017
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/11fe72f9138450920770f375e3f231ef.jpg" group-title="Filmes | Comédia",A Casa Caiu - Um Cassino na Vizinhança - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15609.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/e7d1424a89451748fe2f3af9d3a6d9d4.jpg" group-title="Filmes | Comédia",A Chefa - 2016
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/e7d1424a89451748fe2f3af9d3a6d9d4.jpg" group-title="Filmes | Comédia",A Chefa - 2016
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15613.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/a4d14c43de1b51d7dafac6abc7991f78.jpg" group-title="Filmes | Comédia",A Comédia Divina - 2017
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/a4d14c43de1b51d7dafac6abc7991f78.jpg" group-title="Filmes | Comédia",A Comédia Divina - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15615.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/66d3847a6016297f7470cdaff5652a0c.jpg" group-title="Filmes | Comédia",A Copa do Peru - 2019
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/66d3847a6016297f7470cdaff5652a0c.jpg" group-title="Filmes | Comédia",A Copa do Peru - 2019
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15616.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m1eq7W8td2HtmBaX6BicmH4Dai6.jpg" group-title="Filmes | Comédia",A Creche do Papai 1 - 2003
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m1eq7W8td2HtmBaX6BicmH4Dai6.jpg" group-title="Filmes | Comédia",A Creche do Papai 1 - 2003
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15617.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/d462796162ef4ea64c7411841f9ea41c.jpg" group-title="Filmes | Comédia",A Escala - Amizade em Segundo Lugar - 2017
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/d462796162ef4ea64c7411841f9ea41c.jpg" group-title="Filmes | Comédia",A Escala - Amizade em Segundo Lugar - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15618.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pRpCQyiylNYcCzyyYHUCyf4yLm6.jpg" group-title="Filmes | Comédia",A Escolha Perfeita 1 - 2012
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pRpCQyiylNYcCzyyYHUCyf4yLm6.jpg" group-title="Filmes | Comédia",A Escolha Perfeita 1 - 2012
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15619.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2EOgcQMgfx2iwnvwyiOuSgthVa8.jpg" group-title="Filmes | Comédia",A Escolha Perfeita 2 - 2015
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2EOgcQMgfx2iwnvwyiOuSgthVa8.jpg" group-title="Filmes | Comédia",A Escolha Perfeita 2 - 2015
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15620.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3PqsJb2h2Uu4ymo0yj130IxbF6S.jpg" group-title="Filmes | Comédia",A Escolha Perfeita 3 - 2017
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3PqsJb2h2Uu4ymo0yj130IxbF6S.jpg" group-title="Filmes | Comédia",A Escolha Perfeita 3 - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15621.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uur96swhlRKSQHiVkkVM3Gy1VC6.jpg" group-title="Filmes | Comédia",A Extraordinária Jornada do Fakir - 2018
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uur96swhlRKSQHiVkkVM3Gy1VC6.jpg" group-title="Filmes | Comédia",A Extraordinária Jornada do Fakir - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15622.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/1359868beb6d4db94e98b18cbda9b2dc.jpg" group-title="Filmes | Comédia",A Família Bélier - 2014
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/1359868beb6d4db94e98b18cbda9b2dc.jpg" group-title="Filmes | Comédia",A Família Bélier - 2014
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15623.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/546f191e798f706ed7eb4b17ffa0cb24.jpg" group-title="Filmes | Comédia",A Filha do Presidente - 2004
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/546f191e798f706ed7eb4b17ffa0cb24.jpg" group-title="Filmes | Comédia",A Filha do Presidente - 2004
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15624.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/3fb9f6b41292bd2db20b7580c9b69389.jpg" group-title="Filmes | Comédia",A Fraternidade - 2016
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/3fb9f6b41292bd2db20b7580c9b69389.jpg" group-title="Filmes | Comédia",A Fraternidade - 2016
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15625.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/021e8e5fe4b0e4a8fc73de0eab8f935d.jpg" group-title="Filmes | Comédia",A Grande Aposta - 2015
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/021e8e5fe4b0e4a8fc73de0eab8f935d.jpg" group-title="Filmes | Comédia",A Grande Aposta - 2015
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15627.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/3eefd42c8df38d5d666fda96beaa60eb.jpg" group-title="Filmes | Comédia",A Hora do Rush 2 - 2001
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/3eefd42c8df38d5d666fda96beaa60eb.jpg" group-title="Filmes | Comédia",A Hora do Rush 2 - 2001
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15628.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/835ef917e7f62ed8c638c15eb5b73ba1.jpg" group-title="Filmes | Comédia",A Hora do Rush 3 - 2007
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/835ef917e7f62ed8c638c15eb5b73ba1.jpg" group-title="Filmes | Comédia",A Hora do Rush 3 - 2007
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15629.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/2f5cf46ccbb0d6bc7a5ee2f96aead1d8.jpg" group-title="Filmes | Comédia",A Inveja Mata - 2004
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/2f5cf46ccbb0d6bc7a5ee2f96aead1d8.jpg" group-title="Filmes | Comédia",A Inveja Mata - 2004
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15630.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/4f206a8a83407d2e4ab47f455610ba1d.jpg" group-title="Filmes | Comédia",A Lenda da Befana - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/4f206a8a83407d2e4ab47f455610ba1d.jpg" group-title="Filmes | Comédia",A Lenda da Befana - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16951.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/ea4e2e85cdcab55328f2395690c62c5d.jpg" group-title="Filmes | Comédia",A Mentira - 2019
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/ea4e2e85cdcab55328f2395690c62c5d.jpg" group-title="Filmes | Comédia",A Mentira - 2019
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15636.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/c88b5e5b6993c48f75c35563f12ddec9.jpg" group-title="Filmes | Comédia",A Morte de Stalin - 2017
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/c88b5e5b6993c48f75c35563f12ddec9.jpg" group-title="Filmes | Comédia",A Morte de Stalin - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15648.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/cd201d3383a8071908e6e947dd7615af.jpg" group-title="Filmes | Comédia",A Mulher do Meu Marido - 2019
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/cd201d3383a8071908e6e947dd7615af.jpg" group-title="Filmes | Comédia",A Mulher do Meu Marido - 2019
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15649.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/b98b6771815048c57c89a6f435667baa.jpg" group-title="Filmes | Comédia",A Namorada do Meu Irmão - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/b98b6771815048c57c89a6f435667baa.jpg" group-title="Filmes | Comédia",A Namorada do Meu Irmão - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16956.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/3ff9c6cdbd0c9427931602c0dab521ee.jpg" group-title="Filmes | Comédia",A Noite do Jogo - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/3ff9c6cdbd0c9427931602c0dab521ee.jpg" group-title="Filmes | Comédia",A Noite do Jogo - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15652.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/ac3ca654cca319618e3bdd4a4c17a5c2.jpg" group-title="Filmes | Comédia",A Pequena Suíça - 2019
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/ac3ca654cca319618e3bdd4a4c17a5c2.jpg" group-title="Filmes | Comédia",A Pequena Suíça - 2019
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15657.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/e22fa42cdcbf6b0e995bf4f40460b8a9.jpg" group-title="Filmes | Comédia",A Proposta - 2005
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/e22fa42cdcbf6b0e995bf4f40460b8a9.jpg" group-title="Filmes | Comédia",A Proposta - 2005
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15658.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/7d5f500c6844b2b2d743a663531eef55.jpg" group-title="Filmes | Comédia",A Pé Ele Não Vai Longe - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/7d5f500c6844b2b2d743a663531eef55.jpg" group-title="Filmes | Comédia",A Pé Ele Não Vai Longe - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15655.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/f327bd4062eb1eed2435cbbe522b7e29.jpg" group-title="Filmes | Comédia",A Química do Amor - 2017
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/f327bd4062eb1eed2435cbbe522b7e29.jpg" group-title="Filmes | Comédia",A Química do Amor - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15660.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/e7082eeb9bb090a93af19bf2bda203ba.jpg" group-title="Filmes | Comédia",A Senhora da Van - 2015
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/e7082eeb9bb090a93af19bf2bda203ba.jpg" group-title="Filmes | Comédia",A Senhora da Van - 2015
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15667.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/3dc490efb9080cf139d931c493a3e467.jpg" group-title="Filmes | Comédia",A Sua Parte Frágil - 2017
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/3dc490efb9080cf139d931c493a3e467.jpg" group-title="Filmes | Comédia",A Sua Parte Frágil - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15677.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/04bfb4e53252158163824648c45343be.jpg" group-title="Filmes | Comédia",A Verdade Nua e Crua - 2009
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/04bfb4e53252158163824648c45343be.jpg" group-title="Filmes | Comédia",A Verdade Nua e Crua - 2009
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15683.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/77e16dab1187ac05170ef3890f38b5db.jpg" group-title="Filmes | Comédia",A Vida Secreta de Walter Mitty - 2013
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/77e16dab1187ac05170ef3890f38b5db.jpg" group-title="Filmes | Comédia",A Vida Secreta de Walter Mitty - 2013
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15685.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/9addfa7d5db4f87bc8f00565f85ba5db.jpg" group-title="Filmes | Comédia",A Vida É Bela?! - 1982
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/9addfa7d5db4f87bc8f00565f85ba5db.jpg" group-title="Filmes | Comédia",A Vida É Bela?! - 1982
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15684.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/6aeed881d079898d45071cbf2cd94268.jpg" group-title="Filmes | Comédia",A Volta do Todo Poderoso - 2007
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/6aeed881d079898d45071cbf2cd94268.jpg" group-title="Filmes | Comédia",A Volta do Todo Poderoso - 2007
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15686.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/eb2d1a5be2e75ede79fb6b4bf2f00a58.jpg" group-title="Filmes | Comédia",A Última Gargalhada - 1924
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/eb2d1a5be2e75ede79fb6b4bf2f00a58.jpg" group-title="Filmes | Comédia",A Última Gargalhada - 1924
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15682.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vllclt1Flaz2DPZlPGdP6g4HUx4.jpg" group-title="Filmes | Comédia",Academia de Vampiros - O Beijo das Sombras - 2014
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vllclt1Flaz2DPZlPGdP6g4HUx4.jpg" group-title="Filmes | Comédia",Academia de Vampiros - O Beijo das Sombras - 2014
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15608.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k2WsM7e0sv3IM3BgTKKesY1dAOt.jpg" group-title="Filmes | Comédia",Ace Ventura 1 - 1994
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k2WsM7e0sv3IM3BgTKKesY1dAOt.jpg" group-title="Filmes | Comédia",Ace Ventura 1 - 1994
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15611.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ai9kRyLHUIdmvWKHTl4NSi0Ghsw.jpg" group-title="Filmes | Comédia",Ace Ventura 2 - 1995
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ai9kRyLHUIdmvWKHTl4NSi0Ghsw.jpg" group-title="Filmes | Comédia",Ace Ventura 2 - 1995
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15612.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/abaa1b7a82db7342701b103fbfd168d0.jpg" group-title="Filmes | Comédia",Acertando o Passo - 2017
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/abaa1b7a82db7342701b103fbfd168d0.jpg" group-title="Filmes | Comédia",Acertando o Passo - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15610.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/abdc2824c63e448b6c3e32d759347565.jpg" group-title="Filmes | Comédia",Acho Que Matei Minha Chefe - 2019
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/abdc2824c63e448b6c3e32d759347565.jpg" group-title="Filmes | Comédia",Acho Que Matei Minha Chefe - 2019
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15614.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/a8ef980ba12fa769eaf5f3d6631b189c.jpg" group-title="Filmes | Comédia",Agente 86 - 2008
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/a8ef980ba12fa769eaf5f3d6631b189c.jpg" group-title="Filmes | Comédia",Agente 86 - 2008
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15626.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/5bc61d90bea4a42acf58f27711e3acf1.jpg" group-title="Filmes | Comédia",Alguém Especial - 2019
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/5bc61d90bea4a42acf58f27711e3acf1.jpg" group-title="Filmes | Comédia",Alguém Especial - 2019
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15631.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/6ee0574237a007c26a5be6726aadb4c6.jpg" group-title="Filmes | Comédia",Alma da Festa - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/6ee0574237a007c26a5be6726aadb4c6.jpg" group-title="Filmes | Comédia",Alma da Festa - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15632.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4mh4juf1lCAYyjbgfS4TD9ZB0Qa.jpg" group-title="Filmes | Comédia",Alvin e os Esquilos 2 - 2009
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4mh4juf1lCAYyjbgfS4TD9ZB0Qa.jpg" group-title="Filmes | Comédia",Alvin e os Esquilos 2 - 2009
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15633.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pdZu6fabaimoB8izKvKQRoyPvKm.jpg" group-title="Filmes | Comédia",Alvin e os Esquilos 3 - 2011
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pdZu6fabaimoB8izKvKQRoyPvKm.jpg" group-title="Filmes | Comédia",Alvin e os Esquilos 3 - 2011
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15634.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/960c730b7970c4957fc6be156ecc440a.jpg" group-title="Filmes | Comédia",Amante a Domicílio - 2013
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/960c730b7970c4957fc6be156ecc440a.jpg" group-title="Filmes | Comédia",Amante a Domicílio - 2013
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15635.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/fa6cd11efa6e9b31d165c413a8c9dae1.jpg" group-title="Filmes | Comédia",Amantes e Traições - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/fa6cd11efa6e9b31d165c413a8c9dae1.jpg" group-title="Filmes | Comédia",Amantes e Traições - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16953.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/315a1bbb01708feeef5fca67f1f086a7.jpg" group-title="Filmes | Comédia",American Pie - Caindo em Tentação - 2007
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/315a1bbb01708feeef5fca67f1f086a7.jpg" group-title="Filmes | Comédia",American Pie - Caindo em Tentação - 2007
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15642.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/7cd1ba35bf411897704cfe6dd0380c2f.jpg" group-title="Filmes | Comédia",American Pie - O Reencontro - 2012
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/7cd1ba35bf411897704cfe6dd0380c2f.jpg" group-title="Filmes | Comédia",American Pie - O Reencontro - 2012
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15640.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/c13827a1412b65857cd6903f8844c14d.jpg" group-title="Filmes | Comédia",American Pie - O Último Stifler Virgem - 2006
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/c13827a1412b65857cd6903f8844c14d.jpg" group-title="Filmes | Comédia",American Pie - O Último Stifler Virgem - 2006
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15643.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/36209cee17aedfddef740a92c6b35ba6.jpg" group-title="Filmes | Comédia",American Pie - Tocando a Maior Zona - 2005
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/36209cee17aedfddef740a92c6b35ba6.jpg" group-title="Filmes | Comédia",American Pie - Tocando a Maior Zona - 2005
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15644.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/78fac3626f54047ede6fbb266edf6eb8.jpg" group-title="Filmes | Comédia",American Pie 2 : A Segunda Vez é Ainda Melhor - 2001
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/78fac3626f54047ede6fbb266edf6eb8.jpg" group-title="Filmes | Comédia",American Pie 2 : A Segunda Vez é Ainda Melhor - 2001
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15637.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/f0ef557f3859ac32ac808be7e145b046.jpg" group-title="Filmes | Comédia",American Pie: A Primeira Vez é Inesquecível - 1999
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/f0ef557f3859ac32ac808be7e145b046.jpg" group-title="Filmes | Comédia",American Pie: A Primeira Vez é Inesquecível - 1999
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15641.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/1f69c078e51f656b88a3de6036eadcba.jpg" group-title="Filmes | Comédia",American Pie: O Casamento - 2003
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/1f69c078e51f656b88a3de6036eadcba.jpg" group-title="Filmes | Comédia",American Pie: O Casamento - 2003
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15638.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/46446cba5bb6f9c4d4bac3fd5d36f235.jpg" group-title="Filmes | Comédia",American Pie: O Livro do Amor - 2009
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/46446cba5bb6f9c4d4bac3fd5d36f235.jpg" group-title="Filmes | Comédia",American Pie: O Livro do Amor - 2009
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15639.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/3d57bc3e1c75041610f4b15761463184.jpg" group-title="Filmes | Comédia",Amor de Aluguel - 2003
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/3d57bc3e1c75041610f4b15761463184.jpg" group-title="Filmes | Comédia",Amor de Aluguel - 2003
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15646.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/1ea19d971d8b266c5064089fdc293c27.jpg" group-title="Filmes | Comédia",Amor em Little Italy - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/1ea19d971d8b266c5064089fdc293c27.jpg" group-title="Filmes | Comédia",Amor em Little Italy - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15647.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/d4c3dee03e633fc58a2a21b803b9c703.jpg" group-title="Filmes | Comédia",Anjos da Lei - 2012
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/d4c3dee03e633fc58a2a21b803b9c703.jpg" group-title="Filmes | Comédia",Anjos da Lei - 2012
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15650.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/5850e3d9a560faca50608c64601587b8.jpg" group-title="Filmes | Comédia",Anjos da Lei 2 - 2014
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/5850e3d9a560faca50608c64601587b8.jpg" group-title="Filmes | Comédia",Anjos da Lei 2 - 2014
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15651.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/cdef7b693d2920a8af6dd7427e6889f5.jpg" group-title="Filmes | Comédia",Anos 90 - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/cdef7b693d2920a8af6dd7427e6889f5.jpg" group-title="Filmes | Comédia",Anos 90 - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15653.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/784f9c928257189b1e725b74cd24a522.jpg" group-title="Filmes | Comédia",Antes de Partir - 2007
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/784f9c928257189b1e725b74cd24a522.jpg" group-title="Filmes | Comédia",Antes de Partir - 2007
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15654.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/f39be6ce29d0f3b26c5d3be7e74e9175.jpg" group-title="Filmes | Comédia",Apenas o Começo - 2017
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/f39be6ce29d0f3b26c5d3be7e74e9175.jpg" group-title="Filmes | Comédia",Apenas o Começo - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15656.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/468e8579f94d6a6995148b628e6f3514.jpg" group-title="Filmes | Comédia",Aqui em Casa Tudo Bem - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/468e8579f94d6a6995148b628e6f3514.jpg" group-title="Filmes | Comédia",Aqui em Casa Tudo Bem - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15659.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/18798943f10e9465f765cf86be27fae8.jpg" group-title="Filmes | Comédia",Arizona - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/18798943f10e9465f765cf86be27fae8.jpg" group-title="Filmes | Comédia",Arizona - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15661.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/e62256771c54ade34b320bd481b44ddf.jpg" group-title="Filmes | Comédia",Artista do Desastre - 2017
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/e62256771c54ade34b320bd481b44ddf.jpg" group-title="Filmes | Comédia",Artista do Desastre - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15662.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/d92abc7e97f6922d9ee6208244a69efd.jpg" group-title="Filmes | Comédia",As Apimentadas #Desafio Mundial - 2017
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/d92abc7e97f6922d9ee6208244a69efd.jpg" group-title="Filmes | Comédia",As Apimentadas #Desafio Mundial - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15664.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/bd3bc33da6cfa0fcb3b162a7dc260024.jpg" group-title="Filmes | Comédia",As Apimentadas - 2000
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/bd3bc33da6cfa0fcb3b162a7dc260024.jpg" group-title="Filmes | Comédia",As Apimentadas - 2000
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15663.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/abf13b748b13ce4e6fe8f81f63ca4316.jpg" group-title="Filmes | Comédia",As Apimentadas: Tudo ou Nada - 2006
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/abf13b748b13ce4e6fe8f81f63ca4316.jpg" group-title="Filmes | Comédia",As Apimentadas: Tudo ou Nada - 2006
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15665.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/6e80eadb47f6615b347c542be7e325f2.jpg" group-title="Filmes | Comédia",As Branquelas - 2004
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/6e80eadb47f6615b347c542be7e325f2.jpg" group-title="Filmes | Comédia",As Branquelas - 2004
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15666.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/c7697a0203e1dbf86155c847a5301630.jpg" group-title="Filmes | Comédia",As Excluídas - 2017
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/c7697a0203e1dbf86155c847a5301630.jpg" group-title="Filmes | Comédia",As Excluídas - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15668.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/13578e0ff5385c54695914039cc43fc0.jpg" group-title="Filmes | Comédia",As Fantásticas Aventuras de Spirou e Fantasio - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/13578e0ff5385c54695914039cc43fc0.jpg" group-title="Filmes | Comédia",As Fantásticas Aventuras de Spirou e Fantasio - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15669.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/5aeb728706786ca814e3306ff3de0f42.jpg" group-title="Filmes | Comédia",As Férias da Minha Vida - 2006
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/5aeb728706786ca814e3306ff3de0f42.jpg" group-title="Filmes | Comédia",As Férias da Minha Vida - 2006
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15670.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/f6917f0ec732a2a57d2e9b412a662d55.jpg" group-title="Filmes | Comédia",As Melhores Coisas do Mundo - 2010
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/f6917f0ec732a2a57d2e9b412a662d55.jpg" group-title="Filmes | Comédia",As Melhores Coisas do Mundo - 2010
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15672.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/fcf62e0ad287705268bf145ab4c7f63e.jpg" group-title="Filmes | Comédia",As Metas de Jessica Darling - 2016
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/fcf62e0ad287705268bf145ab4c7f63e.jpg" group-title="Filmes | Comédia",As Metas de Jessica Darling - 2016
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15673.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wQzTpAbaMtoTBfnBFuOxZDxbxYT.jpg" group-title="Filmes | Comédia",As Minas do Rei Salomão - 1985
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wQzTpAbaMtoTBfnBFuOxZDxbxYT.jpg" group-title="Filmes | Comédia",As Minas do Rei Salomão - 1985
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15674.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/9e28da169320f7a0621d7707884e080d.jpg" group-title="Filmes | Comédia",As Rainhas da Torcida - 2019
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/9e28da169320f7a0621d7707884e080d.jpg" group-title="Filmes | Comédia",As Rainhas da Torcida - 2019
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15675.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/6385860a679c1e18fe088a9db9d2eecf.jpg" group-title="Filmes | Comédia",As Vozes - 2014
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/6385860a679c1e18fe088a9db9d2eecf.jpg" group-title="Filmes | Comédia",As Vozes - 2014
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15678.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/b4bbc4c09c6569fa3ee9a5ea8db91256.jpg" group-title="Filmes | Comédia",Asim, O Vigarista - 2019
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/b4bbc4c09c6569fa3ee9a5ea8db91256.jpg" group-title="Filmes | Comédia",Asim, O Vigarista - 2019
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15671.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/5a10a0f5dc7bfceba2011b2309e05111.jpg" group-title="Filmes | Comédia",Astérix e Obélix: A Serviço de sua Majestade - 2012
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/5a10a0f5dc7bfceba2011b2309e05111.jpg" group-title="Filmes | Comédia",Astérix e Obélix: A Serviço de sua Majestade - 2012
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15676.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xAd1DeclHsJ0lnrizw4bTYivFqB.jpg" group-title="Filmes | Comédia",Até que a Sorte nos Separe 1 - 2012
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xAd1DeclHsJ0lnrizw4bTYivFqB.jpg" group-title="Filmes | Comédia",Até que a Sorte nos Separe 1 - 2012
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15679.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oStp9ynfr1dFKBrOSf7U8QYocgR.jpg" group-title="Filmes | Comédia",Até Que A Sorte Nos Separe 3 - 2015
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oStp9ynfr1dFKBrOSf7U8QYocgR.jpg" group-title="Filmes | Comédia",Até Que A Sorte Nos Separe 3 - 2015
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15681.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iwlfV4lp5oco5xq0jbl9kFvIvtx.jpg" group-title="Filmes | Comédia",Até que a Sorte nos Separe 2 - 2013
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iwlfV4lp5oco5xq0jbl9kFvIvtx.jpg" group-title="Filmes | Comédia",Até que a Sorte nos Separe 2 - 2013
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15680.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dgvvLqrx8VagfYy0QgNs2waG7l0.jpg" group-title="Filmes | Comédia",Babá Fora de Controle: Operação Brasil - 2015
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dgvvLqrx8VagfYy0QgNs2waG7l0.jpg" group-title="Filmes | Comédia",Babá Fora de Controle: Operação Brasil - 2015
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15687.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/6d908c4a719a3fbdb0622a608644bc05.jpg" group-title="Filmes | Comédia",Bater ou Correr - 2000
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/6d908c4a719a3fbdb0622a608644bc05.jpg" group-title="Filmes | Comédia",Bater ou Correr - 2000
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15688.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/6bc86dbe1f7b902ed278dcfbebc74814.jpg" group-title="Filmes | Comédia",Baywatch - S.O.S Malibu - 2017
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/6bc86dbe1f7b902ed278dcfbebc74814.jpg" group-title="Filmes | Comédia",Baywatch - S.O.S Malibu - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15689.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xJnV6n9P71HGZUwV3IiekfVPhak.jpg" group-title="Filmes | Comédia",Bem-vindos a Marwen - 2018
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xJnV6n9P71HGZUwV3IiekfVPhak.jpg" group-title="Filmes | Comédia",Bem-vindos a Marwen - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15690.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/f196a3475aec27738672cb828b680cda.jpg" group-title="Filmes | Comédia",Bingo - O Rei das Manhãs - 2017
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/f196a3475aec27738672cb828b680cda.jpg" group-title="Filmes | Comédia",Bingo - O Rei das Manhãs - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15691.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/9c6e4017c8481f3839e2e8a1c46ca978.jpg" group-title="Filmes | Comédia",Bitch - 2017
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/9c6e4017c8481f3839e2e8a1c46ca978.jpg" group-title="Filmes | Comédia",Bitch - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15692.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oRjRgdUuSelBEOmYn5Ha6bIIxR8.jpg" group-title="Filmes | Comédia",Bridget Jones 1 - 2001
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oRjRgdUuSelBEOmYn5Ha6bIIxR8.jpg" group-title="Filmes | Comédia",Bridget Jones 1 - 2001
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15693.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fp79icDwjqr3ejx7ACfApXEVwiV.jpg" group-title="Filmes | Comédia",Bridget Jones 2 - 2004
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fp79icDwjqr3ejx7ACfApXEVwiV.jpg" group-title="Filmes | Comédia",Bridget Jones 2 - 2004
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15694.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bvo9Al5BqymeZ0vTnwEsQFOJYIU.jpg" group-title="Filmes | Comédia",Bridget Jones 3 - 2016
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bvo9Al5BqymeZ0vTnwEsQFOJYIU.jpg" group-title="Filmes | Comédia",Bridget Jones 3 - 2016
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15695.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/143d1465bbdbe3d7b7d6749f539ceb26.jpg" group-title="Filmes | Comédia",Cada Um Tem a Gêmea que Merece - 2011
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/143d1465bbdbe3d7b7d6749f539ceb26.jpg" group-title="Filmes | Comédia",Cada Um Tem a Gêmea que Merece - 2011
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15696.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/a28f3f653f4bd15eaa37855c1f2207b9.jpg" group-title="Filmes | Comédia",Cadê a Minha Entrega? - 2009
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/a28f3f653f4bd15eaa37855c1f2207b9.jpg" group-title="Filmes | Comédia",Cadê a Minha Entrega? - 2009
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15697.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pYYh5YiDzCL47TtgsFM4OZ502Ad.jpg" group-title="Filmes | Comédia",Camp Rock 1 - 2008
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pYYh5YiDzCL47TtgsFM4OZ502Ad.jpg" group-title="Filmes | Comédia",Camp Rock 1 - 2008
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15699.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8t42vl5gPDo1OPLyEiS3JJOVaps.jpg" group-title="Filmes | Comédia",Camp Rock 2 - 2010
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8t42vl5gPDo1OPLyEiS3JJOVaps.jpg" group-title="Filmes | Comédia",Camp Rock 2 - 2010
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15700.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/d95c26c2c83fda1890dcaa2384a2ec70.jpg" group-title="Filmes | Comédia",Capitão Fantástico - 2016
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/d95c26c2c83fda1890dcaa2384a2ec70.jpg" group-title="Filmes | Comédia",Capitão Fantástico - 2016
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15701.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/e438045fb5a31d2e8d94155c0daa8d50.jpg" group-title="Filmes | Comédia",Cara, Cadê Meu Carro? - 2000
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/e438045fb5a31d2e8d94155c0daa8d50.jpg" group-title="Filmes | Comédia",Cara, Cadê Meu Carro? - 2000
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15702.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/b65094e4e2e60e45ebc519264ff677f7.jpg" group-title="Filmes | Comédia",Casa da Mãe Joana 2 - 2013
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/b65094e4e2e60e45ebc519264ff677f7.jpg" group-title="Filmes | Comédia",Casa da Mãe Joana 2 - 2013
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15703.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/e97287558539295e5c64b4ad8e4896ec.jpg" group-title="Filmes | Comédia",Casal Improvável - 2019
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/e97287558539295e5c64b4ad8e4896ec.jpg" group-title="Filmes | Comédia",Casal Improvável - 2019
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15704.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/630b3477fb0d1909a65cc5766f21111f.jpg" group-title="Filmes | Comédia",Cegos Surdos e Loucos - 1989
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/630b3477fb0d1909a65cc5766f21111f.jpg" group-title="Filmes | Comédia",Cegos Surdos e Loucos - 1989
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15705.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/0bb93b5cdd4155d564664c0926068bda.jpg" group-title="Filmes | Comédia",Cheque em Branco - 1994
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/0bb93b5cdd4155d564664c0926068bda.jpg" group-title="Filmes | Comédia",Cheque em Branco - 1994
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15706.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tffkH2F6DmAhud4g4rZqrQ1K48v.jpg" group-title="Filmes | Comédia",CHiPs: O Filme - 2017
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tffkH2F6DmAhud4g4rZqrQ1K48v.jpg" group-title="Filmes | Comédia",CHiPs: O Filme - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15707.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/9f672cae34292465c98de8deab49ec3d.jpg" group-title="Filmes | Comédia",Cilada.com - 2011
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/9f672cae34292465c98de8deab49ec3d.jpg" group-title="Filmes | Comédia",Cilada.com - 2011
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15708.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/e39ae559baa35e7e4841b7f44bc39436.jpg" group-title="Filmes | Comédia",Click - 2006
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/e39ae559baa35e7e4841b7f44bc39436.jpg" group-title="Filmes | Comédia",Click - 2006
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15709.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/5be0e012c9b39fca5fb8a2eb24723c89.jpg" group-title="Filmes | Comédia",Clube dos Infiéis Honestos - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/5be0e012c9b39fca5fb8a2eb24723c89.jpg" group-title="Filmes | Comédia",Clube dos Infiéis Honestos - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15710.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p0YngdEGePc247DS6cSLvCzIbKy.jpg" group-title="Filmes | Comédia",O Melhor Natal de Todos os Tempos - 2014
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p0YngdEGePc247DS6cSLvCzIbKy.jpg" group-title="Filmes | Comédia",O Melhor Natal de Todos os Tempos - 2014
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15972.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/651f26f63a2f43839aacbe0895bc3cb9.jpg" group-title="Filmes | Comédia",Com Amor, Simon - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/651f26f63a2f43839aacbe0895bc3cb9.jpg" group-title="Filmes | Comédia",Com Amor, Simon - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15711.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/a120cd518ac317a3f1c6411983ba141d.jpg" group-title="Filmes | Comédia",Com Quem Será? - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/a120cd518ac317a3f1c6411983ba141d.jpg" group-title="Filmes | Comédia",Com Quem Será? - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15715.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/42bb02de8c74cf6cbc491a2132355a05.jpg" group-title="Filmes | Comédia",Como Perder um Homem em 10 Dias - 2003
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/42bb02de8c74cf6cbc491a2132355a05.jpg" group-title="Filmes | Comédia",Como Perder um Homem em 10 Dias - 2003
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15712.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/b9549ec658eea500c3b66cb2dca48b1b.jpg" group-title="Filmes | Comédia",Como Se Fosse a Primeira Vez - 2019
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/b9549ec658eea500c3b66cb2dca48b1b.jpg" group-title="Filmes | Comédia",Como Se Fosse a Primeira Vez - 2019
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15713.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/b95351dbf43c1899320786f4eb193a1e.jpg" group-title="Filmes | Comédia",Como é Cruel Viver Assim - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/b95351dbf43c1899320786f4eb193a1e.jpg" group-title="Filmes | Comédia",Como é Cruel Viver Assim - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/17000.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/2c83ec702fa3eef29b0ab34d14dd0726.jpg" group-title="Filmes | Comédia",Compramos um Zoológico - 2011
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/2c83ec702fa3eef29b0ab34d14dd0726.jpg" group-title="Filmes | Comédia",Compramos um Zoológico - 2011
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15714.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/80812d4cd4c4f4dbe8f0599d784983b3.jpg" group-title="Filmes | Comédia",Conflitos Em Família - 2017
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/80812d4cd4c4f4dbe8f0599d784983b3.jpg" group-title="Filmes | Comédia",Conflitos Em Família - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15716.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dXeZFKNrnoxykAhFtiG5DqsJLGh.jpg" group-title="Filmes | Comédia",Convidados sem honra - 2017
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dXeZFKNrnoxykAhFtiG5DqsJLGh.jpg" group-title="Filmes | Comédia",Convidados sem honra - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15717.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8PMQogsuGDMCfM7nrDGUCwi3Tbh.jpg" group-title="Filmes | Comédia",Corra que a Polícia Vem Aí! 1 - 1988
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8PMQogsuGDMCfM7nrDGUCwi3Tbh.jpg" group-title="Filmes | Comédia",Corra que a Polícia Vem Aí! 1 - 1988
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15718.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fduVmiYlvoxxFlnkWfTivyNpJ1O.jpg" group-title="Filmes | Comédia",Corra que a Polícia Vem Aí! 2 - 1991
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fduVmiYlvoxxFlnkWfTivyNpJ1O.jpg" group-title="Filmes | Comédia",Corra que a Polícia Vem Aí! 2 - 1991
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15719.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eq2nJ7ZaIR981pWDNLbVkvwXfjL.jpg" group-title="Filmes | Comédia",Corra que a Polícia Vem Aí! 3 - 1994
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eq2nJ7ZaIR981pWDNLbVkvwXfjL.jpg" group-title="Filmes | Comédia",Corra que a Polícia Vem Aí! 3 - 1994
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15720.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/f833e54da3e95cf5b6374febafe2ad99.jpg" group-title="Filmes | Comédia",Correndo Atrás de um Pai - 2017
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/f833e54da3e95cf5b6374febafe2ad99.jpg" group-title="Filmes | Comédia",Correndo Atrás de um Pai - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15721.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/f6b702cfa20471f0292b76ec42f80d8d.jpg" group-title="Filmes | Comédia",Crazy Trips - Budapeste - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/f6b702cfa20471f0292b76ec42f80d8d.jpg" group-title="Filmes | Comédia",Crazy Trips - Budapeste - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15722.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/02b6fdd6a87dae20bc89b21e334c8ed5.jpg" group-title="Filmes | Comédia",Crush à Altura - 2019
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/02b6fdd6a87dae20bc89b21e334c8ed5.jpg" group-title="Filmes | Comédia",Crush à Altura - 2019
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15725.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/e673ec56362c023c665efce077e2e1f2.jpg" group-title="Filmes | Comédia",Cruzeiro das Loucas - 2002
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/e673ec56362c023c665efce077e2e1f2.jpg" group-title="Filmes | Comédia",Cruzeiro das Loucas - 2002
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15726.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/ac60b022b55781d71d1d95f893267891.jpg" group-title="Filmes | Comédia",Crô em Família - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/ac60b022b55781d71d1d95f893267891.jpg" group-title="Filmes | Comédia",Crô em Família - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15723.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/6e0dff01d56bea01499282d2768c775b.jpg" group-title="Filmes | Comédia",Crônicas de Natal - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/6e0dff01d56bea01499282d2768c775b.jpg" group-title="Filmes | Comédia",Crônicas de Natal - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15724.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/bc424802447ac5fe67998e14d1a109cc.jpg" group-title="Filmes | Comédia",Curtindo a Vida Adoidado - 1986
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/bc424802447ac5fe67998e14d1a109cc.jpg" group-title="Filmes | Comédia",Curtindo a Vida Adoidado - 1986
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15727.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/913e62b685463f2158fc6eba9cfaf2b6.jpg" group-title="Filmes | Comédia",Cães de Guerra - 1980
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/913e62b685463f2158fc6eba9cfaf2b6.jpg" group-title="Filmes | Comédia",Cães de Guerra - 1980
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15698.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/bd4b9306b8c7ffd7d02190af6a7f661a.jpg" group-title="Filmes | Comédia",D.U.F.F. - Você Conhece, Tem ou É - 2015
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/bd4b9306b8c7ffd7d02190af6a7f661a.jpg" group-title="Filmes | Comédia",D.U.F.F. - Você Conhece, Tem ou É - 2015
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15728.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/e41386ba69ebc443da8019bdd0ea376d.jpg" group-title="Filmes | Comédia",De Carona para o Amor - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/e41386ba69ebc443da8019bdd0ea376d.jpg" group-title="Filmes | Comédia",De Carona para o Amor - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15731.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/10baa1450286adc7b1a5650906b49f1d.jpg" group-title="Filmes | Comédia",De Encontro com a Vida - 2017
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/10baa1450286adc7b1a5650906b49f1d.jpg" group-title="Filmes | Comédia",De Encontro com a Vida - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15732.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/f720c749f74027566c56c7cd41c05c71.jpg" group-title="Filmes | Comédia",De Pernas pro Ar 2 - 2012
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/f720c749f74027566c56c7cd41c05c71.jpg" group-title="Filmes | Comédia",De Pernas pro Ar 2 - 2012
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15735.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/e9039d67bc7aa33de7afee81dc505a17.jpg" group-title="Filmes | Comédia",De Pernas Pro Ar 3 - 2019
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/e9039d67bc7aa33de7afee81dc505a17.jpg" group-title="Filmes | Comédia",De Pernas Pro Ar 3 - 2019
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15734.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/f1e070506a3cf3e1a79df8afb9f6fb71.jpg" group-title="Filmes | Comédia",De Repente 30 - 2004
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/f1e070506a3cf3e1a79df8afb9f6fb71.jpg" group-title="Filmes | Comédia",De Repente 30 - 2004
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15736.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/40abc61a9f030f04cf60fa608fc9af3a.jpg" group-title="Filmes | Comédia",De Repente uma Família - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/40abc61a9f030f04cf60fa608fc9af3a.jpg" group-title="Filmes | Comédia",De Repente uma Família - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15737.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/872697796c08157e20c4dd07847d42e7.jpg" group-title="Filmes | Comédia",Deadpool 2 - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/872697796c08157e20c4dd07847d42e7.jpg" group-title="Filmes | Comédia",Deadpool 2 - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15729.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/1548f3c0a06a8babd9c2fce55215cf0d.jpg" group-title="Filmes | Comédia",Debi & Lóide 2 - 2014
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/1548f3c0a06a8babd9c2fce55215cf0d.jpg" group-title="Filmes | Comédia",Debi & Lóide 2 - 2014
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15730.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/d0144f9dfe3b55b93087325b6ee01ea0.jpg" group-title="Filmes | Comédia",Dennis, o Pimentinha Ataca Novamente - 1998
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/d0144f9dfe3b55b93087325b6ee01ea0.jpg" group-title="Filmes | Comédia",Dennis, o Pimentinha Ataca Novamente - 1998
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15733.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/d4125cae9422a89c4ea870f51d93ab85.jpg" group-title="Filmes | Comédia",Descobrindo a Vida - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/d4125cae9422a89c4ea870f51d93ab85.jpg" group-title="Filmes | Comédia",Descobrindo a Vida - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/17009.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/d94342607218f0a3b4fd280d84053044.jpg" group-title="Filmes | Comédia",Descompensada - 2015
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/d94342607218f0a3b4fd280d84053044.jpg" group-title="Filmes | Comédia",Descompensada - 2015
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15738.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/795d9b71ca42f3d84d0a76f4bef41b54.jpg" group-title="Filmes | Comédia",Desculpe Te Incomodar - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/795d9b71ca42f3d84d0a76f4bef41b54.jpg" group-title="Filmes | Comédia",Desculpe Te Incomodar - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15739.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/c4ac743cd03533e5c56dcde80fa2ec71.jpg" group-title="Filmes | Comédia",Deu a Louca nos Bichos - 2010
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/c4ac743cd03533e5c56dcde80fa2ec71.jpg" group-title="Filmes | Comédia",Deu a Louca nos Bichos - 2010
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15740.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/a4b2ecad2d9d5f77aea437e22a86c7ad.jpg" group-title="Filmes | Comédia",Dia de Casamento - 2016
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/a4b2ecad2d9d5f77aea437e22a86c7ad.jpg" group-title="Filmes | Comédia",Dia de Casamento - 2016
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15741.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dsVyfkAdTDZWNMiaY39nYwrheZQ.jpg" group-title="Filmes | Comédia",Diário de um Banana 4 - 2017
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dsVyfkAdTDZWNMiaY39nYwrheZQ.jpg" group-title="Filmes | Comédia",Diário de um Banana 4 - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15745.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/03c60899cfe08ffe6a7d75262256db95.jpg" group-title="Filmes | Comédia",Divórcio - 2017
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/03c60899cfe08ffe6a7d75262256db95.jpg" group-title="Filmes | Comédia",Divórcio - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15746.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/07a7d891ba3b99e22b23d909114044f4.jpg" group-title="Filmes | Comédia",Diário de um Banana - 2010
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/07a7d891ba3b99e22b23d909114044f4.jpg" group-title="Filmes | Comédia",Diário de um Banana - 2010
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15742.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/f625d56442aa378f0e7edb395e0dca36.jpg" group-title="Filmes | Comédia",Diário de um Banana 2: Rodrick é o Cara - 2011
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/f625d56442aa378f0e7edb395e0dca36.jpg" group-title="Filmes | Comédia",Diário de um Banana 2: Rodrick é o Cara - 2011
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15743.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/e06e9c62cb316225763583933dd77f98.jpg" group-title="Filmes | Comédia",Diário de um Banana 3: Dias de Cão - 2012
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/e06e9c62cb316225763583933dd77f98.jpg" group-title="Filmes | Comédia",Diário de um Banana 3: Dias de Cão - 2012
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15744.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/65f495812717330d76244fbb6aec6ffa.jpg" group-title="Filmes | Comédia",Do Jeito que Elas Querem - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/65f495812717330d76244fbb6aec6ffa.jpg" group-title="Filmes | Comédia",Do Jeito que Elas Querem - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15752.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/014afd7987c6e4eb075838b635287d5f.jpg" group-title="Filmes | Comédia",Do Que as Mulheres Gostam - 2000
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/014afd7987c6e4eb075838b635287d5f.jpg" group-title="Filmes | Comédia",Do Que as Mulheres Gostam - 2000
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15753.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/d55af12fd985e00a8e50598aaee761c7.jpg" group-title="Filmes | Comédia",Do Que os Homens Gostam - 2003
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/d55af12fd985e00a8e50598aaee761c7.jpg" group-title="Filmes | Comédia",Do Que os Homens Gostam - 2003
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15754.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/9d7fbf81917e2191e2298d2466a8acd6.jpg" group-title="Filmes | Comédia",Doce Argumento - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/9d7fbf81917e2191e2298d2466a8acd6.jpg" group-title="Filmes | Comédia",Doce Argumento - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15747.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/55dcdd5b8fd37b2b5f341474751a9281.jpg" group-title="Filmes | Comédia",Dois Loucos com Sorte - 1983
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/55dcdd5b8fd37b2b5f341474751a9281.jpg" group-title="Filmes | Comédia",Dois Loucos com Sorte - 1983
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15748.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cYLz9eENFrIHLPnJ15mE2omn2eN.jpg" group-title="Filmes | Comédia",Dois Malucos na Tv - 2012
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cYLz9eENFrIHLPnJ15mE2omn2eN.jpg" group-title="Filmes | Comédia",Dois Malucos na Tv - 2012
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15749.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/49b6c7c855b78af6f1074cff69013181.jpg" group-title="Filmes | Comédia",Dois Tiras Fora de Ordem - 1977
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/49b6c7c855b78af6f1074cff69013181.jpg" group-title="Filmes | Comédia",Dois Tiras Fora de Ordem - 1977
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15750.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/b853a99c15c8889927b01ef5462b4db9.jpg" group-title="Filmes | Comédia",Dois Virgens na América - 2016
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/b853a99c15c8889927b01ef5462b4db9.jpg" group-title="Filmes | Comédia",Dois Virgens na América - 2016
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15751.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/fa5a02b619881817a1ae5857dd731ace.jpg" group-title="Filmes | Comédia",Duas de Mim - 2017
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/fa5a02b619881817a1ae5857dd731ace.jpg" group-title="Filmes | Comédia",Duas de Mim - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15755.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/2997c4524d52074c39b4e06d76a7b387.jpg" group-title="Filmes | Comédia",Dude - A Vida É Assim - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/2997c4524d52074c39b4e06d76a7b387.jpg" group-title="Filmes | Comédia",Dude - A Vida É Assim - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15756.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/04370e8bea54a9747e7e03844047bf9b.jpg" group-title="Filmes | Comédia",Duplex - 2003
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/04370e8bea54a9747e7e03844047bf9b.jpg" group-title="Filmes | Comédia",Duplex - 2003
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15757.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/be7n1ytxXUMCHXXOpwfjoIAeHhy.jpg" group-title="Filmes | Comédia",E Aí... Comeu? - 2012
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/be7n1ytxXUMCHXXOpwfjoIAeHhy.jpg" group-title="Filmes | Comédia",E Aí... Comeu? - 2012
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15758.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uDZsrUkzBrTp1eyA4ivwg0TnMS5.jpg" group-title="Filmes | Comédia",É Fada! - 2016
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uDZsrUkzBrTp1eyA4ivwg0TnMS5.jpg" group-title="Filmes | Comédia",É Fada! - 2016
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15759.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/06e045a7853e0d7429b48abe7d3bec95.jpg" group-title="Filmes | Comédia",E Se Fosse Verdade - 2005
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/06e045a7853e0d7429b48abe7d3bec95.jpg" group-title="Filmes | Comédia",E Se Fosse Verdade - 2005
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15775.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/476ae3501fddf14655c3d1cb77346605.jpg" group-title="Filmes | Comédia",E Se... Você Tivesse uma Segunda Chance? - 2010
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/476ae3501fddf14655c3d1cb77346605.jpg" group-title="Filmes | Comédia",E Se... Você Tivesse uma Segunda Chance? - 2010
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15776.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/054090c834d7443fcafe6c703036defd.jpg" group-title="Filmes | Comédia",Ela Disse, Ele Disse - 2019
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/054090c834d7443fcafe6c703036defd.jpg" group-title="Filmes | Comédia",Ela Disse, Ele Disse - 2019
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15760.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/eabc6d4864879cba4f76219a7bc2f710.jpg" group-title="Filmes | Comédia",Ela é o Cara - 2006
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/eabc6d4864879cba4f76219a7bc2f710.jpg" group-title="Filmes | Comédia",Ela é o Cara - 2006
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15761.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/bdb98ca5f33f05d37660d801cc7be42a.jpg" group-title="Filmes | Comédia",Ele Está de Volta - 2015
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/bdb98ca5f33f05d37660d801cc7be42a.jpg" group-title="Filmes | Comédia",Ele Está de Volta - 2015
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15762.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/c70c2f6eea1d6dd355756cd69e3b6421.jpg" group-title="Filmes | Comédia",Em Cima Do Muro - 2017
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/c70c2f6eea1d6dd355756cd69e3b6421.jpg" group-title="Filmes | Comédia",Em Cima Do Muro - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15763.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/f78b879e95b28bbf11422ed3c7cc60ea.jpg" group-title="Filmes | Comédia",Em seu lugar - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/f78b879e95b28bbf11422ed3c7cc60ea.jpg" group-title="Filmes | Comédia",Em seu lugar - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15764.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/77bf56519ca47b5730ca10e2f6da681d.jpg" group-title="Filmes | Comédia",Encantada - 2007
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/77bf56519ca47b5730ca10e2f6da681d.jpg" group-title="Filmes | Comédia",Encantada - 2007
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15765.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/94e9ec2f3924f199dbd96604aa6bf948.jpg" group-title="Filmes | Comédia",Endiabrado - 2000
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/94e9ec2f3924f199dbd96604aa6bf948.jpg" group-title="Filmes | Comédia",Endiabrado - 2000
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15766.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/cabc02662f1317bde25680ac89076f24.jpg" group-title="Filmes | Comédia",Enquanto Você Dormia - 1995
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/cabc02662f1317bde25680ac89076f24.jpg" group-title="Filmes | Comédia",Enquanto Você Dormia - 1995
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15767.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/dd781f304b30b4659a6ee5e49adfe534.jpg" group-title="Filmes | Comédia",Entourage: Fama e Amizade - 2015
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/dd781f304b30b4659a6ee5e49adfe534.jpg" group-title="Filmes | Comédia",Entourage: Fama e Amizade - 2015
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15768.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/287381a19af59ef055d58a73e56f049f.jpg" group-title="Filmes | Comédia",Entrando Numa Fria Maior Ainda com a Família - 2010
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/287381a19af59ef055d58a73e56f049f.jpg" group-title="Filmes | Comédia",Entrando Numa Fria Maior Ainda com a Família - 2010
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15769.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/4a578103aae9c19531047e9ea9bcbfe1.jpg" group-title="Filmes | Comédia",Entre Vinho e Vinagre - 2019
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/4a578103aae9c19531047e9ea9bcbfe1.jpg" group-title="Filmes | Comédia",Entre Vinho e Vinagre - 2019
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15770.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/2fb06316fcc8d5caddbb13b4a7a3a58d.jpg" group-title="Filmes | Comédia",Escola de Rock - 2003
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/2fb06316fcc8d5caddbb13b4a7a3a58d.jpg" group-title="Filmes | Comédia",Escola de Rock - 2003
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15772.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/62b427c1d335c6e43b68886d3662db5d.jpg" group-title="Filmes | Comédia",Escola de Solteiras - 2019
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/62b427c1d335c6e43b68886d3662db5d.jpg" group-title="Filmes | Comédia",Escola de Solteiras - 2019
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15773.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/458fa848cf11e92dc6ee27d8a3841ed5.jpg" group-title="Filmes | Comédia",Escrito nas Estrelas - 1993
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/458fa848cf11e92dc6ee27d8a3841ed5.jpg" group-title="Filmes | Comédia",Escrito nas Estrelas - 1993
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15774.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/feeed3b8256a46ce857ea982a2bd0461.jpg" group-title="Filmes | Comédia",Espartalhões - 2008
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/feeed3b8256a46ce857ea982a2bd0461.jpg" group-title="Filmes | Comédia",Espartalhões - 2008
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15777.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/ebc783c863996e4ff799b36ae88eb31e.jpg" group-title="Filmes | Comédia",Especial de Natal Porta dos Fundos: A Primeira Tentação de Cristo - 2019
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/ebc783c863996e4ff799b36ae88eb31e.jpg" group-title="Filmes | Comédia",Especial de Natal Porta dos Fundos: A Primeira Tentação de Cristo - 2019
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15778.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/a139168ee6acb6a3df870910970b0649.jpg" group-title="Filmes | Comédia",Especialista em Crise - 2015
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/a139168ee6acb6a3df870910970b0649.jpg" group-title="Filmes | Comédia",Especialista em Crise - 2015
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15779.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/6c0cb450f51bc8f9f8ef6de65f8ff808.jpg" group-title="Filmes | Comédia",Esposa de Mentirinha - 2011
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/6c0cb450f51bc8f9f8ef6de65f8ff808.jpg" group-title="Filmes | Comédia",Esposa de Mentirinha - 2011
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15780.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/ca681cb05206d335b762e20e90eb7707.jpg" group-title="Filmes | Comédia",Esquadrão Classe A - 2010
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/ca681cb05206d335b762e20e90eb7707.jpg" group-title="Filmes | Comédia",Esquadrão Classe A - 2010
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15781.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vSSSkvSpGTWtRz3L5575qW87kkK.jpg" group-title="Filmes | Comédia",Esqueceram de Mim 1 - 1990
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vSSSkvSpGTWtRz3L5575qW87kkK.jpg" group-title="Filmes | Comédia",Esqueceram de Mim 1 - 1990
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15782.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nnLldrxLB4mDlZGAd5s4KfIVg4R.jpg" group-title="Filmes | Comédia",Esqueceram de Mim 2  - 1992
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nnLldrxLB4mDlZGAd5s4KfIVg4R.jpg" group-title="Filmes | Comédia",Esqueceram de Mim 2  - 1992
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15783.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jhWdLN2W6xZRgym1jruhjDvZfDQ.jpg" group-title="Filmes | Comédia",Esqueceram de Mim 3 - 1997
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jhWdLN2W6xZRgym1jruhjDvZfDQ.jpg" group-title="Filmes | Comédia",Esqueceram de Mim 3 - 1997
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15784.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/857c4964503c011261472a969fe8ea5d.jpg" group-title="Filmes | Comédia",Eu Não Sou um Homem Fácil - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/857c4964503c011261472a969fe8ea5d.jpg" group-title="Filmes | Comédia",Eu Não Sou um Homem Fácil - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15786.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/8d6a6c5243e8d2b2d4c206230fe60578.jpg" group-title="Filmes | Comédia",Eu os Declaro Marido e... Larry - 2007
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/8d6a6c5243e8d2b2d4c206230fe60578.jpg" group-title="Filmes | Comédia",Eu os Declaro Marido e... Larry - 2007
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15787.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/6f41194902f15ad7f5d2ff6205638e57.jpg" group-title="Filmes | Comédia",Eu, Eu Mesmo & Irene - 2000
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/6f41194902f15ad7f5d2ff6205638e57.jpg" group-title="Filmes | Comédia",Eu, Eu Mesmo & Irene - 2000
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15785.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/e418cd2b92bab0ce207b6b944c5aac4d.jpg" group-title="Filmes | Comédia",Eu, Você e a Garota Que Vai Morrer - 2015
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/e418cd2b92bab0ce207b6b944c5aac4d.jpg" group-title="Filmes | Comédia",Eu, Você e a Garota Que Vai Morrer - 2015
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15789.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/c7266992246ebac32da1ea7f62b5f80a.jpg" group-title="Filmes | Comédia",Eurotrip: Passaporte para a Confusão - 2004
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/c7266992246ebac32da1ea7f62b5f80a.jpg" group-title="Filmes | Comédia",Eurotrip: Passaporte para a Confusão - 2004
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15788.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/efsFcS40QwY2v0zDOGUKULsqWWy.jpg" group-title="Filmes | Comédia",Daddy Cool: Ex em Domicílio - 2017
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/efsFcS40QwY2v0zDOGUKULsqWWy.jpg" group-title="Filmes | Comédia",Daddy Cool: Ex em Domicílio - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15790.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p4YiseA6zPrXQMAJ7dj9GxCTHmo.jpg" group-title="Filmes | Comédia",Fala Sério, Mãe! - 2017
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p4YiseA6zPrXQMAJ7dj9GxCTHmo.jpg" group-title="Filmes | Comédia",Fala Sério, Mãe! - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15791.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dj14TWVE1VxxJrNxxsObYiRzhgj.jpg" group-title="Filmes | Comédia",A Família Buscapé - 1993
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dj14TWVE1VxxJrNxxsObYiRzhgj.jpg" group-title="Filmes | Comédia",A Família Buscapé - 1993
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15792.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/78d19ffffee2f2a5201f476266bfe15f.jpg" group-title="Filmes | Comédia",Família do Bagulho - 2013
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/78d19ffffee2f2a5201f476266bfe15f.jpg" group-title="Filmes | Comédia",Família do Bagulho - 2013
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15793.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/6d968b6c68dad12ad31666ba2895d686.jpg" group-title="Filmes | Comédia",Felicidade por um Fio - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/6d968b6c68dad12ad31666ba2895d686.jpg" group-title="Filmes | Comédia",Felicidade por um Fio - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15794.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/87be18e5a537a027fcd58017b13250d2.jpg" group-title="Filmes | Comédia",Fora de Série - 2019
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/87be18e5a537a027fcd58017b13250d2.jpg" group-title="Filmes | Comédia",Fora de Série - 2019
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15798.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bfeIonJ9AGC0kkNK0d69oIyqZMs.jpg" group-title="Filmes | Comédia",Forrest Gump - O Contador de Histórias - 1994
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bfeIonJ9AGC0kkNK0d69oIyqZMs.jpg" group-title="Filmes | Comédia",Forrest Gump - O Contador de Histórias - 1994
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15799.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/b20063e69bc3b5d81ccc45dd9cbe1f0d.jpg" group-title="Filmes | Comédia",Férias do Barulho - 1985
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/b20063e69bc3b5d81ccc45dd9cbe1f0d.jpg" group-title="Filmes | Comédia",Férias do Barulho - 1985
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15795.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/b053b4d152a3fdffb11241e82625f370.jpg" group-title="Filmes | Comédia",Férias Frustradas de Verão - 2009
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/b053b4d152a3fdffb11241e82625f370.jpg" group-title="Filmes | Comédia",Férias Frustradas de Verão - 2009
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15796.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/b4720b9f538f4ea39af2b464ff134457.jpg" group-title="Filmes | Comédia",Férias no Trailer - 2006
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/b4720b9f538f4ea39af2b464ff134457.jpg" group-title="Filmes | Comédia",Férias no Trailer - 2006
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15797.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/9f672cae34292465c98de8deab49ec3d.jpg" group-title="Filmes | Comédia",Cilada.com - 2011
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/9f672cae34292465c98de8deab49ec3d.jpg" group-title="Filmes | Comédia",Cilada.com - 2011
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15708.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/e39ae559baa35e7e4841b7f44bc39436.jpg" group-title="Filmes | Comédia",Click - 2006
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/e39ae559baa35e7e4841b7f44bc39436.jpg" group-title="Filmes | Comédia",Click - 2006
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15709.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/5be0e012c9b39fca5fb8a2eb24723c89.jpg" group-title="Filmes | Comédia",Clube dos Infiéis Honestos - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/5be0e012c9b39fca5fb8a2eb24723c89.jpg" group-title="Filmes | Comédia",Clube dos Infiéis Honestos - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15710.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p0YngdEGePc247DS6cSLvCzIbKy.jpg" group-title="Filmes | Comédia",O Melhor Natal de Todos os Tempos - 2014
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p0YngdEGePc247DS6cSLvCzIbKy.jpg" group-title="Filmes | Comédia",O Melhor Natal de Todos os Tempos - 2014
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15972.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/651f26f63a2f43839aacbe0895bc3cb9.jpg" group-title="Filmes | Comédia",Com Amor, Simon - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/651f26f63a2f43839aacbe0895bc3cb9.jpg" group-title="Filmes | Comédia",Com Amor, Simon - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15711.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/a120cd518ac317a3f1c6411983ba141d.jpg" group-title="Filmes | Comédia",Com Quem Será? - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/a120cd518ac317a3f1c6411983ba141d.jpg" group-title="Filmes | Comédia",Com Quem Será? - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15715.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/42bb02de8c74cf6cbc491a2132355a05.jpg" group-title="Filmes | Comédia",Como Perder um Homem em 10 Dias - 2003
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/42bb02de8c74cf6cbc491a2132355a05.jpg" group-title="Filmes | Comédia",Como Perder um Homem em 10 Dias - 2003
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15712.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/b9549ec658eea500c3b66cb2dca48b1b.jpg" group-title="Filmes | Comédia",Como Se Fosse a Primeira Vez - 2019
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/b9549ec658eea500c3b66cb2dca48b1b.jpg" group-title="Filmes | Comédia",Como Se Fosse a Primeira Vez - 2019
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15713.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/b95351dbf43c1899320786f4eb193a1e.jpg" group-title="Filmes | Comédia",Como é Cruel Viver Assim - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/b95351dbf43c1899320786f4eb193a1e.jpg" group-title="Filmes | Comédia",Como é Cruel Viver Assim - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/17000.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/2c83ec702fa3eef29b0ab34d14dd0726.jpg" group-title="Filmes | Comédia",Compramos um Zoológico - 2011
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/2c83ec702fa3eef29b0ab34d14dd0726.jpg" group-title="Filmes | Comédia",Compramos um Zoológico - 2011
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15714.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/80812d4cd4c4f4dbe8f0599d784983b3.jpg" group-title="Filmes | Comédia",Conflitos Em Família - 2017
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/80812d4cd4c4f4dbe8f0599d784983b3.jpg" group-title="Filmes | Comédia",Conflitos Em Família - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15716.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dXeZFKNrnoxykAhFtiG5DqsJLGh.jpg" group-title="Filmes | Comédia",Convidados sem honra - 2017
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dXeZFKNrnoxykAhFtiG5DqsJLGh.jpg" group-title="Filmes | Comédia",Convidados sem honra - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15717.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8PMQogsuGDMCfM7nrDGUCwi3Tbh.jpg" group-title="Filmes | Comédia",Corra que a Polícia Vem Aí! 1 - 1988
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8PMQogsuGDMCfM7nrDGUCwi3Tbh.jpg" group-title="Filmes | Comédia",Corra que a Polícia Vem Aí! 1 - 1988
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15718.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fduVmiYlvoxxFlnkWfTivyNpJ1O.jpg" group-title="Filmes | Comédia",Corra que a Polícia Vem Aí! 2 - 1991
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fduVmiYlvoxxFlnkWfTivyNpJ1O.jpg" group-title="Filmes | Comédia",Corra que a Polícia Vem Aí! 2 - 1991
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15719.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eq2nJ7ZaIR981pWDNLbVkvwXfjL.jpg" group-title="Filmes | Comédia",Corra que a Polícia Vem Aí! 3 - 1994
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eq2nJ7ZaIR981pWDNLbVkvwXfjL.jpg" group-title="Filmes | Comédia",Corra que a Polícia Vem Aí! 3 - 1994
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15720.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/f833e54da3e95cf5b6374febafe2ad99.jpg" group-title="Filmes | Comédia",Correndo Atrás de um Pai - 2017
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/f833e54da3e95cf5b6374febafe2ad99.jpg" group-title="Filmes | Comédia",Correndo Atrás de um Pai - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15721.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/f6b702cfa20471f0292b76ec42f80d8d.jpg" group-title="Filmes | Comédia",Crazy Trips - Budapeste - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/f6b702cfa20471f0292b76ec42f80d8d.jpg" group-title="Filmes | Comédia",Crazy Trips - Budapeste - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15722.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/02b6fdd6a87dae20bc89b21e334c8ed5.jpg" group-title="Filmes | Comédia",Crush à Altura - 2019
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/02b6fdd6a87dae20bc89b21e334c8ed5.jpg" group-title="Filmes | Comédia",Crush à Altura - 2019
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15725.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/e673ec56362c023c665efce077e2e1f2.jpg" group-title="Filmes | Comédia",Cruzeiro das Loucas - 2002
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/e673ec56362c023c665efce077e2e1f2.jpg" group-title="Filmes | Comédia",Cruzeiro das Loucas - 2002
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15726.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/ac60b022b55781d71d1d95f893267891.jpg" group-title="Filmes | Comédia",Crô em Família - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/ac60b022b55781d71d1d95f893267891.jpg" group-title="Filmes | Comédia",Crô em Família - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15723.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/6e0dff01d56bea01499282d2768c775b.jpg" group-title="Filmes | Comédia",Crônicas de Natal - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/6e0dff01d56bea01499282d2768c775b.jpg" group-title="Filmes | Comédia",Crônicas de Natal - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15724.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/bc424802447ac5fe67998e14d1a109cc.jpg" group-title="Filmes | Comédia",Curtindo a Vida Adoidado - 1986
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/bc424802447ac5fe67998e14d1a109cc.jpg" group-title="Filmes | Comédia",Curtindo a Vida Adoidado - 1986
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15727.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/913e62b685463f2158fc6eba9cfaf2b6.jpg" group-title="Filmes | Comédia",Cães de Guerra - 1980
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/913e62b685463f2158fc6eba9cfaf2b6.jpg" group-title="Filmes | Comédia",Cães de Guerra - 1980
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15698.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/bd4b9306b8c7ffd7d02190af6a7f661a.jpg" group-title="Filmes | Comédia",D.U.F.F. - Você Conhece, Tem ou É - 2015
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/bd4b9306b8c7ffd7d02190af6a7f661a.jpg" group-title="Filmes | Comédia",D.U.F.F. - Você Conhece, Tem ou É - 2015
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15728.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/e41386ba69ebc443da8019bdd0ea376d.jpg" group-title="Filmes | Comédia",De Carona para o Amor - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/e41386ba69ebc443da8019bdd0ea376d.jpg" group-title="Filmes | Comédia",De Carona para o Amor - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15731.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/10baa1450286adc7b1a5650906b49f1d.jpg" group-title="Filmes | Comédia",De Encontro com a Vida - 2017
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/10baa1450286adc7b1a5650906b49f1d.jpg" group-title="Filmes | Comédia",De Encontro com a Vida - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15732.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/f720c749f74027566c56c7cd41c05c71.jpg" group-title="Filmes | Comédia",De Pernas pro Ar 2 - 2012
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/f720c749f74027566c56c7cd41c05c71.jpg" group-title="Filmes | Comédia",De Pernas pro Ar 2 - 2012
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15735.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/e9039d67bc7aa33de7afee81dc505a17.jpg" group-title="Filmes | Comédia",De Pernas Pro Ar 3 - 2019
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/e9039d67bc7aa33de7afee81dc505a17.jpg" group-title="Filmes | Comédia",De Pernas Pro Ar 3 - 2019
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15734.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/f1e070506a3cf3e1a79df8afb9f6fb71.jpg" group-title="Filmes | Comédia",De Repente 30 - 2004
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/f1e070506a3cf3e1a79df8afb9f6fb71.jpg" group-title="Filmes | Comédia",De Repente 30 - 2004
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15736.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/40abc61a9f030f04cf60fa608fc9af3a.jpg" group-title="Filmes | Comédia",De Repente uma Família - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/40abc61a9f030f04cf60fa608fc9af3a.jpg" group-title="Filmes | Comédia",De Repente uma Família - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15737.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/872697796c08157e20c4dd07847d42e7.jpg" group-title="Filmes | Comédia",Deadpool 2 - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/872697796c08157e20c4dd07847d42e7.jpg" group-title="Filmes | Comédia",Deadpool 2 - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15729.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/1548f3c0a06a8babd9c2fce55215cf0d.jpg" group-title="Filmes | Comédia",Debi & Lóide 2 - 2014
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/1548f3c0a06a8babd9c2fce55215cf0d.jpg" group-title="Filmes | Comédia",Debi & Lóide 2 - 2014
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15730.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/d0144f9dfe3b55b93087325b6ee01ea0.jpg" group-title="Filmes | Comédia",Dennis, o Pimentinha Ataca Novamente - 1998
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/d0144f9dfe3b55b93087325b6ee01ea0.jpg" group-title="Filmes | Comédia",Dennis, o Pimentinha Ataca Novamente - 1998
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15733.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/d4125cae9422a89c4ea870f51d93ab85.jpg" group-title="Filmes | Comédia",Descobrindo a Vida - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/d4125cae9422a89c4ea870f51d93ab85.jpg" group-title="Filmes | Comédia",Descobrindo a Vida - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/17009.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/d94342607218f0a3b4fd280d84053044.jpg" group-title="Filmes | Comédia",Descompensada - 2015
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/d94342607218f0a3b4fd280d84053044.jpg" group-title="Filmes | Comédia",Descompensada - 2015
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15738.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/795d9b71ca42f3d84d0a76f4bef41b54.jpg" group-title="Filmes | Comédia",Desculpe Te Incomodar - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/795d9b71ca42f3d84d0a76f4bef41b54.jpg" group-title="Filmes | Comédia",Desculpe Te Incomodar - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15739.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/c4ac743cd03533e5c56dcde80fa2ec71.jpg" group-title="Filmes | Comédia",Deu a Louca nos Bichos - 2010
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/c4ac743cd03533e5c56dcde80fa2ec71.jpg" group-title="Filmes | Comédia",Deu a Louca nos Bichos - 2010
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15740.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/a4b2ecad2d9d5f77aea437e22a86c7ad.jpg" group-title="Filmes | Comédia",Dia de Casamento - 2016
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/a4b2ecad2d9d5f77aea437e22a86c7ad.jpg" group-title="Filmes | Comédia",Dia de Casamento - 2016
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15741.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dsVyfkAdTDZWNMiaY39nYwrheZQ.jpg" group-title="Filmes | Comédia",Diário de um Banana 4 - 2017
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dsVyfkAdTDZWNMiaY39nYwrheZQ.jpg" group-title="Filmes | Comédia",Diário de um Banana 4 - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15745.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/03c60899cfe08ffe6a7d75262256db95.jpg" group-title="Filmes | Comédia",Divórcio - 2017
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/03c60899cfe08ffe6a7d75262256db95.jpg" group-title="Filmes | Comédia",Divórcio - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15746.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/07a7d891ba3b99e22b23d909114044f4.jpg" group-title="Filmes | Comédia",Diário de um Banana - 2010
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/07a7d891ba3b99e22b23d909114044f4.jpg" group-title="Filmes | Comédia",Diário de um Banana - 2010
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15742.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/f625d56442aa378f0e7edb395e0dca36.jpg" group-title="Filmes | Comédia",Diário de um Banana 2: Rodrick é o Cara - 2011
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/f625d56442aa378f0e7edb395e0dca36.jpg" group-title="Filmes | Comédia",Diário de um Banana 2: Rodrick é o Cara - 2011
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15743.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/e06e9c62cb316225763583933dd77f98.jpg" group-title="Filmes | Comédia",Diário de um Banana 3: Dias de Cão - 2012
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/e06e9c62cb316225763583933dd77f98.jpg" group-title="Filmes | Comédia",Diário de um Banana 3: Dias de Cão - 2012
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15744.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/65f495812717330d76244fbb6aec6ffa.jpg" group-title="Filmes | Comédia",Do Jeito que Elas Querem - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/65f495812717330d76244fbb6aec6ffa.jpg" group-title="Filmes | Comédia",Do Jeito que Elas Querem - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15752.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/014afd7987c6e4eb075838b635287d5f.jpg" group-title="Filmes | Comédia",Do Que as Mulheres Gostam - 2000
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/014afd7987c6e4eb075838b635287d5f.jpg" group-title="Filmes | Comédia",Do Que as Mulheres Gostam - 2000
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15753.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/d55af12fd985e00a8e50598aaee761c7.jpg" group-title="Filmes | Comédia",Do Que os Homens Gostam - 2003
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/d55af12fd985e00a8e50598aaee761c7.jpg" group-title="Filmes | Comédia",Do Que os Homens Gostam - 2003
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15754.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/9d7fbf81917e2191e2298d2466a8acd6.jpg" group-title="Filmes | Comédia",Doce Argumento - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/9d7fbf81917e2191e2298d2466a8acd6.jpg" group-title="Filmes | Comédia",Doce Argumento - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15747.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/55dcdd5b8fd37b2b5f341474751a9281.jpg" group-title="Filmes | Comédia",Dois Loucos com Sorte - 1983
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/55dcdd5b8fd37b2b5f341474751a9281.jpg" group-title="Filmes | Comédia",Dois Loucos com Sorte - 1983
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15748.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cYLz9eENFrIHLPnJ15mE2omn2eN.jpg" group-title="Filmes | Comédia",Dois Malucos na Tv - 2012
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cYLz9eENFrIHLPnJ15mE2omn2eN.jpg" group-title="Filmes | Comédia",Dois Malucos na Tv - 2012
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15749.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/49b6c7c855b78af6f1074cff69013181.jpg" group-title="Filmes | Comédia",Dois Tiras Fora de Ordem - 1977
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/49b6c7c855b78af6f1074cff69013181.jpg" group-title="Filmes | Comédia",Dois Tiras Fora de Ordem - 1977
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15750.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/b853a99c15c8889927b01ef5462b4db9.jpg" group-title="Filmes | Comédia",Dois Virgens na América - 2016
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/b853a99c15c8889927b01ef5462b4db9.jpg" group-title="Filmes | Comédia",Dois Virgens na América - 2016
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15751.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/fa5a02b619881817a1ae5857dd731ace.jpg" group-title="Filmes | Comédia",Duas de Mim - 2017
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/fa5a02b619881817a1ae5857dd731ace.jpg" group-title="Filmes | Comédia",Duas de Mim - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15755.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/2997c4524d52074c39b4e06d76a7b387.jpg" group-title="Filmes | Comédia",Dude - A Vida É Assim - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/2997c4524d52074c39b4e06d76a7b387.jpg" group-title="Filmes | Comédia",Dude - A Vida É Assim - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15756.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/04370e8bea54a9747e7e03844047bf9b.jpg" group-title="Filmes | Comédia",Duplex - 2003
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/04370e8bea54a9747e7e03844047bf9b.jpg" group-title="Filmes | Comédia",Duplex - 2003
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15757.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/be7n1ytxXUMCHXXOpwfjoIAeHhy.jpg" group-title="Filmes | Comédia",E Aí... Comeu? - 2012
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/be7n1ytxXUMCHXXOpwfjoIAeHhy.jpg" group-title="Filmes | Comédia",E Aí... Comeu? - 2012
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15758.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uDZsrUkzBrTp1eyA4ivwg0TnMS5.jpg" group-title="Filmes | Comédia",É Fada! - 2016
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uDZsrUkzBrTp1eyA4ivwg0TnMS5.jpg" group-title="Filmes | Comédia",É Fada! - 2016
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15759.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/06e045a7853e0d7429b48abe7d3bec95.jpg" group-title="Filmes | Comédia",E Se Fosse Verdade - 2005
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/06e045a7853e0d7429b48abe7d3bec95.jpg" group-title="Filmes | Comédia",E Se Fosse Verdade - 2005
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15775.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/476ae3501fddf14655c3d1cb77346605.jpg" group-title="Filmes | Comédia",E Se... Você Tivesse uma Segunda Chance? - 2010
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/476ae3501fddf14655c3d1cb77346605.jpg" group-title="Filmes | Comédia",E Se... Você Tivesse uma Segunda Chance? - 2010
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15776.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/054090c834d7443fcafe6c703036defd.jpg" group-title="Filmes | Comédia",Ela Disse, Ele Disse - 2019
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/054090c834d7443fcafe6c703036defd.jpg" group-title="Filmes | Comédia",Ela Disse, Ele Disse - 2019
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15760.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/eabc6d4864879cba4f76219a7bc2f710.jpg" group-title="Filmes | Comédia",Ela é o Cara - 2006
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/eabc6d4864879cba4f76219a7bc2f710.jpg" group-title="Filmes | Comédia",Ela é o Cara - 2006
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15761.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/bdb98ca5f33f05d37660d801cc7be42a.jpg" group-title="Filmes | Comédia",Ele Está de Volta - 2015
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/bdb98ca5f33f05d37660d801cc7be42a.jpg" group-title="Filmes | Comédia",Ele Está de Volta - 2015
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15762.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/c70c2f6eea1d6dd355756cd69e3b6421.jpg" group-title="Filmes | Comédia",Em Cima Do Muro - 2017
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/c70c2f6eea1d6dd355756cd69e3b6421.jpg" group-title="Filmes | Comédia",Em Cima Do Muro - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15763.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/f78b879e95b28bbf11422ed3c7cc60ea.jpg" group-title="Filmes | Comédia",Em seu lugar - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/f78b879e95b28bbf11422ed3c7cc60ea.jpg" group-title="Filmes | Comédia",Em seu lugar - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15764.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/77bf56519ca47b5730ca10e2f6da681d.jpg" group-title="Filmes | Comédia",Encantada - 2007
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/77bf56519ca47b5730ca10e2f6da681d.jpg" group-title="Filmes | Comédia",Encantada - 2007
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15765.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/94e9ec2f3924f199dbd96604aa6bf948.jpg" group-title="Filmes | Comédia",Endiabrado - 2000
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/94e9ec2f3924f199dbd96604aa6bf948.jpg" group-title="Filmes | Comédia",Endiabrado - 2000
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15766.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/cabc02662f1317bde25680ac89076f24.jpg" group-title="Filmes | Comédia",Enquanto Você Dormia - 1995
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/cabc02662f1317bde25680ac89076f24.jpg" group-title="Filmes | Comédia",Enquanto Você Dormia - 1995
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15767.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/dd781f304b30b4659a6ee5e49adfe534.jpg" group-title="Filmes | Comédia",Entourage: Fama e Amizade - 2015
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/dd781f304b30b4659a6ee5e49adfe534.jpg" group-title="Filmes | Comédia",Entourage: Fama e Amizade - 2015
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15768.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/287381a19af59ef055d58a73e56f049f.jpg" group-title="Filmes | Comédia",Entrando Numa Fria Maior Ainda com a Família - 2010
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/287381a19af59ef055d58a73e56f049f.jpg" group-title="Filmes | Comédia",Entrando Numa Fria Maior Ainda com a Família - 2010
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15769.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/4a578103aae9c19531047e9ea9bcbfe1.jpg" group-title="Filmes | Comédia",Entre Vinho e Vinagre - 2019
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/4a578103aae9c19531047e9ea9bcbfe1.jpg" group-title="Filmes | Comédia",Entre Vinho e Vinagre - 2019
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15770.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/2fb06316fcc8d5caddbb13b4a7a3a58d.jpg" group-title="Filmes | Comédia",Escola de Rock - 2003
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/2fb06316fcc8d5caddbb13b4a7a3a58d.jpg" group-title="Filmes | Comédia",Escola de Rock - 2003
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15772.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/62b427c1d335c6e43b68886d3662db5d.jpg" group-title="Filmes | Comédia",Escola de Solteiras - 2019
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/62b427c1d335c6e43b68886d3662db5d.jpg" group-title="Filmes | Comédia",Escola de Solteiras - 2019
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15773.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/458fa848cf11e92dc6ee27d8a3841ed5.jpg" group-title="Filmes | Comédia",Escrito nas Estrelas - 1993
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/458fa848cf11e92dc6ee27d8a3841ed5.jpg" group-title="Filmes | Comédia",Escrito nas Estrelas - 1993
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15774.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/feeed3b8256a46ce857ea982a2bd0461.jpg" group-title="Filmes | Comédia",Espartalhões - 2008
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/feeed3b8256a46ce857ea982a2bd0461.jpg" group-title="Filmes | Comédia",Espartalhões - 2008
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15777.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/ebc783c863996e4ff799b36ae88eb31e.jpg" group-title="Filmes | Comédia",Especial de Natal Porta dos Fundos: A Primeira Tentação de Cristo - 2019
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/ebc783c863996e4ff799b36ae88eb31e.jpg" group-title="Filmes | Comédia",Especial de Natal Porta dos Fundos: A Primeira Tentação de Cristo - 2019
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15778.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/a139168ee6acb6a3df870910970b0649.jpg" group-title="Filmes | Comédia",Especialista em Crise - 2015
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/a139168ee6acb6a3df870910970b0649.jpg" group-title="Filmes | Comédia",Especialista em Crise - 2015
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15779.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/6c0cb450f51bc8f9f8ef6de65f8ff808.jpg" group-title="Filmes | Comédia",Esposa de Mentirinha - 2011
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/6c0cb450f51bc8f9f8ef6de65f8ff808.jpg" group-title="Filmes | Comédia",Esposa de Mentirinha - 2011
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15780.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/ca681cb05206d335b762e20e90eb7707.jpg" group-title="Filmes | Comédia",Esquadrão Classe A - 2010
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/ca681cb05206d335b762e20e90eb7707.jpg" group-title="Filmes | Comédia",Esquadrão Classe A - 2010
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15781.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vSSSkvSpGTWtRz3L5575qW87kkK.jpg" group-title="Filmes | Comédia",Esqueceram de Mim 1 - 1990
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vSSSkvSpGTWtRz3L5575qW87kkK.jpg" group-title="Filmes | Comédia",Esqueceram de Mim 1 - 1990
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15782.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nnLldrxLB4mDlZGAd5s4KfIVg4R.jpg" group-title="Filmes | Comédia",Esqueceram de Mim 2  - 1992
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nnLldrxLB4mDlZGAd5s4KfIVg4R.jpg" group-title="Filmes | Comédia",Esqueceram de Mim 2  - 1992
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15783.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jhWdLN2W6xZRgym1jruhjDvZfDQ.jpg" group-title="Filmes | Comédia",Esqueceram de Mim 3 - 1997
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jhWdLN2W6xZRgym1jruhjDvZfDQ.jpg" group-title="Filmes | Comédia",Esqueceram de Mim 3 - 1997
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15784.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/857c4964503c011261472a969fe8ea5d.jpg" group-title="Filmes | Comédia",Eu Não Sou um Homem Fácil - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/857c4964503c011261472a969fe8ea5d.jpg" group-title="Filmes | Comédia",Eu Não Sou um Homem Fácil - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15786.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/8d6a6c5243e8d2b2d4c206230fe60578.jpg" group-title="Filmes | Comédia",Eu os Declaro Marido e... Larry - 2007
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/8d6a6c5243e8d2b2d4c206230fe60578.jpg" group-title="Filmes | Comédia",Eu os Declaro Marido e... Larry - 2007
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15787.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/6f41194902f15ad7f5d2ff6205638e57.jpg" group-title="Filmes | Comédia",Eu, Eu Mesmo & Irene - 2000
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/6f41194902f15ad7f5d2ff6205638e57.jpg" group-title="Filmes | Comédia",Eu, Eu Mesmo & Irene - 2000
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15785.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/e418cd2b92bab0ce207b6b944c5aac4d.jpg" group-title="Filmes | Comédia",Eu, Você e a Garota Que Vai Morrer - 2015
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/e418cd2b92bab0ce207b6b944c5aac4d.jpg" group-title="Filmes | Comédia",Eu, Você e a Garota Que Vai Morrer - 2015
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15789.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/c7266992246ebac32da1ea7f62b5f80a.jpg" group-title="Filmes | Comédia",Eurotrip: Passaporte para a Confusão - 2004
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/c7266992246ebac32da1ea7f62b5f80a.jpg" group-title="Filmes | Comédia",Eurotrip: Passaporte para a Confusão - 2004
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15788.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/efsFcS40QwY2v0zDOGUKULsqWWy.jpg" group-title="Filmes | Comédia",Daddy Cool: Ex em Domicílio - 2017
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/efsFcS40QwY2v0zDOGUKULsqWWy.jpg" group-title="Filmes | Comédia",Daddy Cool: Ex em Domicílio - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15790.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p4YiseA6zPrXQMAJ7dj9GxCTHmo.jpg" group-title="Filmes | Comédia",Fala Sério, Mãe! - 2017
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p4YiseA6zPrXQMAJ7dj9GxCTHmo.jpg" group-title="Filmes | Comédia",Fala Sério, Mãe! - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15791.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dj14TWVE1VxxJrNxxsObYiRzhgj.jpg" group-title="Filmes | Comédia",A Família Buscapé - 1993
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dj14TWVE1VxxJrNxxsObYiRzhgj.jpg" group-title="Filmes | Comédia",A Família Buscapé - 1993
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15792.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/78d19ffffee2f2a5201f476266bfe15f.jpg" group-title="Filmes | Comédia",Família do Bagulho - 2013
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/78d19ffffee2f2a5201f476266bfe15f.jpg" group-title="Filmes | Comédia",Família do Bagulho - 2013
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15793.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/6d968b6c68dad12ad31666ba2895d686.jpg" group-title="Filmes | Comédia",Felicidade por um Fio - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/6d968b6c68dad12ad31666ba2895d686.jpg" group-title="Filmes | Comédia",Felicidade por um Fio - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15794.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/87be18e5a537a027fcd58017b13250d2.jpg" group-title="Filmes | Comédia",Fora de Série - 2019
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/87be18e5a537a027fcd58017b13250d2.jpg" group-title="Filmes | Comédia",Fora de Série - 2019
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15798.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bfeIonJ9AGC0kkNK0d69oIyqZMs.jpg" group-title="Filmes | Comédia",Forrest Gump - O Contador de Histórias - 1994
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bfeIonJ9AGC0kkNK0d69oIyqZMs.jpg" group-title="Filmes | Comédia",Forrest Gump - O Contador de Histórias - 1994
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15799.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/b20063e69bc3b5d81ccc45dd9cbe1f0d.jpg" group-title="Filmes | Comédia",Férias do Barulho - 1985
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/b20063e69bc3b5d81ccc45dd9cbe1f0d.jpg" group-title="Filmes | Comédia",Férias do Barulho - 1985
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15795.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/b053b4d152a3fdffb11241e82625f370.jpg" group-title="Filmes | Comédia",Férias Frustradas de Verão - 2009
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/b053b4d152a3fdffb11241e82625f370.jpg" group-title="Filmes | Comédia",Férias Frustradas de Verão - 2009
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15796.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/b4720b9f538f4ea39af2b464ff134457.jpg" group-title="Filmes | Comédia",Férias no Trailer - 2006
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/b4720b9f538f4ea39af2b464ff134457.jpg" group-title="Filmes | Comédia",Férias no Trailer - 2006
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15797.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/f968d15209aaba61bdfc53aa83ac3d50.jpg" group-title="Filmes | Comédia",Garfield - O Filme - 2004
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/f968d15209aaba61bdfc53aa83ac3d50.jpg" group-title="Filmes | Comédia",Garfield - O Filme - 2004
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15801.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/b8de8ff4f74f1f0577a76a9cd5af9589.jpg" group-title="Filmes | Comédia",Garfield 2 - 2006
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/b8de8ff4f74f1f0577a76a9cd5af9589.jpg" group-title="Filmes | Comédia",Garfield 2 - 2006
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15802.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/dd780c1fc780d55e5aec135ef0dafad4.jpg" group-title="Filmes | Comédia",Garota Infernal - 2009
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/dd780c1fc780d55e5aec135ef0dafad4.jpg" group-title="Filmes | Comédia",Garota Infernal - 2009
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15803.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/d57396e82119cfdcb5f7754a775e229b.jpg" group-title="Filmes | Comédia",Garota Mimada - 2008
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/d57396e82119cfdcb5f7754a775e229b.jpg" group-title="Filmes | Comédia",Garota Mimada - 2008
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15804.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/7c55ef98ce66b2b90b95fcc2a5ce2039.jpg" group-title="Filmes | Comédia",Garçonete - 2007
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/7c55ef98ce66b2b90b95fcc2a5ce2039.jpg" group-title="Filmes | Comédia",Garçonete - 2007
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15800.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ppU2xJnlKdW3F01AtC9wMuXRZCg.jpg" group-title="Filmes | Comédia",Gente Grande 1 - 2010
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ppU2xJnlKdW3F01AtC9wMuXRZCg.jpg" group-title="Filmes | Comédia",Gente Grande 1 - 2010
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15805.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fKYW0oKPvy6HF8x5egL1ljC36xb.jpg" group-title="Filmes | Comédia",Gente Grande 2 - 2013
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fKYW0oKPvy6HF8x5egL1ljC36xb.jpg" group-title="Filmes | Comédia",Gente Grande 2 - 2013
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15806.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/aa39d2e878fc9484a18d556470895793.jpg" group-title="Filmes | Comédia",Gente que Vai e Volta - 2019
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/aa39d2e878fc9484a18d556470895793.jpg" group-title="Filmes | Comédia",Gente que Vai e Volta - 2019
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15807.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/690d0eaca5d3b29a97ba058df2872580.jpg" group-title="Filmes | Comédia",Gigolô Europeu por Acidente - 2005
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/690d0eaca5d3b29a97ba058df2872580.jpg" group-title="Filmes | Comédia",Gigolô Europeu por Acidente - 2005
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15808.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/0dc21064b6094d5914f8fcfbf2f27e88.jpg" group-title="Filmes | Comédia",Golpe Baixo - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/0dc21064b6094d5914f8fcfbf2f27e88.jpg" group-title="Filmes | Comédia",Golpe Baixo - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15809.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/5f47a2e5e6f333b05cc6bb91ce243d78.jpg" group-title="Filmes | Comédia",Guerra dos Monstros - 2015
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/5f47a2e5e6f333b05cc6bb91ce243d78.jpg" group-title="Filmes | Comédia",Guerra dos Monstros - 2015
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15810.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rWe3P1RIiqjHKW65hF2GW2CGkwh.jpg" group-title="Filmes | Comédia",Guy - 2018
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rWe3P1RIiqjHKW65hF2GW2CGkwh.jpg" group-title="Filmes | Comédia",Guy - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/17035.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/ddfd50c1efb58c54b20ab3cc01222740.jpg" group-title="Filmes | Comédia",Happy Hour - Verdades e Consequências - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/ddfd50c1efb58c54b20ab3cc01222740.jpg" group-title="Filmes | Comédia",Happy Hour - Verdades e Consequências - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15811.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/133bbb4d4c38c78a2ccbd3ded66a2e71.jpg" group-title="Filmes | Comédia",High School Musical - 2006
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/133bbb4d4c38c78a2ccbd3ded66a2e71.jpg" group-title="Filmes | Comédia",High School Musical - 2006
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15813.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/d252fc81d2f5358679dd1f24f1c95ed7.jpg" group-title="Filmes | Comédia",High School Musical 2 - 2007
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/d252fc81d2f5358679dd1f24f1c95ed7.jpg" group-title="Filmes | Comédia",High School Musical 2 - 2007
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15812.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/50898372d8751878a04d4d4e1d071f0a.jpg" group-title="Filmes | Comédia",Hitch - Conselheiro Amoroso - 2005
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/50898372d8751878a04d4d4e1d071f0a.jpg" group-title="Filmes | Comédia",Hitch - Conselheiro Amoroso - 2005
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15814.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/49cdfc5e611c902a188eadfa34e5fe22.jpg" group-title="Filmes | Comédia",Holmes e Watson - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/49cdfc5e611c902a188eadfa34e5fe22.jpg" group-title="Filmes | Comédia",Holmes e Watson - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15815.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3aumcqIvJyspm87ZBNeiKPujSLJ.jpg" group-title="Filmes | Comédia",Idas e Vindas do Amor - 2010
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3aumcqIvJyspm87ZBNeiKPujSLJ.jpg" group-title="Filmes | Comédia",Idas e Vindas do Amor - 2010
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15816.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/895efd6e2b70015260c5ca75606a4017.jpg" group-title="Filmes | Comédia",Idiocracia - 2006
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/895efd6e2b70015260c5ca75606a4017.jpg" group-title="Filmes | Comédia",Idiocracia - 2006
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15817.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/a55bf82306ab2a1e30f6b9d85773fda6.jpg" group-title="Filmes | Comédia",Internet - O Filme - 2017
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/a55bf82306ab2a1e30f6b9d85773fda6.jpg" group-title="Filmes | Comédia",Internet - O Filme - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15818.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/521bc686075d9e91837d8b787c00a30d.jpg" group-title="Filmes | Comédia",Irmãs Por Acaso - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/521bc686075d9e91837d8b787c00a30d.jpg" group-title="Filmes | Comédia",Irmãs Por Acaso - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/17040.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/214fbb619cac33ad280b23895d6fedf1.jpg" group-title="Filmes | Comédia",Jogo de Amor em Las Vegas - 2008
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/214fbb619cac33ad280b23895d6fedf1.jpg" group-title="Filmes | Comédia",Jogo de Amor em Las Vegas - 2008
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15820.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/50ab7c5e0c54733e51c78a4d1e4a0872.jpg" group-title="Filmes | Comédia",Johnny English 3.0 - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/50ab7c5e0c54733e51c78a4d1e4a0872.jpg" group-title="Filmes | Comédia",Johnny English 3.0 - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15821.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rRvTmfalcNtvFi3a2WaqjWlUXPp.jpg" group-title="Filmes | Comédia",Jumanji: Bem-Vindo à Selva - 2017
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rRvTmfalcNtvFi3a2WaqjWlUXPp.jpg" group-title="Filmes | Comédia",Jumanji: Bem-Vindo à Selva - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15822.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/748de75466962a99af054d923ad96cc2.jpg" group-title="Filmes | Comédia",Juntos e Misturados - 2014
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/748de75466962a99af054d923ad96cc2.jpg" group-title="Filmes | Comédia",Juntos e Misturados - 2014
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15823.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/5e42fc68cff2c604f5b0d5db7405c6f3.jpg" group-title="Filmes | Comédia",Juntos Para Sempre - 2011
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/5e42fc68cff2c604f5b0d5db7405c6f3.jpg" group-title="Filmes | Comédia",Juntos Para Sempre - 2011
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15824.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/f57e121e158e3369156b002fb7bbabe7.jpg" group-title="Filmes | Comédia",Juntos pelo Acaso - 2010
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/f57e121e158e3369156b002fb7bbabe7.jpg" group-title="Filmes | Comédia",Juntos pelo Acaso - 2010
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15825.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/d712160ad1b24e954fbe13b5eabd4674.jpg" group-title="Filmes | Comédia",Já Não Me Sinto Em Casa Nesse Mundo - 2017
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/d712160ad1b24e954fbe13b5eabd4674.jpg" group-title="Filmes | Comédia",Já Não Me Sinto Em Casa Nesse Mundo - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15819.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/3bbf9ceac08f4186eb55b740b51e2cdd.jpg" group-title="Filmes | Comédia",Kate & Leopold - 2001
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/3bbf9ceac08f4186eb55b740b51e2cdd.jpg" group-title="Filmes | Comédia",Kate & Leopold - 2001
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15826.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/a72e57a6d73f0611225a7eb67e782199.jpg" group-title="Filmes | Comédia",Kevin Hart's - Guide to Black History - 2019
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/a72e57a6d73f0611225a7eb67e782199.jpg" group-title="Filmes | Comédia",Kevin Hart's - Guide to Black History - 2019
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15827.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/62a7f20d94f4d26996dfca466cb89bdc.jpg" group-title="Filmes | Comédia",Kung Fu Futebol Clube - 2001
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/62a7f20d94f4d26996dfca466cb89bdc.jpg" group-title="Filmes | Comédia",Kung Fu Futebol Clube - 2001
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15829.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1cSHYv1FSgFNUmTe43lE7jhsaIw.jpg" group-title="Filmes | Comédia",Kung-Fusão - 2004
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1cSHYv1FSgFNUmTe43lE7jhsaIw.jpg" group-title="Filmes | Comédia",Kung-Fusão - 2004
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15828.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/0dc401ea26fd954b1cf98593911c14da.jpg" group-title="Filmes | Comédia",La La Land: Cantando Estações - 2016
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/0dc401ea26fd954b1cf98593911c14da.jpg" group-title="Filmes | Comédia",La La Land: Cantando Estações - 2016
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15831.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/0fababbc7605f84ab339fcc5944dd9d3.jpg" group-title="Filmes | Comédia",Ladrões Que Roubam Ladrões - 2015
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/0fababbc7605f84ab339fcc5944dd9d3.jpg" group-title="Filmes | Comédia",Ladrões Que Roubam Ladrões - 2015
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15830.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/7ed051c777589721c29cea1d3fa20429.jpg" group-title="Filmes | Comédia",Land Ho! - 2014
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/7ed051c777589721c29cea1d3fa20429.jpg" group-title="Filmes | Comédia",Land Ho! - 2014
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15832.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/na0kpfUD21ZBdtSDg5he4ARxs00.jpg" group-title="Filmes | Comédia",Legalmente Loira 1 - 2001
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/na0kpfUD21ZBdtSDg5he4ARxs00.jpg" group-title="Filmes | Comédia",Legalmente Loira 1 - 2001
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15834.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4kC0UGTuJgFnlZq2ZM6OiY7nuY8.jpg" group-title="Filmes | Comédia",Legalmente Loira 2 - 2003
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4kC0UGTuJgFnlZq2ZM6OiY7nuY8.jpg" group-title="Filmes | Comédia",Legalmente Loira 2 - 2003
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15835.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/44e078d19c0c8e0d9b8282ba81bf7859.jpg" group-title="Filmes | Comédia",Let's Dance - 2019
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/44e078d19c0c8e0d9b8282ba81bf7859.jpg" group-title="Filmes | Comédia",Let's Dance - 2019
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15836.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kHCLd46CjHugOuKKAiRPMb2mLUm.jpg" group-title="Filmes | Comédia",Leve-Me - 2017
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kHCLd46CjHugOuKKAiRPMb2mLUm.jpg" group-title="Filmes | Comédia",Leve-Me - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15837.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/0f218ab5d11cee705b96b36cc9392494.jpg" group-title="Filmes | Comédia",Limbo: Entre o Céu e o Inferno - 2019
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/0f218ab5d11cee705b96b36cc9392494.jpg" group-title="Filmes | Comédia",Limbo: Entre o Céu e o Inferno - 2019
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15838.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/3cc9d09fb43e0fd85220100306f569bc.jpg" group-title="Filmes | Comédia",Linda de Morrer - 2015
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/3cc9d09fb43e0fd85220100306f569bc.jpg" group-title="Filmes | Comédia",Linda de Morrer - 2015
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15839.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/c761770cebde1174ac32992d4adac044.jpg" group-title="Filmes | Comédia",Loja de Unicórnios - 2017
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/c761770cebde1174ac32992d4adac044.jpg" group-title="Filmes | Comédia",Loja de Unicórnios - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15840.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/d76b62751b56f79995e6c9670b630504.jpg" group-title="Filmes | Comédia",Looney Tunes - De Volta à Ação - 2003
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/d76b62751b56f79995e6c9670b630504.jpg" group-title="Filmes | Comédia",Looney Tunes - De Volta à Ação - 2003
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15841.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/b49e4b4cbe5f7bdc41282b9b1d866803.jpg" group-title="Filmes | Comédia",Loucademia de Polícia 2: A Primeira Missão - 1985
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/b49e4b4cbe5f7bdc41282b9b1d866803.jpg" group-title="Filmes | Comédia",Loucademia de Polícia 2: A Primeira Missão - 1985
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15842.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/429be4b5939ed207337796b4de84b807.jpg" group-title="Filmes | Comédia",Loucademia de Polícia 3: De Volta ao Treinamento - 1986
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/429be4b5939ed207337796b4de84b807.jpg" group-title="Filmes | Comédia",Loucademia de Polícia 3: De Volta ao Treinamento - 1986
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15843.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/0053c3f9981ff3c8169924c436c76d59.jpg" group-title="Filmes | Comédia",Loucademia de Polícia 4: O Cidadão se Defende - 1987
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/0053c3f9981ff3c8169924c436c76d59.jpg" group-title="Filmes | Comédia",Loucademia de Polícia 4: O Cidadão se Defende - 1987
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15844.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/87d5b9519aae5c93a43468d0863581b8.jpg" group-title="Filmes | Comédia",Loucademia de Polícia 5: Missão Miami Beach - 1988
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/87d5b9519aae5c93a43468d0863581b8.jpg" group-title="Filmes | Comédia",Loucademia de Polícia 5: Missão Miami Beach - 1988
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15845.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/b3c91eeda834e5044d1aedde65e19e57.jpg" group-title="Filmes | Comédia",Loucademia de Polícia 6: Cidade em Estado de Sítio - 1989
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/b3c91eeda834e5044d1aedde65e19e57.jpg" group-title="Filmes | Comédia",Loucademia de Polícia 6: Cidade em Estado de Sítio - 1989
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15846.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/5ffc99339a54dffac8f4a0c29f8d2ab4.jpg" group-title="Filmes | Comédia",Loucademia de Polícia 7: Missão Moscou - 1994
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/5ffc99339a54dffac8f4a0c29f8d2ab4.jpg" group-title="Filmes | Comédia",Loucademia de Polícia 7: Missão Moscou - 1994
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15847.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/ee4b874dc48f83fd6d475989f8038294.jpg" group-title="Filmes | Comédia",Loucas Por Amor, Viciadas em Dinheiro - 2008
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/ee4b874dc48f83fd6d475989f8038294.jpg" group-title="Filmes | Comédia",Loucas Por Amor, Viciadas em Dinheiro - 2008
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15848.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/f92106261e8c2875f3c2c9d7a269a6a1.jpg" group-title="Filmes | Comédia",Loucas Pra Casar - 2015
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/f92106261e8c2875f3c2c9d7a269a6a1.jpg" group-title="Filmes | Comédia",Loucas Pra Casar - 2015
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15849.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/2f3d58ecd875bc8cbb2e4e9d06c69f35.jpg" group-title="Filmes | Comédia",Louco por Elas - 2003
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/2f3d58ecd875bc8cbb2e4e9d06c69f35.jpg" group-title="Filmes | Comédia",Louco por Elas - 2003
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15850.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/d977163ee7f01c24487ff96be541069c.jpg" group-title="Filmes | Comédia",Lutando Pela Família - 2019
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/d977163ee7f01c24487ff96be541069c.jpg" group-title="Filmes | Comédia",Lutando Pela Família - 2019
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15851.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/2d99855d576f5d8a9cbcfef951d1866d.jpg" group-title="Filmes | Comédia",Lá Vem os Pais - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/2d99855d576f5d8a9cbcfef951d1866d.jpg" group-title="Filmes | Comédia",Lá Vem os Pais - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15833.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sMzxw1OdYWfl232dVV19I5tsTap.jpg" group-title="Filmes | Comédia",Madrugada Muito Louca 1 - 2004
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sMzxw1OdYWfl232dVV19I5tsTap.jpg" group-title="Filmes | Comédia",Madrugada Muito Louca 1 - 2004
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15852.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ws4QrVSqNRgcd3IK92PudJ96EWK.jpg" group-title="Filmes | Comédia",Madrugada Muito Louca 2 - 2008
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ws4QrVSqNRgcd3IK92PudJ96EWK.jpg" group-title="Filmes | Comédia",Madrugada Muito Louca 2 - 2008
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15853.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/25e48581a2be033c15f943c47d991d6c.jpg" group-title="Filmes | Comédia",Maldita Sorte - 2007
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/25e48581a2be033c15f943c47d991d6c.jpg" group-title="Filmes | Comédia",Maldita Sorte - 2007
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15855.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AfAr4WwsDUrNunENXRBqf4op6IK.jpg" group-title="Filmes | Comédia",Mamãe É Uma Espiã - 2019
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AfAr4WwsDUrNunENXRBqf4op6IK.jpg" group-title="Filmes | Comédia",Mamãe É Uma Espiã - 2019
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15856.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lDn7u5HDZT9iVHxL0POGzGPzwLB.jpg" group-title="Filmes | Comédia",Mamãe - Operação Balada - 2014
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lDn7u5HDZT9iVHxL0POGzGPzwLB.jpg" group-title="Filmes | Comédia",Mamãe - Operação Balada - 2014
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15857.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ikZIWdmg6zrvfmMZKNJiRVfUtfj.jpg" group-title="Filmes | Comédia",Mamma Mia! 2 - 2018
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ikZIWdmg6zrvfmMZKNJiRVfUtfj.jpg" group-title="Filmes | Comédia",Mamma Mia! 2 - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15859.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wNPY8LdzRCkD9B86mhp4DFh8uG9.jpg" group-title="Filmes | Comédia",Mamma Mia! 1 - 2008
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wNPY8LdzRCkD9B86mhp4DFh8uG9.jpg" group-title="Filmes | Comédia",Mamma Mia! 1 - 2008
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15858.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/993b19c10c4f902ba122557b5504ffc3.jpg" group-title="Filmes | Comédia",Marido e Mulher - 2017
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/993b19c10c4f902ba122557b5504ffc3.jpg" group-title="Filmes | Comédia",Marido e Mulher - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15860.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/428654acb98fcfce61435f5d88b49176.jpg" group-title="Filmes | Comédia",Marido Por Acaso - 2008
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/428654acb98fcfce61435f5d88b49176.jpg" group-title="Filmes | Comédia",Marido Por Acaso - 2008
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15861.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/fb445bf2f9eda22cdb791c695fe642c4.jpg" group-title="Filmes | Comédia",Marley & Eu - 2008
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/fb445bf2f9eda22cdb791c695fe642c4.jpg" group-title="Filmes | Comédia",Marley & Eu - 2008
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15862.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/02fffeaa98c9ce32ce63ae1aef96b422.jpg" group-title="Filmes | Comédia",Marmaduke - 2010
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/02fffeaa98c9ce32ce63ae1aef96b422.jpg" group-title="Filmes | Comédia",Marmaduke - 2010
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15863.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/c112d1de567d867efd1719a80c4c53c8.jpg" group-title="Filmes | Comédia",Mascara - 1999
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/c112d1de567d867efd1719a80c4c53c8.jpg" group-title="Filmes | Comédia",Mascara - 1999
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15970.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/b9f64a4c812d48701b3a5a4f764ab541.jpg" group-title="Filmes | Comédia",Matilda - 1996
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/b9f64a4c812d48701b3a5a4f764ab541.jpg" group-title="Filmes | Comédia",Matilda - 1996
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15864.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/26f2ebaacf505e274167f1571109ecec.jpg" group-title="Filmes | Comédia",Mazzaropi - 2013
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/26f2ebaacf505e274167f1571109ecec.jpg" group-title="Filmes | Comédia",Mazzaropi - 2013
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15889.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/785318a0425feece6bcf6cb867822f46.jpg" group-title="Filmes | Comédia",Mazzaropi - A Banda das Velhas Virgens - 1979
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/785318a0425feece6bcf6cb867822f46.jpg" group-title="Filmes | Comédia",Mazzaropi - A Banda das Velhas Virgens - 1979
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15865.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/61c69f76f56eea4c9435b981a3c23f5f.jpg" group-title="Filmes | Comédia",Mazzaropi - A Carrocinha - 1955
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/61c69f76f56eea4c9435b981a3c23f5f.jpg" group-title="Filmes | Comédia",Mazzaropi - A Carrocinha - 1955
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15866.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fr2cEVp4aip99aMC2TQsgDjYdPs.jpg" group-title="Filmes | Comédia",Mazzaropi - As Aventuras de Pedro Malasartes - 1960
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fr2cEVp4aip99aMC2TQsgDjYdPs.jpg" group-title="Filmes | Comédia",Mazzaropi - As Aventuras de Pedro Malasartes - 1960
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15867.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vRLP6pCLCNmzVTF003Yax39kmBN.jpg" group-title="Filmes | Comédia",Mazzaropi - Betão Ronca Ferro - 1970
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vRLP6pCLCNmzVTF003Yax39kmBN.jpg" group-title="Filmes | Comédia",Mazzaropi - Betão Ronca Ferro - 1970
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15868.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/fc9c697593740f061a083e46ee831bd6.jpg" group-title="Filmes | Comédia",Mazzaropi - Candinho - 1954
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/fc9c697593740f061a083e46ee831bd6.jpg" group-title="Filmes | Comédia",Mazzaropi - Candinho - 1954
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15869.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tR0ynVLescjusSwaEBoYohRbAtW.jpg" group-title="Filmes | Comédia",Mazzaropi - Casinha Pequenina - 1963
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tR0ynVLescjusSwaEBoYohRbAtW.jpg" group-title="Filmes | Comédia",Mazzaropi - Casinha Pequenina - 1963
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15870.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ojNcg7rKA65GVMvyH86OEAZSxc7.jpg" group-title="Filmes | Comédia",Mazzaropi - Chico Fumaça - 1956
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ojNcg7rKA65GVMvyH86OEAZSxc7.jpg" group-title="Filmes | Comédia",Mazzaropi - Chico Fumaça - 1956
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15871.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7yyVIQO8DTpp5XgfDfueE1OtMV2.jpg" group-title="Filmes | Comédia",Chofer de Praça - 1959
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7yyVIQO8DTpp5XgfDfueE1OtMV2.jpg" group-title="Filmes | Comédia",Chofer de Praça - 1959
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15872.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k6soNtOb4gjIf7IAgWOtrrGFAum.jpg" group-title="Filmes | Comédia",Mazzaropi - Fuzileiro do Amor - 1956
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k6soNtOb4gjIf7IAgWOtrrGFAum.jpg" group-title="Filmes | Comédia",Mazzaropi - Fuzileiro do Amor - 1956
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15873.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1y1NNoYL7zr8xuIcz5KyZ9zoPd2.jpg" group-title="Filmes | Comédia",Mazzaropi - O Gato de Madame - 1957
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1y1NNoYL7zr8xuIcz5KyZ9zoPd2.jpg" group-title="Filmes | Comédia",Mazzaropi - O Gato de Madame - 1957
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15874.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w40eVyDa9C4U0F5QQSeDOqJ1SiC.jpg" group-title="Filmes | Comédia",Mazzaropi - Jeca Contra o Capeta - 1976
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w40eVyDa9C4U0F5QQSeDOqJ1SiC.jpg" group-title="Filmes | Comédia",Mazzaropi - Jeca Contra o Capeta - 1976
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15875.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3zLb6aYiPDe5WPdxFdeB6pvLxET.jpg" group-title="Filmes | Comédia",Mazzaropi - Jeca e Seu Filho Preto - 1978
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3zLb6aYiPDe5WPdxFdeB6pvLxET.jpg" group-title="Filmes | Comédia",Mazzaropi - Jeca e Seu Filho Preto - 1978
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15876.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zFd1IzwexpicNpfndRYBALcC6Qn.jpg" group-title="Filmes | Comédia",Mazzaropi - Jeca Tatu - 1960
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zFd1IzwexpicNpfndRYBALcC6Qn.jpg" group-title="Filmes | Comédia",Mazzaropi - Jeca Tatu - 1960
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15878.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gbz0oAZyJdThBs893R22444dsRf.jpg" group-title="Filmes | Comédia",Mazzaropi - Jecão... Um Fofoqueiro no Céu - 1977
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gbz0oAZyJdThBs893R22444dsRf.jpg" group-title="Filmes | Comédia",Mazzaropi - Jecão... Um Fofoqueiro no Céu - 1977
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15877.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ATUIfsNy4YB8vQkSfSMbhyHF2F.jpg" group-title="Filmes | Comédia",Mazzaropi - Meu Japão Brasileiro - 1965
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ATUIfsNy4YB8vQkSfSMbhyHF2F.jpg" group-title="Filmes | Comédia",Mazzaropi - Meu Japão Brasileiro - 1965
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15879.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/93e3d8b214c3b93c74d78af69af97c7c.jpg" group-title="Filmes | Comédia",Mazzaropi - Nadando em Dinheiro - 1952
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/93e3d8b214c3b93c74d78af69af97c7c.jpg" group-title="Filmes | Comédia",Mazzaropi - Nadando em Dinheiro - 1952
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15880.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kQ0OtXOtu0NllIdPwPLBiLoLtBZ.jpg" group-title="Filmes | Comédia",Mazzaropi - No Paraíso das Solteironas - 1969
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kQ0OtXOtu0NllIdPwPLBiLoLtBZ.jpg" group-title="Filmes | Comédia",Mazzaropi - No Paraíso das Solteironas - 1969
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15881.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/137194b0f181da6972e0bce256f9728d.jpg" group-title="Filmes | Comédia",Mazzaropi - O Cineasta das Platéias - 2002
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/137194b0f181da6972e0bce256f9728d.jpg" group-title="Filmes | Comédia",Mazzaropi - O Cineasta das Platéias - 2002
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15882.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/ae6d09f16a7783db0b048d190334f91e.jpg" group-title="Filmes | Comédia",Mazzaropi - O Corintiano - 1967
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/ae6d09f16a7783db0b048d190334f91e.jpg" group-title="Filmes | Comédia",Mazzaropi - O Corintiano - 1967
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15883.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DbyEFSmSiakS5BlSzLFjBSv6NW.jpg" group-title="Filmes | Comédia",Mazzaropi - O Grande Xerife - 1972
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DbyEFSmSiakS5BlSzLFjBSv6NW.jpg" group-title="Filmes | Comédia",Mazzaropi - O Grande Xerife - 1972
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15884.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gpgvRnaGr3bTtRVbC3J5gBdd1n7.jpg" group-title="Filmes | Comédia",Mazzaropi - O Jeca e a Égua Milagrosa - 1980
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gpgvRnaGr3bTtRVbC3J5gBdd1n7.jpg" group-title="Filmes | Comédia",Mazzaropi - O Jeca e a Égua Milagrosa - 1980
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15885.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fY8Cu2e4nH4l8vbZNsRuRl77fTq.jpg" group-title="Filmes | Comédia",Mazzaropi - O Jeca e a Freira - 1968
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fY8Cu2e4nH4l8vbZNsRuRl77fTq.jpg" group-title="Filmes | Comédia",Mazzaropi - O Jeca e a Freira - 1968
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15886.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1BXsJb54ITmHFsYB0pte2m5KgCD.jpg" group-title="Filmes | Comédia",Mazzaropi - O Jeca Macumbeiro - 1975
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1BXsJb54ITmHFsYB0pte2m5KgCD.jpg" group-title="Filmes | Comédia",Mazzaropi - O Jeca Macumbeiro - 1975
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15887.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n8YmMAhidHffj3Ffqvq0tYZfeME.jpg" group-title="Filmes | Comédia",Mazzaropi - O Lamparina - 1964
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n8YmMAhidHffj3Ffqvq0tYZfeME.jpg" group-title="Filmes | Comédia",Mazzaropi - O Lamparina - 1964
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15888.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oqnX0H9idfi7MN9dmCNLG8SaIlB.jpg" group-title="Filmes | Comédia",Mazzaropi - O Puritano da Rua Augusta - 1965
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oqnX0H9idfi7MN9dmCNLG8SaIlB.jpg" group-title="Filmes | Comédia",Mazzaropi - O Puritano da Rua Augusta - 1965
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15890.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v28UUpBo0tWDbET3Vy507kqQrtx.jpg" group-title="Filmes | Comédia",Mazzaropi - O Vendedor de Linguiça - 1962
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v28UUpBo0tWDbET3Vy507kqQrtx.jpg" group-title="Filmes | Comédia",Mazzaropi - O Vendedor de Linguiça - 1962
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15891.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hvz6PW5TotlI1KrCPVX28fkosnf.jpg" group-title="Filmes | Comédia",Mazzaropi - Portugal... Minha Saudade - 1974
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hvz6PW5TotlI1KrCPVX28fkosnf.jpg" group-title="Filmes | Comédia",Mazzaropi - Portugal... Minha Saudade - 1974
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15892.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/34cceb065fc5db4b386ac5d049cec6ce.jpg" group-title="Filmes | Comédia",Mazzaropi - Sai da Frente - 1952
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/34cceb065fc5db4b386ac5d049cec6ce.jpg" group-title="Filmes | Comédia",Mazzaropi - Sai da Frente - 1952
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15893.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vjCBeW5tJGX1CdO7jlePqSN7u0b.jpg" group-title="Filmes | Comédia",Mazzaropi - Tristeza do Jeca - 1961
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vjCBeW5tJGX1CdO7jlePqSN7u0b.jpg" group-title="Filmes | Comédia",Mazzaropi - Tristeza do Jeca - 1961
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15894.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/326QolRfXjlOsdIarjAvnfHEiPH.jpg" group-title="Filmes | Comédia",Mazzaropi - Um Caipira em Bariloche - 1973
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/326QolRfXjlOsdIarjAvnfHEiPH.jpg" group-title="Filmes | Comédia",Mazzaropi - Um Caipira em Bariloche - 1973
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15896.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7gZ9suzyO6V7UW1eRRSKNi3Tkd4.jpg" group-title="Filmes | Comédia",Mazzaropi - Uma Pistola Para Djeca - 1969
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7gZ9suzyO6V7UW1eRRSKNi3Tkd4.jpg" group-title="Filmes | Comédia",Mazzaropi - Uma Pistola Para Djeca - 1969
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15895.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k6XaAbZwabYLH0ljWcynW2VoS58.jpg" group-title="Filmes | Comédia",Mazzaropi - Zé do Periquito - 1960
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k6XaAbZwabYLH0ljWcynW2VoS58.jpg" group-title="Filmes | Comédia",Mazzaropi - Zé do Periquito - 1960
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15897.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w0w61UOMCrTIFdKvXjWgn17UXjQ.jpg" group-title="Filmes | Comédia",Megarrromântico - 2019
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w0w61UOMCrTIFdKvXjWgn17UXjQ.jpg" group-title="Filmes | Comédia",Megarrromântico - 2019
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15898.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/6b4b603f1659b7c41d4c62f4798da2f8.jpg" group-title="Filmes | Comédia",Meia Noite em Paris - 2011
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/6b4b603f1659b7c41d4c62f4798da2f8.jpg" group-title="Filmes | Comédia",Meia Noite em Paris - 2011
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15899.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/baa873b9f0b2bd0c9c0c9ad10cb8e164.jpg" group-title="Filmes | Comédia",Meninas Malvadas 2 - 2011
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/baa873b9f0b2bd0c9c0c9ad10cb8e164.jpg" group-title="Filmes | Comédia",Meninas Malvadas 2 - 2011
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15900.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lfir1ogD5WEEqIFr07ymKSHMdkO.jpg" group-title="Filmes | Comédia",Mens@gem Para Você - 1998
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lfir1ogD5WEEqIFr07ymKSHMdkO.jpg" group-title="Filmes | Comédia",Mens@gem Para Você - 1998
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15901.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/3df3a2b7a6f6d6279932aa2e12adf83b.jpg" group-title="Filmes | Comédia",Meu Amigo Enzo - 2019
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/3df3a2b7a6f6d6279932aa2e12adf83b.jpg" group-title="Filmes | Comédia",Meu Amigo Enzo - 2019
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15902.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/97b16675a21a30f5fab0dec12f09d150.jpg" group-title="Filmes | Comédia",Meu Nome é Ninguém - 1973
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/97b16675a21a30f5fab0dec12f09d150.jpg" group-title="Filmes | Comédia",Meu Nome é Ninguém - 1973
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15903.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/5c970bfe9ebbb637b05f1de886e18780.jpg" group-title="Filmes | Comédia",Meu Primeiro Amor - 1991
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/5c970bfe9ebbb637b05f1de886e18780.jpg" group-title="Filmes | Comédia",Meu Primeiro Amor - 1991
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15904.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/b3228cf690f6af224a0e17235f452add.jpg" group-title="Filmes | Comédia",Meus 15 Anos - 2017
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/b3228cf690f6af224a0e17235f452add.jpg" group-title="Filmes | Comédia",Meus 15 Anos - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15905.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/155dbb73c7dd64a559efbf9254b51c40.jpg" group-title="Filmes | Comédia",Meus Vizinhos São um Terror - 1989
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/155dbb73c7dd64a559efbf9254b51c40.jpg" group-title="Filmes | Comédia",Meus Vizinhos São um Terror - 1989
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15906.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/5f95d2c3571de581fe4449394d84cb75.jpg" group-title="Filmes | Comédia",Minha Familia Já Te Ama! - 2016
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/5f95d2c3571de581fe4449394d84cb75.jpg" group-title="Filmes | Comédia",Minha Familia Já Te Ama! - 2016
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15907.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jnVWjw69LNHY2hdClbVvaCwfnwM.jpg" group-title="Filmes | Comédia",Minha Irmã Arrasa - 2018
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jnVWjw69LNHY2hdClbVvaCwfnwM.jpg" group-title="Filmes | Comédia",Minha Irmã Arrasa - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15908.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/84a512426f6aeb184063fbc1c99c0d9e.jpg" group-title="Filmes | Comédia",Minha Mãe é Uma Peça 2 - 2016
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/84a512426f6aeb184063fbc1c99c0d9e.jpg" group-title="Filmes | Comédia",Minha Mãe é Uma Peça 2 - 2016
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15909.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/f344810a881bf30a2f4673320d4f329f.jpg" group-title="Filmes | Comédia",Minha Querida Confraria - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/f344810a881bf30a2f4673320d4f329f.jpg" group-title="Filmes | Comédia",Minha Querida Confraria - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15910.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Hqz44MBvh9ZknMa34M8Gx7jb5y.jpg" group-title="Filmes | Comédia",Minhas Adoráveis Ex-Namoradas - 2009
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Hqz44MBvh9ZknMa34M8Gx7jb5y.jpg" group-title="Filmes | Comédia",Minhas Adoráveis Ex-Namoradas - 2009
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15911.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/56fdf642ce9b4f51a8ff9df6e43bf512.jpg" group-title="Filmes | Comédia",Missão Madrinha de Casamento - 2011
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/56fdf642ce9b4f51a8ff9df6e43bf512.jpg" group-title="Filmes | Comédia",Missão Madrinha de Casamento - 2011
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15912.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/5fbb7d27b586dd5f2fe5349c57d2dd12.jpg" group-title="Filmes | Comédia",Missão Quase Impossível - 2010
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/5fbb7d27b586dd5f2fe5349c57d2dd12.jpg" group-title="Filmes | Comédia",Missão Quase Impossível - 2010
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15913.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/675f76becfa33f7eedfbbb3aa553bdce.jpg" group-title="Filmes | Comédia",Mistério no Mediterrâneo - 2019
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/675f76becfa33f7eedfbbb3aa553bdce.jpg" group-title="Filmes | Comédia",Mistério no Mediterrâneo - 2019
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15914.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/cd773a00c137d451a2886aefd0b20ff5.jpg" group-title="Filmes | Comédia",Mo Gilligan: Momentum - 2019
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/cd773a00c137d451a2886aefd0b20ff5.jpg" group-title="Filmes | Comédia",Mo Gilligan: Momentum - 2019
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15915.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/24f5c8b67e368225320550ce84e21546.jpg" group-title="Filmes | Comédia",Morte no Funeral - 2010
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/24f5c8b67e368225320550ce84e21546.jpg" group-title="Filmes | Comédia",Morte no Funeral - 2010
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15916.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kKgzQ9xMEYdNrxdEiiYzaJq6kt7.jpg" group-title="Filmes | Comédia",Mudança de Hábito 1 - 1992
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kKgzQ9xMEYdNrxdEiiYzaJq6kt7.jpg" group-title="Filmes | Comédia",Mudança de Hábito 1 - 1992
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15917.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/baXcxevCpPamAWwT2PekXmdvny3.jpg" group-title="Filmes | Comédia",Mudança de Hábito 2 - 1993
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/baXcxevCpPamAWwT2PekXmdvny3.jpg" group-title="Filmes | Comédia",Mudança de Hábito 2 - 1993
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15918.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/a3845c6e5d3600b20a12767886b90468.jpg" group-title="Filmes | Comédia",Muita Calma Nessa Hora 2 - 2014
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/a3845c6e5d3600b20a12767886b90468.jpg" group-title="Filmes | Comédia",Muita Calma Nessa Hora 2 - 2014
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15919.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/7811c60cbef9de4f9c464a0cdae6e8c2.jpg" group-title="Filmes | Comédia",Muito Bem Acompanhada - 2005
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/7811c60cbef9de4f9c464a0cdae6e8c2.jpg" group-title="Filmes | Comédia",Muito Bem Acompanhada - 2005
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15920.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/0d50fb369e1603258a1ef63fed06134a.jpg" group-title="Filmes | Comédia",Mulheres ao Ataque - 2014
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/0d50fb369e1603258a1ef63fed06134a.jpg" group-title="Filmes | Comédia",Mulheres ao Ataque - 2014
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15921.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/4e472a105dcce513657fece74bc3e1de.jpg" group-title="Filmes | Comédia",Mãe e Muito Mais - 2019
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/4e472a105dcce513657fece74bc3e1de.jpg" group-title="Filmes | Comédia",Mãe e Muito Mais - 2019
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15854.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/b33bbae681ebf5a73ba710e7958c0e11.jpg" group-title="Filmes | Comédia",Nada a Esconder - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/b33bbae681ebf5a73ba710e7958c0e11.jpg" group-title="Filmes | Comédia",Nada a Esconder - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15922.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/4fd0745a8f0aa757bbd72d6ce6471cec.jpg" group-title="Filmes | Comédia",Nadando Com Homens - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/4fd0745a8f0aa757bbd72d6ce6471cec.jpg" group-title="Filmes | Comédia",Nadando Com Homens - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15923.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/ee298388c2e5c2cf71898e59ecbefe09.jpg" group-title="Filmes | Comédia",Namoro ou Liberdade - 2014
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/ee298388c2e5c2cf71898e59ecbefe09.jpg" group-title="Filmes | Comédia",Namoro ou Liberdade - 2014
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15924.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kNYxvulrRn2nJrfBDVNOCxGVJUi.jpg" group-title="Filmes | Comédia",Nancy Drew e a Escada Secreta - 2019
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kNYxvulrRn2nJrfBDVNOCxGVJUi.jpg" group-title="Filmes | Comédia",Nancy Drew e a Escada Secreta - 2019
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15925.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/a12f34e98af6184daac7578450379486.jpg" group-title="Filmes | Comédia",Negócios Fora de Controle - 2015
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/a12f34e98af6184daac7578450379486.jpg" group-title="Filmes | Comédia",Negócios Fora de Controle - 2015
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15928.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lMM8ZKphFD57IuF6k6CeX8lVJkR.jpg" group-title="Filmes | Comédia",Nina: No Palco e Na Vida - 2018
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lMM8ZKphFD57IuF6k6CeX8lVJkR.jpg" group-title="Filmes | Comédia",Nina: No Palco e Na Vida - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15929.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/21U2jwl36hoTHsXB3fDuIQkcchu.jpg" group-title="Filmes | Comédia",Ninguém Segura Esse Bebê - 1994
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/21U2jwl36hoTHsXB3fDuIQkcchu.jpg" group-title="Filmes | Comédia",Ninguém Segura Esse Bebê - 1994
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15931.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/a16840b5e7fec59c40aefb67eaa9c833.jpg" group-title="Filmes | Comédia",No Game, No Life: Zero - 2017
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/a16840b5e7fec59c40aefb67eaa9c833.jpg" group-title="Filmes | Comédia",No Game, No Life: Zero - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15932.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/9c4d6be6e04b91af8ad35ffb49f41fcf.jpg" group-title="Filmes | Comédia",No Manches Frida 2: Paraíso Destruído - 2019
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/9c4d6be6e04b91af8ad35ffb49f41fcf.jpg" group-title="Filmes | Comédia",No Manches Frida 2: Paraíso Destruído - 2019
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15933.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/efac319f22a0c0f7374b259f2180da03.jpg" group-title="Filmes | Comédia",No Pique de Nova York - 2004
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/efac319f22a0c0f7374b259f2180da03.jpg" group-title="Filmes | Comédia",No Pique de Nova York - 2004
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15934.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/6e802eee1061fa131aa1194a49cb09a5.jpg" group-title="Filmes | Comédia",Norbit - 2007
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/6e802eee1061fa131aa1194a49cb09a5.jpg" group-title="Filmes | Comédia",Norbit - 2007
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15935.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/596e5c3975ec86b144c21889e001db46.jpg" group-title="Filmes | Comédia",Nossa Vida com Cães - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/596e5c3975ec86b144c21889e001db46.jpg" group-title="Filmes | Comédia",Nossa Vida com Cães - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15936.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/06017e788c8336f9b600e822d9396e99.jpg" group-title="Filmes | Comédia",Nosso Ex-Marido - 2017
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/06017e788c8336f9b600e822d9396e99.jpg" group-title="Filmes | Comédia",Nosso Ex-Marido - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15937.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/c682b61a9fbac87b0cad89bb751fb42b.jpg" group-title="Filmes | Comédia",Nosso Último Verão - 2019
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/c682b61a9fbac87b0cad89bb751fb42b.jpg" group-title="Filmes | Comédia",Nosso Último Verão - 2019
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15939.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/136eac097c31f0240b234fbc1df24466.jpg" group-title="Filmes | Comédia",Nunca Visto - 2019
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/136eac097c31f0240b234fbc1df24466.jpg" group-title="Filmes | Comédia",Nunca Visto - 2019
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15940.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/485f40d272d75540b6277595873e7c68.jpg" group-title="Filmes | Comédia",Não Aceitamos Devoluções - 2013
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/485f40d272d75540b6277595873e7c68.jpg" group-title="Filmes | Comédia",Não Aceitamos Devoluções - 2013
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15926.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/4fd4abd3ef26cbfed09a6c3e658388bb.jpg" group-title="Filmes | Comédia",Não Vai Dar - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/4fd4abd3ef26cbfed09a6c3e658388bb.jpg" group-title="Filmes | Comédia",Não Vai Dar - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15927.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/647139259bc4abda0fe0414e58b7342d.jpg" group-title="Filmes | Comédia",Nós Somos os Campeões - 1992
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/647139259bc4abda0fe0414e58b7342d.jpg" group-title="Filmes | Comédia",Nós Somos os Campeões - 1992
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15938.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/f48b66aac86742f3e7e70c26bc7c3c5d.jpg" group-title="Filmes | Comédia",O Amor Dá Trabalho - 2019
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/f48b66aac86742f3e7e70c26bc7c3c5d.jpg" group-title="Filmes | Comédia",O Amor Dá Trabalho - 2019
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15941.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/94ea05d1b574248187e605bdfdac3746.jpg" group-title="Filmes | Comédia",O Amor Não Tira Férias - 2006
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/94ea05d1b574248187e605bdfdac3746.jpg" group-title="Filmes | Comédia",O Amor Não Tira Férias - 2006
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15943.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/1ca39fb6486297ee9137f12bb34de8c4.jpg" group-title="Filmes | Comédia",O Amor É Cego - 2001
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/1ca39fb6486297ee9137f12bb34de8c4.jpg" group-title="Filmes | Comédia",O Amor É Cego - 2001
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15942.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/be4a7312b5e47adaf35055a1bde5fae6.jpg" group-title="Filmes | Comédia",O Auto da Compadecida - 2000
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/be4a7312b5e47adaf35055a1bde5fae6.jpg" group-title="Filmes | Comédia",O Auto da Compadecida - 2000
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15944.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/17423576409d328279a2613ef1c2afe5.jpg" group-title="Filmes | Comédia",O Candidato Honesto 2 - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/17423576409d328279a2613ef1c2afe5.jpg" group-title="Filmes | Comédia",O Candidato Honesto 2 - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15945.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/9e028240ffec671ec25c69bda8a3decd.jpg" group-title="Filmes | Comédia",O Chefe - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/9e028240ffec671ec25c69bda8a3decd.jpg" group-title="Filmes | Comédia",O Chefe - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15946.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/792f0777b108b7d24af4b1962b21e610.jpg" group-title="Filmes | Comédia",O Clube dos Canibais - 2019
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/792f0777b108b7d24af4b1962b21e610.jpg" group-title="Filmes | Comédia",O Clube dos Canibais - 2019
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15947.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/db36b2c043165f95dc64f558615b4572.jpg" group-title="Filmes | Comédia",O Começo de Um Novo Amor - 2017
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/db36b2c043165f95dc64f558615b4572.jpg" group-title="Filmes | Comédia",O Começo de Um Novo Amor - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/17092.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/3e66e19837ac43ed9b25051d6f5c5f33.jpg" group-title="Filmes | Comédia",O Date Perfeito - 2019
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/3e66e19837ac43ed9b25051d6f5c5f33.jpg" group-title="Filmes | Comédia",O Date Perfeito - 2019
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15948.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/ee59a2bc3d11788d12c378d95bd93998.jpg" group-title="Filmes | Comédia",O Despertar de Motti - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/ee59a2bc3d11788d12c378d95bd93998.jpg" group-title="Filmes | Comédia",O Despertar de Motti - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15949.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/5922ed4bc7e5e17c6707e1ec78eed8ac.jpg" group-title="Filmes | Comédia",O Diabo Veste Prada - 2006
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/5922ed4bc7e5e17c6707e1ec78eed8ac.jpg" group-title="Filmes | Comédia",O Diabo Veste Prada - 2006
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15950.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/331a1b31257287fb3db468723f310fcd.jpg" group-title="Filmes | Comédia",O Ditador - 2012
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/331a1b31257287fb3db468723f310fcd.jpg" group-title="Filmes | Comédia",O Ditador - 2012
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15953.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lT45oWEZVntdoibp4oEXE4ngTTa.jpg" group-title="Filmes | Comédia",O Diário da Princesa 1 - 2001
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lT45oWEZVntdoibp4oEXE4ngTTa.jpg" group-title="Filmes | Comédia",O Diário da Princesa 1 - 2001
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15951.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5MoDnvPW64Sfw3QZ6ADnCYopnTv.jpg" group-title="Filmes | Comédia",O Diário da Princesa 2 - 2004
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5MoDnvPW64Sfw3QZ6ADnCYopnTv.jpg" group-title="Filmes | Comédia",O Diário da Princesa 2 - 2004
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15952.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/f845590ed1ea2ba7060c524aa92aead9.jpg" group-title="Filmes | Comédia",O Dono da Festa - 2002
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/f845590ed1ea2ba7060c524aa92aead9.jpg" group-title="Filmes | Comédia",O Dono da Festa - 2002
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15954.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/ab708a95a1c4fccc43e28a34008a6c05.jpg" group-title="Filmes | Comédia",O Doutor da Felicidade - 2017
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/ab708a95a1c4fccc43e28a34008a6c05.jpg" group-title="Filmes | Comédia",O Doutor da Felicidade - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15955.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/8dc2571bbe1bbcc0c338d3825424cafd.jpg" group-title="Filmes | Comédia",O Durão - 2015
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/8dc2571bbe1bbcc0c338d3825424cafd.jpg" group-title="Filmes | Comédia",O Durão - 2015
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15956.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/5c310996e19d0df35e3b5faea93c12bf.jpg" group-title="Filmes | Comédia",O Estado das Coisas - 2017
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/5c310996e19d0df35e3b5faea93c12bf.jpg" group-title="Filmes | Comédia",O Estado das Coisas - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15957.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/0d0c074dc525bb70cadee38b06736101.jpg" group-title="Filmes | Comédia",O Fabuloso Destino de Amélie Poulain - 2001
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/0d0c074dc525bb70cadee38b06736101.jpg" group-title="Filmes | Comédia",O Fabuloso Destino de Amélie Poulain - 2001
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15958.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/78d9dfd89d7efdd977a2a0ab0de58798.jpg" group-title="Filmes | Comédia",O Fada do Dente - 2010
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/78d9dfd89d7efdd977a2a0ab0de58798.jpg" group-title="Filmes | Comédia",O Fada do Dente - 2010
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15959.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/fce241a6807272edea9a97eced556d81.jpg" group-title="Filmes | Comédia",O Genro Da Minha Vida - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/fce241a6807272edea9a97eced556d81.jpg" group-title="Filmes | Comédia",O Genro Da Minha Vida - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15960.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/31db6a7793c48af3cee35ce99ebc0770.jpg" group-title="Filmes | Comédia",O Grande Lebowski - 1998
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/31db6a7793c48af3cee35ce99ebc0770.jpg" group-title="Filmes | Comédia",O Grande Lebowski - 1998
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15961.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/2205c257669fe033b483bf039eb63588.jpg" group-title="Filmes | Comédia",O Grinch - 2000
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/2205c257669fe033b483bf039eb63588.jpg" group-title="Filmes | Comédia",O Grinch - 2000
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15962.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/2089c49be09fbb47f3e03efadb756db9.jpg" group-title="Filmes | Comédia",O Homem Bicentenário - 1999
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/2089c49be09fbb47f3e03efadb756db9.jpg" group-title="Filmes | Comédia",O Homem Bicentenário - 1999
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15964.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/8bf4c14e3cd6f09e202716965ecd67a2.jpg" group-title="Filmes | Comédia",O Homem das Cavernas - 1981
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/8bf4c14e3cd6f09e202716965ecd67a2.jpg" group-title="Filmes | Comédia",O Homem das Cavernas - 1981
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15965.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/8233b947fe9d9574833ef4960d343518.jpg" group-title="Filmes | Comédia",O Homem Que Desafiou o Diabo - 2007
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/8233b947fe9d9574833ef4960d343518.jpg" group-title="Filmes | Comédia",O Homem Que Desafiou o Diabo - 2007
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15966.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/02d7ea8a6880d777006058c75fe71b05.jpg" group-title="Filmes | Comédia",O Homem que Matou Don Quixote - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/02d7ea8a6880d777006058c75fe71b05.jpg" group-title="Filmes | Comédia",O Homem que Matou Don Quixote - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15967.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/fc4743b28dbde471aa96630b6787a980.jpg" group-title="Filmes | Comédia",O Juramento - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/fc4743b28dbde471aa96630b6787a980.jpg" group-title="Filmes | Comédia",O Juramento - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15969.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/bdf76e78caa5660a50ec62cafcbeb051.jpg" group-title="Filmes | Comédia",O Melhor Amigo da Noiva - 2008
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/bdf76e78caa5660a50ec62cafcbeb051.jpg" group-title="Filmes | Comédia",O Melhor Amigo da Noiva - 2008
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15971.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/f71f2417ae73a20c11a9707608a60128.jpg" group-title="Filmes | Comédia",O Melhor Presente é o Amor - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/f71f2417ae73a20c11a9707608a60128.jpg" group-title="Filmes | Comédia",O Melhor Presente é o Amor - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15973.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/d554d599f06a3e9e1f873bd41c95702d.jpg" group-title="Filmes | Comédia",O Menino de Ouro - 2011
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/d554d599f06a3e9e1f873bd41c95702d.jpg" group-title="Filmes | Comédia",O Menino de Ouro - 2011
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15974.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rer2wT5cUNLTO6fkxP9Uudk26zO.jpg" group-title="Filmes | Comédia",O Mentiroso - 1997
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rer2wT5cUNLTO6fkxP9Uudk26zO.jpg" group-title="Filmes | Comédia",O Mentiroso - 1997
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15975.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/ad8e83a20f425d7f46a85bd064d6fefe.jpg" group-title="Filmes | Comédia",O Noivo da Minha Melhor Amiga - 2011
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/ad8e83a20f425d7f46a85bd064d6fefe.jpg" group-title="Filmes | Comédia",O Noivo da Minha Melhor Amiga - 2011
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15977.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/cdbb3863a3a6b3c6f78e4c401b914749.jpg" group-title="Filmes | Comédia",O Pacote - 2013
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/cdbb3863a3a6b3c6f78e4c401b914749.jpg" group-title="Filmes | Comédia",O Pacote - 2013
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15978.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/f95485978f21971d40eb873d9f5bf61f.jpg" group-title="Filmes | Comédia",O Pequenino - 2006
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/f95485978f21971d40eb873d9f5bf61f.jpg" group-title="Filmes | Comédia",O Pequenino - 2006
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15979.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/6eedc2b2aaef76e2b609083d0b83d119.jpg" group-title="Filmes | Comédia",O Pequeno Spirou - 2017
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/6eedc2b2aaef76e2b609083d0b83d119.jpg" group-title="Filmes | Comédia",O Pequeno Spirou - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15980.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/1d927ee6985b2b6ecbe8b8edd0eb900d.jpg" group-title="Filmes | Comédia",O Pestinha - 1990
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/1d927ee6985b2b6ecbe8b8edd0eb900d.jpg" group-title="Filmes | Comédia",O Pestinha - 1990
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15983.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/e45583a77c1bd4b3a73434931276c32f.jpg" group-title="Filmes | Comédia",O Primeiro Passo - 2016
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/e45583a77c1bd4b3a73434931276c32f.jpg" group-title="Filmes | Comédia",O Primeiro Passo - 2016
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15984.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/61618926c667c09f141b45b8d068cd47.jpg" group-title="Filmes | Comédia",O Shaolin do Sertão - 2016
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/61618926c667c09f141b45b8d068cd47.jpg" group-title="Filmes | Comédia",O Shaolin do Sertão - 2016
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15996.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/he9ef4H9RZmxB8pdUXIX9ib8aRh.jpg" group-title="Filmes | Comédia",O Show de Truman - O Show da Vida - 1998
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/he9ef4H9RZmxB8pdUXIX9ib8aRh.jpg" group-title="Filmes | Comédia",O Show de Truman - O Show da Vida - 1998
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15998.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/739e4976e2053eae18434ecb0b3fd39e.jpg" group-title="Filmes | Comédia",O Terminal - 2004
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/739e4976e2053eae18434ecb0b3fd39e.jpg" group-title="Filmes | Comédia",O Terminal - 2004
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16001.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/ded49b9792aca7b930747a95adabcdd8.jpg" group-title="Filmes | Comédia",O Terno de 2 Bilhões de Dólares - 2002
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/ded49b9792aca7b930747a95adabcdd8.jpg" group-title="Filmes | Comédia",O Terno de 2 Bilhões de Dólares - 2002
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16002.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/eaa26b4b23c4959473b86e87a77cac44.jpg" group-title="Filmes | Comédia",O Verão da Minha Vida - 2013
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/eaa26b4b23c4959473b86e87a77cac44.jpg" group-title="Filmes | Comédia",O Verão da Minha Vida - 2013
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16006.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/3f58d3590943afeb631538e900d8796b.jpg" group-title="Filmes | Comédia",O Último Desejo - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/3f58d3590943afeb631538e900d8796b.jpg" group-title="Filmes | Comédia",O Último Desejo - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16003.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/ab75f03751f872f9eaa019d6635afde0.jpg" group-title="Filmes | Comédia",O Último Hotel - 2016
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/ab75f03751f872f9eaa019d6635afde0.jpg" group-title="Filmes | Comédia",O Último Hotel - 2016
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16004.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/b4e40c8b7fbb36d63cf3a1ef03143629.jpg" group-title="Filmes | Comédia",Oh, Ramona! - 2019
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/b4e40c8b7fbb36d63cf3a1ef03143629.jpg" group-title="Filmes | Comédia",Oh, Ramona! - 2019
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15963.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/cf45d404eb6f4a414eebe88e7b2a4e52.jpg" group-title="Filmes | Comédia",Oitava Série - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/cf45d404eb6f4a414eebe88e7b2a4e52.jpg" group-title="Filmes | Comédia",Oitava Série - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15968.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/c36b4cdf28c3349ee29ad04ce6a054e7.jpg" group-title="Filmes | Comédia",Onde Está a Vovó? - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/c36b4cdf28c3349ee29ad04ce6a054e7.jpg" group-title="Filmes | Comédia",Onde Está a Vovó? - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15976.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z6QlNhdMTf15RGHMTd5N1vPOsu0.jpg" group-title="Filmes | Comédia",Operação Babá - 2005
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z6QlNhdMTf15RGHMTd5N1vPOsu0.jpg" group-title="Filmes | Comédia",Operação Babá - 2005
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16516.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mgI7suxDm8kmqVbUM0bjvhFHlQq.jpg" group-title="Filmes | Comédia",Operação Cupido - 1998
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mgI7suxDm8kmqVbUM0bjvhFHlQq.jpg" group-title="Filmes | Comédia",Operação Cupido - 1998
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15981.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/703096688621578ffa1c3694b9d3bff3.jpg" group-title="Filmes | Comédia",Operação Supletivo: Agora Vai! - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/703096688621578ffa1c3694b9d3bff3.jpg" group-title="Filmes | Comédia",Operação Supletivo: Agora Vai! - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15982.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/85bb75f38bad6e15d5a27be2cebf1bba.jpg" group-title="Filmes | Comédia",Orgulho e Preconceito e Zumbis - 2016
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/85bb75f38bad6e15d5a27be2cebf1bba.jpg" group-title="Filmes | Comédia",Orgulho e Preconceito e Zumbis - 2016
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15986.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/21e263ee863641567f07559a742baa3f.jpg" group-title="Filmes | Comédia",Os Caubóis Do Apocalipse - 2016
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/21e263ee863641567f07559a742baa3f.jpg" group-title="Filmes | Comédia",Os Caubóis Do Apocalipse - 2016
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15988.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sHfssq4Vi1fZNQfzcwrnKDTIYbl.jpg" group-title="Filmes | Comédia",Os Delírios de Consumo de Becky Bloom - 2009
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sHfssq4Vi1fZNQfzcwrnKDTIYbl.jpg" group-title="Filmes | Comédia",Os Delírios de Consumo de Becky Bloom - 2009
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15989.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zDcEF2jTOj5Enooa1flPyAVpCSb.jpg" group-title="Filmes | Comédia",Os Deuses Devem Estar Loucos 1 - 1980
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zDcEF2jTOj5Enooa1flPyAVpCSb.jpg" group-title="Filmes | Comédia",Os Deuses Devem Estar Loucos 1 - 1980
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15990.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ldb5M9LOawvaqvY7NSfsB66QLki.jpg" group-title="Filmes | Comédia",Os Deuses Devem Estar Loucos 2 - 1989
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ldb5M9LOawvaqvY7NSfsB66QLki.jpg" group-title="Filmes | Comédia",Os Deuses Devem Estar Loucos 2 - 1989
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15991.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eV50NCjkJpoX5rkrDZTpF5ByRxI.jpg" group-title="Filmes | Comédia",Os Deuses Devem Estar Loucos 3 - 1991
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eV50NCjkJpoX5rkrDZTpF5ByRxI.jpg" group-title="Filmes | Comédia",Os Deuses Devem Estar Loucos 3 - 1991
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15992.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/aac015c4b0ae10c6488d5fecc3814a89.jpg" group-title="Filmes | Comédia",Os Estagiários - 2004
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/aac015c4b0ae10c6488d5fecc3814a89.jpg" group-title="Filmes | Comédia",Os Estagiários - 2004
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15993.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/1a2a5f9196bba4dd43be22f314df2b1d.jpg" group-title="Filmes | Comédia",Os Garotos da Minha Vida - 2001
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/1a2a5f9196bba4dd43be22f314df2b1d.jpg" group-title="Filmes | Comédia",Os Garotos da Minha Vida - 2001
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15994.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/b18b0b75c9b59cbc48f42bf5350b507e.jpg" group-title="Filmes | Comédia",Os Goonies - 1985
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/b18b0b75c9b59cbc48f42bf5350b507e.jpg" group-title="Filmes | Comédia",Os Goonies - 1985
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15995.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/189ef3a0624f9cf063c4b5abc5aee873.jpg" group-title="Filmes | Comédia",Os Homens São de Marte... E É Pra Lá Que Eu Vou - 2014
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/189ef3a0624f9cf063c4b5abc5aee873.jpg" group-title="Filmes | Comédia",Os Homens São de Marte... E É Pra Lá Que Eu Vou - 2014
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15997.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/7422b0cf38036bcdf75461a9ec262b6b.jpg" group-title="Filmes | Comédia",Os Parças - 2017
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/7422b0cf38036bcdf75461a9ec262b6b.jpg" group-title="Filmes | Comédia",Os Parças - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15999.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gwqYTJyvavrasUXX7RwP4W1RSTI.jpg" group-title="Filmes | Comédia",Os Pinguins do Papai - 2011
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gwqYTJyvavrasUXX7RwP4W1RSTI.jpg" group-title="Filmes | Comédia",Os Pinguins do Papai - 2011
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16000.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/83fd3a74d4c2eaa111013a61bd7d7af9.jpg" group-title="Filmes | Comédia",Oscar - Minha Filha quer Casar - 1991
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/83fd3a74d4c2eaa111013a61bd7d7af9.jpg" group-title="Filmes | Comédia",Oscar - Minha Filha quer Casar - 1991
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15987.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/b410d6d72d6d20fab4ca8df65627649b.jpg" group-title="Filmes | Comédia",Outro Conto da Nova Cinderela - 2008
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/b410d6d72d6d20fab4ca8df65627649b.jpg" group-title="Filmes | Comédia",Outro Conto da Nova Cinderela - 2008
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16005.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/34167b1864ebc8945712b35bf18515b2.jpg" group-title="Filmes | Comédia",Paddington 2 - 2017
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/34167b1864ebc8945712b35bf18515b2.jpg" group-title="Filmes | Comédia",Paddington 2 - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16007.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/773aac421d5275bcd19f773510ef6e49.jpg" group-title="Filmes | Comédia",Pai em Dose Dupla 2 - 2017
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/773aac421d5275bcd19f773510ef6e49.jpg" group-title="Filmes | Comédia",Pai em Dose Dupla 2 - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16008.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/340a5d3b5397ce94993501637cc17848.jpg" group-title="Filmes | Comédia",Papai Noel às Avessas 2 - 2016
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/340a5d3b5397ce94993501637cc17848.jpg" group-title="Filmes | Comédia",Papai Noel às Avessas 2 - 2016
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16009.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v83MAkGH8jF8uNhJhKgADqw3Xup.jpg" group-title="Filmes | Comédia",Para o que Der e Vier
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v83MAkGH8jF8uNhJhKgADqw3Xup.jpg" group-title="Filmes | Comédia",Para o que Der e Vier
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16010.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/6762149dcb027d755435cff26a8cccaf.jpg" group-title="Filmes | Comédia",Para Todos os Garotos que Já Amei - 2020
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/6762149dcb027d755435cff26a8cccaf.jpg" group-title="Filmes | Comédia",Para Todos os Garotos que Já Amei - 2020
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16011.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/8275bc2c5814d78bbe9a4b105a68e9fd.jpg" group-title="Filmes | Comédia",Paris, Te Amo - 2006
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/8275bc2c5814d78bbe9a4b105a68e9fd.jpg" group-title="Filmes | Comédia",Paris, Te Amo - 2006
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16012.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/ead11c26ba956b09fefee17e825703c6.jpg" group-title="Filmes | Comédia",Patch Adams - O Amor É Contagioso - 1998
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/ead11c26ba956b09fefee17e825703c6.jpg" group-title="Filmes | Comédia",Patch Adams - O Amor É Contagioso - 1998
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16013.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/b5d523cb950fb60b088c3db37be3479f.jpg" group-title="Filmes | Comédia",Patrick: Aprendendo a Amar - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/b5d523cb950fb60b088c3db37be3479f.jpg" group-title="Filmes | Comédia",Patrick: Aprendendo a Amar - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16014.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/bb7789ef82021ad0290024435e15c5f7.jpg" group-title="Filmes | Comédia",Peggy Sue, Seu Passado a Espera - 1986
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/bb7789ef82021ad0290024435e15c5f7.jpg" group-title="Filmes | Comédia",Peggy Sue, Seu Passado a Espera - 1986
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16015.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/c28aebba7a17ae667d8f9391dc821518.jpg" group-title="Filmes | Comédia",Penetras Bons de Bico - 2005
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/c28aebba7a17ae667d8f9391dc821518.jpg" group-title="Filmes | Comédia",Penetras Bons de Bico - 2005
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16016.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/ec204f27a0b194abdf5a166e2eba2ee3.jpg" group-title="Filmes | Comédia",Pequena Grande Vida - 2017
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/ec204f27a0b194abdf5a166e2eba2ee3.jpg" group-title="Filmes | Comédia",Pequena Grande Vida - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16017.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/f6457034c99fc926490fc76d897c0779.jpg" group-title="Filmes | Comédia",Pequenos Guerreiros - 1998
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/f6457034c99fc926490fc76d897c0779.jpg" group-title="Filmes | Comédia",Pequenos Guerreiros - 1998
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16019.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/2dc84cbfaae5cdb8321c59ba8a86daff.jpg" group-title="Filmes | Comédia",Pequenos Milagres - 2010
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/2dc84cbfaae5cdb8321c59ba8a86daff.jpg" group-title="Filmes | Comédia",Pequenos Milagres - 2010
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16018.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mbLhrGT6eci3mL6uPcnRqcVGWGN.jpg" group-title="Filmes | Comédia",Perfeita é a Mãe! 1 - 2016
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mbLhrGT6eci3mL6uPcnRqcVGWGN.jpg" group-title="Filmes | Comédia",Perfeita é a Mãe! 1 - 2016
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16020.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/8e64fe32b13d14260b7780857f0d842f.jpg" group-title="Filmes | Comédia",Perfeita é a Mãe 2 - 2017
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/8e64fe32b13d14260b7780857f0d842f.jpg" group-title="Filmes | Comédia",Perfeita é a Mãe 2 - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16021.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/8efe987d247686912e8d3af64c34e174.jpg" group-title="Filmes | Comédia",Permissão - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/8efe987d247686912e8d3af64c34e174.jpg" group-title="Filmes | Comédia",Permissão - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16022.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/1db277f0a6c73ac33fb4ce3d5bac5e39.jpg" group-title="Filmes | Comédia",Plano Quase Perfeito - 2017
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/1db277f0a6c73ac33fb4ce3d5bac5e39.jpg" group-title="Filmes | Comédia",Plano Quase Perfeito - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16024.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/c93f3553c020bdd334ce3a39e698ecf4.jpg" group-title="Filmes | Comédia",Podres de Ricos - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/c93f3553c020bdd334ce3a39e698ecf4.jpg" group-title="Filmes | Comédia",Podres de Ricos - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16025.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/1c7c4b9c7eeebebfb769854d4baba4d4.jpg" group-title="Filmes | Comédia",Policial em Apuros - 2014
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/1c7c4b9c7eeebebfb769854d4baba4d4.jpg" group-title="Filmes | Comédia",Policial em Apuros - 2014
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16026.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/7c1e1d4b667e3b652e263bc915f1a313.jpg" group-title="Filmes | Comédia",Policial em Apuros 2 - 2016
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/7c1e1d4b667e3b652e263bc915f1a313.jpg" group-title="Filmes | Comédia",Policial em Apuros 2 - 2016
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16027.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/677a7f1fb4afe8402dca2aed69c64a35.jpg" group-title="Filmes | Comédia",Ponto Cego - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/677a7f1fb4afe8402dca2aed69c64a35.jpg" group-title="Filmes | Comédia",Ponto Cego - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16028.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/0616b75f7ce30c13e475fce7c2f9dc78.jpg" group-title="Filmes | Comédia",Por que eu, Senhor? - 2011
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/0616b75f7ce30c13e475fce7c2f9dc78.jpg" group-title="Filmes | Comédia",Por que eu, Senhor? - 2011
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16029.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xoOCw0fhOrZINnot9jHEonHYQch.jpg" group-title="Filmes | Comédia",Praça Pública - 2018
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xoOCw0fhOrZINnot9jHEonHYQch.jpg" group-title="Filmes | Comédia",Praça Pública - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16030.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/4afbc0b159cfadeaf4d33dedbb507bc3.jpg" group-title="Filmes | Comédia",Primeiro Ano - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/4afbc0b159cfadeaf4d33dedbb507bc3.jpg" group-title="Filmes | Comédia",Primeiro Ano - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16031.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/31b5f0d23036960943d957fbdc927d64.jpg" group-title="Filmes | Comédia",Professor Aloprado - 1996
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/31b5f0d23036960943d957fbdc927d64.jpg" group-title="Filmes | Comédia",Professor Aloprado - 1996
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15985.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/36ac2c88d62c459a632633530d982ac3.jpg" group-title="Filmes | Comédia",Professor Peso Pesado - 2012
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/36ac2c88d62c459a632633530d982ac3.jpg" group-title="Filmes | Comédia",Professor Peso Pesado - 2012
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16033.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/adc50f874010c1618e3cfbc31633378c.jpg" group-title="Filmes | Comédia",Professora Sem Classe - 2011
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/adc50f874010c1618e3cfbc31633378c.jpg" group-title="Filmes | Comédia",Professora Sem Classe - 2011
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16032.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/f124090b357fcd3902462370484751c8.jpg" group-title="Filmes | Comédia",Projeto X: Uma Festa Fora de Controle - 2012
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/f124090b357fcd3902462370484751c8.jpg" group-title="Filmes | Comédia",Projeto X: Uma Festa Fora de Controle - 2012
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16034.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/7ec4b0d6d8c06bbabfe402c821f783c7.jpg" group-title="Filmes | Comédia",Pulando a Vassoura - 2011
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/7ec4b0d6d8c06bbabfe402c821f783c7.jpg" group-title="Filmes | Comédia",Pulando a Vassoura - 2011
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16035.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/5883c26e88eaa1158efebe9c2899c85c.jpg" group-title="Filmes | Comédia",Puro-Sangue - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/5883c26e88eaa1158efebe9c2899c85c.jpg" group-title="Filmes | Comédia",Puro-Sangue - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16036.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/921ff4ace3405738a2267d8d09ccc310.jpg" group-title="Filmes | Comédia",Pérola no Paraíso - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/921ff4ace3405738a2267d8d09ccc310.jpg" group-title="Filmes | Comédia",Pérola no Paraíso - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16023.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/9e7f96c36a83491e31f5cd88e6b7025c.jpg" group-title="Filmes | Comédia",Quando Anjos Cantam - 2013
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/9e7f96c36a83491e31f5cd88e6b7025c.jpg" group-title="Filmes | Comédia",Quando Anjos Cantam - 2013
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16037.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/a9b7d557a0608d0196f3c7c73aa5a86c.jpg" group-title="Filmes | Comédia",Quando em Roma - 2010
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/a9b7d557a0608d0196f3c7c73aa5a86c.jpg" group-title="Filmes | Comédia",Quando em Roma - 2010
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16038.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/da0c75e87164758e085d2339fba5e07b.jpg" group-title="Filmes | Comédia",Quando Nos Conhecemos - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/da0c75e87164758e085d2339fba5e07b.jpg" group-title="Filmes | Comédia",Quando Nos Conhecemos - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16039.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/c326e0039917fed546401a7d9795c078.jpg" group-title="Filmes | Comédia",Quarteto Amigo - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/c326e0039917fed546401a7d9795c078.jpg" group-title="Filmes | Comédia",Quarteto Amigo - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16040.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/aa7ca99ad1a8828745c2880e466c0c5c.jpg" group-title="Filmes | Comédia",Quase 18 - 2016
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/aa7ca99ad1a8828745c2880e466c0c5c.jpg" group-title="Filmes | Comédia",Quase 18 - 2016
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16041.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/d8116fa59a46c33a0536d3474b5e0adc.jpg" group-title="Filmes | Comédia",Quatro Vidas de um Cachorro - 2017
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/d8116fa59a46c33a0536d3474b5e0adc.jpg" group-title="Filmes | Comédia",Quatro Vidas de um Cachorro - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16042.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/0c90670f7e96f0cd1afdd65679c5fcc7.jpg" group-title="Filmes | Comédia",Queimando Tudo - 1978
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/0c90670f7e96f0cd1afdd65679c5fcc7.jpg" group-title="Filmes | Comédia",Queimando Tudo - 1978
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16043.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/09edd4d33de5ef5ef1fe5f14de38344a.jpg" group-title="Filmes | Comédia",Quem Encontra um Amigo Encontra um Tesouro - 1981
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/09edd4d33de5ef5ef1fe5f14de38344a.jpg" group-title="Filmes | Comédia",Quem Encontra um Amigo Encontra um Tesouro - 1981
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16044.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/a5a504c2c014cc3825952f8bd541e3db.jpg" group-title="Filmes | Comédia",Quem Você Levaria para uma Ilha Deserta? - 2019
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/a5a504c2c014cc3825952f8bd541e3db.jpg" group-title="Filmes | Comédia",Quem Você Levaria para uma Ilha Deserta? - 2019
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16045.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/0f03c7cf4748ea8fc5cd83a512a0cd12.jpg" group-title="Filmes | Comédia",Questão de Tempo - 2013
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/0f03c7cf4748ea8fc5cd83a512a0cd12.jpg" group-title="Filmes | Comédia",Questão de Tempo - 2013
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16046.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/2b3231e45e89909e0817e2da3d587b04.jpg" group-title="Filmes | Comédia",Recém-Casados - 2003
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/2b3231e45e89909e0817e2da3d587b04.jpg" group-title="Filmes | Comédia",Recém-Casados - 2003
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16047.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/4127c6e845b385c59d0c921342320605.jpg" group-title="Filmes | Comédia",Reunião de Família - Natal Especial - 2019
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/4127c6e845b385c59d0c921342320605.jpg" group-title="Filmes | Comédia",Reunião de Família - Natal Especial - 2019
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16048.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/040b0c362fc240918efa92ca2cbd43f2.jpg" group-title="Filmes | Comédia",S.O.S. Amigos Para Sempre! - 2006
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/040b0c362fc240918efa92ca2cbd43f2.jpg" group-title="Filmes | Comédia",S.O.S. Amigos Para Sempre! - 2006
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15645.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/4bfb17e046d1099172393faaffc11b04.jpg" group-title="Filmes | Comédia",S.O.S.: Mulheres ao Mar 2 - 2015
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/4bfb17e046d1099172393faaffc11b04.jpg" group-title="Filmes | Comédia",S.O.S.: Mulheres ao Mar 2 - 2015
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16076.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n4hicUkNOVG8PsuRMhkTs9I4r1J.jpg" group-title="Filmes | Comédia",Se Beber, Não Case! 1 - 2009
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n4hicUkNOVG8PsuRMhkTs9I4r1J.jpg" group-title="Filmes | Comédia",Se Beber, Não Case! 1 - 2009
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16049.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vdAixXTNFbjUa2nBuHiSUXCaSko.jpg" group-title="Filmes | Comédia",Se Beber, Não Case! 2 - 2011
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vdAixXTNFbjUa2nBuHiSUXCaSko.jpg" group-title="Filmes | Comédia",Se Beber, Não Case! 2 - 2011
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16050.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lGnOZqws0R2qcDUDp2lOEMxwEYw.jpg" group-title="Filmes | Comédia",Se Beber, Não Case! 3 - 2013
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lGnOZqws0R2qcDUDp2lOEMxwEYw.jpg" group-title="Filmes | Comédia",Se Beber, Não Case! 3 - 2013
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16051.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/bf00c4b43ccad9480e16ab7d7ef8e6e9.jpg" group-title="Filmes | Comédia",Sedutora e Diabólica - 2006
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/bf00c4b43ccad9480e16ab7d7ef8e6e9.jpg" group-title="Filmes | Comédia",Sedutora e Diabólica - 2006
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16052.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/c12acdd4cc10a5a976883d272eceb536.jpg" group-title="Filmes | Comédia",Segurando as Pontas - 2008
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/c12acdd4cc10a5a976883d272eceb536.jpg" group-title="Filmes | Comédia",Segurando as Pontas - 2008
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16054.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/ac3981967e175e07cd93e8d0922c0bcc.jpg" group-title="Filmes | Comédia",Segurança de Shopping 2 - 2015
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/ac3981967e175e07cd93e8d0922c0bcc.jpg" group-title="Filmes | Comédia",Segurança de Shopping 2 - 2015
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16053.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/c27f68a389215dfdaad0141e7d312675.jpg" group-title="Filmes | Comédia",Seis Vezes Confusão - 2019
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/c27f68a389215dfdaad0141e7d312675.jpg" group-title="Filmes | Comédia",Seis Vezes Confusão - 2019
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16055.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/cb18bdaa64fe6a71ae5ffb8322834cc9.jpg" group-title="Filmes | Comédia",Sem Dor, Sem Ganho - 2013
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/cb18bdaa64fe6a71ae5ffb8322834cc9.jpg" group-title="Filmes | Comédia",Sem Dor, Sem Ganho - 2013
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16056.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/19b83938c404ef85ee5b40223f83e8ea.jpg" group-title="Filmes | Comédia",Sem Dormir Até o Natal - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/19b83938c404ef85ee5b40223f83e8ea.jpg" group-title="Filmes | Comédia",Sem Dormir Até o Natal - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16057.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/d785acbf67e63416739c241b17cb30f8.jpg" group-title="Filmes | Comédia",Sem Palavras - 2009
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/d785acbf67e63416739c241b17cb30f8.jpg" group-title="Filmes | Comédia",Sem Palavras - 2009
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16058.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/c8ebce75ba8353e9fa09ce4d1be32a5a.jpg" group-title="Filmes | Comédia",Será que? - 2013
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/c8ebce75ba8353e9fa09ce4d1be32a5a.jpg" group-title="Filmes | Comédia",Será que? - 2013
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16059.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fnMCIkxgsv8eJfRzSsdDrzE8q4P.jpg" group-title="Filmes | Comédia",Sex and the City 1 - 2008
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fnMCIkxgsv8eJfRzSsdDrzE8q4P.jpg" group-title="Filmes | Comédia",Sex and the City 1 - 2008
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16060.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uJURC2LM1RZCWcptBQJexS8oDmu.jpg" group-title="Filmes | Comédia",Sex and the City 2 - 2010
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uJURC2LM1RZCWcptBQJexS8oDmu.jpg" group-title="Filmes | Comédia",Sex and the City 2 - 2010
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16061.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/6aaf51b3ed08846e41af663264e55374.jpg" group-title="Filmes | Comédia",Sex Tape: Perdido na Nuvem - 2014
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/6aaf51b3ed08846e41af663264e55374.jpg" group-title="Filmes | Comédia",Sex Tape: Perdido na Nuvem - 2014
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16066.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/13ce203329010bacb586fadd25bd2fdc.jpg" group-title="Filmes | Comédia",Sexo Sem Compromisso - 2011
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/13ce203329010bacb586fadd25bd2fdc.jpg" group-title="Filmes | Comédia",Sexo Sem Compromisso - 2011
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16063.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/f94f614a9b22896d4f90b84b93294ddc.jpg" group-title="Filmes | Comédia",Sexo, Música e Amor - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/f94f614a9b22896d4f90b84b93294ddc.jpg" group-title="Filmes | Comédia",Sexo, Música e Amor - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16062.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/2aecd7df1d97e8ab8e8981d602b56f57.jpg" group-title="Filmes | Comédia",Sexta-feira em Apuros - 1995
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/2aecd7df1d97e8ab8e8981d602b56f57.jpg" group-title="Filmes | Comédia",Sexta-feira em Apuros - 1995
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16065.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ecMoWaWseqqLcm1riklTRi3tWzp.jpg" group-title="Filmes | Comédia",Sexta-Feira Muito Louca - 2018
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ecMoWaWseqqLcm1riklTRi3tWzp.jpg" group-title="Filmes | Comédia",Sexta-Feira Muito Louca - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16064.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/4f5ad523dfc5b6f622d6c03b044c7464.jpg" group-title="Filmes | Comédia",Sexy por Acidente - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/4f5ad523dfc5b6f622d6c03b044c7464.jpg" group-title="Filmes | Comédia",Sexy por Acidente - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16067.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/7e24978c473ae1f7671950f4d2528080.jpg" group-title="Filmes | Comédia",Show de Vizinha - 2004
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/7e24978c473ae1f7671950f4d2528080.jpg" group-title="Filmes | Comédia",Show de Vizinha - 2004
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16068.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/c4736da7148de5babeda50ae19fb5db0.jpg" group-title="Filmes | Comédia",Sierra Burgess é uma Loser - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/c4736da7148de5babeda50ae19fb5db0.jpg" group-title="Filmes | Comédia",Sierra Burgess é uma Loser - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16069.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/e7eeaced355d83370ad0960cb9a5435a.jpg" group-title="Filmes | Comédia",Sim Senhor - 2008
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/e7eeaced355d83370ad0960cb9a5435a.jpg" group-title="Filmes | Comédia",Sim Senhor - 2008
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16071.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/b2a3bb350ce1955f7bc4e32cf088817b.jpg" group-title="Filmes | Comédia",Simplesmente Acontece - 2014
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/b2a3bb350ce1955f7bc4e32cf088817b.jpg" group-title="Filmes | Comédia",Simplesmente Acontece - 2014
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16070.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/1a6bb25a77664516f10be12f7a8be17d.jpg" group-title="Filmes | Comédia",Sintonia de Amor - 1993
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/1a6bb25a77664516f10be12f7a8be17d.jpg" group-title="Filmes | Comédia",Sintonia de Amor - 1993
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16072.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/b1908894c7d6ac5cd70d81932e6984b9.jpg" group-title="Filmes | Comédia",Sobrevivendo ao Meu Pai - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/b1908894c7d6ac5cd70d81932e6984b9.jpg" group-title="Filmes | Comédia",Sobrevivendo ao Meu Pai - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16073.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/b60d20a91b482c20be6bc2859de508d6.jpg" group-title="Filmes | Comédia",Sobrevivendo às Festas com os Parentes - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/b60d20a91b482c20be6bc2859de508d6.jpg" group-title="Filmes | Comédia",Sobrevivendo às Festas com os Parentes - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16074.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/6b7331a4a826bfb67b0cd10dd909fdf1.jpg" group-title="Filmes | Comédia",Socorro! Virei uma Garota - 2019
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/6b7331a4a826bfb67b0cd10dd909fdf1.jpg" group-title="Filmes | Comédia",Socorro! Virei uma Garota - 2019
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16075.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/34154d45a67cc9cc007ca45928d8d761.jpg" group-title="Filmes | Comédia",Stan & Ollie - O Gordo e o Magro - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/34154d45a67cc9cc007ca45928d8d761.jpg" group-title="Filmes | Comédia",Stan & Ollie - O Gordo e o Magro - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16077.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/e22c210e8e3c105c9fee8dd6cabce23b.jpg" group-title="Filmes | Comédia",Status Update: Perfil dos Sonhos - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/e22c210e8e3c105c9fee8dd6cabce23b.jpg" group-title="Filmes | Comédia",Status Update: Perfil dos Sonhos - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16078.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/c8ac5c9f69ae122dc0634063fe49da62.jpg" group-title="Filmes | Comédia",Superbad: É Hoje - 2007
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/c8ac5c9f69ae122dc0634063fe49da62.jpg" group-title="Filmes | Comédia",Superbad: É Hoje - 2007
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16079.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/afbe5abad130603c4f0c36acb9496d91.jpg" group-title="Filmes | Comédia",Swiped: Arrasando Corações - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/afbe5abad130603c4f0c36acb9496d91.jpg" group-title="Filmes | Comédia",Swiped: Arrasando Corações - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16080.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z10y9ysYQlONINLu8W2Hgoybqva.jpg" group-title="Filmes | Comédia",Tá Rindo do Quê? - 2009
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z10y9ysYQlONINLu8W2Hgoybqva.jpg" group-title="Filmes | Comédia",Tá Rindo do Quê? - 2009
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16082.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/60206ed951e22b547c16caf44c5580fc.jpg" group-title="Filmes | Comédia",Tal Mãe, Tal Filha - 2017
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/60206ed951e22b547c16caf44c5580fc.jpg" group-title="Filmes | Comédia",Tal Mãe, Tal Filha - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/17156.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/6941cfb2208bdee2d16af03fc9a09b9e.jpg" group-title="Filmes | Comédia",Tal Pai, Tal Filha - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/6941cfb2208bdee2d16af03fc9a09b9e.jpg" group-title="Filmes | Comédia",Tal Pai, Tal Filha - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16081.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lXeSraLgsLaeXRg6vEHv4tBrXxc.jpg" group-title="Filmes | Comédia",Táxi 5 - 2018
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lXeSraLgsLaeXRg6vEHv4tBrXxc.jpg" group-title="Filmes | Comédia",Táxi 5 - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/17159.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/fd6d7d03d9e5e6ae6cac0de505041e5d.jpg" group-title="Filmes | Comédia",Te Pego na Saída - 2017
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/fd6d7d03d9e5e6ae6cac0de505041e5d.jpg" group-title="Filmes | Comédia",Te Pego na Saída - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16087.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/1b7c25d48756aafcdd940c90365ece03.jpg" group-title="Filmes | Comédia",Te Peguei! - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/1b7c25d48756aafcdd940c90365ece03.jpg" group-title="Filmes | Comédia",Te Peguei! - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16088.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/36ab44fcd70450e8dac906df9ad36faa.jpg" group-title="Filmes | Comédia",Ted 2 - 2015
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/36ab44fcd70450e8dac906df9ad36faa.jpg" group-title="Filmes | Comédia",Ted 2 - 2015
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16083.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/95166f12ca0fb4d02a63658d68d069f6.jpg" group-title="Filmes | Comédia",Tem Alienígenas no meu Quarto - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/95166f12ca0fb4d02a63658d68d069f6.jpg" group-title="Filmes | Comédia",Tem Alienígenas no meu Quarto - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16084.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/57efb0f44cf44a1c3e0979281e33264c.jpg" group-title="Filmes | Comédia",Tempo de Crescer - 2009
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/57efb0f44cf44a1c3e0979281e33264c.jpg" group-title="Filmes | Comédia",Tempo de Crescer - 2009
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16085.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/54f5e956a148465fa5162aab0d85152d.jpg" group-title="Filmes | Comédia",Tenacious D: Uma Dupla Infernal - 2006
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/54f5e956a148465fa5162aab0d85152d.jpg" group-title="Filmes | Comédia",Tenacious D: Uma Dupla Infernal - 2006
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16086.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/ba24e7f8e4c15e8a9cfb188708cac9c5.jpg" group-title="Filmes | Comédia",Terapia de Casais para Amantes - 2017
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/ba24e7f8e4c15e8a9cfb188708cac9c5.jpg" group-title="Filmes | Comédia",Terapia de Casais para Amantes - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16089.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tXnb9LvzYpdMuo6MGgFMCVqJwoQ.jpg" group-title="Filmes | Comédia",Terapia do Sexo - 2013
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tXnb9LvzYpdMuo6MGgFMCVqJwoQ.jpg" group-title="Filmes | Comédia",Terapia do Sexo - 2013
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16090.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/073b1f3f8045183926410ef38b5f3c4c.jpg" group-title="Filmes | Comédia",Terror nos Bastidores - 2015
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/073b1f3f8045183926410ef38b5f3c4c.jpg" group-title="Filmes | Comédia",Terror nos Bastidores - 2015
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16091.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/7dcecadac81614dd1872eacf63f92bb7.jpg" group-title="Filmes | Comédia",The After Party - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/7dcecadac81614dd1872eacf63f92bb7.jpg" group-title="Filmes | Comédia",The After Party - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16092.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ut1Ji6mEkO3bHW4xUEazNOb32W.jpg" group-title="Filmes | Comédia",Banana Splits - O Filme - 2019
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ut1Ji6mEkO3bHW4xUEazNOb32W.jpg" group-title="Filmes | Comédia",Banana Splits - O Filme - 2019
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16093.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/490530b9625f405ffca5ed3461cff93f.jpg" group-title="Filmes | Comédia",Tinha Que Ser Ele? - 2016
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/490530b9625f405ffca5ed3461cff93f.jpg" group-title="Filmes | Comédia",Tinha Que Ser Ele? - 2016
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16094.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/3b2887bd459e58ea9497c31f95ae5d84.jpg" group-title="Filmes | Comédia",Tio Drew - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/3b2887bd459e58ea9497c31f95ae5d84.jpg" group-title="Filmes | Comédia",Tio Drew - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16095.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oB7hflIVj3gKGB2R4gtnx5mHFyU.jpg" group-title="Filmes | Comédia",Tô Ryca! 1 - 2016
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oB7hflIVj3gKGB2R4gtnx5mHFyU.jpg" group-title="Filmes | Comédia",Tô Ryca! 1 - 2016
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16103.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/joZlq9ccyJ8es0imyDmW0fZ4TOe.jpg" group-title="Filmes | Comédia",Toc Toc - 2017
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/joZlq9ccyJ8es0imyDmW0fZ4TOe.jpg" group-title="Filmes | Comédia",Toc Toc - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16096.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/07d2945b244fb1bf6e70a838827194b2.jpg" group-title="Filmes | Comédia",Todo Mundo em Pânico 4 - 2006
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/07d2945b244fb1bf6e70a838827194b2.jpg" group-title="Filmes | Comédia",Todo Mundo em Pânico 4 - 2006
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16097.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/549UoU38uoikbqgXG09rkkfIEWf.jpg" group-title="Filmes | Comédia",Todo Mundo em Pânico 2 - 2001
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/549UoU38uoikbqgXG09rkkfIEWf.jpg" group-title="Filmes | Comédia",Todo Mundo em Pânico 2 - 2001
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16098.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4eGdcLg9dWxUv3dSY7tIz5EX9sz.jpg" group-title="Filmes | Comédia",Todo Mundo em Pânico 3 - 2003
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4eGdcLg9dWxUv3dSY7tIz5EX9sz.jpg" group-title="Filmes | Comédia",Todo Mundo em Pânico 3 - 2003
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16099.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lCTKVVQmBxjTWAQSZOpLPbBdBVL.jpg" group-title="Filmes | Comédia",Todo Mundo em Pânico 4 - 2006
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lCTKVVQmBxjTWAQSZOpLPbBdBVL.jpg" group-title="Filmes | Comédia",Todo Mundo em Pânico 4 - 2006
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16100.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/14mLzrL5d9ykeEy0L9RGSit6PXN.jpg" group-title="Filmes | Comédia",Todo Mundo em Pânico 5 - 2013
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/14mLzrL5d9ykeEy0L9RGSit6PXN.jpg" group-title="Filmes | Comédia",Todo Mundo em Pânico 5 - 2013
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16101.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/6857e812da692ed00b91466183b16222.jpg" group-title="Filmes | Comédia",Top Gang! - Ases Muito Loucos - 1991
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/6857e812da692ed00b91466183b16222.jpg" group-title="Filmes | Comédia",Top Gang! - Ases Muito Loucos - 1991
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16102.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/21f1bc9a9fcfcd6a92986fb1815b6cca.jpg" group-title="Filmes | Comédia",Tratamento de Choque - 2003
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/21f1bc9a9fcfcd6a92986fb1815b6cca.jpg" group-title="Filmes | Comédia",Tratamento de Choque - 2003
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16104.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/bb4086c940c5f4fb1f3fe5c278ca4e42.jpg" group-title="Filmes | Comédia",Treinando o Papai - 2007
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/bb4086c940c5f4fb1f3fe5c278ca4e42.jpg" group-title="Filmes | Comédia",Treinando o Papai - 2007
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16105.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/01c00460910e6a3ff7dd857be75f3637.jpg" group-title="Filmes | Comédia",Trinity é o Meu Nome - 1970
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/01c00460910e6a3ff7dd857be75f3637.jpg" group-title="Filmes | Comédia",Trinity é o Meu Nome - 1970
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16108.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/1f79fecbcb9d446543e02e8c83d65ddd.jpg" group-title="Filmes | Comédia",Três Solteirões e um Bebê - 1987
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/1f79fecbcb9d446543e02e8c83d65ddd.jpg" group-title="Filmes | Comédia",Três Solteirões e um Bebê - 1987
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16107.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/f8533c7413662a2ad343d42098b1a0b4.jpg" group-title="Filmes | Comédia",Três Solteirões e uma Pequena Dama - 1990
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/f8533c7413662a2ad343d42098b1a0b4.jpg" group-title="Filmes | Comédia",Três Solteirões e uma Pequena Dama - 1990
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16106.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/7a2d5c819ec42fd15150aa0800cfc523.jpg" group-title="Filmes | Comédia",Tudo Para Ficar com Ela - 2014
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/7a2d5c819ec42fd15150aa0800cfc523.jpg" group-title="Filmes | Comédia",Tudo Para Ficar com Ela - 2014
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16109.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/d95d1ab258da7c3bdb2a87a73622eb08.jpg" group-title="Filmes | Comédia",Tully - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/d95d1ab258da7c3bdb2a87a73622eb08.jpg" group-title="Filmes | Comédia",Tully - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16110.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/ebe76a9db070abc67627cb124f3e17de.jpg" group-title="Filmes | Comédia",Turma 94 - O Grande Encontro - 2015
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/ebe76a9db070abc67627cb124f3e17de.jpg" group-title="Filmes | Comédia",Turma 94 - O Grande Encontro - 2015
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16111.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/deea6bb18f36adeeadded62c44b9b9a1.jpg" group-title="Filmes | Comédia",Um Amor de Mãe - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/deea6bb18f36adeeadded62c44b9b9a1.jpg" group-title="Filmes | Comédia",Um Amor de Mãe - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/17178.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/e17c1ded1bbbc890018a6baa2ab76403.jpg" group-title="Filmes | Comédia",Um Bom Ano - 2006
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/e17c1ded1bbbc890018a6baa2ab76403.jpg" group-title="Filmes | Comédia",Um Bom Ano - 2006
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16124.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/65335baf1b2f5770ca1d2ec95c4cd4ca.jpg" group-title="Filmes | Comédia",Um Conto Indiano - 2017
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/65335baf1b2f5770ca1d2ec95c4cd4ca.jpg" group-title="Filmes | Comédia",Um Conto Indiano - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16125.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/1dc6a7970f82d0e4ae197e96f1edadab.jpg" group-title="Filmes | Comédia",Um Dia a Casa Cai - 1986
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/1dc6a7970f82d0e4ae197e96f1edadab.jpg" group-title="Filmes | Comédia",Um Dia a Casa Cai - 1986
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16126.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xWB3JoWtUeDvKF72fCpFB8fJVds.jpg" group-title="Filmes | Comédia",Little Nicky, Um Diabo Diferente - 2000
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xWB3JoWtUeDvKF72fCpFB8fJVds.jpg" group-title="Filmes | Comédia",Little Nicky, Um Diabo Diferente - 2000
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16127.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/af40925673f35ca19ce6edb2ed837a67.jpg" group-title="Filmes | Comédia",Um Espião e Meio - 2016
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/af40925673f35ca19ce6edb2ed837a67.jpg" group-title="Filmes | Comédia",Um Espião e Meio - 2016
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16128.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/f3d67d12f5ae7839c7123b31463a33ad.jpg" group-title="Filmes | Comédia",Um Herói de Brinquedo 2 - 2014
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/f3d67d12f5ae7839c7123b31463a33ad.jpg" group-title="Filmes | Comédia",Um Herói de Brinquedo 2 - 2014
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16129.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/510d1efad176ef3be3844ecc6b5e6196.jpg" group-title="Filmes | Comédia",Um Ladrão com Estilo - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/510d1efad176ef3be3844ecc6b5e6196.jpg" group-title="Filmes | Comédia",Um Ladrão com Estilo - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16130.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/4ed4b040a6dc9af839f5c4ce5a6f8df5.jpg" group-title="Filmes | Comédia",Um Lobisomem Americano em Londres - 1981
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/4ed4b040a6dc9af839f5c4ce5a6f8df5.jpg" group-title="Filmes | Comédia",Um Lobisomem Americano em Londres - 1981
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16131.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/6aa5995b6e076410a13879454abb8771.jpg" group-title="Filmes | Comédia",Um Maluco no Natal - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/6aa5995b6e076410a13879454abb8771.jpg" group-title="Filmes | Comédia",Um Maluco no Natal - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16132.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/78c245be58690733af57d872cf25ceeb.jpg" group-title="Filmes | Comédia",Um Milhão de Maneiras de Pegar na Pistola - 2014
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/78c245be58690733af57d872cf25ceeb.jpg" group-title="Filmes | Comédia",Um Milhão de Maneiras de Pegar na Pistola - 2014
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16133.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/ee3a098c9135b122f5051ea08b2b3d25.jpg" group-title="Filmes | Comédia",Um Namorado Para Minha Mulher - 2016
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/ee3a098c9135b122f5051ea08b2b3d25.jpg" group-title="Filmes | Comédia",Um Namorado Para Minha Mulher - 2016
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16134.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/e37be476e00a915dbae105481427fced.jpg" group-title="Filmes | Comédia",Um Parto de Viagem - 2010
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/e37be476e00a915dbae105481427fced.jpg" group-title="Filmes | Comédia",Um Parto de Viagem - 2010
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16135.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/dd3f40e3caa44eeb33d45458f151d647.jpg" group-title="Filmes | Comédia",Um Príncipe em Nova York - 1988
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/dd3f40e3caa44eeb33d45458f151d647.jpg" group-title="Filmes | Comédia",Um Príncipe em Nova York - 1988
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16136.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yeV2H5dJmaR4XmNNG6q3ikV8a8y.jpg" group-title="Filmes | Comédia",Um Salão do Barulho 1 - 2002
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yeV2H5dJmaR4XmNNG6q3ikV8a8y.jpg" group-title="Filmes | Comédia",Um Salão do Barulho 1 - 2002
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16137.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vNzb6U4bLCgoswQKGDU9jE5DYAn.jpg" group-title="Filmes | Comédia",Um Salão do Barulho 2 - 2004
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vNzb6U4bLCgoswQKGDU9jE5DYAn.jpg" group-title="Filmes | Comédia",Um Salão do Barulho 2 - 2004
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16138.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Wis3WRAb8BjfSiz2ATMDBXFtpC.jpg" group-title="Filmes | Comédia",Um Salão do Barulho 3 - 2016
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Wis3WRAb8BjfSiz2ATMDBXFtpC.jpg" group-title="Filmes | Comédia",Um Salão do Barulho 3 - 2016
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16139.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/ffe6e45dae223119c316694337ff00c3.jpg" group-title="Filmes | Comédia",Um Senhor Estagiário - 2015
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/ffe6e45dae223119c316694337ff00c3.jpg" group-title="Filmes | Comédia",Um Senhor Estagiário - 2015
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16140.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/c11458cbcea34cbfeae526e80da73501.jpg" group-title="Filmes | Comédia",Um Suburbano Sortudo - 2016
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/c11458cbcea34cbfeae526e80da73501.jpg" group-title="Filmes | Comédia",Um Suburbano Sortudo - 2016
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16141.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/d714adbba398f8a481d2b5ab7f0cf877.jpg" group-title="Filmes | Comédia",Um Tio Quase Perfeito - 2017
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/d714adbba398f8a481d2b5ab7f0cf877.jpg" group-title="Filmes | Comédia",Um Tio Quase Perfeito - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16142.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4jInjxzwR14AulEFYB6x9c9oBKS.jpg" group-title="Filmes | Comédia",Um Tira da Pesada 1 - 1984
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4jInjxzwR14AulEFYB6x9c9oBKS.jpg" group-title="Filmes | Comédia",Um Tira da Pesada 1 - 1984
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16143.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rGG30UP6IYG7Lq0zSr6wRT2h3Ua.jpg" group-title="Filmes | Comédia",Um Tira da Pesada 2 - 1987
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rGG30UP6IYG7Lq0zSr6wRT2h3Ua.jpg" group-title="Filmes | Comédia",Um Tira da Pesada 2 - 1987
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16144.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cFwPczgGyKNhqc9AUnARBJ5vAWE.jpg" group-title="Filmes | Comédia",Um Tira da Pesada 3 - 1994
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cFwPczgGyKNhqc9AUnARBJ5vAWE.jpg" group-title="Filmes | Comédia",Um Tira da Pesada 3 - 1994
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16145.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/b994e40cfdb6fc1b9e291cf5f3c62b55.jpg" group-title="Filmes | Comédia",Uma Agente Muito Louca - 2016
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/b994e40cfdb6fc1b9e291cf5f3c62b55.jpg" group-title="Filmes | Comédia",Uma Agente Muito Louca - 2016
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16112.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/fffc47fb7b97af025b403513d24cf825.jpg" group-title="Filmes | Comédia",Uma Babá em Minha Vida - 2016
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/fffc47fb7b97af025b403513d24cf825.jpg" group-title="Filmes | Comédia",Uma Babá em Minha Vida - 2016
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16113.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vIiWJq4WPcTfaIH8VkVlU2irzXo.jpg" group-title="Filmes | Comédia",Uma Boa Ação - 2012
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vIiWJq4WPcTfaIH8VkVlU2irzXo.jpg" group-title="Filmes | Comédia",Uma Boa Ação - 2012
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16114.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/a4c11e6b7afbee0df806a8bbfc7c00ba.jpg" group-title="Filmes | Comédia",Uma Canção de Natal - 2015
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/a4c11e6b7afbee0df806a8bbfc7c00ba.jpg" group-title="Filmes | Comédia",Uma Canção de Natal - 2015
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16115.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/dcbfa8fbad05cfa8539644d0ac8a8c0e.jpg" group-title="Filmes | Comédia",Uma Esperança no Natal - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/dcbfa8fbad05cfa8539644d0ac8a8c0e.jpg" group-title="Filmes | Comédia",Uma Esperança no Natal - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/17173.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/3dfda0e95f90519f8015e0bd88a9678a.jpg" group-title="Filmes | Comédia",Uma Família de Dois - 2016
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/3dfda0e95f90519f8015e0bd88a9678a.jpg" group-title="Filmes | Comédia",Uma Família de Dois - 2016
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/17174.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/doo45Z1rtyByhN69yfUsqtzeg7M.jpg" group-title="Filmes | Comédia",A Nova Cinderela: Milagre de Natal - 2019
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/doo45Z1rtyByhN69yfUsqtzeg7M.jpg" group-title="Filmes | Comédia",A Nova Cinderela: Milagre de Natal - 2019
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16116.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/212b1d9921d8f12d1330cabc3320f283.jpg" group-title="Filmes | Comédia",Uma Noite de Loucuras - 1987
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/212b1d9921d8f12d1330cabc3320f283.jpg" group-title="Filmes | Comédia",Uma Noite de Loucuras - 1987
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16117.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tWWZQIaOMjxaZoaehjtTM0vpBGd.jpg" group-title="Filmes | Comédia",Uma Noite de Natal - 2014
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tWWZQIaOMjxaZoaehjtTM0vpBGd.jpg" group-title="Filmes | Comédia",Uma Noite de Natal - 2014
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16118.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/89c084906d0c9dc860c10224b96badcb.jpg" group-title="Filmes | Comédia",Uma Noite Mais que Louca - 2011
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/89c084906d0c9dc860c10224b96badcb.jpg" group-title="Filmes | Comédia",Uma Noite Mais que Louca - 2011
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16119.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/685b5a120226eab3bc97e7bb8f04a6f2.jpg" group-title="Filmes | Comédia",Uma Noite no Museu - 2006
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/685b5a120226eab3bc97e7bb8f04a6f2.jpg" group-title="Filmes | Comédia",Uma Noite no Museu - 2006
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16120.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/4b5329e15f36137f464c400e62b7f4fe.jpg" group-title="Filmes | Comédia",Uma Noite no Museu 3: O Segredo da Tumba - 2014
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/4b5329e15f36137f464c400e62b7f4fe.jpg" group-title="Filmes | Comédia",Uma Noite no Museu 3: O Segredo da Tumba - 2014
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16121.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/19a18a7102a66d11609796a33a384f31.jpg" group-title="Filmes | Comédia",Uma Quase Dupla - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/19a18a7102a66d11609796a33a384f31.jpg" group-title="Filmes | Comédia",Uma Quase Dupla - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16122.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/c232c73b257f8edd49f7cae133679d45.jpg" group-title="Filmes | Comédia",Uma Ressaca de 9 Meses - 2016
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/c232c73b257f8edd49f7cae133679d45.jpg" group-title="Filmes | Comédia",Uma Ressaca de 9 Meses - 2016
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16123.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/e3cb4501ed074826d49f3c8a86209ab0.jpg" group-title="Filmes | Comédia",Upa – Meu Monstro Favorito - 2015
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/e3cb4501ed074826d49f3c8a86209ab0.jpg" group-title="Filmes | Comédia",Upa – Meu Monstro Favorito - 2015
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16146.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/b2b36091f32912eae8bcc547af19d64f.jpg" group-title="Filmes | Comédia",Upstarts - 2019
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/b2b36091f32912eae8bcc547af19d64f.jpg" group-title="Filmes | Comédia",Upstarts - 2019
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16147.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yGWszbTJRmQVJv98abEyfdLOsHh.jpg" group-title="Filmes | Comédia",Verão 2003 - 2018
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yGWszbTJRmQVJv98abEyfdLOsHh.jpg" group-title="Filmes | Comédia",Verão 2003 - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16148.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vsNOVR6vTiRO3he42GAxJVyfv4V.jpg" group-title="Filmes | Comédia",Loucuras do Paraíso - 2012
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vsNOVR6vTiRO3he42GAxJVyfv4V.jpg" group-title="Filmes | Comédia",Loucuras do Paraíso - 2012
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16149.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/0f817edf9f8cd95538911cba07ef0dbd.jpg" group-title="Filmes | Comédia",Vizinhança do Barulho - 1996
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/0f817edf9f8cd95538911cba07ef0dbd.jpg" group-title="Filmes | Comédia",Vizinhança do Barulho - 1996
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16150.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/4cfd8e2021913258e5c5a9c4d9d6fb2d.jpg" group-title="Filmes | Comédia",Vizinhos - 2014
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/4cfd8e2021913258e5c5a9c4d9d6fb2d.jpg" group-title="Filmes | Comédia",Vizinhos - 2014
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16151.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/47c58e6ce62be1a531550cffe85c22b6.jpg" group-title="Filmes | Comédia",Vizinhos Nada Secretos - 2016
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/47c58e6ce62be1a531550cffe85c22b6.jpg" group-title="Filmes | Comédia",Vizinhos Nada Secretos - 2016
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16152.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tOl6hzfFHdNcL7SxopC2Vbs4mgK.jpg" group-title="Filmes | Comédia",Vovó Zona 2 - 2006
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tOl6hzfFHdNcL7SxopC2Vbs4mgK.jpg" group-title="Filmes | Comédia",Vovó Zona 2 - 2006
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16153.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xfEAuK3Jec66AsccQBvGC2WAcw7.jpg" group-title="Filmes | Comédia",Vovó Zona 3 - 2011
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xfEAuK3Jec66AsccQBvGC2WAcw7.jpg" group-title="Filmes | Comédia",Vovó Zona 3 - 2011
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16154.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/d77d7fe5ab6a9299f2ab94a9ca3d6fc0.jpg" group-title="Filmes | Comédia",Zerando a Vida - 2016
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/d77d7fe5ab6a9299f2ab94a9ca3d6fc0.jpg" group-title="Filmes | Comédia",Zerando a Vida - 2016
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16156.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/17fd321dcaa9c0e68131c47b23a595cf.jpg" group-title="Filmes | Comédia",Zoe e Raven: Os Doze Presentes de Natal - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/17fd321dcaa9c0e68131c47b23a595cf.jpg" group-title="Filmes | Comédia",Zoe e Raven: Os Doze Presentes de Natal - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16157.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/cc2134524bd8aa24830507c2889abf9f.jpg" group-title="Filmes | Comédia",É o Fim - 2013
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/cc2134524bd8aa24830507c2889abf9f.jpg" group-title="Filmes | Comédia",É o Fim - 2013
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/15771.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e6AuIno1eZoDMQhFGKGAte6Syd7.jpg" group-title="Filmes | Comédia",As Trapaceiras - 2019
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e6AuIno1eZoDMQhFGKGAte6Syd7.jpg" group-title="Filmes | Comédia",As Trapaceiras - 2019
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/18014.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iV7F7cOzNnibAfnJ0bRGVxRkp6s.jpg" group-title="Filmes | Comédia",Clube dos Cinco - 1985
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iV7F7cOzNnibAfnJ0bRGVxRkp6s.jpg" group-title="Filmes | Comédia",Clube dos Cinco - 1985
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/18015.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cc4BnONgtqt7FzZbCLh5IqOKHcA.jpg" group-title="Filmes | Comédia",Os Batutinhas: Uma Nova Aventura - 2014
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cc4BnONgtqt7FzZbCLh5IqOKHcA.jpg" group-title="Filmes | Comédia",Os Batutinhas: Uma Nova Aventura - 2014
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/18022.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/frX8j77NYFKaMmxdvaeMhGpFHED.jpg" group-title="Filmes | Comédia",Um Morto Muito Louco 1 - 1989
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/frX8j77NYFKaMmxdvaeMhGpFHED.jpg" group-title="Filmes | Comédia",Um Morto Muito Louco 1 - 1989
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/18025.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/muFEE5wt6YyxDcz5PDYWlVHWjMr.jpg" group-title="Filmes | Comédia",Um Morto Muito Louco 2 - 1993
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/muFEE5wt6YyxDcz5PDYWlVHWjMr.jpg" group-title="Filmes | Comédia",Um Morto Muito Louco 2 - 1993
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/18026.mp4
 
 
@@ -9467,2270 +9471,2270 @@ http://eyplay.io:80/movie/YYnVMD/bSDwYW/18026.mp4
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/c4f1671634ae34567ccd83b9868fd8a3.jpg" group-title="Filmes | Drama",10 Segundos Para Vencer - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/c4f1671634ae34567ccd83b9868fd8a3.jpg" group-title="Filmes | Drama",10 Segundos Para Vencer - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16159.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/26d043033bffef973a6d0bcb30c580be.jpg" group-title="Filmes | Drama",12 Anos de Escravidão - 2013
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/26d043033bffef973a6d0bcb30c580be.jpg" group-title="Filmes | Drama",12 Anos de Escravidão - 2013
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16160.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/19b2641ae3a16d42c954f647639c9df9.jpg" group-title="Filmes | Drama",12 Heróis - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/19b2641ae3a16d42c954f647639c9df9.jpg" group-title="Filmes | Drama",12 Heróis - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16161.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/4b9e8cb7dcb48f7f09464047a60ef6bc.jpg" group-title="Filmes | Drama",127 Horas - 2010
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/4b9e8cb7dcb48f7f09464047a60ef6bc.jpg" group-title="Filmes | Drama",127 Horas - 2010
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16166.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/508aaaf7d616ccd9fef03484bf5ad83f.jpg" group-title="Filmes | Drama",15h17 - Trem Para Paris - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/508aaaf7d616ccd9fef03484bf5ad83f.jpg" group-title="Filmes | Drama",15h17 - Trem Para Paris - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16162.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/a856edff91f1acc8f185e8f57880c6be.jpg" group-title="Filmes | Drama",2 Filhos de Francisco - 2005
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/a856edff91f1acc8f185e8f57880c6be.jpg" group-title="Filmes | Drama",2 Filhos de Francisco - 2005
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16158.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/828f577d457327adeb9071fc28e20800.jpg" group-title="Filmes | Drama",22 de Julho - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/828f577d457327adeb9071fc28e20800.jpg" group-title="Filmes | Drama",22 de Julho - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16163.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/6f8be246bdaa2c82c8a17f18a5ad015e.jpg" group-title="Filmes | Drama",55 Passos - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/6f8be246bdaa2c82c8a17f18a5ad015e.jpg" group-title="Filmes | Drama",55 Passos - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16164.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/ec97ff05b6d2258841eb2c97fd0368a1.jpg" group-title="Filmes | Drama",72 Horas - 2010
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/ec97ff05b6d2258841eb2c97fd0368a1.jpg" group-title="Filmes | Drama",72 Horas - 2010
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16165.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/6c7fb8c20839a32b8b37baab0b996329.jpg" group-title="Filmes | Drama",A 100 Passos de Um Sonho - 2014
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/6c7fb8c20839a32b8b37baab0b996329.jpg" group-title="Filmes | Drama",A 100 Passos de Um Sonho - 2014
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16168.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tcKNWD6IFPPsvkpvyZ548naz0is.jpg" group-title="Filmes | Drama",A 13ª Emenda - 2016
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tcKNWD6IFPPsvkpvyZ548naz0is.jpg" group-title="Filmes | Drama",A 13ª Emenda - 2016
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16167.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/5bfcc984d7a2ed83365b14521b30c9c0.jpg" group-title="Filmes | Drama",A Batalha das Correntes - 2017
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/5bfcc984d7a2ed83365b14521b30c9c0.jpg" group-title="Filmes | Drama",A Batalha das Correntes - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16934.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/6dc274fc9da9bf5b306ba169a3610a0a.jpg" group-title="Filmes | Drama",A Cabana - 2019
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/6dc274fc9da9bf5b306ba169a3610a0a.jpg" group-title="Filmes | Drama",A Cabana - 2019
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16169.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l8HKxYbgX6SlkxQ9oR0XytAk5H5.jpg" group-title="Filmes | Drama",A Caminho de Casa - 2019
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l8HKxYbgX6SlkxQ9oR0XytAk5H5.jpg" group-title="Filmes | Drama",A Caminho de Casa - 2019
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16170.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/fe5b25526d9a0c5eb424a8368f0cfe27.jpg" group-title="Filmes | Drama",A Casa de Vidro - 2001
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/fe5b25526d9a0c5eb424a8368f0cfe27.jpg" group-title="Filmes | Drama",A Casa de Vidro - 2001
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16171.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/76a6c7383c457fae3d3598a02e00cc94.jpg" group-title="Filmes | Drama",A Casa dos Sonhos - 2011
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/76a6c7383c457fae3d3598a02e00cc94.jpg" group-title="Filmes | Drama",A Casa dos Sonhos - 2011
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16172.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/c454c23df06d53603b32e39a54e5ff40.jpg" group-title="Filmes | Drama",A Casa Torta - 2017
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/c454c23df06d53603b32e39a54e5ff40.jpg" group-title="Filmes | Drama",A Casa Torta - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16173.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/2e20bc643c21490834aa706dedd55655.jpg" group-title="Filmes | Drama",A Cor Púrpura - 1985
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/2e20bc643c21490834aa706dedd55655.jpg" group-title="Filmes | Drama",A Cor Púrpura - 1985
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16175.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/ce7625c87450ee4b730b77f2c525d1bf.jpg" group-title="Filmes | Drama",A Corrente do Bem - 2000
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/ce7625c87450ee4b730b77f2c525d1bf.jpg" group-title="Filmes | Drama",A Corrente do Bem - 2000
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16176.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/9599e9ec0c8a1d494dbc0dd9d89132a0.jpg" group-title="Filmes | Drama",A Dama Dourada - 2015
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/9599e9ec0c8a1d494dbc0dd9d89132a0.jpg" group-title="Filmes | Drama",A Dama Dourada - 2015
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16178.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ArvbuwwSO4SJBBj5otF72gqP1I9.jpg" group-title="Filmes | Drama",A Escola da Vida - 2017
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ArvbuwwSO4SJBBj5otF72gqP1I9.jpg" group-title="Filmes | Drama",A Escola da Vida - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16182.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/212049e7eef59c1a0de95dc63242563e.jpg" group-title="Filmes | Drama",A Esposa - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/212049e7eef59c1a0de95dc63242563e.jpg" group-title="Filmes | Drama",A Esposa - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16183.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gbpKBgFRQpCi0dIU9Vyh4ZV4DvE.jpg" group-title="Filmes | Drama",A Favorita - 2018
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gbpKBgFRQpCi0dIU9Vyh4ZV4DvE.jpg" group-title="Filmes | Drama",A Favorita - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16184.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/4ec6b8708702677aa85e81fddd47ee39.jpg" group-title="Filmes | Drama",A Forma da Água - 2017
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/4ec6b8708702677aa85e81fddd47ee39.jpg" group-title="Filmes | Drama",A Forma da Água - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16186.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/f734eb98326d77388088385dd841ea40.jpg" group-title="Filmes | Drama",A Garota do Armário - 2016
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/f734eb98326d77388088385dd841ea40.jpg" group-title="Filmes | Drama",A Garota do Armário - 2016
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16187.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/8093eba08bd3fd82c80f2b181e1998c0.jpg" group-title="Filmes | Drama",A Garota do Trem - 2013
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/8093eba08bd3fd82c80f2b181e1998c0.jpg" group-title="Filmes | Drama",A Garota do Trem - 2013
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16188.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/f4a10580fe3b81b8c84cb8f2aa99dc62.jpg" group-title="Filmes | Drama",A Grande Jogada - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/f4a10580fe3b81b8c84cb8f2aa99dc62.jpg" group-title="Filmes | Drama",A Grande Jogada - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16189.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/a01c150a91ba864392ed5de79cf6d776.jpg" group-title="Filmes | Drama",A História de Gabby Douglas - 2014
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/a01c150a91ba864392ed5de79cf6d776.jpg" group-title="Filmes | Drama",A História de Gabby Douglas - 2014
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16191.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/364fb80d61ad42a204dbd028407d1f15.jpg" group-title="Filmes | Drama",A História sem Fim - 1984
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/364fb80d61ad42a204dbd028407d1f15.jpg" group-title="Filmes | Drama",A História sem Fim - 1984
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16192.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/be50faa37d1f06da136b99b7337fdf99.jpg" group-title="Filmes | Drama",A História Verdadeira - 2015
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/be50faa37d1f06da136b99b7337fdf99.jpg" group-title="Filmes | Drama",A História Verdadeira - 2015
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16193.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/8f48bcc822c1a50428096b1a287df484.jpg" group-title="Filmes | Drama",A Lagoa Azul - 1980
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/8f48bcc822c1a50428096b1a287df484.jpg" group-title="Filmes | Drama",A Lagoa Azul - 1980
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16194.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/d46a86b6c97af5c8e8f4e41fe60ff3aa.jpg" group-title="Filmes | Drama",A Lavanderia - 2019
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/d46a86b6c97af5c8e8f4e41fe60ff3aa.jpg" group-title="Filmes | Drama",A Lavanderia - 2019
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16195.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pKLteO70KGmAFdqGnKBTRKDBCqw.jpg" group-title="Filmes | Drama",A Lenda do Cavalo Prateado - 1993
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pKLteO70KGmAFdqGnKBTRKDBCqw.jpg" group-title="Filmes | Drama",A Lenda do Cavalo Prateado - 1993
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16196.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/d01e1b27d75e2777e176ffbfd786ff69.jpg" group-title="Filmes | Drama",A Lista de Schindler - 1993
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/d01e1b27d75e2777e176ffbfd786ff69.jpg" group-title="Filmes | Drama",A Lista de Schindler - 1993
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16198.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzZlOWU0NTQtZDA5Zi00NDc3LTg4NDktMGNiYjE2M2E5ZTcxXkEyXkFqcGdeQXVyOTU3ODk4MQ@@._V1_UY268_CR4,0,182,268_AL_.jpg" group-title="Filmes | Drama",A Luneta do Tempo - 2014
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzZlOWU0NTQtZDA5Zi00NDc3LTg4NDktMGNiYjE2M2E5ZTcxXkEyXkFqcGdeQXVyOTU3ODk4MQ@@._V1_UY268_CR4,0,182,268_AL_.jpg" group-title="Filmes | Drama",A Luneta do Tempo - 2014
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16199.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d0KI51qCECD2hEdB35FhPsGGInj.jpg" group-title="Filmes | Drama",A Magia de um Sonho - 2011
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d0KI51qCECD2hEdB35FhPsGGInj.jpg" group-title="Filmes | Drama",A Magia de um Sonho - 2011
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16201.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d0KI51qCECD2hEdB35FhPsGGInj.jpg" group-title="Filmes | Drama",A Magia de um Sonho - 2011
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d0KI51qCECD2hEdB35FhPsGGInj.jpg" group-title="Filmes | Drama",A Magia de um Sonho - 2011
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16202.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/b7525500275939760786f8ccd23242b6.jpg" group-title="Filmes | Drama",A Melhor Escolha - 2017
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/b7525500275939760786f8ccd23242b6.jpg" group-title="Filmes | Drama",A Melhor Escolha - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16203.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/098a742df232195692c9246776f28d41.jpg" group-title="Filmes | Drama",A Morte lhe Cai Bem - 1992
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/098a742df232195692c9246776f28d41.jpg" group-title="Filmes | Drama",A Morte lhe Cai Bem - 1992
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16208.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/4cf5c513991efad56ba8219714a3fd3d.jpg" group-title="Filmes | Drama",A Mulher de Preto - 2012
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/4cf5c513991efad56ba8219714a3fd3d.jpg" group-title="Filmes | Drama",A Mulher de Preto - 2012
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16210.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/737c7a94b6bd79bd45e13e5757befe2e.jpg" group-title="Filmes | Drama",A Má Criada - 1993
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/737c7a94b6bd79bd45e13e5757befe2e.jpg" group-title="Filmes | Drama",A Má Criada - 1993
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16177.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/f942834ef81b9850d74b7c19d764c4c7.jpg" group-title="Filmes | Drama",A Música da Minha Vida - 2019
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/f942834ef81b9850d74b7c19d764c4c7.jpg" group-title="Filmes | Drama",A Música da Minha Vida - 2019
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16211.mp4
 
 
-EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/df6e16df895b19d13483f42a5e4c5673.jpg" group-title="Filmes | Drama",A Noviça Rebelde - 1965
+EXTINF:-1 tvg-logo="http://eyplay.io:80/images/df6e16df895b19d13483f42a5e4c5673.jpg" group-title="Filmes | Drama",A Noviça Rebelde - 1965
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16214.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gVptSBXwz9qNyVWMXv8xtg6ll4v.jpg" group-title="Filmes | Drama",A Odisséia - 2016
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gVptSBXwz9qNyVWMXv8xtg6ll4v.jpg" group-title="Filmes | Drama",A Odisséia - 2016
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16217.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/39d3f377a4f8062eac762a85866645b5.jpg" group-title="Filmes | Drama",A Onda - 1981
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/39d3f377a4f8062eac762a85866645b5.jpg" group-title="Filmes | Drama",A Onda - 1981
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16218.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/8d28118fd84db7be7757b16026f6a121.jpg" group-title="Filmes | Drama",A Outra História Americana - 1998
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/8d28118fd84db7be7757b16026f6a121.jpg" group-title="Filmes | Drama",A Outra História Americana - 1998
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16219.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/b5818f85b858db96941decce47044dda.jpg" group-title="Filmes | Drama",A Outra Mãe - 2017
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/b5818f85b858db96941decce47044dda.jpg" group-title="Filmes | Drama",A Outra Mãe - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16220.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/64b6d3f69160342cd297aa8a38291afc.jpg" group-title="Filmes | Drama",A Outra Terra - 2011
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/64b6d3f69160342cd297aa8a38291afc.jpg" group-title="Filmes | Drama",A Outra Terra - 2011
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16221.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/21894eb0f9e646326cc76ecabc4e3fef.jpg" group-title="Filmes | Drama",A Pele Que Habito - 2011
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/21894eb0f9e646326cc76ecabc4e3fef.jpg" group-title="Filmes | Drama",A Pele Que Habito - 2011
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16222.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/4c26aa91e65ea2b0ae54d0eb6c423ebd.jpg" group-title="Filmes | Drama",A Pequena Morte - 2014
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/4c26aa91e65ea2b0ae54d0eb6c423ebd.jpg" group-title="Filmes | Drama",A Pequena Morte - 2014
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16224.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/57ead05a0bd0d1dbe1066ce4ffbb561b.jpg" group-title="Filmes | Drama",A Princesinha - 1995
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/57ead05a0bd0d1dbe1066ce4ffbb561b.jpg" group-title="Filmes | Drama",A Princesinha - 1995
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16225.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/7fbe2162ed8f185997a334ea6f9b1200.jpg" group-title="Filmes | Drama",A Professora do Jardim de Infância - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/7fbe2162ed8f185997a334ea6f9b1200.jpg" group-title="Filmes | Drama",A Professora do Jardim de Infância - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16227.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/afa1d945075b007b3026243ccc88e3cb.jpg" group-title="Filmes | Drama",A Pura Verdade - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/afa1d945075b007b3026243ccc88e3cb.jpg" group-title="Filmes | Drama",A Pura Verdade - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16963.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/739e9562f5bce86c3d5870970dc94979.jpg" group-title="Filmes | Drama",A Rede Social - 2010
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/739e9562f5bce86c3d5870970dc94979.jpg" group-title="Filmes | Drama",A Rede Social - 2010
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16228.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/88a8934211878b56c66299de96851ca8.jpg" group-title="Filmes | Drama",A Reviravolta - 2017
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/88a8934211878b56c66299de96851ca8.jpg" group-title="Filmes | Drama",A Reviravolta - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16229.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/1e765effab827568a276505c48dc1f97.jpg" group-title="Filmes | Drama",A Sombra de Summer - 2014
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/1e765effab827568a276505c48dc1f97.jpg" group-title="Filmes | Drama",A Sombra de Summer - 2014
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16236.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/5ea9bf022bd3fd88b88caeaef94c5fbe.jpg" group-title="Filmes | Drama",A Sombra e a Escuridão - 1996
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/5ea9bf022bd3fd88b88caeaef94c5fbe.jpg" group-title="Filmes | Drama",A Sombra e a Escuridão - 1996
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16237.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/9fe15822af2a2332026b628abe4b1927.jpg" group-title="Filmes | Drama",A Teoria de Tudo - 2014
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/9fe15822af2a2332026b628abe4b1927.jpg" group-title="Filmes | Drama",A Teoria de Tudo - 2014
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16239.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/581a40ffdb615dc9d0d1c77ad4f42090.jpg" group-title="Filmes | Drama",A Ternura - 2017
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/581a40ffdb615dc9d0d1c77ad4f42090.jpg" group-title="Filmes | Drama",A Ternura - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16646.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/bf1137fb23222f0c820dab7e516cf2c9.jpg" group-title="Filmes | Drama",A Troca - 2008
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/bf1137fb23222f0c820dab7e516cf2c9.jpg" group-title="Filmes | Drama",A Troca - 2008
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16244.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/4038a91b992061ab445c789544bbf016.jpg" group-title="Filmes | Drama",A Viagem - 2011
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/4038a91b992061ab445c789544bbf016.jpg" group-title="Filmes | Drama",A Viagem - 2011
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16247.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/afae1b1d6f77b02999969d2cab8f3c98.jpg" group-title="Filmes | Drama",A Vida em Si - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/afae1b1d6f77b02999969d2cab8f3c98.jpg" group-title="Filmes | Drama",A Vida em Si - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16248.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/234955bd37ceaae8605edbb078396026.jpg" group-title="Filmes | Drama",A Vida Secreta de Zoe - 2014
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/234955bd37ceaae8605edbb078396026.jpg" group-title="Filmes | Drama",A Vida Secreta de Zoe - 2014
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16249.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vSbpMCLa2qYipLeMsfIcvD4th48.jpg" group-title="Filmes | Drama",A Vila - 2004
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vSbpMCLa2qYipLeMsfIcvD4th48.jpg" group-title="Filmes | Drama",A Vila - 2004
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16250.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/4e9b69eccf6bff9b8abda1dc2b3bfa17.jpg" group-title="Filmes | Drama",A Volta do Espírito de Natal - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/4e9b69eccf6bff9b8abda1dc2b3bfa17.jpg" group-title="Filmes | Drama",A Volta do Espírito de Natal - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16251.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/a4e0d4d1d0c3989debb0262691764ec3.jpg" group-title="Filmes | Drama",A Época Mais Maravilhosa do Ano - 2008
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/a4e0d4d1d0c3989debb0262691764ec3.jpg" group-title="Filmes | Drama",A Época Mais Maravilhosa do Ano - 2008
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16181.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/ce8f3686ad58ef0fac0b1d3a468f3b45.jpg" group-title="Filmes | Drama",A Última Jornada - 2017
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/ce8f3686ad58ef0fac0b1d3a468f3b45.jpg" group-title="Filmes | Drama",A Última Jornada - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16245.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/b56bc3a0b7501ea4b538444170dad801.jpg" group-title="Filmes | Drama",A Última Música - 2010
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/b56bc3a0b7501ea4b538444170dad801.jpg" group-title="Filmes | Drama",A Última Música - 2010
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16246.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/95db34e9c9a3844737856d07e91ea5da.jpg" group-title="Filmes | Drama",Abutres - 2010
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/95db34e9c9a3844737856d07e91ea5da.jpg" group-title="Filmes | Drama",Abutres - 2010
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16458.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/7da1501587b1e830977c74cd71c699d4.jpg" group-title="Filmes | Drama",Acima das Nuvens - 2014
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/7da1501587b1e830977c74cd71c699d4.jpg" group-title="Filmes | Drama",Acima das Nuvens - 2014
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16174.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/1497563ded17258758699ad99d3f265b.jpg" group-title="Filmes | Drama",Advogado do Diabo - 1997
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/1497563ded17258758699ad99d3f265b.jpg" group-title="Filmes | Drama",Advogado do Diabo - 1997
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16179.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/abd4c0cba0ec6415666f1be0e16d2152.jpg" group-title="Filmes | Drama",Alfa - 2016
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/abd4c0cba0ec6415666f1be0e16d2152.jpg" group-title="Filmes | Drama",Alfa - 2016
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16197.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/4c95eeb1c40aef80ddaf7fe6a8499a49.jpg" group-title="Filmes | Drama",Alvo Triplo - 2017
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/4c95eeb1c40aef80ddaf7fe6a8499a49.jpg" group-title="Filmes | Drama",Alvo Triplo - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16200.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/e791aeb4b6511f00197eb6799da9ca79.jpg" group-title="Filmes | Drama",American Son - 2019
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/e791aeb4b6511f00197eb6799da9ca79.jpg" group-title="Filmes | Drama",American Son - 2019
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16204.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/b34c5756c1a48a210e3cfb31da27d169.jpg" group-title="Filmes | Drama",Amor & Outras Drogas - 2010
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/b34c5756c1a48a210e3cfb31da27d169.jpg" group-title="Filmes | Drama",Amor & Outras Drogas - 2010
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16206.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/eb9342e8c899c8dd6ac7ba545739c612.jpg" group-title="Filmes | Drama",Amor e Tulipas - 2017
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/eb9342e8c899c8dd6ac7ba545739c612.jpg" group-title="Filmes | Drama",Amor e Tulipas - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16207.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/9289e2c1aabf0e7a5d6e593d85562d32.jpg" group-title="Filmes | Drama",Andar Montar Rodeio - A Virada de Amberley - 2019
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/9289e2c1aabf0e7a5d6e593d85562d32.jpg" group-title="Filmes | Drama",Andar Montar Rodeio - A Virada de Amberley - 2019
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16212.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/0f540f7a3fb6edbb51f767ae7050fab3.jpg" group-title="Filmes | Drama",Animais Noturnos - 2016
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/0f540f7a3fb6edbb51f767ae7050fab3.jpg" group-title="Filmes | Drama",Animais Noturnos - 2016
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16213.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/e8c4392e317e22b80c17848550dd48be.jpg" group-title="Filmes | Drama",Antes Que Eu Me Esqueça - 2017
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/e8c4392e317e22b80c17848550dd48be.jpg" group-title="Filmes | Drama",Antes Que Eu Me Esqueça - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16215.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/a78f18c955eb95a81eecf30dc531d138.jpg" group-title="Filmes | Drama",Antes Que Seja Tarde - 2019
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/a78f18c955eb95a81eecf30dc531d138.jpg" group-title="Filmes | Drama",Antes Que Seja Tarde - 2019
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16216.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/7024ad9d0055b66fd67e1b65a0731f05.jpg" group-title="Filmes | Drama",Apenas um Garoto em Nova York - 2017
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/7024ad9d0055b66fd67e1b65a0731f05.jpg" group-title="Filmes | Drama",Apenas um Garoto em Nova York - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16223.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/771ffcd78bae657cc32d99b9c8d7af92.jpg" group-title="Filmes | Drama",Arabia 3D - 2011
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/771ffcd78bae657cc32d99b9c8d7af92.jpg" group-title="Filmes | Drama",Arabia 3D - 2011
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16965.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/18be806fb158a00d115afd6e487d7ea1.jpg" group-title="Filmes | Drama",Argo - 2012
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/18be806fb158a00d115afd6e487d7ea1.jpg" group-title="Filmes | Drama",Argo - 2012
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16230.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/889738146025631f583a4bfda5b4ae1d.jpg" group-title="Filmes | Drama",Armas na Mesa - 2016
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/889738146025631f583a4bfda5b4ae1d.jpg" group-title="Filmes | Drama",Armas na Mesa - 2016
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16231.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/ab0f0cfa0e1a727c8deac5bc2f2192c5.jpg" group-title="Filmes | Drama",As Aventuras de Pinóquio - 1996
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/ab0f0cfa0e1a727c8deac5bc2f2192c5.jpg" group-title="Filmes | Drama",As Aventuras de Pinóquio - 1996
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16232.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/bf41ce7f1dcad98d5c20d6673983f76c.jpg" group-title="Filmes | Drama",As Boas Maneiras - 2017
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/bf41ce7f1dcad98d5c20d6673983f76c.jpg" group-title="Filmes | Drama",As Boas Maneiras - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16233.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ah9pGwoBBWxwqig9bt1X7TMigRo.jpg" group-title="Filmes | Drama",As Donas da Noite - 2010
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ah9pGwoBBWxwqig9bt1X7TMigRo.jpg" group-title="Filmes | Drama",As Donas da Noite - 2010
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16234.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/39c2a4a97bf541eacde29b31ede18500.jpg" group-title="Filmes | Drama",As Leis da Termodinâmica - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/39c2a4a97bf541eacde29b31ede18500.jpg" group-title="Filmes | Drama",As Leis da Termodinâmica - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16396.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/35ca28f5cf7d97aa0d98e2de6bb8096d.jpg" group-title="Filmes | Drama",As Mil Palavras - 2012
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/35ca28f5cf7d97aa0d98e2de6bb8096d.jpg" group-title="Filmes | Drama",As Mil Palavras - 2012
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16235.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/fd5fd5d5561e5b3bc25b3e15a7783fb5.jpg" group-title="Filmes | Drama",Atlantique - 2019
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/fd5fd5d5561e5b3bc25b3e15a7783fb5.jpg" group-title="Filmes | Drama",Atlantique - 2019
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16241.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/2b73c3da1a83d64a2d550984c034c3b2.jpg" group-title="Filmes | Drama",Atormentado pelo Passado - 2017
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/2b73c3da1a83d64a2d550984c034c3b2.jpg" group-title="Filmes | Drama",Atormentado pelo Passado - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16242.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/7efa8ab677def9b847f59625eaf0ee6b.jpg" group-title="Filmes | Drama",Atração Perigosa - 2010
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/7efa8ab677def9b847f59625eaf0ee6b.jpg" group-title="Filmes | Drama",Atração Perigosa - 2010
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16243.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/4811b58e33e97daa85e28f44fb2ba56c.jpg" group-title="Filmes | Drama",Até o Último Homem - 2016
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/4811b58e33e97daa85e28f44fb2ba56c.jpg" group-title="Filmes | Drama",Até o Último Homem - 2016
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16240.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/78fa0e46ff7bc1635a9e13f188ae89a8.jpg" group-title="Filmes | Drama",Bacurau - 2019
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/78fa0e46ff7bc1635a9e13f188ae89a8.jpg" group-title="Filmes | Drama",Bacurau - 2019
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16252.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/3ad5cff84cdced703124868b6a35b98e.jpg" group-title="Filmes | Drama",Bastardos Inglórios - 2009
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/3ad5cff84cdced703124868b6a35b98e.jpg" group-title="Filmes | Drama",Bastardos Inglórios - 2009
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16253.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/a4e5b4c56f349ccaac5e354fa53b4f9b.jpg" group-title="Filmes | Drama",Bayoneta - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/a4e5b4c56f349ccaac5e354fa53b4f9b.jpg" group-title="Filmes | Drama",Bayoneta - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16254.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/de88b51d3145a61f44d559f375d8f629.jpg" group-title="Filmes | Drama",Beleza Americana - 1999
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/de88b51d3145a61f44d559f375d8f629.jpg" group-title="Filmes | Drama",Beleza Americana - 1999
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16256.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/3ec8a227445360b645a3d5df6f32000e.jpg" group-title="Filmes | Drama",Beleza Oculta - 2016
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/3ec8a227445360b645a3d5df6f32000e.jpg" group-title="Filmes | Drama",Beleza Oculta - 2016
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16257.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/30a45e0e50921dd226c774520f697abf.jpg" group-title="Filmes | Drama",Belle - 2013
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/30a45e0e50921dd226c774520f697abf.jpg" group-title="Filmes | Drama",Belle - 2013
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16258.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/46272cc443a564956a4c300cae37c152.jpg" group-title="Filmes | Drama",Belle e Sebastian - Amigos para Sempre - 2017
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/46272cc443a564956a4c300cae37c152.jpg" group-title="Filmes | Drama",Belle e Sebastian - Amigos para Sempre - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16984.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/6b607e97a46b711ac0552839f85e6c04.jpg" group-title="Filmes | Drama",Belém: Zona de Conflito - 2013
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/6b607e97a46b711ac0552839f85e6c04.jpg" group-title="Filmes | Drama",Belém: Zona de Conflito - 2013
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16255.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/04b8a479ad5e36ece4fcb9042c45222a.jpg" group-title="Filmes | Drama",Bohemian Rhapsody - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/04b8a479ad5e36ece4fcb9042c45222a.jpg" group-title="Filmes | Drama",Bohemian Rhapsody - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16259.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/a9c0e42664e6687b3448d728b989b835.jpg" group-title="Filmes | Drama",Boy Erased: Uma Verdade Anulada - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/a9c0e42664e6687b3448d728b989b835.jpg" group-title="Filmes | Drama",Boy Erased: Uma Verdade Anulada - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16260.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/3d5fd6419be415a85eb131dfa3882214.jpg" group-title="Filmes | Drama",Buck, O Encantador de Cavalos - 2011
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/3d5fd6419be415a85eb131dfa3882214.jpg" group-title="Filmes | Drama",Buck, O Encantador de Cavalos - 2011
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16477.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rVU4tDYu8d8w9T5qsBqHNXEGOd7.jpg" group-title="Filmes | Drama",Buscando... - 2018
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rVU4tDYu8d8w9T5qsBqHNXEGOd7.jpg" group-title="Filmes | Drama",Buscando... - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16261.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l2q0YGjNUtqZCSZpuKyCThJ7UhC.jpg" group-title="Filmes | Drama",Caçadores de Obras-Primas - 2014
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l2q0YGjNUtqZCSZpuKyCThJ7UhC.jpg" group-title="Filmes | Drama",Caçadores de Obras-Primas - 2014
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16262.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/e2a1e0c01b5385ca92bb07edf44b1d23.jpg" group-title="Filmes | Drama",Campos de Esperança - 2012
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/e2a1e0c01b5385ca92bb07edf44b1d23.jpg" group-title="Filmes | Drama",Campos de Esperança - 2012
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16263.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/1e69c9e929fc9d34f3a180a64f873c07.jpg" group-title="Filmes | Drama",Capitão Phillips - 2013
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/1e69c9e929fc9d34f3a180a64f873c07.jpg" group-title="Filmes | Drama",Capitão Phillips - 2013
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16264.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/22ee3c651904a394e0aedaee99bd24b6.jpg" group-title="Filmes | Drama",Cavalo de Guerra - 2011
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/22ee3c651904a394e0aedaee99bd24b6.jpg" group-title="Filmes | Drama",Cavalo de Guerra - 2011
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16265.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/a8ca103e71a54ba9ec068525490ff8ae.jpg" group-title="Filmes | Drama",Cavalos Selvagens - 2010
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/a8ca103e71a54ba9ec068525490ff8ae.jpg" group-title="Filmes | Drama",Cavalos Selvagens - 2010
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16266.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/70305f3c72156e32ce7bfa987357d4cf.jpg" group-title="Filmes | Drama",Cazuza - O tempo não pára - 2004
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/70305f3c72156e32ce7bfa987357d4cf.jpg" group-title="Filmes | Drama",Cazuza - O tempo não pára - 2004
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16267.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/0eb2c1a33f1e36745a4900f28f40b012.jpg" group-title="Filmes | Drama",Chico Xavier - 2010
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/0eb2c1a33f1e36745a4900f28f40b012.jpg" group-title="Filmes | Drama",Chico Xavier - 2010
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16268.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/2ef73e96b77caeb355c4a47f4d155c4b.jpg" group-title="Filmes | Drama",Chinatown - 1974
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/2ef73e96b77caeb355c4a47f4d155c4b.jpg" group-title="Filmes | Drama",Chinatown - 1974
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16269.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/e367a9901797f7c5bb3b25ad1821ddd6.jpg" group-title="Filmes | Drama",Cidade Louca - 2016
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/e367a9901797f7c5bb3b25ad1821ddd6.jpg" group-title="Filmes | Drama",Cidade Louca - 2016
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16270.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/1ce4e1f23c784670589a84e354194ab5.jpg" group-title="Filmes | Drama",Cinquenta Tons de Liberdade - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/1ce4e1f23c784670589a84e354194ab5.jpg" group-title="Filmes | Drama",Cinquenta Tons de Liberdade - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16271.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uX7ArbKTpjLGiVJdzNRHxv8Ek4K.jpg" group-title="Filmes | Drama",Closer: Perto Demais - 2004
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uX7ArbKTpjLGiVJdzNRHxv8Ek4K.jpg" group-title="Filmes | Drama",Closer: Perto Demais - 2004
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16272.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/c119d2e1caab3a9ac9884b6ee8d93175.jpg" group-title="Filmes | Drama",Clube da Luta - 1999
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/c119d2e1caab3a9ac9884b6ee8d93175.jpg" group-title="Filmes | Drama",Clube da Luta - 1999
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16273.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/d8b9d45c0996eaab6af7b8130b0b2b17.jpg" group-title="Filmes | Drama",Colette - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/d8b9d45c0996eaab6af7b8130b0b2b17.jpg" group-title="Filmes | Drama",Colette - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16275.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/ba179c57a84be7ccd75c035debd15866.jpg" group-title="Filmes | Drama",Com as Próprias Mãos - 2008
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/ba179c57a84be7ccd75c035debd15866.jpg" group-title="Filmes | Drama",Com as Próprias Mãos - 2008
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16276.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/87a123638ffc5a301746f2bbe7ba9fb6.jpg" group-title="Filmes | Drama",Com Deus no Caminho - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/87a123638ffc5a301746f2bbe7ba9fb6.jpg" group-title="Filmes | Drama",Com Deus no Caminho - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16277.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/dac278f02c7922f29d281af72426d898.jpg" group-title="Filmes | Drama",Comer, Rezar, Amar - 2010
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/dac278f02c7922f29d281af72426d898.jpg" group-title="Filmes | Drama",Comer, Rezar, Amar - 2010
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16278.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/4f5f0cb92559a93bffb814301a2fac6f.jpg" group-title="Filmes | Drama",Conexão Escobar - 2016
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/4f5f0cb92559a93bffb814301a2fac6f.jpg" group-title="Filmes | Drama",Conexão Escobar - 2016
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16279.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/3b11cc5697740b49873301e78332a5c3.jpg" group-title="Filmes | Drama",Confissões de Um Filho - 2015
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/3b11cc5697740b49873301e78332a5c3.jpg" group-title="Filmes | Drama",Confissões de Um Filho - 2015
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16280.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/58c57e464395d562f80865e8378b4f96.jpg" group-title="Filmes | Drama",Conrad e Michelle: Se Palavras Matassem - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/58c57e464395d562f80865e8378b4f96.jpg" group-title="Filmes | Drama",Conrad e Michelle: Se Palavras Matassem - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/17001.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/d9a7219ab8335786dd03100330cbca34.jpg" group-title="Filmes | Drama",Contágio - Epidemia Mortal - 2015
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/d9a7219ab8335786dd03100330cbca34.jpg" group-title="Filmes | Drama",Contágio - Epidemia Mortal - 2015
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16281.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/7ba4797f94e385ab24c29627d43578d7.jpg" group-title="Filmes | Drama",Coragem para Amar - 2017
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/7ba4797f94e385ab24c29627d43578d7.jpg" group-title="Filmes | Drama",Coragem para Amar - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16285.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/c3db7a7545444f9fc10e63786f6e0736.jpg" group-title="Filmes | Drama",Coragem para Vencer - 2016
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/c3db7a7545444f9fc10e63786f6e0736.jpg" group-title="Filmes | Drama",Coragem para Vencer - 2016
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16286.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/1b2b82b444a6952c37abd53ef96088c4.jpg" group-title="Filmes | Drama",Coração de Cowboy - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/1b2b82b444a6952c37abd53ef96088c4.jpg" group-title="Filmes | Drama",Coração de Cowboy - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16283.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/3795dec2d0c614d6e9b02b3cfc83b263.jpg" group-title="Filmes | Drama",Corações Batendo Alto - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/3795dec2d0c614d6e9b02b3cfc83b263.jpg" group-title="Filmes | Drama",Corações Batendo Alto - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16284.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/a7bc9f39317d327c61cf2a44cbfaca0b.jpg" group-title="Filmes | Drama",Corpo Fechado - 2000
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/a7bc9f39317d327c61cf2a44cbfaca0b.jpg" group-title="Filmes | Drama",Corpo Fechado - 2000
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16287.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/c2496cb57875a557daa802d7792490b6.jpg" group-title="Filmes | Drama",Corrida Selvagem - 2017
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/c2496cb57875a557daa802d7792490b6.jpg" group-title="Filmes | Drama",Corrida Selvagem - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16288.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/353be562b9216d722844b97873940976.jpg" group-title="Filmes | Drama",Crimes Na Escola - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/353be562b9216d722844b97873940976.jpg" group-title="Filmes | Drama",Crimes Na Escola - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16290.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/d57f106d9ec17857b5a2af60c2256a3e.jpg" group-title="Filmes | Drama",Cruzada - 2005
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/d57f106d9ec17857b5a2af60c2256a3e.jpg" group-title="Filmes | Drama",Cruzada - 2005
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16291.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/aa907c069dc603fe3dd52d3102c13b60.jpg" group-title="Filmes | Drama",Código de Conduta - 2009
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/aa907c069dc603fe3dd52d3102c13b60.jpg" group-title="Filmes | Drama",Código de Conduta - 2009
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16274.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/d43ad985cb7ea4f620784622d3653101.jpg" group-title="Filmes | Drama",De Fora Para Dentro - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/d43ad985cb7ea4f620784622d3653101.jpg" group-title="Filmes | Drama",De Fora Para Dentro - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16292.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/0ab43c1744426219b9355eab5f43ade0.jpg" group-title="Filmes | Drama",Depois da Escuridão - 2019
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/0ab43c1744426219b9355eab5f43ade0.jpg" group-title="Filmes | Drama",Depois da Escuridão - 2019
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16293.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/85ead5b98ee5e466d0723a5e8b2bfbb1.jpg" group-title="Filmes | Drama",Depois do Apocalipse - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/85ead5b98ee5e466d0723a5e8b2bfbb1.jpg" group-title="Filmes | Drama",Depois do Apocalipse - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16294.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/e6a338b015853b9ea2094137233df0aa.jpg" group-title="Filmes | Drama",Desafiando os Limites - 1992
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/e6a338b015853b9ea2094137233df0aa.jpg" group-title="Filmes | Drama",Desafiando os Limites - 1992
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16295.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/ef645b5db5940c26ee56198c8ebf3a90.jpg" group-title="Filmes | Drama",Desejo Fatal - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/ef645b5db5940c26ee56198c8ebf3a90.jpg" group-title="Filmes | Drama",Desejo Fatal - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16296.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/a0f886293857bc8e167fda38fd7696f4.jpg" group-title="Filmes | Drama",Detroit em Rebelião - 2017
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/a0f886293857bc8e167fda38fd7696f4.jpg" group-title="Filmes | Drama",Detroit em Rebelião - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16297.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/e4a7346f79b33b1282246ff56ee95436.jpg" group-title="Filmes | Drama",Dezessete - 2019
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/e4a7346f79b33b1282246ff56ee95436.jpg" group-title="Filmes | Drama",Dezessete - 2019
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16298.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/da260507840f7b2138308b965a2b1b4d.jpg" group-title="Filmes | Drama",Diamante de Sangue - 2006
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/da260507840f7b2138308b965a2b1b4d.jpg" group-title="Filmes | Drama",Diamante de Sangue - 2006
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16299.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eIuOax8vLiRmmOfOkqYENzVDO2J.jpg" group-title="Filmes | Drama",Diários de Motocicleta - 2004
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eIuOax8vLiRmmOfOkqYENzVDO2J.jpg" group-title="Filmes | Drama",Diários de Motocicleta - 2004
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16301.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qjaWtc1vVJsZQ1fF63ZMYWPXR1k.jpg" group-title="Filmes | Drama",Dirty Dancing 1 - 1987
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qjaWtc1vVJsZQ1fF63ZMYWPXR1k.jpg" group-title="Filmes | Drama",Dirty Dancing 1 - 1987
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16302.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w0wPl3d1yvveInjV2kpO2NCZNMz.jpg" group-title="Filmes | Drama",Dirty Dancing 2 - 2004
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w0wPl3d1yvveInjV2kpO2NCZNMz.jpg" group-title="Filmes | Drama",Dirty Dancing 2 - 2004
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16303.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bZ75Ycwp3rAy1NZczxscnYS3jU1.jpg" group-title="Filmes | Drama",Dirty Dancing 3 - 2010
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bZ75Ycwp3rAy1NZczxscnYS3jU1.jpg" group-title="Filmes | Drama",Dirty Dancing 3 - 2010
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16304.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/0878fa5d584a2af2e525e35594926bcc.jpg" group-title="Filmes | Drama",Divino Amor - 2019
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/0878fa5d584a2af2e525e35594926bcc.jpg" group-title="Filmes | Drama",Divino Amor - 2019
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16305.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/81a80111c98eb04cfa4591d8f5dcc662.jpg" group-title="Filmes | Drama",Diário de um Adolescente - 1995
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/81a80111c98eb04cfa4591d8f5dcc662.jpg" group-title="Filmes | Drama",Diário de um Adolescente - 1995
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16300.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/d862f1db893e87bf0b604e0a207875dc.jpg" group-title="Filmes | Drama",Doce Virginia - 2017
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/d862f1db893e87bf0b604e0a207875dc.jpg" group-title="Filmes | Drama",Doce Virginia - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16306.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/ca6ab1dec7e4cfecc100852540e261b8.jpg" group-title="Filmes | Drama",Dois Papas - 2019
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/ca6ab1dec7e4cfecc100852540e261b8.jpg" group-title="Filmes | Drama",Dois Papas - 2019
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16307.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/93088c3d8d77601208cb874cc011a6e6.jpg" group-title="Filmes | Drama",Domando o Destino - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/93088c3d8d77601208cb874cc011a6e6.jpg" group-title="Filmes | Drama",Domando o Destino - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16308.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/bff16e1ec57a0fa19e1778dfeb58245a.jpg" group-title="Filmes | Drama",Donnybrook - Luta Pela Redenção - 2019
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/bff16e1ec57a0fa19e1778dfeb58245a.jpg" group-title="Filmes | Drama",Donnybrook - Luta Pela Redenção - 2019
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16309.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/df79f92f59c1614bc2a62c04626da1f2.jpg" group-title="Filmes | Drama",Dr. Socrates - 1935
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/df79f92f59c1614bc2a62c04626da1f2.jpg" group-title="Filmes | Drama",Dr. Socrates - 1935
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16629.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/b14dbd987e585b3355f9e8264a6a6926.jpg" group-title="Filmes | Drama",Duas Rainhas - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/b14dbd987e585b3355f9e8264a6a6926.jpg" group-title="Filmes | Drama",Duas Rainhas - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16310.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/0c62b1ba3a186f7427b81fec338916e7.jpg" group-title="Filmes | Drama",Dunkirk - 2017
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/0c62b1ba3a186f7427b81fec338916e7.jpg" group-title="Filmes | Drama",Dunkirk - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16311.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/7dab42262a7998cfda57be1edba1e619.jpg" group-title="Filmes | Drama",Durante a Tormenta - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/7dab42262a7998cfda57be1edba1e619.jpg" group-title="Filmes | Drama",Durante a Tormenta - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16312.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p4Il6gsDrOvrW5vi1ndTDR98UmS.jpg" group-title="Filmes | Drama",Breaking Bad: O Caminho - 2019
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p4Il6gsDrOvrW5vi1ndTDR98UmS.jpg" group-title="Filmes | Drama",Breaking Bad: O Caminho - 2019
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16313.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/f20224b594fbb103c6d54bc4f1dc2654.jpg" group-title="Filmes | Drama",Elisa e Marcela - 2019
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/f20224b594fbb103c6d54bc4f1dc2654.jpg" group-title="Filmes | Drama",Elisa e Marcela - 2019
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16314.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/86542c411a1e1945e0d3f5b7601f5748.jpg" group-title="Filmes | Drama",Elle - 2016
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/86542c411a1e1945e0d3f5b7601f5748.jpg" group-title="Filmes | Drama",Elle - 2016
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16315.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/166a491fdba42ce9acee4061f293eb2c.jpg" group-title="Filmes | Drama",Elon Não Acredita na Morte - 2017
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/166a491fdba42ce9acee4061f293eb2c.jpg" group-title="Filmes | Drama",Elon Não Acredita na Morte - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16316.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/f56f8190c32bdda59832e537d8806469.jpg" group-title="Filmes | Drama",Em Defesa de Cristo - 2017
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/f56f8190c32bdda59832e537d8806469.jpg" group-title="Filmes | Drama",Em Defesa de Cristo - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16318.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6QeCHXBlLk0kdi50gisN5iwvZ4A.jpg" group-title="Filmes | Drama",Emblema de Fé
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6QeCHXBlLk0kdi50gisN5iwvZ4A.jpg" group-title="Filmes | Drama",Emblema de Fé
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16317.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3MhOcjBPRG2MXVyyLND1U1NIvPJ.jpg" group-title="Filmes | Drama",Encontrando o Amor em Sugarcreek - 2014
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3MhOcjBPRG2MXVyyLND1U1NIvPJ.jpg" group-title="Filmes | Drama",Encontrando o Amor em Sugarcreek - 2014
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/17022.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jSx2NtVcy3PJST6YHefNdxw5euZ.jpg" group-title="Filmes | Drama",A Encruzilhada - 1986
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jSx2NtVcy3PJST6YHefNdxw5euZ.jpg" group-title="Filmes | Drama",A Encruzilhada - 1986
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16180.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/2a798d17ee7e1f275349fc3acf3ad3ee.jpg" group-title="Filmes | Drama",Entre Irmãos - 2009
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/2a798d17ee7e1f275349fc3acf3ad3ee.jpg" group-title="Filmes | Drama",Entre Irmãos - 2009
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16319.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/9bdbea03f7d38267e3b151bd45376fc9.jpg" group-title="Filmes | Drama",Era uma Vez em Hollywood III - 1994
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/9bdbea03f7d38267e3b151bd45376fc9.jpg" group-title="Filmes | Drama",Era uma Vez em Hollywood III - 1994
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16321.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c4/Era_Uma_Vez%28filme%29.jpg" group-title="Filmes | Drama",Era Uma Vez... - 2008
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c4/Era_Uma_Vez%28filme%29.jpg" group-title="Filmes | Drama",Era Uma Vez... - 2008
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16320.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h4dbcumv4ruZRZEvsOorqnAGrRG.jpg" group-title="Filmes | Drama",Escobar: A Traição - 2017
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h4dbcumv4ruZRZEvsOorqnAGrRG.jpg" group-title="Filmes | Drama",Escobar: A Traição - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16322.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/5e9c8c8bb613988ae72e60cea00dce8a.jpg" group-title="Filmes | Drama",Espírito Jovem - 2019
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/5e9c8c8bb613988ae72e60cea00dce8a.jpg" group-title="Filmes | Drama",Espírito Jovem - 2019
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16323.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/b1ff938e8dcdae598123d5c6c7cdd68c.jpg" group-title="Filmes | Drama",Estarei em Casa para o Natal - 2016
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/b1ff938e8dcdae598123d5c6c7cdd68c.jpg" group-title="Filmes | Drama",Estarei em Casa para o Natal - 2016
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16324.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/ca84c138979d40d43808fa0589d06f9a.jpg" group-title="Filmes | Drama",Estrada Sem Lei - 2019
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/ca84c138979d40d43808fa0589d06f9a.jpg" group-title="Filmes | Drama",Estrada Sem Lei - 2019
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16325.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/e3b6cc267479c340cf4e6b2144a1f936.jpg" group-title="Filmes | Drama",Estrelas Além do Tempo - 2016
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/e3b6cc267479c340cf4e6b2144a1f936.jpg" group-title="Filmes | Drama",Estrelas Além do Tempo - 2016
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16326.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/4e567693525daa9dcacd0cbf47fe2bdf.jpg" group-title="Filmes | Drama",Eu Acredito - 2017
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/4e567693525daa9dcacd0cbf47fe2bdf.jpg" group-title="Filmes | Drama",Eu Acredito - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/17028.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1llJ6a7P4JShSqJtNGnmY8J6YC8.jpg" group-title="Filmes | Drama",Eu Mato Gigantes - 2018
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1llJ6a7P4JShSqJtNGnmY8J6YC8.jpg" group-title="Filmes | Drama",Eu Mato Gigantes - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16328.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/2528819be9b860889a624470e0fdf408.jpg" group-title="Filmes | Drama",Eu Só Posso Imaginar - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/2528819be9b860889a624470e0fdf408.jpg" group-title="Filmes | Drama",Eu Só Posso Imaginar - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16329.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/81919c654b7655004dd90e9fe42aaf02.jpg" group-title="Filmes | Drama",Eu, Tonya - 2017
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/81919c654b7655004dd90e9fe42aaf02.jpg" group-title="Filmes | Drama",Eu, Tonya - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16330.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/518e04edee110b4dfa577151e2c7dd4e.jpg" group-title="Filmes | Drama",Euforia - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/518e04edee110b4dfa577151e2c7dd4e.jpg" group-title="Filmes | Drama",Euforia - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16327.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/6a84f5e9b2980b00f48e21b365a53695.jpg" group-title="Filmes | Drama",Evereste - 2015
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/6a84f5e9b2980b00f48e21b365a53695.jpg" group-title="Filmes | Drama",Evereste - 2015
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16331.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/efda5217baadf23d5b2edf5bb5df9404.jpg" group-title="Filmes | Drama",Extraordinário - 2017
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/efda5217baadf23d5b2edf5bb5df9404.jpg" group-title="Filmes | Drama",Extraordinário - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16333.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/b7c1c2e0181b813959b3c1a536365299.jpg" group-title="Filmes | Drama",Familiye - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/b7c1c2e0181b813959b3c1a536365299.jpg" group-title="Filmes | Drama",Familiye - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16334.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/fbfb0d691b04e53c4fce66df15433710.jpg" group-title="Filmes | Drama",Faroeste Caboclo - 2013
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/fbfb0d691b04e53c4fce66df15433710.jpg" group-title="Filmes | Drama",Faroeste Caboclo - 2013
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16335.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/0d10b70935757f12fb26eaf11d098e50.jpg" group-title="Filmes | Drama",Favela - 1960
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/0d10b70935757f12fb26eaf11d098e50.jpg" group-title="Filmes | Drama",Favela - 1960
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16336.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/6b40cacc42b5f6eb557f0fad81ca7cdd.jpg" group-title="Filmes | Drama",Fera - 2019
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/6b40cacc42b5f6eb557f0fad81ca7cdd.jpg" group-title="Filmes | Drama",Fera - 2019
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16185.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/71dc7b51489206e881b0cd5f0739db87.jpg" group-title="Filmes | Drama",Filadélfia - 1993
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/71dc7b51489206e881b0cd5f0739db87.jpg" group-title="Filmes | Drama",Filadélfia - 1993
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16337.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/e55d90ee45d29c52bbd339a7de848e7b.jpg" group-title="Filmes | Drama",Filhas do Sol - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/e55d90ee45d29c52bbd339a7de848e7b.jpg" group-title="Filmes | Drama",Filhas do Sol - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16338.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/f3d1bcb5011257ea32f63bbe960790d1.jpg" group-title="Filmes | Drama",Filhos da Esperança - 2006
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/f3d1bcb5011257ea32f63bbe960790d1.jpg" group-title="Filmes | Drama",Filhos da Esperança - 2006
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16339.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/6e896599165f5431dac8e49f4809d498.jpg" group-title="Filmes | Drama",Filmando Casablanca - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/6e896599165f5431dac8e49f4809d498.jpg" group-title="Filmes | Drama",Filmando Casablanca - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/17029.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/f5c19ac720a457e6bc6dfa8e8c50f5dd.jpg" group-title="Filmes | Drama",Fique Rico ou Morra Tentando - 2005
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/f5c19ac720a457e6bc6dfa8e8c50f5dd.jpg" group-title="Filmes | Drama",Fique Rico ou Morra Tentando - 2005
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16340.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/4cbf90cab8782a10edae98d5d7b0f218.jpg" group-title="Filmes | Drama",Fome de Poder - 2016
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/4cbf90cab8782a10edae98d5d7b0f218.jpg" group-title="Filmes | Drama",Fome de Poder - 2016
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16341.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/db446357438242ae7f034679e0c08321.jpg" group-title="Filmes | Drama",Forjando Campeões - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/db446357438242ae7f034679e0c08321.jpg" group-title="Filmes | Drama",Forjando Campeões - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16343.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/aac42bb206c7a476c6a20317cfb24255.jpg" group-title="Filmes | Drama",Forrest Gump - O Contador de Histórias - 1994
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/aac42bb206c7a476c6a20317cfb24255.jpg" group-title="Filmes | Drama",Forrest Gump - O Contador de Histórias - 1994
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16344.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/e259b5cf20536f9061ee009197055476.jpg" group-title="Filmes | Drama",Força para Viver - 2014
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/e259b5cf20536f9061ee009197055476.jpg" group-title="Filmes | Drama",Força para Viver - 2014
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16342.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/58773911f37e34e10a63488f9cd64730.jpg" group-title="Filmes | Drama",Fuga de Alcatraz - 1979
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/58773911f37e34e10a63488f9cd64730.jpg" group-title="Filmes | Drama",Fuga de Alcatraz - 1979
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16345.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/9c80a9d31a2dc20d63d4e43d86c877f5.jpg" group-title="Filmes | Drama",Gauguin – Viagem ao Taiti - 2017
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/9c80a9d31a2dc20d63d4e43d86c877f5.jpg" group-title="Filmes | Drama",Gauguin – Viagem ao Taiti - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16346.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/f01e052197a956525dab97099e81d73e.jpg" group-title="Filmes | Drama",Gente de Bem - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/f01e052197a956525dab97099e81d73e.jpg" group-title="Filmes | Drama",Gente de Bem - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16347.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6UBBqnDX5XXLZD8zymngUHu58Ce.jpg" group-title="Filmes | Drama",Gol! 1 - O Sonho Impossível - 2005
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6UBBqnDX5XXLZD8zymngUHu58Ce.jpg" group-title="Filmes | Drama",Gol! 1 - O Sonho Impossível - 2005
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16348.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sKKej989oVbZahldAkrMVmyB8pU.jpg" group-title="Filmes | Drama",Gol! 2 - Vivendo o Sonho - 2007
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sKKej989oVbZahldAkrMVmyB8pU.jpg" group-title="Filmes | Drama",Gol! 2 - Vivendo o Sonho - 2007
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16349.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ak5yYUtaZ7yoe2SesHXi7sjBp5V.jpg" group-title="Filmes | Drama",Gol! 3 - Assumindo o Mundo - 2009
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ak5yYUtaZ7yoe2SesHXi7sjBp5V.jpg" group-title="Filmes | Drama",Gol! 3 - Assumindo o Mundo - 2009
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16350.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/16e821b19161176f91cce24cd1fe6351.jpg" group-title="Filmes | Drama",Gonzaga – De Pai Pra Filho - 2012
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/16e821b19161176f91cce24cd1fe6351.jpg" group-title="Filmes | Drama",Gonzaga – De Pai Pra Filho - 2012
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16351.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/6f431c2a7eb05dee6c457ce183d8e46a.jpg" group-title="Filmes | Drama",Gotti - O Chefe da Máfia - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/6f431c2a7eb05dee6c457ce183d8e46a.jpg" group-title="Filmes | Drama",Gotti - O Chefe da Máfia - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16352.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/daf3d306bd143da06116862f3d3b3600.jpg" group-title="Filmes | Drama",Grandes Esperanças - 1946
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/daf3d306bd143da06116862f3d3b3600.jpg" group-title="Filmes | Drama",Grandes Esperanças - 1946
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16354.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/b10773713b55b3cc75b0a802ecd83b38.jpg" group-title="Filmes | Drama",Graças a Deus - 2019
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/b10773713b55b3cc75b0a802ecd83b38.jpg" group-title="Filmes | Drama",Graças a Deus - 2019
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16353.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/b872a07ddf16e0682f7d0fb82bc026e0.jpg" group-title="Filmes | Drama",Green Book: O Guia - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/b872a07ddf16e0682f7d0fb82bc026e0.jpg" group-title="Filmes | Drama",Green Book: O Guia - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16355.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/92f448c9d71fb531257719e0f171f80d.jpg" group-title="Filmes | Drama",Guerra é Guerra - 1977
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/92f448c9d71fb531257719e0f171f80d.jpg" group-title="Filmes | Drama",Guerra é Guerra - 1977
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16356.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/18eba18cf89d134acdd60b2f6dd8866c.jpg" group-title="Filmes | Drama",Hala - 2019
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/18eba18cf89d134acdd60b2f6dd8866c.jpg" group-title="Filmes | Drama",Hala - 2019
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16357.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/0d416d293c7ddf8ba7683742a13f7520.jpg" group-title="Filmes | Drama",Hardball - O Jogo da Vida - 2001
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/0d416d293c7ddf8ba7683742a13f7520.jpg" group-title="Filmes | Drama",Hardball - O Jogo da Vida - 2001
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16358.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/b8f9d07e0aae51904ebb61e3d21813f8.jpg" group-title="Filmes | Drama",Herança de Sangue - 2016
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/b8f9d07e0aae51904ebb61e3d21813f8.jpg" group-title="Filmes | Drama",Herança de Sangue - 2016
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16359.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/ca40a1b0ee15e056e401c4278a3cf510.jpg" group-title="Filmes | Drama",High Flying Bird - 2019
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/ca40a1b0ee15e056e401c4278a3cf510.jpg" group-title="Filmes | Drama",High Flying Bird - 2019
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16360.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/e4acec8940f1b66e4f355612d9003659.jpg" group-title="Filmes | Drama",Hip-Hop Beats - 2019
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/e4acec8940f1b66e4f355612d9003659.jpg" group-title="Filmes | Drama",Hip-Hop Beats - 2019
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16361.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/bc756803944a477fe75e775ffe0919fe.jpg" group-title="Filmes | Drama",História de um Casamento - 2019
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/bc756803944a477fe75e775ffe0919fe.jpg" group-title="Filmes | Drama",História de um Casamento - 2019
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16362.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/06d8965fdaf5435dc9734c54e4eea62a.jpg" group-title="Filmes | Drama",Histórias Cruzadas - 2011
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/06d8965fdaf5435dc9734c54e4eea62a.jpg" group-title="Filmes | Drama",Histórias Cruzadas - 2011
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16363.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/999c52607699ba852d2cf0a31df565d7.jpg" group-title="Filmes | Drama",Homem Irracional - 2015
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/999c52607699ba852d2cf0a31df565d7.jpg" group-title="Filmes | Drama",Homem Irracional - 2015
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16486.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5kDbv1onD8Me0INAHYa3aKhD3lq.jpg" group-title="Filmes | Drama",Homens De Honra - 2000
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5kDbv1onD8Me0INAHYa3aKhD3lq.jpg" group-title="Filmes | Drama",Homens De Honra - 2000
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16364.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zEONyIs5KCUHxBIhCegsAdUEaOk.jpg" group-title="Filmes | Drama",Honey 2: No Ritmo dos Sonhos - 2011
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zEONyIs5KCUHxBIhCegsAdUEaOk.jpg" group-title="Filmes | Drama",Honey 2: No Ritmo dos Sonhos - 2011
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16365.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fKb2kGQzlC0YUoqxzprgZUsxnQs.jpg" group-title="Filmes | Drama",Honey 3: No Ritmo do Amor - 2016
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fKb2kGQzlC0YUoqxzprgZUsxnQs.jpg" group-title="Filmes | Drama",Honey 3: No Ritmo do Amor - 2016
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16366.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gzxUNGk79dHk2mUb5HrhvooHScV.jpg" group-title="Filmes | Drama",Honey 4: Pulsar de um Ritmo - 2018
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gzxUNGk79dHk2mUb5HrhvooHScV.jpg" group-title="Filmes | Drama",Honey 4: Pulsar de um Ritmo - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16367.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/6d690ad5153d8f3121730768ceb807c4.jpg" group-title="Filmes | Drama",Honra ao Mérito - 2017
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/6d690ad5153d8f3121730768ceb807c4.jpg" group-title="Filmes | Drama",Honra ao Mérito - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16368.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/057101e2df0f23f6909e91ec2210414d.jpg" group-title="Filmes | Drama",Hora de Recomeçar - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/057101e2df0f23f6909e91ec2210414d.jpg" group-title="Filmes | Drama",Hora de Recomeçar - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16369.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/7a3440507a8a84a01f9117159328cb78.jpg" group-title="Filmes | Drama",Il contagio - 2017
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/7a3440507a8a84a01f9117159328cb78.jpg" group-title="Filmes | Drama",Il contagio - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16282.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/a855bf458b637038fd9e1ff10d9018a8.jpg" group-title="Filmes | Drama",Ilha do Medo - 2010
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/a855bf458b637038fd9e1ff10d9018a8.jpg" group-title="Filmes | Drama",Ilha do Medo - 2010
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16370.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/c761b1816b90eaf64ba398dae0071a88.jpg" group-title="Filmes | Drama",Illang: A Brigada Lobo - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/c761b1816b90eaf64ba398dae0071a88.jpg" group-title="Filmes | Drama",Illang: A Brigada Lobo - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16371.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/bc50e06d134168d243c90788cad92f9d.jpg" group-title="Filmes | Drama",Infiltrado Na Klan - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/bc50e06d134168d243c90788cad92f9d.jpg" group-title="Filmes | Drama",Infiltrado Na Klan - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16372.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/e9bfb9bcd1242347595af942dafa37b3.jpg" group-title="Filmes | Drama",Inimigos Públicos - 2009
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/e9bfb9bcd1242347595af942dafa37b3.jpg" group-title="Filmes | Drama",Inimigos Públicos - 2009
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16374.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/50ba232a0444a5510c65333fa540f295.jpg" group-title="Filmes | Drama",Inimigos Íntimos - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/50ba232a0444a5510c65333fa540f295.jpg" group-title="Filmes | Drama",Inimigos Íntimos - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16373.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/9b20f079ca8d6a25aef8816b01fa7cb3.jpg" group-title="Filmes | Drama",Interestelar - 2014
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/9b20f079ca8d6a25aef8816b01fa7cb3.jpg" group-title="Filmes | Drama",Interestelar - 2014
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16375.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/e112f79e7c235cfda643f6ee48ca73ff.jpg" group-title="Filmes | Drama",Intermediário.com - 2009
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/e112f79e7c235cfda643f6ee48ca73ff.jpg" group-title="Filmes | Drama",Intermediário.com - 2009
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16376.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/ee8f188c25e235af6048397120c2b523.jpg" group-title="Filmes | Drama",Intocáveis - 2011
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/ee8f188c25e235af6048397120c2b523.jpg" group-title="Filmes | Drama",Intocáveis - 2011
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16377.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/f1beb448115256cdc463d94488602361.jpg" group-title="Filmes | Drama",Invasão de Privacidade - 1993
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/f1beb448115256cdc463d94488602361.jpg" group-title="Filmes | Drama",Invasão de Privacidade - 1993
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16378.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/b52eb62d54ab7b79c8196506df854b5a.jpg" group-title="Filmes | Drama",Invencível - 2006
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/b52eb62d54ab7b79c8196506df854b5a.jpg" group-title="Filmes | Drama",Invencível - 2006
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16379.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/38a99308529d8b6825d2133baeb18dfa.jpg" group-title="Filmes | Drama",Invencível: Caminho da Redenção - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/38a99308529d8b6825d2133baeb18dfa.jpg" group-title="Filmes | Drama",Invencível: Caminho da Redenção - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16380.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/7f3c7eebff0bf5b6b76872fef9332483.jpg" group-title="Filmes | Drama",Invictus - 2009
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/7f3c7eebff0bf5b6b76872fef9332483.jpg" group-title="Filmes | Drama",Invictus - 2009
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16381.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/177c18c60eb8246e749a2f14c937a055.jpg" group-title="Filmes | Drama",Jane Eyre - 2011
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/177c18c60eb8246e749a2f14c937a055.jpg" group-title="Filmes | Drama",Jane Eyre - 2011
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16382.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/43ffZhMCWQhzMneGP4kDWoPV48X.jpg" group-title="Filmes | Drama",JT Leroy	 - Escritor Fantasma - 2019
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/43ffZhMCWQhzMneGP4kDWoPV48X.jpg" group-title="Filmes | Drama",JT Leroy	 - Escritor Fantasma - 2019
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16383.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nW4uNwPERWdAL9ozDEhVznh5Rpm.jpg" group-title="Filmes | Drama",Jogo Perigoso - 2017
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nW4uNwPERWdAL9ozDEhVznh5Rpm.jpg" group-title="Filmes | Drama",Jogo Perigoso - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16385.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/3b58016bfd56d1494e32eb97bb6275e8.jpg" group-title="Filmes | Drama",Jornada Pela Liberdade - 2006
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/3b58016bfd56d1494e32eb97bb6275e8.jpg" group-title="Filmes | Drama",Jornada Pela Liberdade - 2006
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16386.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/2dfb795beb9c73531c84bbd8dec31001.jpg" group-title="Filmes | Drama",Journeyman: Fora de Combate - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/2dfb795beb9c73531c84bbd8dec31001.jpg" group-title="Filmes | Drama",Journeyman: Fora de Combate - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16387.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/6ec8fc396c86215e84b7e0eb7a55b041.jpg" group-title="Filmes | Drama",Jovens Mulheres - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/6ec8fc396c86215e84b7e0eb7a55b041.jpg" group-title="Filmes | Drama",Jovens Mulheres - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16388.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/4420235100ba56432487341161ffffb6.jpg" group-title="Filmes | Drama",Juanita - 2019
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/4420235100ba56432487341161ffffb6.jpg" group-title="Filmes | Drama",Juanita - 2019
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16389.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/6560c8a2477cb3c13d3b6db4e94b6c56.jpg" group-title="Filmes | Drama",Justiça em Chamas - 2019
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/6560c8a2477cb3c13d3b6db4e94b6c56.jpg" group-title="Filmes | Drama",Justiça em Chamas - 2019
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16390.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/ac55804ed6bae933fe08022d9768e4df.jpg" group-title="Filmes | Drama",Kamp Holland - 2016
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/ac55804ed6bae933fe08022d9768e4df.jpg" group-title="Filmes | Drama",Kamp Holland - 2016
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/17049.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dAB64Bp7S4JaMutZMEOWSycdge2.jpg" group-title="Filmes | Drama",Karatê Kid 1 - 1984
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dAB64Bp7S4JaMutZMEOWSycdge2.jpg" group-title="Filmes | Drama",Karatê Kid 1 - 1984
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16391.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f46q3SjOI57iB6jm7W6RrM03FZb.jpg" group-title="Filmes | Drama",Karatê Kid 3 - 1989
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f46q3SjOI57iB6jm7W6RrM03FZb.jpg" group-title="Filmes | Drama",Karatê Kid 3 - 1989
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16393.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wI3gCi9w1cuUJCiwhviAy46we9Q.jpg" group-title="Filmes | Drama",Karatê Kid 4 - 1994
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wI3gCi9w1cuUJCiwhviAy46we9Q.jpg" group-title="Filmes | Drama",Karatê Kid 4 - 1994
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16394.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gDfki2cMZnwHOUKNfVNWiRNMGht.jpg" group-title="Filmes | Drama",Kardec: A História por Trás do Nome - 2019
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gDfki2cMZnwHOUKNfVNWiRNMGht.jpg" group-title="Filmes | Drama",Kardec: A História por Trás do Nome - 2019
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16395.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/d07d674767416eb7af51694f1207bda2.jpg" group-title="Filmes | Drama",KV1 – Almas de Ferro - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/d07d674767416eb7af51694f1207bda2.jpg" group-title="Filmes | Drama",KV1 – Almas de Ferro - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/17051.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/51fe3b63a1470b3b07d786e4a75052b6.jpg" group-title="Filmes | Drama",La mula - 2013
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/51fe3b63a1470b3b07d786e4a75052b6.jpg" group-title="Filmes | Drama",La mula - 2013
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16209.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tAPvkv0XTeLFqlvMgtlFB8mqk3L.jpg" group-title="Filmes | Drama",Lavanda - 2016
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tAPvkv0XTeLFqlvMgtlFB8mqk3L.jpg" group-title="Filmes | Drama",Lavanda - 2016
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16397.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/b5260867e8c0aadd1df709849211681c.jpg" group-title="Filmes | Drama",LBJ - A Esperança de Uma Nação - 2017
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/b5260867e8c0aadd1df709849211681c.jpg" group-title="Filmes | Drama",LBJ - A Esperança de Uma Nação - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16398.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/598f00a7c6a7ac246127906e3d865bd0.jpg" group-title="Filmes | Drama",Legalidade - 2019
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/598f00a7c6a7ac246127906e3d865bd0.jpg" group-title="Filmes | Drama",Legalidade - 2019
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16399.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/6130d24b4b04ae4174212dd78ede2de6.jpg" group-title="Filmes | Drama",Legítimo Rei - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/6130d24b4b04ae4174212dd78ede2de6.jpg" group-title="Filmes | Drama",Legítimo Rei - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16400.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/a2168413146c8c49157ba6244e311e9b.jpg" group-title="Filmes | Drama",Lembranças de um Verão - 2001
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/a2168413146c8c49157ba6244e311e9b.jpg" group-title="Filmes | Drama",Lembranças de um Verão - 2001
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16401.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/dcffb75eae745f3098e6ee103403df16.jpg" group-title="Filmes | Drama",Lembranças de uma Infância - 2016
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/dcffb75eae745f3098e6ee103403df16.jpg" group-title="Filmes | Drama",Lembranças de uma Infância - 2016
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/17054.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/8868473f92b482bc2af3ffd573852eb2.jpg" group-title="Filmes | Drama",Lion: Uma Jornada para Casa - 2016
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/8868473f92b482bc2af3ffd573852eb2.jpg" group-title="Filmes | Drama",Lion: Uma Jornada para Casa - 2016
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16402.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/9bcbcdab0dbc5b4c44cd3bda6a1133c0.jpg" group-title="Filmes | Drama",Lizzie - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/9bcbcdab0dbc5b4c44cd3bda6a1133c0.jpg" group-title="Filmes | Drama",Lizzie - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16403.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/70d1070e7c4b992679ae64eea19b6bc5.jpg" group-title="Filmes | Drama",Locke - 2014
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/70d1070e7c4b992679ae64eea19b6bc5.jpg" group-title="Filmes | Drama",Locke - 2014
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16404.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1GsWLlFnS79kpz9DgW91M6yB46H.jpg" group-title="Filmes | Drama",Longe Deste Insensato Mundo - 2015
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1GsWLlFnS79kpz9DgW91M6yB46H.jpg" group-title="Filmes | Drama",Longe Deste Insensato Mundo - 2015
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/17059.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/98b05f0337398305fa5801f3a6bbf35a.jpg" group-title="Filmes | Drama",Lutador Misterioso - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/98b05f0337398305fa5801f3a6bbf35a.jpg" group-title="Filmes | Drama",Lutador Misterioso - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16405.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/2e192982eed9bd0a10d3676051a3c4e8.jpg" group-title="Filmes | Drama",Lutando Por Um Sonho - 2017
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/2e192982eed9bd0a10d3676051a3c4e8.jpg" group-title="Filmes | Drama",Lutando Por Um Sonho - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16406.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/2ffa4d1ca13dd78629222fca4cefbb0c.jpg" group-title="Filmes | Drama",Lutero - 2003
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/2ffa4d1ca13dd78629222fca4cefbb0c.jpg" group-title="Filmes | Drama",Lutero - 2003
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16407.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/ebbb9c59213676235ea0e5e62b39474c.jpg" group-title="Filmes | Drama",Mademoiselle Vingança - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/ebbb9c59213676235ea0e5e62b39474c.jpg" group-title="Filmes | Drama",Mademoiselle Vingança - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16408.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jPLNkniLLLsnvqRDncIyFyTcXsN.jpg" group-title="Filmes | Drama",Mãe - 2019
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jPLNkniLLLsnvqRDncIyFyTcXsN.jpg" group-title="Filmes | Drama",Mãe - 2019
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16409.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/045a03f03a49fdf50b8fc6e31c778c1a.jpg" group-title="Filmes | Drama",Mais Forte que o Mundo - A História de José Aldo - 2016
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/045a03f03a49fdf50b8fc6e31c778c1a.jpg" group-title="Filmes | Drama",Mais Forte que o Mundo - A História de José Aldo - 2016
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16410.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/76e7fd13c728bb316950cf1106af50e9.jpg" group-title="Filmes | Drama",Mais Uma Chance - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/76e7fd13c728bb316950cf1106af50e9.jpg" group-title="Filmes | Drama",Mais Uma Chance - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16411.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/e0ac684f608fb3ce93bd2fa82ddc04ee.jpg" group-title="Filmes | Drama",Manchester à Beira-Mar - 2016
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/e0ac684f608fb3ce93bd2fa82ddc04ee.jpg" group-title="Filmes | Drama",Manchester à Beira-Mar - 2016
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16412.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/80de5a2f7836388401c9eeeeedea9ef9.jpg" group-title="Filmes | Drama",Mar em Fúria - 2000
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/80de5a2f7836388401c9eeeeedea9ef9.jpg" group-title="Filmes | Drama",Mar em Fúria - 2000
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16416.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/91a1afc51ff0dda482db2de433d64124.jpg" group-title="Filmes | Drama",Marcados para Morrer - 2012
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/91a1afc51ff0dda482db2de433d64124.jpg" group-title="Filmes | Drama",Marcados para Morrer - 2012
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16414.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/dbcb83dc52ea7af6bd23865717a6ebb7.jpg" group-title="Filmes | Drama",Marcas Da Prisão - 2017
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/dbcb83dc52ea7af6bd23865717a6ebb7.jpg" group-title="Filmes | Drama",Marcas Da Prisão - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16415.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/b642e92c5b0709254809e58ac3013e9b.jpg" group-title="Filmes | Drama",Marshall: Igualdade e Justiça - 2017
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/b642e92c5b0709254809e58ac3013e9b.jpg" group-title="Filmes | Drama",Marshall: Igualdade e Justiça - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16417.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/f2651e4a9964cf0879340262d2fb4174.jpg" group-title="Filmes | Drama",Mary Shelley - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/f2651e4a9964cf0879340262d2fb4174.jpg" group-title="Filmes | Drama",Mary Shelley - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16418.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/1389f155b22cd352b465cb53ed53a192.jpg" group-title="Filmes | Drama",Massacre na Ucrânia - 2017
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/1389f155b22cd352b465cb53ed53a192.jpg" group-title="Filmes | Drama",Massacre na Ucrânia - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16419.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/ddf637bb3c7deb0d23ecfad529d58eb8.jpg" group-title="Filmes | Drama",Matar a Jesús - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/ddf637bb3c7deb0d23ecfad529d58eb8.jpg" group-title="Filmes | Drama",Matar a Jesús - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16420.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/506462fd5fb6f815e01ce7bb8ad76099.jpg" group-title="Filmes | Drama",Medo Profundo - 2017
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/506462fd5fb6f815e01ce7bb8ad76099.jpg" group-title="Filmes | Drama",Medo Profundo - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16421.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/deffcfd5fe5072a80708152a0a003bb5.jpg" group-title="Filmes | Drama",Megan Leavey - 2017
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/deffcfd5fe5072a80708152a0a003bb5.jpg" group-title="Filmes | Drama",Megan Leavey - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16422.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/1f9a0eb8f2355b26af6ad88469522e18.jpg" group-title="Filmes | Drama",Meio Irmão - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/1f9a0eb8f2355b26af6ad88469522e18.jpg" group-title="Filmes | Drama",Meio Irmão - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/17074.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/ef4c4324b9c8596f042c5817b61506d5.jpg" group-title="Filmes | Drama",Melanie: A Última Esperança - 2016
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/ef4c4324b9c8596f042c5817b61506d5.jpg" group-title="Filmes | Drama",Melanie: A Última Esperança - 2016
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16423.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/4dd2c7ce35b51cd79854cdb8ac7b4d54.jpg" group-title="Filmes | Drama",Memórias de um Assassino - 2003
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/4dd2c7ce35b51cd79854cdb8ac7b4d54.jpg" group-title="Filmes | Drama",Memórias de um Assassino - 2003
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16424.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/svTPcBSl6DozVGgQIZdOaujdwZQ.jpg" group-title="Filmes | Drama",Menendez: Irmãos de Sangue - 2017
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/svTPcBSl6DozVGgQIZdOaujdwZQ.jpg" group-title="Filmes | Drama",Menendez: Irmãos de Sangue - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16425.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/3bf17d98d4fb098a9e9ca1a6f0361026.jpg" group-title="Filmes | Drama",Menina de Ouro - 2004
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/3bf17d98d4fb098a9e9ca1a6f0361026.jpg" group-title="Filmes | Drama",Menina de Ouro - 2004
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16426.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/847aa4506ab073f841c07432d73ce477.jpg" group-title="Filmes | Drama",Meu Nome é Dolemite - 2019
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/847aa4506ab073f841c07432d73ce477.jpg" group-title="Filmes | Drama",Meu Nome é Dolemite - 2019
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16427.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/b666364565d87e948d703c4077e7fcb0.jpg" group-title="Filmes | Drama",Meu Nome É Emily - 2016
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/b666364565d87e948d703c4077e7fcb0.jpg" group-title="Filmes | Drama",Meu Nome É Emily - 2016
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/17077.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/3d9eb7aec2bc44c2f133327212a33097.jpg" group-title="Filmes | Drama",Meu Nome é Radio - 2003
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/3d9eb7aec2bc44c2f133327212a33097.jpg" group-title="Filmes | Drama",Meu Nome é Radio - 2003
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16428.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/ba4642f845a095cbbba92228161a3694.jpg" group-title="Filmes | Drama",Milagres do Paraíso - 2016
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/ba4642f845a095cbbba92228161a3694.jpg" group-title="Filmes | Drama",Milagres do Paraíso - 2016
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16429.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/f8503d63d840c27a054884059f7d5ccc.jpg" group-title="Filmes | Drama",Millennium 2: A Menina que Brincava com Fogo - 2009
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/f8503d63d840c27a054884059f7d5ccc.jpg" group-title="Filmes | Drama",Millennium 2: A Menina que Brincava com Fogo - 2009
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16431.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/0f59588b2005226201bc5529f3668b1d.jpg" group-title="Filmes | Drama",Millennium 3: A Rainha do Castelo de Ar - 2009
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/0f59588b2005226201bc5529f3668b1d.jpg" group-title="Filmes | Drama",Millennium 3: A Rainha do Castelo de Ar - 2009
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16432.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/392437e4b44a72775a51520dc1fe266a.jpg" group-title="Filmes | Drama",Millennium 1: Os Homens Que Não Amavam as Mulheres - 2011
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/392437e4b44a72775a51520dc1fe266a.jpg" group-title="Filmes | Drama",Millennium 1: Os Homens Que Não Amavam as Mulheres - 2011
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16430.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/39a8d77af9df10b37f52f2985fb47f18.jpg" group-title="Filmes | Drama",Minha Casa Rosa - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/39a8d77af9df10b37f52f2985fb47f18.jpg" group-title="Filmes | Drama",Minha Casa Rosa - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16433.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/91fb800368da8362560963487c3c8a02.jpg" group-title="Filmes | Drama",Minha Primeira Luta - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/91fb800368da8362560963487c3c8a02.jpg" group-title="Filmes | Drama",Minha Primeira Luta - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16434.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/53a4c4628b12cdab6c8a052a535efd34.jpg" group-title="Filmes | Drama",Missão de Honra - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/53a4c4628b12cdab6c8a052a535efd34.jpg" group-title="Filmes | Drama",Missão de Honra - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/17080.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/9301f451ca00b4e63d77e5a2a9d24ad7.jpg" group-title="Filmes | Drama",Missão no Mar Vermelho - 2019
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/9301f451ca00b4e63d77e5a2a9d24ad7.jpg" group-title="Filmes | Drama",Missão no Mar Vermelho - 2019
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16435.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kNbTwTn0YLm03XrCMa2XUgcyKm8.jpg" group-title="Filmes | Drama",Mogli 1 - 2016
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kNbTwTn0YLm03XrCMa2XUgcyKm8.jpg" group-title="Filmes | Drama",Mogli 1 - 2016
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16437.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/0a31823fb3dbbba8ac2c7e832e9b652e.jpg" group-title="Filmes | Drama",Mogli 2 - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/0a31823fb3dbbba8ac2c7e832e9b652e.jpg" group-title="Filmes | Drama",Mogli 2 - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16436.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/42c6d3ad1ef56b58b6e1a3c35986eac5.jpg" group-title="Filmes | Drama",Mudo - 2019
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/42c6d3ad1ef56b58b6e1a3c35986eac5.jpg" group-title="Filmes | Drama",Mudo - 2019
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16439.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/4c31883259f9af9d9eb9d823a369671b.jpg" group-title="Filmes | Drama",Mãos Talentosas: A História de Benjamin Carson - 2009
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/4c31883259f9af9d9eb9d823a369671b.jpg" group-title="Filmes | Drama",Mãos Talentosas: A História de Benjamin Carson - 2009
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16413.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/2bbeaac242c4801bc4a85f22b7725844.jpg" group-title="Filmes | Drama",Música, Amigos e Festa - 2015
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/2bbeaac242c4801bc4a85f22b7725844.jpg" group-title="Filmes | Drama",Música, Amigos e Festa - 2015
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16440.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/08e7e7545748bbad43b21bc269fe508d.jpg" group-title="Filmes | Drama",Na Selva - 2017
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/08e7e7545748bbad43b21bc269fe508d.jpg" group-title="Filmes | Drama",Na Selva - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16446.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l1XGiS2tXIR4IP4bdqdmlG6Hhbd.jpg" group-title="Filmes | Drama",Nada a Perder - 2018
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l1XGiS2tXIR4IP4bdqdmlG6Hhbd.jpg" group-title="Filmes | Drama",Nada a Perder - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16441.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2UESbGhUBez8iu4CqVhhmpIueJh.jpg" group-title="Filmes | Drama",Nada a Perder 2 - 2019
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2UESbGhUBez8iu4CqVhhmpIueJh.jpg" group-title="Filmes | Drama",Nada a Perder 2 - 2019
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16442.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/07df70d13fef3ad5d9a8ee7102b7da76.jpg" group-title="Filmes | Drama",Nada Santo - 2019
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/07df70d13fef3ad5d9a8ee7102b7da76.jpg" group-title="Filmes | Drama",Nada Santo - 2019
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16443.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/b9760dbe6948cc6c3af9be4ec84db915.jpg" group-title="Filmes | Drama",Nasce uma Estrela - 1954
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/b9760dbe6948cc6c3af9be4ec84db915.jpg" group-title="Filmes | Drama",Nasce uma Estrela - 1954
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16444.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/e25ea89731cba7e07b07ab414ac62d81.jpg" group-title="Filmes | Drama",Nascido Para Matar - 1987
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/e25ea89731cba7e07b07ab414ac62d81.jpg" group-title="Filmes | Drama",Nascido Para Matar - 1987
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16445.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/e3221da795d1910089207d72d4646427.jpg" group-title="Filmes | Drama",Natal Caseiro - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/e3221da795d1910089207d72d4646427.jpg" group-title="Filmes | Drama",Natal Caseiro - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16447.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/11b5133435eb8ad7bf53b75276caaf1c.jpg" group-title="Filmes | Drama",Ninguém Ama Ninguém Por Mais de Dois Anos - 2015
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/11b5133435eb8ad7bf53b75276caaf1c.jpg" group-title="Filmes | Drama",Ninguém Ama Ninguém Por Mais de Dois Anos - 2015
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16449.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/8c6472007546285828c3c93d2c64721e.jpg" group-title="Filmes | Drama",No Portal da Eternidade - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/8c6472007546285828c3c93d2c64721e.jpg" group-title="Filmes | Drama",No Portal da Eternidade - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16451.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/95baa5b6bcc9cdcc2231b08f731a38e9.jpg" group-title="Filmes | Drama",No Ritmo da Sedução - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/95baa5b6bcc9cdcc2231b08f731a38e9.jpg" group-title="Filmes | Drama",No Ritmo da Sedução - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16452.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/15c41b20dc32bed5c8a8e3c293362dd4.jpg" group-title="Filmes | Drama",Noites de Tormenta - 2008
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/15c41b20dc32bed5c8a8e3c293362dd4.jpg" group-title="Filmes | Drama",Noites de Tormenta - 2008
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16450.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/f5c5a35915d0ebee3de86721d9f07d1a.jpg" group-title="Filmes | Drama",Nos Caminhos de Deus - 2019
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/f5c5a35915d0ebee3de86721d9f07d1a.jpg" group-title="Filmes | Drama",Nos Caminhos de Deus - 2019
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16453.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/0b2ec5d127d6d1878c937bf9cbcee176.jpg" group-title="Filmes | Drama",Nosso Lar - 2010
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/0b2ec5d127d6d1878c937bf9cbcee176.jpg" group-title="Filmes | Drama",Nosso Lar - 2010
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16454.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/a76e9a40061885edde9be4ad851be9d1.jpg" group-title="Filmes | Drama",Nostalgia - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/a76e9a40061885edde9be4ad851be9d1.jpg" group-title="Filmes | Drama",Nostalgia - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16455.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/6967b6a82fef1ed9a44245387f0b2d16.jpg" group-title="Filmes | Drama",Notorious B.I.G. - Nenhum Sonho é Grande Demais - 2009
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/6967b6a82fef1ed9a44245387f0b2d16.jpg" group-title="Filmes | Drama",Notorious B.I.G. - Nenhum Sonho é Grande Demais - 2009
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16456.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/cf7492a633f6d43dde54decc4d072a44.jpg" group-title="Filmes | Drama",Náufrago - 2000
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/cf7492a633f6d43dde54decc4d072a44.jpg" group-title="Filmes | Drama",Náufrago - 2000
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16448.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/14f7b8fe98c23e8e72c4ee6128838d98.jpg" group-title="Filmes | Drama",O 12º Homem - 2017
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/14f7b8fe98c23e8e72c4ee6128838d98.jpg" group-title="Filmes | Drama",O 12º Homem - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16457.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/db78e5def371f09ea7ff865b91744d7e.jpg" group-title="Filmes | Drama",O Acordo - 2013
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/db78e5def371f09ea7ff865b91744d7e.jpg" group-title="Filmes | Drama",O Acordo - 2013
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16459.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/996bca8061afaa1b6db5ce7ab4b50342.jpg" group-title="Filmes | Drama",O Anjo de Auschwitz - 2019
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/996bca8061afaa1b6db5ce7ab4b50342.jpg" group-title="Filmes | Drama",O Anjo de Auschwitz - 2019
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16460.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/e8434b3c34aaaa11de2f3cb6fc1870be.jpg" group-title="Filmes | Drama",O Anjo do Mossad - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/e8434b3c34aaaa11de2f3cb6fc1870be.jpg" group-title="Filmes | Drama",O Anjo do Mossad - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16461.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/c03411499c863d852adb2d1cf90556ef.jpg" group-title="Filmes | Drama",O Anjo Malvado - 1993
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/c03411499c863d852adb2d1cf90556ef.jpg" group-title="Filmes | Drama",O Anjo Malvado - 1993
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16462.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/649e4706b4cca705acdf61bb203a52b9.jpg" group-title="Filmes | Drama",O Aviador - 2004
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/649e4706b4cca705acdf61bb203a52b9.jpg" group-title="Filmes | Drama",O Aviador - 2004
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16463.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/16981b705db94326baa0d93b8ebc7d50.jpg" group-title="Filmes | Drama",O Banqueiro da Resistência - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/16981b705db94326baa0d93b8ebc7d50.jpg" group-title="Filmes | Drama",O Banqueiro da Resistência - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16464.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/baaf1fae2a0a4e977f9c396e0e83a8c1.jpg" group-title="Filmes | Drama",O Caminho para a Eternidade - 2010
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/baaf1fae2a0a4e977f9c396e0e83a8c1.jpg" group-title="Filmes | Drama",O Caminho para a Eternidade - 2010
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16466.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/baaf1fae2a0a4e977f9c396e0e83a8c1.jpg" group-title="Filmes | Drama",O Caminho para a Eternidade - 2010
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/baaf1fae2a0a4e977f9c396e0e83a8c1.jpg" group-title="Filmes | Drama",O Caminho para a Eternidade - 2010
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16467.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/afc1d7867ccdc4a4a71422678f09d2b0.jpg" group-title="Filmes | Drama",O Canto da Sereia - 1983
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/afc1d7867ccdc4a4a71422678f09d2b0.jpg" group-title="Filmes | Drama",O Canto da Sereia - 1983
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16468.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/170be550e3f12b4fda425c6d812d28f5.jpg" group-title="Filmes | Drama",O Clube dos Meninos Bilionários - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/170be550e3f12b4fda425c6d812d28f5.jpg" group-title="Filmes | Drama",O Clube dos Meninos Bilionários - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16469.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/c85918cb64b5b3e9907fef80602d7b4d.jpg" group-title="Filmes | Drama",O Colecionador de Ossos - 1999
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/c85918cb64b5b3e9907fef80602d7b4d.jpg" group-title="Filmes | Drama",O Colecionador de Ossos - 1999
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16470.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/e3787f99a4691696230661c90bf5188e.jpg" group-title="Filmes | Drama",O Conto - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/e3787f99a4691696230661c90bf5188e.jpg" group-title="Filmes | Drama",O Conto - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16471.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/646110f30a3d8a455a0fc7004b14adfe.jpg" group-title="Filmes | Drama",O Curioso Caso de Benjamin Button - 2008
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/646110f30a3d8a455a0fc7004b14adfe.jpg" group-title="Filmes | Drama",O Curioso Caso de Benjamin Button - 2008
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16472.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/952fb50ffe6c37d78eda3333b3db2766.jpg" group-title="Filmes | Drama",O Desfile de Natal - 2014
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/952fb50ffe6c37d78eda3333b3db2766.jpg" group-title="Filmes | Drama",O Desfile de Natal - 2014
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16473.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/f73ad33a6af45c195985010c68b2d759.jpg" group-title="Filmes | Drama",O Destino de Uma Nação - 2017
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/f73ad33a6af45c195985010c68b2d759.jpg" group-title="Filmes | Drama",O Destino de Uma Nação - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16474.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/347dd80be04f248eb58bac9fa83d3055.jpg" group-title="Filmes | Drama",O Diário de Uma Adolescente - 2015
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/347dd80be04f248eb58bac9fa83d3055.jpg" group-title="Filmes | Drama",O Diário de Uma Adolescente - 2015
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16475.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/19f46dcf6bf1b57da3d8d37e76aa27e6.jpg" group-title="Filmes | Drama",O Duelo - 2014
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/19f46dcf6bf1b57da3d8d37e76aa27e6.jpg" group-title="Filmes | Drama",O Duelo - 2014
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16476.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/4b6f45b6dae474d9d98be3a5f40d2b53.jpg" group-title="Filmes | Drama",O Favorito - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/4b6f45b6dae474d9d98be3a5f40d2b53.jpg" group-title="Filmes | Drama",O Favorito - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16478.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/8b7bba3a5ca905858add4dba8abb7681.jpg" group-title="Filmes | Drama",O Filme da Minha Vida - 2017
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/8b7bba3a5ca905858add4dba8abb7681.jpg" group-title="Filmes | Drama",O Filme da Minha Vida - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16479.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/852f481e6a90d4d0493fe70f957e3005.jpg" group-title="Filmes | Drama",O Fotógrafo de Mauthausen - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/852f481e6a90d4d0493fe70f957e3005.jpg" group-title="Filmes | Drama",O Fotógrafo de Mauthausen - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16481.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/cbe0a0307ee5f6947061230bd96ed704.jpg" group-title="Filmes | Drama",O Futuro Adiante - 2017
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/cbe0a0307ee5f6947061230bd96ed704.jpg" group-title="Filmes | Drama",O Futuro Adiante - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16482.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/1cf68d61eabc6a5feb22dfc31d7ad7d8.jpg" group-title="Filmes | Drama",O Físico - 2013
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/1cf68d61eabc6a5feb22dfc31d7ad7d8.jpg" group-title="Filmes | Drama",O Físico - 2013
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16480.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/0271748d21973615686b75c2f482d965.jpg" group-title="Filmes | Drama",O Grande Milagre - 2011
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/0271748d21973615686b75c2f482d965.jpg" group-title="Filmes | Drama",O Grande Milagre - 2011
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16484.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/a31c94721c89510629025686736fe6ba.jpg" group-title="Filmes | Drama",O Guarda de Auschwitz - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/a31c94721c89510629025686736fe6ba.jpg" group-title="Filmes | Drama",O Guarda de Auschwitz - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/17101.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2V7KcvQXJn7YXr3PeN5Xbdwsgsx.jpg" group-title="Filmes | Drama",O Guarda-Costas em Ação - 1994
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2V7KcvQXJn7YXr3PeN5Xbdwsgsx.jpg" group-title="Filmes | Drama",O Guarda-Costas em Ação - 1994
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16485.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/307d99973b4fa0869d22a4376b8a81f1.jpg" group-title="Filmes | Drama",O Gênio e o Louco - 2019
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/307d99973b4fa0869d22a4376b8a81f1.jpg" group-title="Filmes | Drama",O Gênio e o Louco - 2019
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16483.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/dc901193bfb170b291d9a33bf66d99c3.jpg" group-title="Filmes | Drama",O Homem Que Inventou o Natal - 2017
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/dc901193bfb170b291d9a33bf66d99c3.jpg" group-title="Filmes | Drama",O Homem Que Inventou o Natal - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16487.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/b521933df8b9c373df706f1d0b61cf14.jpg" group-title="Filmes | Drama",O Homem que Mudou o Jogo - 2011
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/b521933df8b9c373df706f1d0b61cf14.jpg" group-title="Filmes | Drama",O Homem que Mudou o Jogo - 2011
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16488.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/b9f0d62ada9b8f0f32fc817bcb23655c.jpg" group-title="Filmes | Drama",O Homem Que Viu o Infinito - 2016
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/b9f0d62ada9b8f0f32fc817bcb23655c.jpg" group-title="Filmes | Drama",O Homem Que Viu o Infinito - 2016
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16489.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/2622c90071b7db92da31d8b98404508c.jpg" group-title="Filmes | Drama",O Impossível - 2012
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/2622c90071b7db92da31d8b98404508c.jpg" group-title="Filmes | Drama",O Impossível - 2012
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16490.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/1f2fb285d44c82a09e49a33b8f9adb37.jpg" group-title="Filmes | Drama",O Invisível - 2007
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/1f2fb285d44c82a09e49a33b8f9adb37.jpg" group-title="Filmes | Drama",O Invisível - 2007
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16491.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/5e753609a93958273590535c00a5b427.jpg" group-title="Filmes | Drama",O Irlandês - 2019
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/5e753609a93958273590535c00a5b427.jpg" group-title="Filmes | Drama",O Irlandês - 2019
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16492.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/f27fa9a83959afaaa2c008b0e1d0373a.jpg" group-title="Filmes | Drama",O Jardim das Aflições - 2017
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/f27fa9a83959afaaa2c008b0e1d0373a.jpg" group-title="Filmes | Drama",O Jardim das Aflições - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16493.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/c8c3d10defa65f7f98035ddbeb31618d.jpg" group-title="Filmes | Drama",O Jardim Secreto - 2020
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/c8c3d10defa65f7f98035ddbeb31618d.jpg" group-title="Filmes | Drama",O Jardim Secreto - 2020
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16494.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/647dd84ff4c8a3633277a8cb5c3e85d2.jpg" group-title="Filmes | Drama",O Jardineiro Fiel - 2005
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/647dd84ff4c8a3633277a8cb5c3e85d2.jpg" group-title="Filmes | Drama",O Jardineiro Fiel - 2005
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16495.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/4f2959d352e18432a35664aed2a2c67e.jpg" group-title="Filmes | Drama",O Jogo da Imitação - 2014
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/4f2959d352e18432a35664aed2a2c67e.jpg" group-title="Filmes | Drama",O Jogo da Imitação - 2014
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16496.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/f1d4f796c4d5a5dcd2820bcb166aa74e.jpg" group-title="Filmes | Drama",O Jogo da Vida - 1977
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/f1d4f796c4d5a5dcd2820bcb166aa74e.jpg" group-title="Filmes | Drama",O Jogo da Vida - 1977
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16384.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/85a31ef4872d086bbfb865a9dd395bfc.jpg" group-title="Filmes | Drama",O Juiz - 2014
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/85a31ef4872d086bbfb865a9dd395bfc.jpg" group-title="Filmes | Drama",O Juiz - 2014
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16497.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/bdba7487313f3f71752290d7f727fdab.jpg" group-title="Filmes | Drama",O Leitor - 2008
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/bdba7487313f3f71752290d7f727fdab.jpg" group-title="Filmes | Drama",O Leitor - 2008
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16499.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/dc91e626adc7dbb863e6adbdeba1f77e.jpg" group-title="Filmes | Drama",O Livro de Gênesis - 2016
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/dc91e626adc7dbb863e6adbdeba1f77e.jpg" group-title="Filmes | Drama",O Livro de Gênesis - 2016
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16502.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/2bfbd87f62adefa9a63d9f745c23c92d.jpg" group-title="Filmes | Drama",O Lobo de Wall Street - 2013
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/2bfbd87f62adefa9a63d9f745c23c92d.jpg" group-title="Filmes | Drama",O Lobo de Wall Street - 2013
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16503.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/23483d41856e66f950dc15a7873a2480.jpg" group-title="Filmes | Drama",O Mago das Mentiras - 2017
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/23483d41856e66f950dc15a7873a2480.jpg" group-title="Filmes | Drama",O Mago das Mentiras - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16504.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/357d614fe7ff6a21d74fb8cefcae396e.jpg" group-title="Filmes | Drama",O Manicômio - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/357d614fe7ff6a21d74fb8cefcae396e.jpg" group-title="Filmes | Drama",O Manicômio - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16505.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/20970a4988ced284218bdcc60684ec0e.jpg" group-title="Filmes | Drama",O Mau Exemplo de Cameron Post - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/20970a4988ced284218bdcc60684ec0e.jpg" group-title="Filmes | Drama",O Mau Exemplo de Cameron Post - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16506.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/3f238e70c402af3f1b5e56c16be25957.jpg" group-title="Filmes | Drama",O Menino do Pijama Listrado - 2008
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/3f238e70c402af3f1b5e56c16be25957.jpg" group-title="Filmes | Drama",O Menino do Pijama Listrado - 2008
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16507.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/8614b439b4c0666410268fd8d68449d9.jpg" group-title="Filmes | Drama",O Menino que Descobriu o Vento - 2019
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/8614b439b4c0666410268fd8d68449d9.jpg" group-title="Filmes | Drama",O Menino que Descobriu o Vento - 2019
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16508.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1LxhZuKTgkbHUICc38i16LYMgz5.jpg" group-title="Filmes | Drama",O Mercador de Veneza - 2004
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1LxhZuKTgkbHUICc38i16LYMgz5.jpg" group-title="Filmes | Drama",O Mercador de Veneza - 2004
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16509.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/e5b7acd9923cd934a3e654248bbba676.jpg" group-title="Filmes | Drama",O Mistério da Fé - 2017
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/e5b7acd9923cd934a3e654248bbba676.jpg" group-title="Filmes | Drama",O Mistério da Fé - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16510.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/0fecdc30452037538f75ff3f82d34f6c.jpg" group-title="Filmes | Drama",O Natal Está no Ar - 2019
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/0fecdc30452037538f75ff3f82d34f6c.jpg" group-title="Filmes | Drama",O Natal Está no Ar - 2019
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16511.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/fcbb228969dbc9b9d3190432e96c12be.jpg" group-title="Filmes | Drama",O Nome da Morte - 2017
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/fcbb228969dbc9b9d3190432e96c12be.jpg" group-title="Filmes | Drama",O Nome da Morte - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16513.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/f2f803b96eb4f4b59a8a2bacdc9b5066.jpg" group-title="Filmes | Drama",O Patriota - 2000
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/f2f803b96eb4f4b59a8a2bacdc9b5066.jpg" group-title="Filmes | Drama",O Patriota - 2000
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16515.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nK9NYlsFMuM1ssJHNc8V8zTew4l.jpg" group-title="Filmes | Drama",O Peregrino - Uma Jornada para o Céu - 2008
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nK9NYlsFMuM1ssJHNc8V8zTew4l.jpg" group-title="Filmes | Drama",O Peregrino - Uma Jornada para o Céu - 2008
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16519.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/1c13f9cb40ca74c91dd64ae6c043b853.jpg" group-title="Filmes | Drama",O Pianista - 2002
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/1c13f9cb40ca74c91dd64ae6c043b853.jpg" group-title="Filmes | Drama",O Pianista - 2002
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16520.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/c4643e63cc271e0526c569d3a885c09f.jpg" group-title="Filmes | Drama",O Pintassilgo - 2019
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/c4643e63cc271e0526c569d3a885c09f.jpg" group-title="Filmes | Drama",O Pintassilgo - 2019
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16521.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oS3mn55v5jEBduZQp2ttzqxxbLQ.jpg" group-title="Filmes | Drama",O Poderoso Chefão 1 - 1972
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oS3mn55v5jEBduZQp2ttzqxxbLQ.jpg" group-title="Filmes | Drama",O Poderoso Chefão 1 - 1972
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16522.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yB3AkkGMFplGlnPqQZ38W7bdD10.jpg" group-title="Filmes | Drama",O Poderoso Chefão 2 - 1974
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yB3AkkGMFplGlnPqQZ38W7bdD10.jpg" group-title="Filmes | Drama",O Poderoso Chefão 2 - 1974
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16523.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6kKs45futNbmKkt4SxousPqHDKP.jpg" group-title="Filmes | Drama",O Poderoso Chefão 3 - 1990
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6kKs45futNbmKkt4SxousPqHDKP.jpg" group-title="Filmes | Drama",O Poderoso Chefão 3 - 1990
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16524.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/4103a440e665702e1e279c7356b57477.jpg" group-title="Filmes | Drama",O Preço da Liberdade - 2012
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/4103a440e665702e1e279c7356b57477.jpg" group-title="Filmes | Drama",O Preço da Liberdade - 2012
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16526.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/1d5f1297aaffa59c6a6d7f1fc9960509.jpg" group-title="Filmes | Drama",O Primeiro Homem - 2011
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/1d5f1297aaffa59c6a6d7f1fc9960509.jpg" group-title="Filmes | Drama",O Primeiro Homem - 2011
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16527.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/42a38ef3ea2805a1f8a74797fcf7fec7.jpg" group-title="Filmes | Drama",O Primeiro Milhão - 2000
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/42a38ef3ea2805a1f8a74797fcf7fec7.jpg" group-title="Filmes | Drama",O Primeiro Milhão - 2000
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16528.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/6510da496643f3bf10feea1d53b24be5.jpg" group-title="Filmes | Drama",O Príncipe Feliz - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/6510da496643f3bf10feea1d53b24be5.jpg" group-title="Filmes | Drama",O Príncipe Feliz - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/17112.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/7e604940cf51e646e1aecf3ab06d35f5.jpg" group-title="Filmes | Drama",O Quarto de Jack - 2015
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/7e604940cf51e646e1aecf3ab06d35f5.jpg" group-title="Filmes | Drama",O Quarto de Jack - 2015
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16529.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/5b6f9d5bc5201ac2e24a5d1d404c0d05.jpg" group-title="Filmes | Drama",O Que de Verdade Importa - 2017
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/5b6f9d5bc5201ac2e24a5d1d404c0d05.jpg" group-title="Filmes | Drama",O Que de Verdade Importa - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16531.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/06e3771363e816b301cbcc93a5fba312.jpg" group-title="Filmes | Drama",O Que Te Faz Mais Forte - 2017
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/06e3771363e816b301cbcc93a5fba312.jpg" group-title="Filmes | Drama",O Que Te Faz Mais Forte - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16532.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/e89ce6680f9098b8d3699aadaf97d25c.jpg" group-title="Filmes | Drama",O Quebra-Cabeça - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/e89ce6680f9098b8d3699aadaf97d25c.jpg" group-title="Filmes | Drama",O Quebra-Cabeça - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16530.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/c8385bd102eb80fb358342dbe84a04cf.jpg" group-title="Filmes | Drama",O Rei do Show - 2017
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/c8385bd102eb80fb358342dbe84a04cf.jpg" group-title="Filmes | Drama",O Rei do Show - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16534.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/61e4eaeb6f458941c1ee931a79b33197.jpg" group-title="Filmes | Drama",O Relatório - 2019
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/61e4eaeb6f458941c1ee931a79b33197.jpg" group-title="Filmes | Drama",O Relatório - 2019
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16535.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/0669ecd77e1c95495c563e221cf28427.jpg" group-title="Filmes | Drama",O Resgate do Soldado Ryan - 1998
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/0669ecd77e1c95495c563e221cf28427.jpg" group-title="Filmes | Drama",O Resgate do Soldado Ryan - 1998
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16536.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/564f7236944fd3285f7736160034217f.jpg" group-title="Filmes | Drama",O Retorno de Ben - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/564f7236944fd3285f7736160034217f.jpg" group-title="Filmes | Drama",O Retorno de Ben - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16537.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/fe0cb0265f47f0f7f0b047880cf6fb36.jpg" group-title="Filmes | Drama",O Segredo de Davi - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/fe0cb0265f47f0f7f0b047880cf6fb36.jpg" group-title="Filmes | Drama",O Segredo de Davi - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16543.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/6a3106c66a4cf7b96505244f0f859b1f.jpg" group-title="Filmes | Drama",O Senhor das Armas - 2005
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/6a3106c66a4cf7b96505244f0f859b1f.jpg" group-title="Filmes | Drama",O Senhor das Armas - 2005
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16544.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5fXCz7VDPLM3tj89vz7CGwusoTt.jpg" group-title="Filmes | Drama",O Silêncio é Bem Vindo - 2017
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5fXCz7VDPLM3tj89vz7CGwusoTt.jpg" group-title="Filmes | Drama",O Silêncio é Bem Vindo - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/17118.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/e632f708cc1dedf242f807e708b6deea.jpg" group-title="Filmes | Drama",O Sobrevivente - 2015
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/e632f708cc1dedf242f807e708b6deea.jpg" group-title="Filmes | Drama",O Sobrevivente - 2015
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16546.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/1856aaebd76809b4332c66e73c7c8560.jpg" group-title="Filmes | Drama",O Soldado de Cristo - 2019
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/1856aaebd76809b4332c66e73c7c8560.jpg" group-title="Filmes | Drama",O Soldado de Cristo - 2019
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16547.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/bf9e82773dd77d744bca7bd7cbfa9cdd.jpg" group-title="Filmes | Drama",O Trote - 2016
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/bf9e82773dd77d744bca7bd7cbfa9cdd.jpg" group-title="Filmes | Drama",O Trote - 2016
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16549.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/87a116a24886a0787ece03094e8b0294.jpg" group-title="Filmes | Drama",O Vendedor de Sonhos - 2016
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/87a116a24886a0787ece03094e8b0294.jpg" group-title="Filmes | Drama",O Vendedor de Sonhos - 2016
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16554.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ThsS74hopBz0RveLgOWiwrMfE8.jpg" group-title="Filmes | Drama",O Vizinho - 2008
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ThsS74hopBz0RveLgOWiwrMfE8.jpg" group-title="Filmes | Drama",O Vizinho - 2008
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16555.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/241be4cf75dbb1747ca99ac824e65065.jpg" group-title="Filmes | Drama",O Zoológico de Varsóvia - 2017
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/241be4cf75dbb1747ca99ac824e65065.jpg" group-title="Filmes | Drama",O Zoológico de Varsóvia - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16556.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/3f8f3fa71dfad5c2a2068f5202743697.jpg" group-title="Filmes | Drama",O Ódio que Você Semeia - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/3f8f3fa71dfad5c2a2068f5202743697.jpg" group-title="Filmes | Drama",O Ódio que Você Semeia - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16514.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/622211f2faf8938af214802f40d266fc.jpg" group-title="Filmes | Drama",O Último Retrato - 2016
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/622211f2faf8938af214802f40d266fc.jpg" group-title="Filmes | Drama",O Último Retrato - 2016
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16551.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/d60b2f12f5155091851aadab21f2dc18.jpg" group-title="Filmes | Drama",Obsessão Secreta - 2019
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/d60b2f12f5155091851aadab21f2dc18.jpg" group-title="Filmes | Drama",Obsessão Secreta - 2019
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16465.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/848821f7ac51ba7d000b8670aff86091.jpg" group-title="Filmes | Drama",Okja - 2017
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/848821f7ac51ba7d000b8670aff86091.jpg" group-title="Filmes | Drama",Okja - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16498.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/a74f14a08569ccd6f45ffa199716a06a.jpg" group-title="Filmes | Drama",Olga - 2004
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/a74f14a08569ccd6f45ffa199716a06a.jpg" group-title="Filmes | Drama",Olga - 2004
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16500.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/9001250a01bb917e8cb1d414c343c6f5.jpg" group-title="Filmes | Drama",Olhos da Justiça - 2015
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/9001250a01bb917e8cb1d414c343c6f5.jpg" group-title="Filmes | Drama",Olhos da Justiça - 2015
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16501.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/598600113bdcba470685fedcde378c71.jpg" group-title="Filmes | Drama",Onde os Fracos Não Têm Vez - 2007
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/598600113bdcba470685fedcde378c71.jpg" group-title="Filmes | Drama",Onde os Fracos Não Têm Vez - 2007
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16512.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KfelzsdBZXjcE0jyIMs6xXJcMY.jpg" group-title="Filmes | Drama",Operação Valquíria - 2008
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KfelzsdBZXjcE0jyIMs6xXJcMY.jpg" group-title="Filmes | Drama",Operação Valquíria - 2008
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16518.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/0a08ce3fe58965d838734abaa2b4c195.jpg" group-title="Filmes | Drama",Operação Final - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/0a08ce3fe58965d838734abaa2b4c195.jpg" group-title="Filmes | Drama",Operação Final - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16517.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/60fe7ca72a8a23eb00ad92c1465264bb.jpg" group-title="Filmes | Drama",Oportunistas - 2017
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/60fe7ca72a8a23eb00ad92c1465264bb.jpg" group-title="Filmes | Drama",Oportunistas - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16525.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/582632eae81b7f498c9297f77d95a2d7.jpg" group-title="Filmes | Drama",Orgulho e Preconceito - 1940
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/582632eae81b7f498c9297f77d95a2d7.jpg" group-title="Filmes | Drama",Orgulho e Preconceito - 1940
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16538.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/f68cabb6d0ac4dce8173ab97613fc5c3.jpg" group-title="Filmes | Drama",Oro - 2017
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/f68cabb6d0ac4dce8173ab97613fc5c3.jpg" group-title="Filmes | Drama",Oro - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16539.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/34ba27d024fd08a360fcbcce093fe9c0.jpg" group-title="Filmes | Drama",Os 33 - 2015
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/34ba27d024fd08a360fcbcce093fe9c0.jpg" group-title="Filmes | Drama",Os 33 - 2015
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16540.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/4a51cd8aca122d2f60d73d45cb0e7bc9.jpg" group-title="Filmes | Drama",Os Animais Somos Nós - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/4a51cd8aca122d2f60d73d45cb0e7bc9.jpg" group-title="Filmes | Drama",Os Animais Somos Nós - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16541.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/5d8143167ec42893d575e5c349480b60.jpg" group-title="Filmes | Drama",Os Assassinos - 1964
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/5d8143167ec42893d575e5c349480b60.jpg" group-title="Filmes | Drama",Os Assassinos - 1964
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16238.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/84dd865b4b9bbc79eb64da828a424170.jpg" group-title="Filmes | Drama",Os Dez Mandamentos: O Filme - 2016
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/84dd865b4b9bbc79eb64da828a424170.jpg" group-title="Filmes | Drama",Os Dez Mandamentos: O Filme - 2016
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16542.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/0db7723756789b7a75aa4a90bcf75f38.jpg" group-title="Filmes | Drama",Os Miseráveis - 2019
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/0db7723756789b7a75aa4a90bcf75f38.jpg" group-title="Filmes | Drama",Os Miseráveis - 2019
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16545.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/a00de8997664de63a3c3ab966435713f.jpg" group-title="Filmes | Drama",Os Piratas da Somália - 2017
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/a00de8997664de63a3c3ab966435713f.jpg" group-title="Filmes | Drama",Os Piratas da Somália - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16548.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/d2772378f4f1aaba65c3734a92fa593d.jpg" group-title="Filmes | Drama",Os Últimos na Terra - 2015
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/d2772378f4f1aaba65c3734a92fa593d.jpg" group-title="Filmes | Drama",Os Últimos na Terra - 2015
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16550.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/df3216a4182080e662835c447d23b3b2.jpg" group-title="Filmes | Drama",Ouro e Cobiça - 2016
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/df3216a4182080e662835c447d23b3b2.jpg" group-title="Filmes | Drama",Ouro e Cobiça - 2016
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16552.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aPecXyNGxWVGNl2jDAjyox7SC0R.jpg" group-title="Filmes | Drama",Ouro Negro - 2018
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aPecXyNGxWVGNl2jDAjyox7SC0R.jpg" group-title="Filmes | Drama",Ouro Negro - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16553.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/d0e2d071df9fa75cd0d80ef58539b911.jpg" group-title="Filmes | Drama",Paddleton - 2019
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/d0e2d071df9fa75cd0d80ef58539b911.jpg" group-title="Filmes | Drama",Paddleton - 2019
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16557.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/775adcc6a2d098571f958d802969a1c6.jpg" group-title="Filmes | Drama",Paixão Sem Limites - 1993
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/775adcc6a2d098571f958d802969a1c6.jpg" group-title="Filmes | Drama",Paixão Sem Limites - 1993
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16559.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/97ca783c1da9d6577aafbc2ef13698a6.jpg" group-title="Filmes | Drama",Papillon - 2017
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/97ca783c1da9d6577aafbc2ef13698a6.jpg" group-title="Filmes | Drama",Papillon - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16560.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/e0cbfca142b407fd61f212709b1018a9.jpg" group-title="Filmes | Drama",Para Salvar Uma Vida - 2009
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/e0cbfca142b407fd61f212709b1018a9.jpg" group-title="Filmes | Drama",Para Salvar Uma Vida - 2009
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16561.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/96e2ea55fe1a0ac66b67d06f5da80fb7.jpg" group-title="Filmes | Drama",Para Sempre Alice - 2014
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/96e2ea55fe1a0ac66b67d06f5da80fb7.jpg" group-title="Filmes | Drama",Para Sempre Alice - 2014
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16562.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/cf50535d468bb70cf7c672ee758f3cd5.jpg" group-title="Filmes | Drama",Para sempre Chape - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/cf50535d468bb70cf7c672ee758f3cd5.jpg" group-title="Filmes | Drama",Para sempre Chape - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16563.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/b2149541d6bc20de3c8e69b45a0d83c7.jpg" group-title="Filmes | Drama",Para Sempre Cinderela - 1998
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/b2149541d6bc20de3c8e69b45a0d83c7.jpg" group-title="Filmes | Drama",Para Sempre Cinderela - 1998
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16564.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/b5a03ef74a1205a8cf8e64c6554e6f3a.jpg" group-title="Filmes | Drama",Para Sempre Vencedor - 2008
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/b5a03ef74a1205a8cf8e64c6554e6f3a.jpg" group-title="Filmes | Drama",Para Sempre Vencedor - 2008
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16565.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/55860e87ba44c6dbe640ad2feb53a1cf.jpg" group-title="Filmes | Drama",Passageiros - 2008
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/55860e87ba44c6dbe640ad2feb53a1cf.jpg" group-title="Filmes | Drama",Passageiros - 2008
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16566.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/b291a7508363b05ee657f14c02c0b1dd.jpg" group-title="Filmes | Drama",Paulo de Tarso e A História do Cristianismo Primitivo - 2019
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/b291a7508363b05ee657f14c02c0b1dd.jpg" group-title="Filmes | Drama",Paulo de Tarso e A História do Cristianismo Primitivo - 2019
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16569.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/38a9eb6a9c7e8cac64ebae028e5abf15.jpg" group-title="Filmes | Drama",Pearl Harbor - 2001
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/38a9eb6a9c7e8cac64ebae028e5abf15.jpg" group-title="Filmes | Drama",Pearl Harbor - 2001
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16570.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/ffe81a7c5d99ac93717f960a86574464.jpg" group-title="Filmes | Drama",Pecados de Guerra - 1989
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/ffe81a7c5d99ac93717f960a86574464.jpg" group-title="Filmes | Drama",Pecados de Guerra - 1989
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16571.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/446e7d24e476a9e6c8601e8864e85a80.jpg" group-title="Filmes | Drama",Pecados Intímos - 2006
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/446e7d24e476a9e6c8601e8864e85a80.jpg" group-title="Filmes | Drama",Pecados Intímos - 2006
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16572.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/d692eb1fec184f546b3851b66c993115.jpg" group-title="Filmes | Drama",Pelas Ruas de Paris - 2019
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/d692eb1fec184f546b3851b66c993115.jpg" group-title="Filmes | Drama",Pelas Ruas de Paris - 2019
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16573.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/0034cbe8954361a7be69ecccafa2c475.jpg" group-title="Filmes | Drama",Pelé: O Nascimento de uma Lenda - 2016
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/0034cbe8954361a7be69ecccafa2c475.jpg" group-title="Filmes | Drama",Pelé: O Nascimento de uma Lenda - 2016
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16574.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/d901fe01c215c747b8a14464768a038c.jpg" group-title="Filmes | Drama",Perdido em Marte - 2015
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/d901fe01c215c747b8a14464768a038c.jpg" group-title="Filmes | Drama",Perdido em Marte - 2015
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16575.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/eb42d1da58c6057ada8f39e469443338.jpg" group-title="Filmes | Drama",Perfume - A História de um Assassino - 2006
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/eb42d1da58c6057ada8f39e469443338.jpg" group-title="Filmes | Drama",Perfume - A História de um Assassino - 2006
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16576.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/8bcb07858084b0f6be6b6572754b9dd5.jpg" group-title="Filmes | Drama",Perigo na Montanha - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/8bcb07858084b0f6be6b6572754b9dd5.jpg" group-title="Filmes | Drama",Perigo na Montanha - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16577.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t7uUOD2Ov2CM9PYYOEggL7hef15.jpg" group-title="Filmes | Drama",Piratas da Informática - 1999
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t7uUOD2Ov2CM9PYYOEggL7hef15.jpg" group-title="Filmes | Drama",Piratas da Informática - 1999
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16578.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/3812cbad482acbde171ed902b5d20922.jpg" group-title="Filmes | Drama",Poderia Me Perdoar? - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/3812cbad482acbde171ed902b5d20922.jpg" group-title="Filmes | Drama",Poderia Me Perdoar? - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16580.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/ed2dcc14666ad1e44561c9c5f5532ea7.jpg" group-title="Filmes | Drama",Ponte para Terabítia - 2007
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/ed2dcc14666ad1e44561c9c5f5532ea7.jpg" group-title="Filmes | Drama",Ponte para Terabítia - 2007
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16581.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/6fc6ed64a6ee7322eee2c32cd440b49f.jpg" group-title="Filmes | Drama",Preciosa: Uma História de Esperança - 2009
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/6fc6ed64a6ee7322eee2c32cd440b49f.jpg" group-title="Filmes | Drama",Preciosa: Uma História de Esperança - 2009
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16582.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/4aebed6d39db771f2d89b4320917d645.jpg" group-title="Filmes | Drama",Precisamos Falar Sobre o Kevin - 2011
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/4aebed6d39db771f2d89b4320917d645.jpg" group-title="Filmes | Drama",Precisamos Falar Sobre o Kevin - 2011
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16583.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/cd90ff575db3e1790dd5018fe1acd549.jpg" group-title="Filmes | Drama",Prenda-me Se For Capaz - 2002
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/cd90ff575db3e1790dd5018fe1acd549.jpg" group-title="Filmes | Drama",Prenda-me Se For Capaz - 2002
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16584.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A0dy6vYd8YyuAawHRaoThmEd23b.jpg" group-title="Filmes | Drama",Primeiro da Classe - 2008
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A0dy6vYd8YyuAawHRaoThmEd23b.jpg" group-title="Filmes | Drama",Primeiro da Classe - 2008
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16585.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/421122ead4f26137ad993c4976f842ce.jpg" group-title="Filmes | Drama",Programado Para Vencer - 2015
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/421122ead4f26137ad993c4976f842ce.jpg" group-title="Filmes | Drama",Programado Para Vencer - 2015
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16586.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/7d72c77d0c2172f8a78496de2eda669f.jpg" group-title="Filmes | Drama",Promessas de Guerra - 2014
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/7d72c77d0c2172f8a78496de2eda669f.jpg" group-title="Filmes | Drama",Promessas de Guerra - 2014
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16587.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/2c3289ef1382d2342242a8e520589ab6.jpg" group-title="Filmes | Drama",Páginas de um Romance 2 - 2016
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/2c3289ef1382d2342242a8e520589ab6.jpg" group-title="Filmes | Drama",Páginas de um Romance 2 - 2016
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16558.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/d7d6aee65499839bd45da9454e79516e.jpg" group-title="Filmes | Drama",Pássaro do Oriente - 2019
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/d7d6aee65499839bd45da9454e79516e.jpg" group-title="Filmes | Drama",Pássaro do Oriente - 2019
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16567.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/4062a2a7f40d7c4d7ebec1ce837af2bc.jpg" group-title="Filmes | Drama",Pássaros Amarelos - 2017
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/4062a2a7f40d7c4d7ebec1ce837af2bc.jpg" group-title="Filmes | Drama",Pássaros Amarelos - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16568.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/eda3f9fb3a36704ab4af0666a597ad57.jpg" group-title="Filmes | Drama",Quando o Jogo está Alto - 2014
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/eda3f9fb3a36704ab4af0666a597ad57.jpg" group-title="Filmes | Drama",Quando o Jogo está Alto - 2014
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16588.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/7adfe9f3f6e3ac85664c2dd0515aeb64.jpg" group-title="Filmes | Drama",Quando os Anjos Dormem - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/7adfe9f3f6e3ac85664c2dd0515aeb64.jpg" group-title="Filmes | Drama",Quando os Anjos Dormem - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16589.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/683fd1366d7ea7d8a13470f528d6cf22.jpg" group-title="Filmes | Drama",Quase Amigos - 2017
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/683fd1366d7ea7d8a13470f528d6cf22.jpg" group-title="Filmes | Drama",Quase Amigos - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16590.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/a6a331fd1ce41e8a4dab6792def30977.jpg" group-title="Filmes | Drama",Quase Deuses - 2004
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/a6a331fd1ce41e8a4dab6792def30977.jpg" group-title="Filmes | Drama",Quase Deuses - 2004
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16591.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/f8e0558b366c7314f4b229d2887f7f09.jpg" group-title="Filmes | Drama",Quebrando Regras - 2008
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/f8e0558b366c7314f4b229d2887f7f09.jpg" group-title="Filmes | Drama",Quebrando Regras - 2008
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16593.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/9a332f555c2b080903a3a6a5c44b80c1.jpg" group-title="Filmes | Drama",Quebrando Regras 2 - 2011
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/9a332f555c2b080903a3a6a5c44b80c1.jpg" group-title="Filmes | Drama",Quebrando Regras 2 - 2011
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16592.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/750be838129a7263ee0fe420b65f88e8.jpg" group-title="Filmes | Drama",Quem Cantará as suas Canções? - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/750be838129a7263ee0fe420b65f88e8.jpg" group-title="Filmes | Drama",Quem Cantará as suas Canções? - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16594.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/d447c308aad13c4be39bfc6ae51d655f.jpg" group-title="Filmes | Drama",Quem Quer Ser um Milionário? - 2008
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/d447c308aad13c4be39bfc6ae51d655f.jpg" group-title="Filmes | Drama",Quem Quer Ser um Milionário? - 2008
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16595.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/b381f828d3ec74a4acc724ff7c157412.jpg" group-title="Filmes | Drama",Quem Somos Agora - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/b381f828d3ec74a4acc724ff7c157412.jpg" group-title="Filmes | Drama",Quem Somos Agora - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16596.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/c2725a6e0268f54b0212d2801243fe0e.jpg" group-title="Filmes | Drama",Querido Menino - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/c2725a6e0268f54b0212d2801243fe0e.jpg" group-title="Filmes | Drama",Querido Menino - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16597.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/4aa75c3a0e33e12bbb498e40578700ea.jpg" group-title="Filmes | Drama",Rainha de Katwe - 2016
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/4aa75c3a0e33e12bbb498e40578700ea.jpg" group-title="Filmes | Drama",Rainha de Katwe - 2016
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16598.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/a2df2283abcdcdb4d5746549110978ec.jpg" group-title="Filmes | Drama",Recuperando a Esperança - 2013
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/a2df2283abcdcdb4d5746549110978ec.jpg" group-title="Filmes | Drama",Recuperando a Esperança - 2013
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16599.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/aa1a20000c524bab0de4472927c43a93.jpg" group-title="Filmes | Drama",Refugiado - 2014
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/aa1a20000c524bab0de4472927c43a93.jpg" group-title="Filmes | Drama",Refugiado - 2014
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16533.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/aa2774b5271d01312c481545ec9e0572.jpg" group-title="Filmes | Drama",Refém do Medo - 2016
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/aa2774b5271d01312c481545ec9e0572.jpg" group-title="Filmes | Drama",Refém do Medo - 2016
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16600.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/8b802847217fb90812251ad78b153495.jpg" group-title="Filmes | Drama",Rei Charles III - 2017
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/8b802847217fb90812251ad78b153495.jpg" group-title="Filmes | Drama",Rei Charles III - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16601.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/37df454560a5f23f903df0ff5bb27a61.jpg" group-title="Filmes | Drama",Relatos Selvagens - 2014
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/37df454560a5f23f903df0ff5bb27a61.jpg" group-title="Filmes | Drama",Relatos Selvagens - 2014
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16603.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/1461b6ae305acfd99908085b35e30649.jpg" group-title="Filmes | Drama",Relação em Risco - 2013
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/1461b6ae305acfd99908085b35e30649.jpg" group-title="Filmes | Drama",Relação em Risco - 2013
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16602.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/fe97b4135126513efbf93b178d3fb698.jpg" group-title="Filmes | Drama",Resgate Abaixo de Zero - 2006
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/fe97b4135126513efbf93b178d3fb698.jpg" group-title="Filmes | Drama",Resgate Abaixo de Zero - 2006
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16604.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/d1dd571506ad749a3474018d24dc73a2.jpg" group-title="Filmes | Drama",Riphagen - 2016
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/d1dd571506ad749a3474018d24dc73a2.jpg" group-title="Filmes | Drama",Riphagen - 2016
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16605.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/c78ace9f6b56edf9e16233e68c0b5434.jpg" group-title="Filmes | Drama",Rock my Heart - 2017
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/c78ace9f6b56edf9e16233e68c0b5434.jpg" group-title="Filmes | Drama",Rock my Heart - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16606.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kGMd0KljOO5rkDVgwuGjWBAJMME.jpg" group-title="Filmes | Drama",Rocky Balboa 2 - 1979
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kGMd0KljOO5rkDVgwuGjWBAJMME.jpg" group-title="Filmes | Drama",Rocky Balboa 2 - 1979
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16607.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/24BKlLHQ3IC2EifNOEg5XVF57j8.jpg" group-title="Filmes | Drama",Rocky Balboa 3 - 1982
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/24BKlLHQ3IC2EifNOEg5XVF57j8.jpg" group-title="Filmes | Drama",Rocky Balboa 3 - 1982
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16608.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7vNpJ1EpPWO0smF8NQuGKD6ezgC.jpg" group-title="Filmes | Drama",Rocky Balboa 4 - 1985
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7vNpJ1EpPWO0smF8NQuGKD6ezgC.jpg" group-title="Filmes | Drama",Rocky Balboa 4 - 1985
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16609.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/byBlJvZwCqgtIwrZNv0pyE974jC.jpg" group-title="Filmes | Drama",Rocky Balboa 6 - 2006
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/byBlJvZwCqgtIwrZNv0pyE974jC.jpg" group-title="Filmes | Drama",Rocky Balboa 6 - 2006
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16611.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nJc3IuQlRgnLfiztfwUt0czaJQR.jpg" group-title="Filmes | Drama",Rocky Balboa 5 - 1990
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nJc3IuQlRgnLfiztfwUt0czaJQR.jpg" group-title="Filmes | Drama",Rocky Balboa 5 - 1990
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16610.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/d5a0084ee6580f278bb34998950465c4.jpg" group-title="Filmes | Drama",Roda Gigante - 2017
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/d5a0084ee6580f278bb34998950465c4.jpg" group-title="Filmes | Drama",Roda Gigante - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/17145.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/d3d4c3b21e031b2058025cbef688c6e2.jpg" group-title="Filmes | Drama",Rush - No Limite da Emoção - 2013
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/d3d4c3b21e031b2058025cbef688c6e2.jpg" group-title="Filmes | Drama",Rush - No Limite da Emoção - 2013
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16613.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/0ee115e5943fd0dba152738339e34728.jpg" group-title="Filmes | Drama",Salvo pela Graça - 2016
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/0ee115e5943fd0dba152738339e34728.jpg" group-title="Filmes | Drama",Salvo pela Graça - 2016
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16614.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/bf1a8fe10798966f11d5a472b5b61cac.jpg" group-title="Filmes | Drama",Se a Rua Beale Falasse - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/bf1a8fe10798966f11d5a472b5b61cac.jpg" group-title="Filmes | Drama",Se a Rua Beale Falasse - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16615.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/1e961300418a6df71ad241060f28da43.jpg" group-title="Filmes | Drama",Se Eu Ficar - 2014
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/1e961300418a6df71ad241060f28da43.jpg" group-title="Filmes | Drama",Se Eu Ficar - 2014
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16617.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/1d35df6114e4c970c5f3bade5bdd8791.jpg" group-title="Filmes | Drama",Sem Amor - 2017
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/1d35df6114e4c970c5f3bade5bdd8791.jpg" group-title="Filmes | Drama",Sem Amor - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16618.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/709c27716f8dbdd5e9d51e7a92ff86f2.jpg" group-title="Filmes | Drama",Sem Rastros - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/709c27716f8dbdd5e9d51e7a92ff86f2.jpg" group-title="Filmes | Drama",Sem Rastros - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16620.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/6dbf0693c133cb62b139fd21fd792616.jpg" group-title="Filmes | Drama",Sempre ao Seu Lado - 2009
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/6dbf0693c133cb62b139fd21fd792616.jpg" group-title="Filmes | Drama",Sempre ao Seu Lado - 2009
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16619.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/b3d32da3dd94e2fdf71c190a5dd2241f.jpg" group-title="Filmes | Drama",Separados pelo Destino - 2010
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/b3d32da3dd94e2fdf71c190a5dd2241f.jpg" group-title="Filmes | Drama",Separados pelo Destino - 2010
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16622.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/4537a4a040dd4f17532a08d46fb692b0.jpg" group-title="Filmes | Drama",Separação e Reencontro - 2017
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/4537a4a040dd4f17532a08d46fb692b0.jpg" group-title="Filmes | Drama",Separação e Reencontro - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16621.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/00b0ce89e6d29be61094a4a1b50dd916.jpg" group-title="Filmes | Drama",Sequestros Em Cleveland - 2015
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/00b0ce89e6d29be61094a4a1b50dd916.jpg" group-title="Filmes | Drama",Sequestros Em Cleveland - 2015
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16623.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/a337222959cf0335e3ea2e8e5fc74efe.jpg" group-title="Filmes | Drama",Serra Pelada - 2013
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/a337222959cf0335e3ea2e8e5fc74efe.jpg" group-title="Filmes | Drama",Serra Pelada - 2013
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16624.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/ffef3d78b15faa96c9d1ec0c35943e0d.jpg" group-title="Filmes | Drama",Sete Dias Sem Fim - 2014
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/ffef3d78b15faa96c9d1ec0c35943e0d.jpg" group-title="Filmes | Drama",Sete Dias Sem Fim - 2014
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16625.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/595f21d04dad4ec1babd352232463a53.jpg" group-title="Filmes | Drama",Setembro em Shiraz - 2015
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/595f21d04dad4ec1babd352232463a53.jpg" group-title="Filmes | Drama",Setembro em Shiraz - 2015
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16626.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/6d73a102bc9e364e3b883013a1aa63a4.jpg" group-title="Filmes | Drama",Sobibor - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/6d73a102bc9e364e3b883013a1aa63a4.jpg" group-title="Filmes | Drama",Sobibor - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16627.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/fe1909a4a4138f1303424b85f740e07e.jpg" group-title="Filmes | Drama",Sociedade dos Poetas Mortos - 1989
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/fe1909a4a4138f1303424b85f740e07e.jpg" group-title="Filmes | Drama",Sociedade dos Poetas Mortos - 1989
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16628.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/25a415e3a18ee79245d5f8f870e03278.jpg" group-title="Filmes | Drama",Soldado Anônimo - 2005
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/25a415e3a18ee79245d5f8f870e03278.jpg" group-title="Filmes | Drama",Soldado Anônimo - 2005
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16630.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/c8e5bb1e257b264a65a4100145e60a4c.jpg" group-title="Filmes | Drama",Sombra Ardente - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/c8e5bb1e257b264a65a4100145e60a4c.jpg" group-title="Filmes | Drama",Sombra Ardente - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16631.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/eb0ec33cb2cfccfa018d34d6bfec4a51.jpg" group-title="Filmes | Drama",Somos Todos Iguais - 2017
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/eb0ec33cb2cfccfa018d34d6bfec4a51.jpg" group-title="Filmes | Drama",Somos Todos Iguais - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16633.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/6461434ff7e79de961ee3a79a8737c63.jpg" group-title="Filmes | Drama",Somos Tão Jovens - 2013
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/6461434ff7e79de961ee3a79a8737c63.jpg" group-title="Filmes | Drama",Somos Tão Jovens - 2013
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16632.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a5JoieisiLZLm814K81oRK7pNBA.jpg" group-title="Filmes | Drama",Sonora - 2019
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a5JoieisiLZLm814K81oRK7pNBA.jpg" group-title="Filmes | Drama",Sonora - 2019
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16634.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/d2dbf35839eb44e4c2425898e3a690a3.jpg" group-title="Filmes | Drama",Sr. Turner - 2014
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/d2dbf35839eb44e4c2425898e3a690a3.jpg" group-title="Filmes | Drama",Sr. Turner - 2014
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16438.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/3f0b5d955927816f5f7944d9eeba3008.jpg" group-title="Filmes | Drama",Steve Jobs - 2015
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/3f0b5d955927816f5f7944d9eeba3008.jpg" group-title="Filmes | Drama",Steve Jobs - 2015
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16635.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/a01ccab4031f6330c664a4d519b0478b.jpg" group-title="Filmes | Drama",Street Flow - 2019
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/a01ccab4031f6330c664a4d519b0478b.jpg" group-title="Filmes | Drama",Street Flow - 2019
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16636.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/4138464d6830f36a0263a9d254dfdf48.jpg" group-title="Filmes | Drama",Striptease - 1996
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/4138464d6830f36a0263a9d254dfdf48.jpg" group-title="Filmes | Drama",Striptease - 1996
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16637.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/2cd2112a2e6119e7687a120699547191.jpg" group-title="Filmes | Drama",Stuck - 2007
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/2cd2112a2e6119e7687a120699547191.jpg" group-title="Filmes | Drama",Stuck - 2007
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16638.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/45c02a16375f4c558827aaa7f4153dfe.jpg" group-title="Filmes | Drama",Sully - O Herói do Rio Hudson - 2016
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/45c02a16375f4c558827aaa7f4153dfe.jpg" group-title="Filmes | Drama",Sully - O Herói do Rio Hudson - 2016
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16639.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/d853da5d45a7baa510318d7929fda3a7.jpg" group-title="Filmes | Drama",Summer: Descobrindo O Meu Lugar - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/d853da5d45a7baa510318d7929fda3a7.jpg" group-title="Filmes | Drama",Summer: Descobrindo O Meu Lugar - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16640.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/87460033a67901a561311f745f13f56c.jpg" group-title="Filmes | Drama",Superação: O Milagre da Fé - 2019
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/87460033a67901a561311f745f13f56c.jpg" group-title="Filmes | Drama",Superação: O Milagre da Fé - 2019
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16641.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/5a625950cb230a93e3bde5aeeac9405f.jpg" group-title="Filmes | Drama",Tempo de Esperança - 2015
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/5a625950cb230a93e3bde5aeeac9405f.jpg" group-title="Filmes | Drama",Tempo de Esperança - 2015
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16643.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/fcc0400833ce9a734c62b739f3ad845b.jpg" group-title="Filmes | Drama",Tempo de Matar - 1996
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/fcc0400833ce9a734c62b739f3ad845b.jpg" group-title="Filmes | Drama",Tempo de Matar - 1996
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16644.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/5502e9732b40cfd6495a945e0affb9e7.jpg" group-title="Filmes | Drama",Temporada - 2019
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/5502e9732b40cfd6495a945e0affb9e7.jpg" group-title="Filmes | Drama",Temporada - 2019
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16645.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/36860fc7ef5021d05c8cd72f7bf7a291.jpg" group-title="Filmes | Drama",Terra de Minas - 2015
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/36860fc7ef5021d05c8cd72f7bf7a291.jpg" group-title="Filmes | Drama",Terra de Minas - 2015
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16647.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6y39JL9KPYvvA13J61HIGMfyzqW.jpg" group-title="Filmes | Drama",Terra Estranha - 2015
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6y39JL9KPYvvA13J61HIGMfyzqW.jpg" group-title="Filmes | Drama",Terra Estranha - 2015
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16648.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/c7db4c06bf15cba7df01d694cfc00fec.jpg" group-title="Filmes | Drama",Terra Selvagem - 2017
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/c7db4c06bf15cba7df01d694cfc00fec.jpg" group-title="Filmes | Drama",Terra Selvagem - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16649.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/d584d132d7e4fe0d0d0fd3ba4e94903f.jpg" group-title="Filmes | Drama",Teu Mundo não cabe nos Meus Olhos - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/d584d132d7e4fe0d0d0fd3ba4e94903f.jpg" group-title="Filmes | Drama",Teu Mundo não cabe nos Meus Olhos - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/17160.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mSne9mfUcL8QCGxF891LWa7lZNI.jpg" group-title="Filmes | Drama",Karatê Kid 2 - 1986
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mSne9mfUcL8QCGxF891LWa7lZNI.jpg" group-title="Filmes | Drama",Karatê Kid 2 - 1986
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16392.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/7d7fce865d7c7e466d2af4b36a87060b.jpg" group-title="Filmes | Drama",The Perfection - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/7d7fce865d7c7e466d2af4b36a87060b.jpg" group-title="Filmes | Drama",The Perfection - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16650.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/df0964a210923908a96407a5f6952a5b.jpg" group-title="Filmes | Drama",The Post: A Guerra Secreta - 2017
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/df0964a210923908a96407a5f6952a5b.jpg" group-title="Filmes | Drama",The Post: A Guerra Secreta - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16651.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oT6BtjgZj51kLH4z2MpgRtuZJJd.jpg" group-title="Filmes | Drama",Cartas na Mesa - 1998
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oT6BtjgZj51kLH4z2MpgRtuZJJd.jpg" group-title="Filmes | Drama",Cartas na Mesa - 1998
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16612.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/0a4e99e0c109b4baf03055c9928ac690.jpg" group-title="Filmes | Drama",The Rover: A Caçada - 2014
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/0a4e99e0c109b4baf03055c9928ac690.jpg" group-title="Filmes | Drama",The Rover: A Caçada - 2014
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16652.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/1d31cc7a1ab82803d519a476e70d0782.jpg" group-title="Filmes | Drama",The Secretariat - 2017
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/1d31cc7a1ab82803d519a476e70d0782.jpg" group-title="Filmes | Drama",The Secretariat - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16616.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/5053043e04dc982b159045a683952c28.jpg" group-title="Filmes | Drama",Tinta Bruta - 2019
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/5053043e04dc982b159045a683952c28.jpg" group-title="Filmes | Drama",Tinta Bruta - 2019
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16654.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/9d44a961b9812fa0fcd69220992b07aa.jpg" group-title="Filmes | Drama",Titanic - 1997
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/9d44a961b9812fa0fcd69220992b07aa.jpg" group-title="Filmes | Drama",Titanic - 1997
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16655.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/4090223f39f3e7d1d77abfdd8ae211d4.jpg" group-title="Filmes | Drama",Todo Dia - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/4090223f39f3e7d1d77abfdd8ae211d4.jpg" group-title="Filmes | Drama",Todo Dia - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16656.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/7de6830c222c3204b1d6016719a27e68.jpg" group-title="Filmes | Drama",Todos Já Sabem - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/7de6830c222c3204b1d6016719a27e68.jpg" group-title="Filmes | Drama",Todos Já Sabem - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16657.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/190524d936d86509ac4b6f4336dc06d3.jpg" group-title="Filmes | Drama",Tolkien - 2019
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/190524d936d86509ac4b6f4336dc06d3.jpg" group-title="Filmes | Drama",Tolkien - 2019
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16658.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/9983700ea0ab529a6ce717c3bf58f80c.jpg" group-title="Filmes | Drama",Torturado por Cristo - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/9983700ea0ab529a6ce717c3bf58f80c.jpg" group-title="Filmes | Drama",Torturado por Cristo - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/17166.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/clpmeXLRg65zGGP1zoyYOLIakQG.jpg" group-title="Filmes | Drama",3 Faces - 2018
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/clpmeXLRg65zGGP1zoyYOLIakQG.jpg" group-title="Filmes | Drama",3 Faces - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/17167.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/5999025b4ffc29d7291e6c7541f30b3e.jpg" group-title="Filmes | Drama",Tráfico de Mulheres - 2017
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/5999025b4ffc29d7291e6c7541f30b3e.jpg" group-title="Filmes | Drama",Tráfico de Mulheres - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16659.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/51ed08b14ac0878bdbcff4c2a2ea4a13.jpg" group-title="Filmes | Drama",Três Anúncios Para Um Crime - 2017
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/51ed08b14ac0878bdbcff4c2a2ea4a13.jpg" group-title="Filmes | Drama",Três Anúncios Para Um Crime - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16660.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/77f75aa9eb073a1dd95c1f3f59bc0d40.jpg" group-title="Filmes | Drama",Três Ladrões e Um Bebê - 2006
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/77f75aa9eb073a1dd95c1f3f59bc0d40.jpg" group-title="Filmes | Drama",Três Ladrões e Um Bebê - 2006
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16661.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/270e22daa4775da964c78f01633bddc5.jpg" group-title="Filmes | Drama",Tudo Começa No Brooklyn - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/270e22daa4775da964c78f01633bddc5.jpg" group-title="Filmes | Drama",Tudo Começa No Brooklyn - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16663.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/38566f877db37a61fe40d548b8d4a915.jpg" group-title="Filmes | Drama",Tudo e Todas as Coisas - 2017
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/38566f877db37a61fe40d548b8d4a915.jpg" group-title="Filmes | Drama",Tudo e Todas as Coisas - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16664.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/d3ce79d2c1cc393d9ca89cf0fe66a933.jpg" group-title="Filmes | Drama",Tudo o que Tivemos - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/d3ce79d2c1cc393d9ca89cf0fe66a933.jpg" group-title="Filmes | Drama",Tudo o que Tivemos - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16665.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/6883a8b3e77d4c48696a692ad1f43889.jpg" group-title="Filmes | Drama",Tudo por Amor - 2016
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/6883a8b3e77d4c48696a692ad1f43889.jpg" group-title="Filmes | Drama",Tudo por Amor - 2016
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16666.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/833b5c0f2410af1b37a7de8b3acb9f38.jpg" group-title="Filmes | Drama",Tungstênio - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/833b5c0f2410af1b37a7de8b3acb9f38.jpg" group-title="Filmes | Drama",Tungstênio - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16667.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/cac6b47c975347537562e66a34e29639.jpg" group-title="Filmes | Drama",Tão Forte e Tão Perto - 2011
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/cac6b47c975347537562e66a34e29639.jpg" group-title="Filmes | Drama",Tão Forte e Tão Perto - 2011
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16642.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/c6cb4de1890608f7451c754cddeb5d92.jpg" group-title="Filmes | Drama",Ufo - Estamos Sozinhos? - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/c6cb4de1890608f7451c754cddeb5d92.jpg" group-title="Filmes | Drama",Ufo - Estamos Sozinhos? - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16668.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/459dd0296706c60d0a198f3dbaca38f2.jpg" group-title="Filmes | Drama",Um Amor de Filhote - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/459dd0296706c60d0a198f3dbaca38f2.jpg" group-title="Filmes | Drama",Um Amor de Filhote - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/17177.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/641532135b2789c001acd41c77cc3911.jpg" group-title="Filmes | Drama",Um Ato de Coragem - 2002
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/641532135b2789c001acd41c77cc3911.jpg" group-title="Filmes | Drama",Um Ato de Coragem - 2002
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16677.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/ab76e65aa0b6c304cbc497be5386b837.jpg" group-title="Filmes | Drama",Um Ato de Esperança - 2017
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/ab76e65aa0b6c304cbc497be5386b837.jpg" group-title="Filmes | Drama",Um Ato de Esperança - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16678.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/f22b80f8df53f76d3ba50f335dfd87b8.jpg" group-title="Filmes | Drama",Um Chamado Especial - 2014
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/f22b80f8df53f76d3ba50f335dfd87b8.jpg" group-title="Filmes | Drama",Um Chamado Especial - 2014
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16679.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/8994b09751b35541b3d4868bb894360f.jpg" group-title="Filmes | Drama",Um Conto do Destino - 2014
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/8994b09751b35541b3d4868bb894360f.jpg" group-title="Filmes | Drama",Um Conto do Destino - 2014
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16680.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/7ba042f69074f24885cd8e08df1a19f0.jpg" group-title="Filmes | Drama",Um Crime Perfeito - 1998
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/7ba042f69074f24885cd8e08df1a19f0.jpg" group-title="Filmes | Drama",Um Crime Perfeito - 1998
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16681.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/23a3084210d23d4183f28a62de313050.jpg" group-title="Filmes | Drama",Um Dia de Fúria - 1993
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/23a3084210d23d4183f28a62de313050.jpg" group-title="Filmes | Drama",Um Dia de Fúria - 1993
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16682.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/18330ec6a22d1f0e5fa14c2955751838.jpg" group-title="Filmes | Drama",Um Dia Perfeito - 2006
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/18330ec6a22d1f0e5fa14c2955751838.jpg" group-title="Filmes | Drama",Um Dia Perfeito - 2006
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16683.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/e34d4a9803771546a99ffe5e8a0737b3.jpg" group-title="Filmes | Drama",Um Homem de Família - 2000
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/e34d4a9803771546a99ffe5e8a0737b3.jpg" group-title="Filmes | Drama",Um Homem de Família - 2000
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16684.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/e54c9fdf369958eb1fb8300599bb66de.jpg" group-title="Filmes | Drama",Um Homem de Sorte - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/e54c9fdf369958eb1fb8300599bb66de.jpg" group-title="Filmes | Drama",Um Homem de Sorte - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16685.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/0b2eadd926489561cefb63e9a1d8b720.jpg" group-title="Filmes | Drama",Um Limite Entre Nós - 2016
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/0b2eadd926489561cefb63e9a1d8b720.jpg" group-title="Filmes | Drama",Um Limite Entre Nós - 2016
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16686.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/903bc8614a1611dea6534432697f5397.jpg" group-title="Filmes | Drama",Um Novo Olhar - 2017
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/903bc8614a1611dea6534432697f5397.jpg" group-title="Filmes | Drama",Um Novo Olhar - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16687.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/3bd02420753482c9eedf9848b10ed558.jpg" group-title="Filmes | Drama",Um Novo Recomeço - 2017
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/3bd02420753482c9eedf9848b10ed558.jpg" group-title="Filmes | Drama",Um Novo Recomeço - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16688.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/e408049530e6d1a0b91e91cf23df8fee.jpg" group-title="Filmes | Drama",Um Refúgio - 2014
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/e408049530e6d1a0b91e91cf23df8fee.jpg" group-title="Filmes | Drama",Um Refúgio - 2014
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16689.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/0e00eca4f24de4e64b48efb323c6c986.jpg" group-title="Filmes | Drama",Um Reino Unido - 2016
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/0e00eca4f24de4e64b48efb323c6c986.jpg" group-title="Filmes | Drama",Um Reino Unido - 2016
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/17187.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/4a30bbfd549a1ad8c5b9c4237191a933.jpg" group-title="Filmes | Drama",Um Sonho de Liberdade - 1994
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/4a30bbfd549a1ad8c5b9c4237191a933.jpg" group-title="Filmes | Drama",Um Sonho de Liberdade - 1994
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16690.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/694c7be6010bc30dfef95be0a0b343c0.jpg" group-title="Filmes | Drama",Um Sonho Possível - 2009
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/694c7be6010bc30dfef95be0a0b343c0.jpg" group-title="Filmes | Drama",Um Sonho Possível - 2009
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16691.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eFWkO1a1HPdyuUOKncjzPdeQdj5.jpg" group-title="Filmes | Drama",Uma Aventura Perigosa - 2018
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eFWkO1a1HPdyuUOKncjzPdeQdj5.jpg" group-title="Filmes | Drama",Uma Aventura Perigosa - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16670.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/f136c790b359aeb1c696939a8793e3a5.jpg" group-title="Filmes | Drama",Uma Conexão para o Natal - 2017
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/f136c790b359aeb1c696939a8793e3a5.jpg" group-title="Filmes | Drama",Uma Conexão para o Natal - 2017
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16671.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/aeb90d556fa8e3197a751aa5f8a40f4f.jpg" group-title="Filmes | Drama",Uma Criança Como Jake - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/aeb90d556fa8e3197a751aa5f8a40f4f.jpg" group-title="Filmes | Drama",Uma Criança Como Jake - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16672.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/f356ab96c2e64bb7bd223c33d21dd3d4.jpg" group-title="Filmes | Drama",Uma Guerra Pessoal - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/f356ab96c2e64bb7bd223c33d21dd3d4.jpg" group-title="Filmes | Drama",Uma Guerra Pessoal - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16673.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/8fa3fda1460154239019cc6146d2ccb2.jpg" group-title="Filmes | Drama",Uma Jornada de Perdão - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/8fa3fda1460154239019cc6146d2ccb2.jpg" group-title="Filmes | Drama",Uma Jornada de Perdão - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/17175.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/bdca4ae3e71a84d8d0eba5b2f11826fe.jpg" group-title="Filmes | Drama",Uma Longa Jornada - 2015
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/bdca4ae3e71a84d8d0eba5b2f11826fe.jpg" group-title="Filmes | Drama",Uma Longa Jornada - 2015
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16674.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/f3fe0c50f403502ee0efa457ae0a3d0f.jpg" group-title="Filmes | Drama",Uma Prece Antes do Amanhecer - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/f3fe0c50f403502ee0efa457ae0a3d0f.jpg" group-title="Filmes | Drama",Uma Prece Antes do Amanhecer - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16675.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/d748b7ac5d85dc2b172decf2e1482dd6.jpg" group-title="Filmes | Drama",Uma Questão de Fé - 2014
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/d748b7ac5d85dc2b172decf2e1482dd6.jpg" group-title="Filmes | Drama",Uma Questão de Fé - 2014
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16676.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/b647500e03bcc1060fe8b5e0e71a7967.jpg" group-title="Filmes | Drama",Velocidade Mortal - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/b647500e03bcc1060fe8b5e0e71a7967.jpg" group-title="Filmes | Drama",Velocidade Mortal - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16692.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/6cbe997946b70ebbb2c07a8dd2e7166c.jpg" group-title="Filmes | Drama",Veloz Como o Vento - 2016
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/6cbe997946b70ebbb2c07a8dd2e7166c.jpg" group-title="Filmes | Drama",Veloz Como o Vento - 2016
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/17190.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/9f4f4c89c67e4872975a2bc7a8ea2f7a.jpg" group-title="Filmes | Drama",Versões de um Crime - 2016
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/9f4f4c89c67e4872975a2bc7a8ea2f7a.jpg" group-title="Filmes | Drama",Versões de um Crime - 2016
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16693.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/cd61163579c6397d38055d74e3f3c060.jpg" group-title="Filmes | Drama",Vice - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/cd61163579c6397d38055d74e3f3c060.jpg" group-title="Filmes | Drama",Vice - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16694.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/a070329394be2af5358cbb0c7e074d16.jpg" group-title="Filmes | Drama",VIPs - 2011
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/a070329394be2af5358cbb0c7e074d16.jpg" group-title="Filmes | Drama",VIPs - 2011
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16695.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/d94848bc46936bb6f57b1f66ebf85264.jpg" group-title="Filmes | Drama",Viral - 2016
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/d94848bc46936bb6f57b1f66ebf85264.jpg" group-title="Filmes | Drama",Viral - 2016
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16696.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/5148d1de11690ec3803d0ca283c741fe.jpg" group-title="Filmes | Drama",Virus - 1999
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/5148d1de11690ec3803d0ca283c741fe.jpg" group-title="Filmes | Drama",Virus - 1999
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16697.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/6c9e25dca172165611990e4a4d3b2fa3.jpg" group-title="Filmes | Drama",Vox Lux: O Preço da Fama - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/6c9e25dca172165611990e4a4d3b2fa3.jpg" group-title="Filmes | Drama",Vox Lux: O Preço da Fama - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16698.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/dba07a18ce71d034631b5246095b7164.jpg" group-title="Filmes | Drama",Whiplash: Em Busca da Perfeição - 2014
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/dba07a18ce71d034631b5246095b7164.jpg" group-title="Filmes | Drama",Whiplash: Em Busca da Perfeição - 2014
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16699.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/563a8cd71c94319ca1e6ffa75b9b135c.jpg" group-title="Filmes | Drama",White Boy Rick - 2018
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/563a8cd71c94319ca1e6ffa75b9b135c.jpg" group-title="Filmes | Drama",White Boy Rick - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16700.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/860foUnRAGcq2yEAe2bwp42FrV8.jpg" group-title="Filmes | Drama",XOXO: A Vida é Uma Festa - 2016
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/860foUnRAGcq2yEAe2bwp42FrV8.jpg" group-title="Filmes | Drama",XOXO: A Vida é Uma Festa - 2016
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16701.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/48c28491512218b1fdcd57236355b0ec.jpg" group-title="Filmes | Drama",À Moda Antiga - 2014
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/48c28491512218b1fdcd57236355b0ec.jpg" group-title="Filmes | Drama",À Moda Antiga - 2014
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16205.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/1d1ae19471ae2ff0d7d53dd6aec5c06a.jpg" group-title="Filmes | Drama",À Procura da Felicidade - 2006
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/1d1ae19471ae2ff0d7d53dd6aec5c06a.jpg" group-title="Filmes | Drama",À Procura da Felicidade - 2006
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16226.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/e505af64560ce39ddc94ac55cde05af4.jpg" group-title="Filmes | Drama",Água para Elefantes - 2011
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/e505af64560ce39ddc94ac55cde05af4.jpg" group-title="Filmes | Drama",Água para Elefantes - 2011
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16190.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Xqzvo7KG8oYj9DitvzN3NTI7rS.jpg" group-title="Filmes | Drama",Ártico - 2018
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Xqzvo7KG8oYj9DitvzN3NTI7rS.jpg" group-title="Filmes | Drama",Ártico - 2018
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16968.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/50dff5b25117d3cdca4ac61e63663b4b.jpg" group-title="Filmes | Drama",Êxodo: Deuses e Reis - 2014
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/50dff5b25117d3cdca4ac61e63663b4b.jpg" group-title="Filmes | Drama",Êxodo: Deuses e Reis - 2014
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16332.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/6a38ed598a63f7162dae05bf2acea23c.jpg" group-title="Filmes | Drama",Última Parada 174 - 2008
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/6a38ed598a63f7162dae05bf2acea23c.jpg" group-title="Filmes | Drama",Última Parada 174 - 2008
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/16669.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/35HFXkITwmVAXUZf9UWPZ6zedBO.jpg" group-title="Filmes | Drama",Uma Lição de Vida - 2010
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/35HFXkITwmVAXUZf9UWPZ6zedBO.jpg" group-title="Filmes | Drama",Uma Lição de Vida - 2010
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/18000.mp4
 

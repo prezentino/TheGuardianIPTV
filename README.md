@@ -1640,3 +1640,324 @@ http://eyplay.io:80/dPRPQR/St3gc1/429
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/telecinetouch.png" aspect-ratio="16:9" group-title="Canais | Telecine",Telecine Touch SD
 http://eyplay.io:80/dPRPQR/St3gc1/430
+
+
+
+###########################################CANAIS VARIEDADES###############################################
+
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/a%26e.png" aspect-ratio="16:9" group-title="Canais | Variedades",A&E FHD (H265)
+http://eyplay.io:80/dPRPQR/St3gc1/2
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/a%26e.png" aspect-ratio="16:9" group-title="Canais | Variedades",A&E HD
+http://eyplay.io:80/dPRPQR/St3gc1/3
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/a%26e.png" aspect-ratio="16:9" group-title="Canais | Variedades",A&E SD
+http://eyplay.io:80/dPRPQR/St3gc1/4
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/bis.png" aspect-ratio="16:9" group-title="Canais | Variedades",BIS FHD (H265)
+http://eyplay.io:80/dPRPQR/St3gc1/48
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/bis.png" aspect-ratio="16:9" group-title="Canais | Variedades",BIS HD
+http://eyplay.io:80/dPRPQR/St3gc1/49
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/bis.png" aspect-ratio="16:9" group-title="Canais | Variedades",BIS SD
+http://eyplay.io:80/dPRPQR/St3gc1/50
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/4fun.png" aspect-ratio="16:9" group-title="Canais | Variedades",Canal 4 Fun HD
+http://eyplay.io:80/dPRPQR/St3gc1/54
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/cheftv.png" aspect-ratio="16:9" group-title="Canais | Variedades",Chef TV FHD (H265)
+http://eyplay.io:80/dPRPQR/St3gc1/63
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/cheftv.png" aspect-ratio="16:9" group-title="Canais | Variedades",Chef TV HD
+http://eyplay.io:80/dPRPQR/St3gc1/64
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/cheftv.png" aspect-ratio="16:9" group-title="Canais | Variedades",Chef TV SD
+http://eyplay.io:80/dPRPQR/St3gc1/65
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/comedycentral.png" aspect-ratio="16:9" group-title="Canais | Variedades",Comedy Central FHD (H265)
+http://eyplay.io:80/dPRPQR/St3gc1/79
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/comedycentral.png" aspect-ratio="16:9" group-title="Canais | Variedades",Comedy Central HD
+http://eyplay.io:80/dPRPQR/St3gc1/80
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/comedycentral.png" aspect-ratio="16:9" group-title="Canais | Variedades",Comedy Central SD
+http://eyplay.io:80/dPRPQR/St3gc1/81
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/discoveryh%26h.png" aspect-ratio="16:9" group-title="Canais | Variedades",Discovery Home & Health FHD (H265)
+http://eyplay.io:80/dPRPQR/St3gc1/101
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/discoveryh%26h.png" aspect-ratio="16:9" group-title="Canais | Variedades",Discovery Home & Health HD
+http://eyplay.io:80/dPRPQR/St3gc1/102
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/discoveryh%26h.png" aspect-ratio="16:9" group-title="Canais | Variedades",Discovery Home & Health SD
+http://eyplay.io:80/dPRPQR/St3gc1/103
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/id.png" aspect-ratio="16:9" group-title="Canais | Variedades",Discovery ID FHD (H265)
+http://eyplay.io:80/dPRPQR/St3gc1/294
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/id.png" aspect-ratio="16:9" group-title="Canais | Variedades",Discovery ID HD
+http://eyplay.io:80/dPRPQR/St3gc1/295
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/id.png" aspect-ratio="16:9" group-title="Canais | Variedades",Discovery ID SD
+http://eyplay.io:80/dPRPQR/St3gc1/296
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/discoveryturbo.png" aspect-ratio="16:9" group-title="Canais | Variedades",Discovery Turbo FHD (H265)
+http://eyplay.io:80/dPRPQR/St3gc1/113
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/discoveryturbo.png" aspect-ratio="16:9" group-title="Canais | Variedades",Discovery Turbo HD
+http://eyplay.io:80/dPRPQR/St3gc1/114
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/discoveryturbo.png" aspect-ratio="16:9" group-title="Canais | Variedades",Discovery Turbo SD
+http://eyplay.io:80/dPRPQR/St3gc1/115
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/e%21.png" aspect-ratio="16:9" group-title="Canais | Variedades",E FHD (H265)
+http://eyplay.io:80/dPRPQR/St3gc1/128
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/e%21.png" aspect-ratio="16:9" group-title="Canais | Variedades",E SD
+http://eyplay.io:80/dPRPQR/St3gc1/130
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/e%21.png" aspect-ratio="16:9" group-title="Canais | Variedades",E! HD
+http://eyplay.io:80/dPRPQR/St3gc1/129
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/fishtv.png" aspect-ratio="16:9" group-title="Canais | Variedades",Fish TV FHD (H265)
+http://eyplay.io:80/dPRPQR/St3gc1/155
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/fishtv.png" aspect-ratio="16:9" group-title="Canais | Variedades",Fish TV HD
+http://eyplay.io:80/dPRPQR/St3gc1/156
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/fishtv.png" aspect-ratio="16:9" group-title="Canais | Variedades",Fish TV SD
+http://eyplay.io:80/dPRPQR/St3gc1/157
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/foodnetwork.png" aspect-ratio="16:9" group-title="Canais | Variedades",Food Network FHD (H265)
+http://eyplay.io:80/dPRPQR/St3gc1/158
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/foodnetwork.png" aspect-ratio="16:9" group-title="Canais | Variedades",Food Network HD
+http://eyplay.io:80/dPRPQR/St3gc1/159
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/foodnetwork.png" aspect-ratio="16:9" group-title="Canais | Variedades",Food Network SD
+http://eyplay.io:80/dPRPQR/St3gc1/160
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/foxlife.png" aspect-ratio="16:9" group-title="Canais | Variedades",Fox Life FHD (H265)
+http://eyplay.io:80/dPRPQR/St3gc1/163
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/foxlife.png" aspect-ratio="16:9" group-title="Canais | Variedades",Fox Life HD
+http://eyplay.io:80/dPRPQR/St3gc1/164
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/foxlife.png" aspect-ratio="16:9" group-title="Canais | Variedades",Fox Life SD
+http://eyplay.io:80/dPRPQR/St3gc1/165
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/gnt.png" aspect-ratio="16:9" group-title="Canais | Variedades",GNT FHD (H265)
+http://eyplay.io:80/dPRPQR/St3gc1/258
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/gnt.png" aspect-ratio="16:9" group-title="Canais | Variedades",GNT HD
+http://eyplay.io:80/dPRPQR/St3gc1/259
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/gnt.png" aspect-ratio="16:9" group-title="Canais | Variedades",GNT SD
+http://eyplay.io:80/dPRPQR/St3gc1/260
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/isat.png" aspect-ratio="16:9" group-title="Canais | Variedades",i Sat FHD (H265)
+http://eyplay.io:80/dPRPQR/St3gc1/291
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/isat.png" aspect-ratio="16:9" group-title="Canais | Variedades",i Sat HD
+http://eyplay.io:80/dPRPQR/St3gc1/292
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/isat.png" aspect-ratio="16:9" group-title="Canais | Variedades",I Sat SD
+http://eyplay.io:80/dPRPQR/St3gc1/293
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/lifetime.png" aspect-ratio="16:9" group-title="Canais | Variedades",Lifetime FHD (H265)
+http://eyplay.io:80/dPRPQR/St3gc1/297
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/lifetime.png" aspect-ratio="16:9" group-title="Canais | Variedades",Lifetime HD
+http://eyplay.io:80/dPRPQR/St3gc1/298
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/lifetime.png" aspect-ratio="16:9" group-title="Canais | Variedades",Lifetime SD
+http://eyplay.io:80/dPRPQR/St3gc1/299
+
+
+#EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="Canais @ Documentários",Love Nature FHD
+http://eyplay.io:80/dPRPQR/St3gc1/2551
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/maisglobosat.png" aspect-ratio="16:9" group-title="Canais | Variedades",Mais Globosat FHD (H265)
+http://eyplay.io:80/dPRPQR/St3gc1/300
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/maisglobosat.png" aspect-ratio="16:9" group-title="Canais | Variedades",Mais Globosat HD
+http://eyplay.io:80/dPRPQR/St3gc1/301
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/maisglobosat.png" aspect-ratio="16:9" group-title="Canais | Variedades",Mais Globosat SD
+http://eyplay.io:80/dPRPQR/St3gc1/302
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/mtv.png" aspect-ratio="16:9" group-title="Canais | Variedades",MTV FHD (H265)
+http://eyplay.io:80/dPRPQR/St3gc1/306
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/mtv.png" aspect-ratio="16:9" group-title="Canais | Variedades",MTV HD
+http://eyplay.io:80/dPRPQR/St3gc1/307
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/mtv.png" aspect-ratio="16:9" group-title="Canais | Variedades",MTV SD
+http://eyplay.io:80/dPRPQR/St3gc1/308
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/multishow.png" aspect-ratio="16:9" group-title="Canais | Variedades",Multishow FHD (H265)
+http://eyplay.io:80/dPRPQR/St3gc1/309
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/multishow.png" aspect-ratio="16:9" group-title="Canais | Variedades",Multishow HD
+http://eyplay.io:80/dPRPQR/St3gc1/310
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/multishow.png" aspect-ratio="16:9" group-title="Canais | Variedades",Multishow SD
+http://eyplay.io:80/dPRPQR/St3gc1/311
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/musicboxbrazil.png" aspect-ratio="16:9" group-title="Canais | Variedades",Music Box Brasil FHD (H265)
+http://eyplay.io:80/dPRPQR/St3gc1/312
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/musicboxbrazil.png" aspect-ratio="16:9" group-title="Canais | Variedades",Music Box Brasil HD
+http://eyplay.io:80/dPRPQR/St3gc1/313
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/musicboxbrazil.png" aspect-ratio="16:9" group-title="Canais | Variedades",Music Box Brasil SD
+http://eyplay.io:80/dPRPQR/St3gc1/314
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/off.png" aspect-ratio="16:9" group-title="Canais | Variedades",OFF FHD (H265)
+http://eyplay.io:80/dPRPQR/St3gc1/330
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/off.png" aspect-ratio="16:9" group-title="Canais | Variedades",OFF HD
+http://eyplay.io:80/dPRPQR/St3gc1/331
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/off.png" aspect-ratio="16:9" group-title="Canais | Variedades",OFF SD
+http://eyplay.io:80/dPRPQR/St3gc1/332
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/playtv.png" aspect-ratio="16:9" group-title="Canais | Variedades",Play TV FHD (H265)
+http://eyplay.io:80/dPRPQR/St3gc1/336
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/playtv.png" aspect-ratio="16:9" group-title="Canais | Variedades",Play TV HD
+http://eyplay.io:80/dPRPQR/St3gc1/337
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/playtv.png" aspect-ratio="16:9" group-title="Canais | Variedades",Play TV SD
+http://eyplay.io:80/dPRPQR/St3gc1/338
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/primeboxbrazil.png" aspect-ratio="16:9" group-title="Canais | Variedades",Prime Box Brasil FHD (H265)
+http://eyplay.io:80/dPRPQR/St3gc1/360
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/primeboxbrazil.png" aspect-ratio="16:9" group-title="Canais | Variedades",Prime Box Brasil HD
+http://eyplay.io:80/dPRPQR/St3gc1/361
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/primeboxbrazil.png" aspect-ratio="16:9" group-title="Canais | Variedades",Prime Box Brasil SD
+http://eyplay.io:80/dPRPQR/St3gc1/362
+
+
+#EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="Canais | Variedades",Shoptime FHD (H265)
+http://eyplay.io:80/dPRPQR/St3gc1/385
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/tlc.png" aspect-ratio="16:9" group-title="Canais | Variedades",TLC FHD (H265)
+http://eyplay.io:80/dPRPQR/St3gc1/431
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/tlc.png" aspect-ratio="16:9" group-title="Canais | Variedades",TLC HD
+http://eyplay.io:80/dPRPQR/St3gc1/432
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/tlc.png" aspect-ratio="16:9" group-title="Canais | Variedades",TLC SD
+http://eyplay.io:80/dPRPQR/St3gc1/433
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/tv5.png" aspect-ratio="16:9" group-title="Canais | Variedades",TV5 HD
+http://eyplay.io:80/dPRPQR/St3gc1/451
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/vh1.png" aspect-ratio="16:9" group-title="Canais | Variedades",VH1 FHD (H265)
+http://eyplay.io:80/dPRPQR/St3gc1/477
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/vh1.png" aspect-ratio="16:9" group-title="Canais | Variedades",VH1 HD
+http://eyplay.io:80/dPRPQR/St3gc1/14077
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/vh1megahits.png" aspect-ratio="16:9" group-title="Canais | Variedades",VH1 Mega Hits FHD (H265)
+http://eyplay.io:80/dPRPQR/St3gc1/455
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/vh1megahits.png" aspect-ratio="16:9" group-title="Canais | Variedades",VH1 Mega Hits HD
+http://eyplay.io:80/dPRPQR/St3gc1/456
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/vh1megahits.png" aspect-ratio="16:9" group-title="Canais | Variedades",VH1 Mega Hits SD
+http://eyplay.io:80/dPRPQR/St3gc1/457
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/viva.png" aspect-ratio="16:9" group-title="Canais | Variedades",Viva FHD (H265)
+http://eyplay.io:80/dPRPQR/St3gc1/458
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/viva.png" aspect-ratio="16:9" group-title="Canais | Variedades",Viva HD
+http://eyplay.io:80/dPRPQR/St3gc1/459
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/viva.png" aspect-ratio="16:9" group-title="Canais | Variedades",Viva SD
+http://eyplay.io:80/dPRPQR/St3gc1/460
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/woohoo.png" aspect-ratio="16:9" group-title="Canais | Variedades",Woohoo FHD (H265)
+http://eyplay.io:80/dPRPQR/St3gc1/464

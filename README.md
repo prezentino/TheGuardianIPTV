@@ -326,15 +326,15 @@ http://eyplay.io:80/dPRPQR/St3gc1/322
 http://eyplay.io:80/dPRPQR/St3gc1/323
 
 
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/nationalgeographic.png" aspect-ratio="16:9" group-title="Canais | Documentários",National aspect-ratio="16:9" geographic FHD (H265)
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/nationalgeographic.png" aspect-ratio="16:9" group-title="Canais | Documentários",National Geographic FHD (H265)
 http://eyplay.io:80/dPRPQR/St3gc1/315
 
 
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/nationalgeographic.png" aspect-ratio="16:9" group-title="Canais | Documentários",National aspect-ratio="16:9" geographic HD
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/nationalgeographic.png" aspect-ratio="16:9" group-title="Canais | Documentários",National Geographic HD
 http://eyplay.io:80/dPRPQR/St3gc1/316
 
 
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/nationalgeographic.png" aspect-ratio="16:9" group-title="Canais | Documentários",National aspect-ratio="16:9" geographic SD
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/nationalgeographic.png" aspect-ratio="16:9" group-title="Canais | Documentários",National Geographic SD
 http://eyplay.io:80/dPRPQR/St3gc1/320
 
 

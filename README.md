@@ -1647,6 +1647,14 @@ http://eyplay.io:80/dPRPQR/St3gc1/430
 
 
 
+#EXTINF:-1 tvg-logo="https://tinyurl.com/tqnaak8" group-title="Canais | Variedades",[COLOR blue][B]THE GUARDIAN[/B][/COLOR]
+https://facebook.com/xx.ely.david.xx
+
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/wrzf2ze" group-title="Canais | Variedades",[COLOR lightsalmon]SUPORTE VIA DISCORD: discord.gg/bVSswd[/COLOR]
+https://facebook.com/xx.ely.david.xx
+
+
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/a%26e.png" aspect-ratio="16:9" group-title="Canais | Variedades",A&E FHD (H265)
 http://eyplay.io:80/dPRPQR/St3gc1/2
 
@@ -1819,10 +1827,6 @@ http://eyplay.io:80/dPRPQR/St3gc1/298
 http://eyplay.io:80/dPRPQR/St3gc1/299
 
 
-#EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="Canais @ Documentários",Love Nature FHD
-http://eyplay.io:80/dPRPQR/St3gc1/2551
-
-
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/maisglobosat.png" aspect-ratio="16:9" group-title="Canais | Variedades",Mais Globosat FHD (H265)
 http://eyplay.io:80/dPRPQR/St3gc1/300
 
@@ -1961,3 +1965,939 @@ http://eyplay.io:80/dPRPQR/St3gc1/460
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/woohoo.png" aspect-ratio="16:9" group-title="Canais | Variedades",Woohoo FHD (H265)
 http://eyplay.io:80/dPRPQR/St3gc1/464
+
+
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/W2q" group-title="Canais @ 24 Horas",(24H) 101 DALMATAS
+http://eyplay.io:80/dPRPQR/St3gc1/478
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/Oym" group-title="Canais @ 24 Horas",(24H) 3 PALAVRINHAS
+http://eyplay.io:80/dPRPQR/St3gc1/480
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/Gkw" group-title="Canais @ 24 Horas",(24H) A BRUXINHA SABRINA
+http://eyplay.io:80/dPRPQR/St3gc1/481
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/gMc" group-title="Canais @ 24 Horas",(24H) A CEGONHA PERNA FINA
+http://eyplay.io:80/dPRPQR/St3gc1/482
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/rpW" group-title="Canais @ 24 Horas",(24H) A COBRINHA AZUL
+http://eyplay.io:80/dPRPQR/St3gc1/483
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/JEs" group-title="Canais @ 24 Horas",(24H) A ESCOLINHA DO PROFESSOR RAIMUNDO
+http://eyplay.io:80/dPRPQR/St3gc1/484
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/WLj" group-title="Canais @ 24 Horas",(24H) A FAMILIA ADDAMS 1992
+http://eyplay.io:80/dPRPQR/St3gc1/485
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/VpD" group-title="Canais @ 24 Horas",(24H) A FAMILIA DRACULA
+http://eyplay.io:80/dPRPQR/St3gc1/486
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/oXz" group-title="Canais @ 24 Horas",(24H) A FAMILIA DRACULA
+http://eyplay.io:80/dPRPQR/St3gc1/487
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/oxJ" group-title="Canais @ 24 Horas",(24H) A FAMÍLIA DINOSSAURO
+http://eyplay.io:80/dPRPQR/St3gc1/488
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/xQy" group-title="Canais @ 24 Horas",(24H) A FEITICEIRA FACEIRA
+http://eyplay.io:80/dPRPQR/St3gc1/490
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/rmg" group-title="Canais @ 24 Horas",(24H) A FORMIGA ATÔMICA
+http://eyplay.io:80/dPRPQR/St3gc1/491
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/ct4" group-title="Canais @ 24 Horas",(24H) A MANSÃO FOSTER PARA AMIGOS IMAGINÁRIOS
+http://eyplay.io:80/dPRPQR/St3gc1/492
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/8fr" group-title="Canais @ 24 Horas",(24H) A MUMIA
+http://eyplay.io:80/dPRPQR/St3gc1/493
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/rgL" group-title="Canais @ 24 Horas",(24H) A NOSSA TURMA
+http://eyplay.io:80/dPRPQR/St3gc1/494
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/dBZ" group-title="Canais @ 24 Horas",(24H) A PANTERA COR DE ROSA
+http://eyplay.io:80/dPRPQR/St3gc1/495
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/yfa" group-title="Canais @ 24 Horas",(24H) A PEQUENA SEREIA
+http://eyplay.io:80/dPRPQR/St3gc1/496
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/PLZ" group-title="Canais @ 24 Horas",(24H) A PEQUENA SEREIA
+http://eyplay.io:80/dPRPQR/St3gc1/497
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/b9e" group-title="Canais @ 24 Horas",(24H) A TURMA DE CHARLIE BROWN E SNOOPY
+http://eyplay.io:80/dPRPQR/St3gc1/498
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/DFd" group-title="Canais @ 24 Horas",(24H) A VACA E O FRANGO
+http://eyplay.io:80/dPRPQR/St3gc1/500
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/u8R" group-title="Canais @ 24 Horas",(24H) A VIDA MODERNA DE ROCKO
+http://eyplay.io:80/dPRPQR/St3gc1/501
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/nnb" group-title="Canais @ 24 Horas",(24H) ACAMPAMENTO LAKEBOTTOM
+http://eyplay.io:80/dPRPQR/St3gc1/502
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/Dkk" group-title="Canais @ 24 Horas",(24H) ALADDIN DESENHO ANIMADO
+http://eyplay.io:80/dPRPQR/St3gc1/503
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/25A" group-title="Canais @ 24 Horas",(24H) ANDY PANDA
+http://eyplay.io:80/dPRPQR/St3gc1/504
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/Y6A" group-title="Canais @ 24 Horas",(24H) ANIMANIACS
+http://eyplay.io:80/dPRPQR/St3gc1/505
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/YOR" group-title="Canais @ 24 Horas",(24H) ARQUIVO CÃOFIDENCIAL
+http://eyplay.io:80/dPRPQR/St3gc1/506
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/zsb" group-title="Canais @ 24 Horas",(24H) AS AVENTURAS DE JACKIE CHAN
+http://eyplay.io:80/dPRPQR/St3gc1/507
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/WYd" group-title="Canais @ 24 Horas",(24H) AS AVENTURAS DE TINTIM
+http://eyplay.io:80/dPRPQR/St3gc1/508
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/UXr" group-title="Canais @ 24 Horas",(24H) AS MENINAS SUPERPODEROSAS
+http://eyplay.io:80/dPRPQR/St3gc1/510
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/6ig" group-title="Canais @ 24 Horas",(24H) AS MUMIAS VIVAS
+http://eyplay.io:80/dPRPQR/St3gc1/511
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/yci" group-title="Canais @ 24 Horas",(24H) AS TARTARUGAS NINJAS
+http://eyplay.io:80/dPRPQR/St3gc1/512
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/yfQ" group-title="Canais @ 24 Horas",(24H) AS TRAPALHADAS DE FLAPJACK
+http://eyplay.io:80/dPRPQR/St3gc1/513
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/7dO" group-title="Canais @ 24 Horas",(24H) AS TRIGÊMIAS
+http://eyplay.io:80/dPRPQR/St3gc1/514
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/Sbk" group-title="Canais @ 24 Horas",(24H) AVATAR ANIME COMPLETO
+http://eyplay.io:80/dPRPQR/St3gc1/515
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/q0F" group-title="Canais @ 24 Horas",(24H) BABY LOONEY TOONES
+http://eyplay.io:80/dPRPQR/St3gc1/516
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/K0W" group-title="Canais @ 24 Horas",(24H) BACKYARDIGANS
+http://eyplay.io:80/dPRPQR/St3gc1/517
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/XZX" group-title="Canais @ 24 Horas",(24H) BAKUGAN
+http://eyplay.io:80/dPRPQR/St3gc1/518
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/7cW" group-title="Canais @ 24 Horas",(24H) BATES MOTEL T01
+http://eyplay.io:80/dPRPQR/St3gc1/520
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/BJb" group-title="Canais @ 24 Horas",(24H) BATES MOTEL T02
+http://eyplay.io:80/dPRPQR/St3gc1/521
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/u9Y" group-title="Canais @ 24 Horas",(24H) BATES MOTEL T03
+http://eyplay.io:80/dPRPQR/St3gc1/522
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/g0k" group-title="Canais @ 24 Horas",(24H) BATES MOTEL T04
+http://eyplay.io:80/dPRPQR/St3gc1/523
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/yXN" group-title="Canais @ 24 Horas",(24H) BATES MOTEL T05
+http://eyplay.io:80/dPRPQR/St3gc1/524
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/fgp" group-title="Canais @ 24 Horas",(24H) BEN 10 2006 - 2008
+http://eyplay.io:80/dPRPQR/St3gc1/525
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/Se7" group-title="Canais @ 24 Horas",(24H) BEN 10 FORCA ALIENIGENA 2008 - 2010
+http://eyplay.io:80/dPRPQR/St3gc1/526
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/fRG" group-title="Canais @ 24 Horas",(24H) BEN 10 OMNIVERSE 2012 - 2014
+http://eyplay.io:80/dPRPQR/St3gc1/527
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/kAS" group-title="Canais @ 24 Horas",(24H) BEN 10 SUPREMACIA ALIENIGENA 2010 - 2012
+http://eyplay.io:80/dPRPQR/St3gc1/528
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/ZgD" group-title="Canais @ 24 Horas",(24H) BEYBLADE G REVOLUTION 2003
+http://eyplay.io:80/dPRPQR/St3gc1/530
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/Npo" group-title="Canais @ 24 Horas",(24H) BEYBLADE METAL FUSION 2010
+http://eyplay.io:80/dPRPQR/St3gc1/531
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/Ir2" group-title="Canais @ 24 Horas",(24H) BEYBLADE V FORCE
+http://eyplay.io:80/dPRPQR/St3gc1/532
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/hkX" group-title="Canais @ 24 Horas",(24H) BIBO PAI E BOB FILHO
+http://eyplay.io:80/dPRPQR/St3gc1/533
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/u2i" group-title="Canais @ 24 Horas",(24H) BICUDO
+http://eyplay.io:80/dPRPQR/St3gc1/534
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/NKM" group-title="Canais @ 24 Horas",(24H) BOB ESPONJA T01
+http://eyplay.io:80/dPRPQR/St3gc1/535
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/WL4" group-title="Canais @ 24 Horas",(24H) BOB ESPONJA T02
+http://eyplay.io:80/dPRPQR/St3gc1/536
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/lYX" group-title="Canais @ 24 Horas",(24H) BOB ESPONJA T03
+http://eyplay.io:80/dPRPQR/St3gc1/537
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/Esx" group-title="Canais @ 24 Horas",(24H) BOB ESPONJA T04
+http://eyplay.io:80/dPRPQR/St3gc1/538
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/eR6" group-title="Canais @ 24 Horas",(24H) BOB ESPONJA T06
+http://eyplay.io:80/dPRPQR/St3gc1/540
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/8mV" group-title="Canais @ 24 Horas",(24H) BOB ESPONJA T07
+http://eyplay.io:80/dPRPQR/St3gc1/541
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/qzG" group-title="Canais @ 24 Horas",(24H) BOB ESPONJA T08
+http://eyplay.io:80/dPRPQR/St3gc1/542
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/Z9a" group-title="Canais @ 24 Horas",(24H) BOB ESPONJA T09
+http://eyplay.io:80/dPRPQR/St3gc1/543
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/6tk" group-title="Canais @ 24 Horas",(24H) BOB ESPONJA T10
+http://eyplay.io:80/dPRPQR/St3gc1/544
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/6k6" group-title="Canais @ 24 Horas",(24H) BREAKING BAD T01
+http://eyplay.io:80/dPRPQR/St3gc1/545
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/2kU" group-title="Canais @ 24 Horas",(24H) BREAKING BAD T02
+http://eyplay.io:80/dPRPQR/St3gc1/546
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/363" group-title="Canais @ 24 Horas",(24H) BREAKING BAD T03
+http://eyplay.io:80/dPRPQR/St3gc1/547
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/jhW" group-title="Canais @ 24 Horas",(24H) BREAKING BAD T04
+http://eyplay.io:80/dPRPQR/St3gc1/548
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/pMr" group-title="Canais @ 24 Horas",(24H) BUCKY JIBAKU KUN
+http://eyplay.io:80/dPRPQR/St3gc1/550
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/hXv" group-title="Canais @ 24 Horas",(24H) BUZZ LIGHTYEAR DO COMANDO
+http://eyplay.io:80/dPRPQR/St3gc1/551
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/MZY" group-title="Canais @ 24 Horas",(24H) CADILLACS E DINOSSAUROS
+http://eyplay.io:80/dPRPQR/St3gc1/552
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/XRp" group-title="Canais @ 24 Horas",(24H) CAEZINHOS DO CANIL
+http://eyplay.io:80/dPRPQR/St3gc1/553
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/zGs" group-title="Canais @ 24 Horas",(24H) CAMPEOES DO SENDOKAI
+http://eyplay.io:80/dPRPQR/St3gc1/554
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/SUS" group-title="Canais @ 24 Horas",(24H) CAPITAO PLANETA
+http://eyplay.io:80/dPRPQR/St3gc1/555
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/amw" group-title="Canais @ 24 Horas",(24H) CARMEN SANDIEGO
+http://eyplay.io:80/dPRPQR/St3gc1/556
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/4C5" group-title="Canais @ 24 Horas",(24H) CASTELO RA TIM BUM
+http://eyplay.io:80/dPRPQR/St3gc1/557
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/cZj" group-title="Canais @ 24 Horas",(24H) CAVERNA DO DRAGÃO
+http://eyplay.io:80/dPRPQR/St3gc1/558
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/11W" group-title="Canais @ 24 Horas",(24H) CHAVES CLASSICO EXTRA
+http://eyplay.io:80/dPRPQR/St3gc1/560
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/iAa" group-title="Canais @ 24 Horas",(24H) CHAVES CLÁSSICO T01
+http://eyplay.io:80/dPRPQR/St3gc1/561
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/OdH" group-title="Canais @ 24 Horas",(24H) CHAVES CLÁSSICO T02
+http://eyplay.io:80/dPRPQR/St3gc1/562
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/rAe" group-title="Canais @ 24 Horas",(24H) CHAVES CLÁSSICO T03
+http://eyplay.io:80/dPRPQR/St3gc1/563
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/P1G" group-title="Canais @ 24 Horas",(24H) CHAVES CLÁSSICO T04
+http://eyplay.io:80/dPRPQR/St3gc1/564
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/qbn" group-title="Canais @ 24 Horas",(24H) CHAVES CLÁSSICO T05
+http://eyplay.io:80/dPRPQR/St3gc1/565
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/Dye" group-title="Canais @ 24 Horas",(24H) CHAVES CLÁSSICO T06
+http://eyplay.io:80/dPRPQR/St3gc1/566
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/57D" group-title="Canais @ 24 Horas",(24H) CHOWDER
+http://eyplay.io:80/dPRPQR/St3gc1/567
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/8n7" group-title="Canais @ 24 Horas",(24H) CLARENCIO O OTIMISTA
+http://eyplay.io:80/dPRPQR/St3gc1/568
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/Epd" group-title="Canais @ 24 Horas",(24H) CLUBE DOS CARROS
+http://eyplay.io:80/dPRPQR/St3gc1/570
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/pa5" group-title="Canais @ 24 Horas",(24H) COELHO RICOCHETE
+http://eyplay.io:80/dPRPQR/St3gc1/571
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/veL" group-title="Canais @ 24 Horas",(24H) COLECAO BOB ZOOM
+http://eyplay.io:80/dPRPQR/St3gc1/572
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/u1Z" group-title="Canais @ 24 Horas",(24H) CONTOS DA CRYPTA ANIMACAO
+http://eyplay.io:80/dPRPQR/St3gc1/573
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/vSX" group-title="Canais @ 24 Horas",(24H) CORAGEM O CAO COVARDE
+http://eyplay.io:80/dPRPQR/St3gc1/574
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/Zti" group-title="Canais @ 24 Horas",(24H) CORRIDA ESPACIAL
+http://eyplay.io:80/dPRPQR/St3gc1/575
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/6fm" group-title="Canais @ 24 Horas",(24H) CORRIDA MALUCA
+http://eyplay.io:80/dPRPQR/St3gc1/576
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/nYT" group-title="Canais @ 24 Horas",(24H) CYBERCHASE A CORRIDA DO ESPACO
+http://eyplay.io:80/dPRPQR/St3gc1/577
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/oLh" group-title="Canais @ 24 Horas",(24H) DANNY PHANTOM 2004 - 2007
+http://eyplay.io:80/dPRPQR/St3gc1/578
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/sRx" group-title="Canais @ 24 Horas",(24H) De Ferias Com Ex T02
+http://eyplay.io:80/dPRPQR/St3gc1/580
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/i9q" group-title="Canais @ 24 Horas",(24H) De Ferias Com Ex T03
+http://eyplay.io:80/dPRPQR/St3gc1/581
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/zCp" group-title="Canais @ 24 Horas",(24H) DE VOLTA PARA O FUTURO
+http://eyplay.io:80/dPRPQR/St3gc1/582
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/H2U" group-title="Canais @ 24 Horas",(24H) DEBY E LOID
+http://eyplay.io:80/dPRPQR/St3gc1/583
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/IaZ" group-title="Canais @ 24 Horas",(24H) DENIS O PIMENTINHA
+http://eyplay.io:80/dPRPQR/St3gc1/584
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/TG1" group-title="Canais @ 24 Horas",(24H) DICK VIGARISTA E MUTTLEY - MAQUINAS VOADORAS
+http://eyplay.io:80/dPRPQR/St3gc1/585
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/J4f" group-title="Canais @ 24 Horas",(24H) DIGIMON DIGITAL MONSTERS T01
+http://eyplay.io:80/dPRPQR/St3gc1/586
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/pef" group-title="Canais @ 24 Horas",(24H) DIGIMON DIGITAL MONSTERS T02
+http://eyplay.io:80/dPRPQR/St3gc1/587
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/Gq4" group-title="Canais @ 24 Horas",(24H) DIGIMON DIGITAL MONSTERS T03
+http://eyplay.io:80/dPRPQR/St3gc1/588
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/CTA" group-title="Canais @ 24 Horas",(24H) DIGIMON DIGITAL MONSTERS T05
+http://eyplay.io:80/dPRPQR/St3gc1/590
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/mVd" group-title="Canais @ 24 Horas",(24H) DIGITAL MONSTERS T03
+http://eyplay.io:80/dPRPQR/St3gc1/591
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/n1l" group-title="Canais @ 24 Horas",(24H) DINOSSAURO REI
+http://eyplay.io:80/dPRPQR/St3gc1/592
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/KYC" group-title="Canais @ 24 Horas",(24H) DOIS HOMENS E MEIO T01
+http://eyplay.io:80/dPRPQR/St3gc1/593
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/Dkt" group-title="Canais @ 24 Horas",(24H) DOIS HOMENS E MEIO T02
+http://eyplay.io:80/dPRPQR/St3gc1/594
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/zYB" group-title="Canais @ 24 Horas",(24H) DOIS HOMENS E MEIO T03
+http://eyplay.io:80/dPRPQR/St3gc1/595
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/Mys" group-title="Canais @ 24 Horas",(24H) DOIS HOMENS E MEIO T04
+http://eyplay.io:80/dPRPQR/St3gc1/596
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/GPm" group-title="Canais @ 24 Horas",(24H) DOIS HOMENS E MEIO T05
+http://eyplay.io:80/dPRPQR/St3gc1/597
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/fyH" group-title="Canais @ 24 Horas",(24H) DOIS HOMENS E MEIO T06
+http://eyplay.io:80/dPRPQR/St3gc1/598
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/dhH" group-title="Canais @ 24 Horas",(24H) DOIS HOMENS E MEIO T08
+http://eyplay.io:80/dPRPQR/St3gc1/600
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/3fZ" group-title="Canais @ 24 Horas",(24H) DOIS HOMENS E MEIO T09
+http://eyplay.io:80/dPRPQR/St3gc1/601
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/x1G" group-title="Canais @ 24 Horas",(24H) DOIS HOMENS E MEIO T10
+http://eyplay.io:80/dPRPQR/St3gc1/602
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/YmJ" group-title="Canais @ 24 Horas",(24H) DOIS HOMENS E MEIO T11
+http://eyplay.io:80/dPRPQR/St3gc1/603
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/kx3" group-title="Canais @ 24 Horas",(24H) DOIS HOMENS E MEIO T12
+http://eyplay.io:80/dPRPQR/St3gc1/604
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/vDF" group-title="Canais @ 24 Horas",(24H) DON DRACULA
+http://eyplay.io:80/dPRPQR/St3gc1/605
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/lkJ" group-title="Canais @ 24 Horas",(24H) DORA A AVENTUREIRA
+http://eyplay.io:80/dPRPQR/St3gc1/606
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/Slf" group-title="Canais @ 24 Horas",(24H) DOUG
+http://eyplay.io:80/dPRPQR/St3gc1/607
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/h9f" group-title="Canais @ 24 Horas",(24H) DR CALCA DIMENSIONAL
+http://eyplay.io:80/dPRPQR/St3gc1/608
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/Jlv" group-title="Canais @ 24 Horas",(24H) DRAGON BALL SUPER T01
+http://eyplay.io:80/dPRPQR/St3gc1/610
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/HWs" group-title="Canais @ 24 Horas",(24H) DRAGON BALL SUPER T02
+http://eyplay.io:80/dPRPQR/St3gc1/611
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/b0Z" group-title="Canais @ 24 Horas",(24H) DRAGON BALL SUPER T03
+http://eyplay.io:80/dPRPQR/St3gc1/612
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/KYN" group-title="Canais @ 24 Horas",(24H) DRAGON BALL SUPER T04
+http://eyplay.io:80/dPRPQR/St3gc1/613
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/4VB" group-title="Canais @ 24 Horas",(24H) DRAGON BALL SUPER T05
+http://eyplay.io:80/dPRPQR/St3gc1/614
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/pbF" group-title="Canais @ 24 Horas",(24H) DRAGON BALL Z SAGA DE CELL
+http://eyplay.io:80/dPRPQR/St3gc1/615
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/jHn" group-title="Canais @ 24 Horas",(24H) DRAGON BALL Z SAGA DE FREEZA
+http://eyplay.io:80/dPRPQR/St3gc1/616
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/zZW" group-title="Canais @ 24 Horas",(24H) DRAGON BALL Z SAGA DE GARLIC JR
+http://eyplay.io:80/dPRPQR/St3gc1/617
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/F90" group-title="Canais @ 24 Horas",(24H) DRAGON BALL Z SAGA DE MAJIN BOO
+http://eyplay.io:80/dPRPQR/St3gc1/618
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/VAS" group-title="Canais @ 24 Horas",(24H) DRAGON BALL Z SAGA DOS ANDROIDES
+http://eyplay.io:80/dPRPQR/St3gc1/620
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/6cz" group-title="Canais @ 24 Horas",(24H) DRAGON BALL Z SAGA DOS SAYAJINS
+http://eyplay.io:80/dPRPQR/St3gc1/621
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/dwx" group-title="Canais @ 24 Horas",(24H) DRAKE AND JOSH
+http://eyplay.io:80/dPRPQR/St3gc1/622
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/7x7" group-title="Canais @ 24 Horas",(24H) DUCK TALES
+http://eyplay.io:80/dPRPQR/St3gc1/623
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/0rr" group-title="Canais @ 24 Horas",(24H) DUDLEY DO RIGHT
+http://eyplay.io:80/dPRPQR/St3gc1/624
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/jNr" group-title="Canais @ 24 Horas",(24H) DUELO XIAOLIN
+http://eyplay.io:80/dPRPQR/St3gc1/625
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/vem" group-title="Canais @ 24 Horas",(24H) E O LOBO
+http://eyplay.io:80/dPRPQR/St3gc1/626
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/eFU" group-title="Canais @ 24 Horas",(24H) EEK! THE CAT
+http://eyplay.io:80/dPRPQR/St3gc1/627
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/jNu" group-title="Canais @ 24 Horas",(24H) EL CHAPO T01
+http://eyplay.io:80/dPRPQR/St3gc1/628
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/Fxh" group-title="Canais @ 24 Horas",(24H) EL CHAPO T03
+http://eyplay.io:80/dPRPQR/St3gc1/630
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/BfT" group-title="Canais @ 24 Horas",(24H) ESQUADRAO DO TEMPO
+http://eyplay.io:80/dPRPQR/St3gc1/631
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/p21" group-title="Canais @ 24 Horas",(24H) ESQUADRAO ESPECIAL WINSPECTOR
+http://eyplay.io:80/dPRPQR/St3gc1/632
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/aut" group-title="Canais @ 24 Horas",(24H) ESQUADRAO MARTE 2
+http://eyplay.io:80/dPRPQR/St3gc1/633
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/1Kk" group-title="Canais @ 24 Horas",(24H) ESQUILO SEM GRILO
+http://eyplay.io:80/dPRPQR/St3gc1/634
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/7Fj" group-title="Canais @ 24 Horas",(24H) EU A PATROA E AS CRIANCAS T02
+http://eyplay.io:80/dPRPQR/St3gc1/635
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/LxP" group-title="Canais @ 24 Horas",(24H) EU A PATROA E AS CRIANCAS T03
+http://eyplay.io:80/dPRPQR/St3gc1/636
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/zkl" group-title="Canais @ 24 Horas",(24H) EU A PATROA E AS CRIANCAS T04
+http://eyplay.io:80/dPRPQR/St3gc1/637
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/8QT" group-title="Canais @ 24 Horas",(24H) EU A PATROA E AS CRIANCAS T05
+http://eyplay.io:80/dPRPQR/St3gc1/638
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/KYD" group-title="Canais @ 24 Horas",(24H) EU SOU O MAXIMO
+http://eyplay.io:80/dPRPQR/St3gc1/640
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/Pw5" group-title="Canais @ 24 Horas",(24H) FABULAS DA DISNEY
+http://eyplay.io:80/dPRPQR/St3gc1/641
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/ZoH" group-title="Canais @ 24 Horas",(24H) FAISCA E FUMACA
+http://eyplay.io:80/dPRPQR/St3gc1/642
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/pSv" group-title="Canais @ 24 Horas",(24H) FALCAO AZUL E O BIONICAO
+http://eyplay.io:80/dPRPQR/St3gc1/643
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/ztc" group-title="Canais @ 24 Horas",(24H) FANTASMINHA LEGAL
+http://eyplay.io:80/dPRPQR/St3gc1/644
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/bFr" group-title="Canais @ 24 Horas",(24H) FANTASMINO O FANTASMA GALOPANTE
+http://eyplay.io:80/dPRPQR/St3gc1/645
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/ipb" group-title="Canais @ 24 Horas",(24H) FLY O PEQUENO GUERREIRO
+http://eyplay.io:80/dPRPQR/St3gc1/646
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/Qrv" group-title="Canais @ 24 Horas",(24H) FRANKENSTEIN JUNIOR
+http://eyplay.io:80/dPRPQR/St3gc1/647
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/TDB" group-title="Canais @ 24 Horas",(24H) FREAKAZOID
+http://eyplay.io:80/dPRPQR/St3gc1/648
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/RTr" group-title="Canais @ 24 Horas",(24H) FRIENDS T02
+http://eyplay.io:80/dPRPQR/St3gc1/650
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/OZn" group-title="Canais @ 24 Horas",(24H) FRIENDS T03
+http://eyplay.io:80/dPRPQR/St3gc1/651
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/Hj3" group-title="Canais @ 24 Horas",(24H) FRIENDS T04
+http://eyplay.io:80/dPRPQR/St3gc1/652
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/T13" group-title="Canais @ 24 Horas",(24H) FRIENDS T05
+http://eyplay.io:80/dPRPQR/St3gc1/653
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/w6Y" group-title="Canais @ 24 Horas",(24H) FRIENDS T06
+http://eyplay.io:80/dPRPQR/St3gc1/654
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/FkF" group-title="Canais @ 24 Horas",(24H) FRIENDS T07
+http://eyplay.io:80/dPRPQR/St3gc1/655
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/6BL" group-title="Canais @ 24 Horas",(24H) FRIENDS T08
+http://eyplay.io:80/dPRPQR/St3gc1/656
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/oYH" group-title="Canais @ 24 Horas",(24H) FRIENDS T09 (LEG)
+http://eyplay.io:80/dPRPQR/St3gc1/657
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/OSl" group-title="Canais @ 24 Horas",(24H) FRIENDS T10
+http://eyplay.io:80/dPRPQR/St3gc1/658
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/Hl7" group-title="Canais @ 24 Horas",(24H) GALINHA PINTADINHA
+http://eyplay.io:80/dPRPQR/St3gc1/660
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/8Tr" group-title="Canais @ 24 Horas",(24H) Game Of Thrones T01
+http://eyplay.io:80/dPRPQR/St3gc1/661
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/7uy" group-title="Canais @ 24 Horas",(24H) Game Of Thrones T02
+http://eyplay.io:80/dPRPQR/St3gc1/662
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/Pq2" group-title="Canais @ 24 Horas",(24H) Game Of Thrones T03
+http://eyplay.io:80/dPRPQR/St3gc1/663
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/xXF" group-title="Canais @ 24 Horas",(24H) Game Of Thrones T04
+http://eyplay.io:80/dPRPQR/St3gc1/664
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/dUm" group-title="Canais @ 24 Horas",(24H) Game Of Thrones T06
+http://eyplay.io:80/dPRPQR/St3gc1/665
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/UpV" group-title="Canais @ 24 Horas",(24H) Game Of Thrones T07
+http://eyplay.io:80/dPRPQR/St3gc1/666
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/LXs" group-title="Canais @ 24 Horas",(24H) Game Of Thrones T08
+http://eyplay.io:80/dPRPQR/St3gc1/667
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/q1W" group-title="Canais @ 24 Horas",(24H) GASPARZINHO E AMIGOS
+http://eyplay.io:80/dPRPQR/St3gc1/668
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/Ex7" group-title="Canais @ 24 Horas",(24H) GO DIEGO GO
+http://eyplay.io:80/dPRPQR/St3gc1/670
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/Mk7" group-title="Canais @ 24 Horas",(24H) GUERREIRAS MAGICAS DE RAYEARTH
+http://eyplay.io:80/dPRPQR/St3gc1/671
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/BSV" group-title="Canais @ 24 Horas",(24H) GUNDAM WING
+http://eyplay.io:80/dPRPQR/St3gc1/672
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/51P" group-title="Canais @ 24 Horas",(24H) HAMTARO
+http://eyplay.io:80/dPRPQR/St3gc1/673
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/MRc" group-title="Canais @ 24 Horas",(24H) HELLO KITTY
+http://eyplay.io:80/dPRPQR/St3gc1/674
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/cCp" group-title="Canais @ 24 Horas",(24H) HEY ARNOLD T01
+http://eyplay.io:80/dPRPQR/St3gc1/675
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/zJX" group-title="Canais @ 24 Horas",(24H) HEY ARNOLD T02
+http://eyplay.io:80/dPRPQR/St3gc1/676
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/J0E" group-title="Canais @ 24 Horas",(24H) HEY ARNOLD T03
+http://eyplay.io:80/dPRPQR/St3gc1/677
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/pfJ" group-title="Canais @ 24 Horas",(24H) HEY ARNOLD T05
+http://eyplay.io:80/dPRPQR/St3gc1/678
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/lsZ" group-title="Canais @ 24 Horas",(24H) HISTÓRIAS ANIMADAS DO NOVO TESTAMENTO
+http://eyplay.io:80/dPRPQR/St3gc1/680
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/pIs" group-title="Canais @ 24 Horas",(24H) HISTÓRIAS ANIMADAS DO VELHO TESTAMENTO
+http://eyplay.io:80/dPRPQR/St3gc1/681
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/HFb" group-title="Canais @ 24 Horas",(24H) HOMEM ARANHA ACAO SEM LIMITES
+http://eyplay.io:80/dPRPQR/St3gc1/682
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/uRl" group-title="Canais @ 24 Horas",(24H) HOMEM PASSARO
+http://eyplay.io:80/dPRPQR/St3gc1/683
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/1bU" group-title="Canais @ 24 Horas",(24H) HOT WHEELS BATTLE FORCE 5
+http://eyplay.io:80/dPRPQR/St3gc1/684
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/659" group-title="Canais @ 24 Horas",(24H) ICARLY T01
+http://eyplay.io:80/dPRPQR/St3gc1/685
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/qxa" group-title="Canais @ 24 Horas",(24H) iCarly T02
+http://eyplay.io:80/dPRPQR/St3gc1/686
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/ZI2" group-title="Canais @ 24 Horas",(24H) iCarly T03
+http://eyplay.io:80/dPRPQR/St3gc1/687
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/N8V" group-title="Canais @ 24 Horas",(24H) iCarly T04
+http://eyplay.io:80/dPRPQR/St3gc1/688
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/3Q9" group-title="Canais @ 24 Horas",(24H) iCarly T06
+http://eyplay.io:80/dPRPQR/St3gc1/690
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/XFo" group-title="Canais @ 24 Horas",(24H) iCarly T07
+http://eyplay.io:80/dPRPQR/St3gc1/691
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/fgD" group-title="Canais @ 24 Horas",(24H) ILHA DOS DESAFIOS
+http://eyplay.io:80/dPRPQR/St3gc1/692
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/9UR" group-title="Canais @ 24 Horas",(24H) INVASOR ZIM
+http://eyplay.io:80/dPRPQR/St3gc1/693
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/Np9" group-title="Canais @ 24 Horas",(24H) IRMAO DO JOREL
+http://eyplay.io:80/dPRPQR/St3gc1/694
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/A2l" group-title="Canais @ 24 Horas",(24H) JAMBO E RUIVAO
+http://eyplay.io:80/dPRPQR/St3gc1/695
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/yq9" group-title="Canais @ 24 Horas",(24H) JASPION
+http://eyplay.io:80/dPRPQR/St3gc1/696
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/n2x" group-title="Canais @ 24 Horas",(24H) JOHNNY BRAVO
+http://eyplay.io:80/dPRPQR/St3gc1/697
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/4qj" group-title="Canais @ 24 Horas",(24H) JONNY QUEST
+http://eyplay.io:80/dPRPQR/St3gc1/698
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/dAI" group-title="Canais @ 24 Horas",(24H) JUBEI CHAN THE NINJA GIRL
+http://eyplay.io:80/dPRPQR/St3gc1/700
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/vZf" group-title="Canais @ 24 Horas",(24H) KENAN E KELL
+http://eyplay.io:80/dPRPQR/St3gc1/701
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/8Y6" group-title="Canais @ 24 Horas",(24H) KIM POSSIBLE
+http://eyplay.io:80/dPRPQR/St3gc1/702
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/7hI" group-title="Canais @ 24 Horas",(24H) KND A TURMA DO BAIRRO
+http://eyplay.io:80/dPRPQR/St3gc1/703
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/B6a" group-title="Canais @ 24 Horas",(24H) Largados e Pelados A Tribo T01
+http://eyplay.io:80/dPRPQR/St3gc1/704
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/et9" group-title="Canais @ 24 Horas",(24H) Largados e Pelados A Tribo T02
+http://eyplay.io:80/dPRPQR/St3gc1/705
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/lGq" group-title="Canais @ 24 Horas",(24H) Largados e Pelados A Tribo T03
+http://eyplay.io:80/dPRPQR/St3gc1/706
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/Tb9" group-title="Canais @ 24 Horas",(24H) LARVAS
+http://eyplay.io:80/dPRPQR/St3gc1/707
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/01h" group-title="Canais @ 24 Horas",(24H) LAZY TOWN
+http://eyplay.io:80/dPRPQR/St3gc1/708
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/fhf" group-title="Canais @ 24 Horas",(24H) LIPPY E HARDY
+http://eyplay.io:80/dPRPQR/St3gc1/710
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/cnA" group-title="Canais @ 24 Horas",(24H) LORDE GATO E A TURMA DO ABOBRINHA
+http://eyplay.io:80/dPRPQR/St3gc1/711
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/9S6" group-title="Canais @ 24 Horas",(24H) LULUZINHA
+http://eyplay.io:80/dPRPQR/St3gc1/712
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/fce" group-title="Canais @ 24 Horas",(24H) MADELINE
+http://eyplay.io:80/dPRPQR/St3gc1/713
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/ktB" group-title="Canais @ 24 Horas",(24H) MAGUILA O GORILA
+http://eyplay.io:80/dPRPQR/St3gc1/714
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/OQK" group-title="Canais @ 24 Horas",(24H) MANDA CHUVA
+http://eyplay.io:80/dPRPQR/St3gc1/715
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/Ufc" group-title="Canais @ 24 Horas",(24H) MANUAL DO NED
+http://eyplay.io:80/dPRPQR/St3gc1/716
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/Ab7" group-title="Canais @ 24 Horas",(24H) MARCELINO PAO E VINHO
+http://eyplay.io:80/dPRPQR/St3gc1/717
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/MAh" group-title="Canais @ 24 Horas",(24H) MARTIN MYSTERY
+http://eyplay.io:80/dPRPQR/St3gc1/718
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/GpD" group-title="Canais @ 24 Horas",(24H) MECANIMAIS
+http://eyplay.io:80/dPRPQR/St3gc1/720
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/6D5" group-title="Canais @ 24 Horas",(24H) MEDABOTS
+http://eyplay.io:80/dPRPQR/St3gc1/721
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/20m" group-title="Canais @ 24 Horas",(24H) MEGAMAN
+http://eyplay.io:80/dPRPQR/St3gc1/722
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/Nzk" group-title="Canais @ 24 Horas",(24H) MEGAS XR
+http://eyplay.io:80/dPRPQR/St3gc1/723
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/93Z" group-title="Canais @ 24 Horas",(24H) MEU MELHOR AMIGO DA ESCOLA E UM MACACO
+http://eyplay.io:80/dPRPQR/St3gc1/724
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/MZz" group-title="Canais @ 24 Horas",(24H) MIB HOMENS DE PRETO
+http://eyplay.io:80/dPRPQR/St3gc1/725
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/4rN" group-title="Canais @ 24 Horas",(24H) MISSION HILL
+http://eyplay.io:80/dPRPQR/St3gc1/726
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/qWZ" group-title="Canais @ 24 Horas",(24H) MOBY DICK
+http://eyplay.io:80/dPRPQR/St3gc1/727
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/C5C" group-title="Canais @ 24 Horas",(24H) MORANGUINHO CLASSICO
+http://eyplay.io:80/dPRPQR/St3gc1/728
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/c3b" group-title="Canais @ 24 Horas",(24H) MOSQUITO MOSQUETE E MOSCARDO
+http://eyplay.io:80/dPRPQR/St3gc1/730
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/I7v" group-title="Canais @ 24 Horas",(24H) MR. BEAN
+http://eyplay.io:80/dPRPQR/St3gc1/731
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/WFu" group-title="Canais @ 24 Horas",(24H) MUCHA LUCHA
+http://eyplay.io:80/dPRPQR/St3gc1/732
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/yPq" group-title="Canais @ 24 Horas",(24H) MUSCULO TOTAL
+http://eyplay.io:80/dPRPQR/St3gc1/733
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/GZr" group-title="Canais @ 24 Horas",(24H) MUTANTE REX 2010 - 2013
+http://eyplay.io:80/dPRPQR/St3gc1/734
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/elM" group-title="Canais @ 24 Horas",(24H) NARCOS T01
+http://eyplay.io:80/dPRPQR/St3gc1/735
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/YWS" group-title="Canais @ 24 Horas",(24H) NARCOS T02
+http://eyplay.io:80/dPRPQR/St3gc1/736
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/1l0" group-title="Canais @ 24 Horas",(24H) NARUTO CLASSICO T01
+http://eyplay.io:80/dPRPQR/St3gc1/737
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/eah" group-title="Canais @ 24 Horas",(24H) NARUTO CLASSICO T02
+http://eyplay.io:80/dPRPQR/St3gc1/738
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/bOQ" group-title="Canais @ 24 Horas",(24H) NARUTO CLASSICO T04
+http://eyplay.io:80/dPRPQR/St3gc1/740
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/zhG" group-title="Canais @ 24 Horas",(24H) NARUTO CLASSICO T05
+http://eyplay.io:80/dPRPQR/St3gc1/741
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/j8p" group-title="Canais @ 24 Horas",(24H) NARUTO CLASSICO T06
+http://eyplay.io:80/dPRPQR/St3gc1/742
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/xbY" group-title="Canais @ 24 Horas",(24H) NARUTO CLASSICO T07
+http://eyplay.io:80/dPRPQR/St3gc1/743
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/d5J" group-title="Canais @ 24 Horas",(24H) NARUTO CLASSICO T08
+http://eyplay.io:80/dPRPQR/St3gc1/744
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/I1Q" group-title="Canais @ 24 Horas",(24H) NARUTO CLASSICO T09
+http://eyplay.io:80/dPRPQR/St3gc1/745
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/5qH" group-title="Canais @ 24 Horas",(24H) NOVO BANANA DE PIJAMAS
+http://eyplay.io:80/dPRPQR/St3gc1/746
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/dqi" group-title="Canais @ 24 Horas",(24H) O ACAMPAMENTO DE LAZLO
+http://eyplay.io:80/dPRPQR/St3gc1/747
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/fSl" group-title="Canais @ 24 Horas",(24H) O CHAPOLIN COLORADO
+http://eyplay.io:80/dPRPQR/St3gc1/748
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/vY3" group-title="Canais @ 24 Horas",(24H) O GATO DE BOTAS
+http://eyplay.io:80/dPRPQR/St3gc1/750
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/Xdv" group-title="Canais @ 24 Horas",(24H) O INSPETOR
+http://eyplay.io:80/dPRPQR/St3gc1/751
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/tWQ" group-title="Canais @ 24 Horas",(24H) O MASKARA 1995 - SERIA ANIMADA
+http://eyplay.io:80/dPRPQR/St3gc1/752
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/YdU" group-title="Canais @ 24 Horas",(24H) O MUNDO DE BITA
+http://eyplay.io:80/dPRPQR/St3gc1/753
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/Hmv" group-title="Canais @ 24 Horas",(24H) O ONIBUS MAGICO
+http://eyplay.io:80/dPRPQR/St3gc1/754
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/ma1" group-title="Canais @ 24 Horas",(24H) O PEQUENO PRINCIPE
+http://eyplay.io:80/dPRPQR/St3gc1/755
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/SMw" group-title="Canais @ 24 Horas",(24H) O PEQUENO SCOOBY DOO
+http://eyplay.io:80/dPRPQR/St3gc1/756
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/aWB" group-title="Canais @ 24 Horas",(24H) O PEQUENO URSO 1995
+http://eyplay.io:80/dPRPQR/St3gc1/757
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/IBd" group-title="Canais @ 24 Horas",(24H) O QUE HA DE NOVO SCOOBY DOO
+http://eyplay.io:80/dPRPQR/St3gc1/758
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/dOu" group-title="Canais @ 24 Horas",(24H) O SHOW DA LUNA
+http://eyplay.io:80/dPRPQR/St3gc1/760
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/DRM" group-title="Canais @ 24 Horas",(24H) O SHOW DO NOVO PICA-PAU
+http://eyplay.io:80/dPRPQR/St3gc1/761
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/vQz" group-title="Canais @ 24 Horas",(24H) O SHOW DO ZE COLMEIA
+http://eyplay.io:80/dPRPQR/St3gc1/762
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/cwR" group-title="Canais @ 24 Horas",(24H) O XODO DA VOVO
+http://eyplay.io:80/dPRPQR/St3gc1/763
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/6nM" group-title="Canais @ 24 Horas",(24H) OS ANIMAIS DO BOSQUE DOS VINTENS
+http://eyplay.io:80/dPRPQR/St3gc1/764
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/MvL" group-title="Canais @ 24 Horas",(24H) OS CASTORES PIRADOS
+http://eyplay.io:80/dPRPQR/St3gc1/765
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/N2f" group-title="Canais @ 24 Horas",(24H) OS CAVALEIROS DOS ZODIACOS COMPLETO
+http://eyplay.io:80/dPRPQR/St3gc1/766
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/3We" group-title="Canais @ 24 Horas",(24H) OS CAVALEIROS DOS ZODIACOS SAGA DE ASGARD
+http://eyplay.io:80/dPRPQR/St3gc1/767
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/7nd" group-title="Canais @ 24 Horas",(24H) OS CAVALEIROS DOS ZODIACOS SAGA DE HADES
+http://eyplay.io:80/dPRPQR/St3gc1/768
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/c3R" group-title="Canais @ 24 Horas",(24H) OS CAVALEIROS DOS ZODIACOS SAGA DO SANTUARIO
+http://eyplay.io:80/dPRPQR/St3gc1/770
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/zb6" group-title="Canais @ 24 Horas",(24H) OS FLINTSTONES T01
+http://eyplay.io:80/dPRPQR/St3gc1/771
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/RvY" group-title="Canais @ 24 Horas",(24H) OS FLINTSTONES T02
+http://eyplay.io:80/dPRPQR/St3gc1/772
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/aJd" group-title="Canais @ 24 Horas",(24H) OS FLINTSTONES T03
+http://eyplay.io:80/dPRPQR/St3gc1/773
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/eaJ" group-title="Canais @ 24 Horas",(24H) OS FLINTSTONES T04
+http://eyplay.io:80/dPRPQR/St3gc1/774
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/25k" group-title="Canais @ 24 Horas",(24H) OS FLINTSTONES T05
+http://eyplay.io:80/dPRPQR/St3gc1/775
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/Bmj" group-title="Canais @ 24 Horas",(24H) OS FLINTSTONES T06
+http://eyplay.io:80/dPRPQR/St3gc1/776
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/tPj" group-title="Canais @ 24 Horas",(24H) OS GARGULAS
+http://eyplay.io:80/dPRPQR/St3gc1/777
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/RQQ" group-title="Canais @ 24 Horas",(24H) OS IMPOSSIVEIS
+http://eyplay.io:80/dPRPQR/St3gc1/778
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/XdH" group-title="Canais @ 24 Horas",(24H) OS JOVENS TITAS 2003 - 2006
+http://eyplay.io:80/dPRPQR/St3gc1/780
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/h9I" group-title="Canais @ 24 Horas",(24H) OS PINGUINS DE MADAGASCAR
+http://eyplay.io:80/dPRPQR/St3gc1/781
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/TwL" group-title="Canais @ 24 Horas",(24H) OS SETE MONSTRINHOS
+http://eyplay.io:80/dPRPQR/St3gc1/782
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/2Zc" group-title="Canais @ 24 Horas",(24H) OS SIMPSONS T01
+http://eyplay.io:80/dPRPQR/St3gc1/783
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/4CO" group-title="Canais @ 24 Horas",(24H) OS SIMPSONS T02
+http://eyplay.io:80/dPRPQR/St3gc1/784
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/pXu" group-title="Canais @ 24 Horas",(24H) OS SIMPSONS T03
+http://eyplay.io:80/dPRPQR/St3gc1/785
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/Rv3" group-title="Canais @ 24 Horas",(24H) OS SIMPSONS T04
+http://eyplay.io:80/dPRPQR/St3gc1/786
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/SZI" group-title="Canais @ 24 Horas",(24H) OS SIMPSONS T05
+http://eyplay.io:80/dPRPQR/St3gc1/787
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/4nq" group-title="Canais @ 24 Horas",(24H) OS SIMPSONS T06
+http://eyplay.io:80/dPRPQR/St3gc1/788
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/6oy" group-title="Canais @ 24 Horas",(24H) OS SIMPSONS T08
+http://eyplay.io:80/dPRPQR/St3gc1/790
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/TpJ" group-title="Canais @ 24 Horas",(24H) OS SIMPSONS T09
+http://eyplay.io:80/dPRPQR/St3gc1/791
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/cUF" group-title="Canais @ 24 Horas",(24H) OS SIMPSONS T10
+http://eyplay.io:80/dPRPQR/St3gc1/792
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/yBH" group-title="Canais @ 24 Horas",(24H) OS SIMPSONS T11
+http://eyplay.io:80/dPRPQR/St3gc1/793
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/tMY" group-title="Canais @ 24 Horas",(24H) OS SIMPSONS T12
+http://eyplay.io:80/dPRPQR/St3gc1/794
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/7Gg" group-title="Canais @ 24 Horas",(24H) OS SIMPSONS T13
+http://eyplay.io:80/dPRPQR/St3gc1/795
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/LPs" group-title="Canais @ 24 Horas",(24H) OS SIMPSONS T14
+http://eyplay.io:80/dPRPQR/St3gc1/796
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/FUN" group-title="Canais @ 24 Horas",(24H) OS SIMPSONS T15
+http://eyplay.io:80/dPRPQR/St3gc1/797
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/h2J" group-title="Canais @ 24 Horas",(24H) OS SIMPSONS T16
+http://eyplay.io:80/dPRPQR/St3gc1/798
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/TFL" group-title="Canais @ 24 Horas",(24H) OS SIMPSONS T18
+http://eyplay.io:80/dPRPQR/St3gc1/800
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/MJl" group-title="Canais @ 24 Horas",(24H) OS SIMPSONS T19
+http://eyplay.io:80/dPRPQR/St3gc1/801
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/SKZ" group-title="Canais @ 24 Horas",(24H) OS SIMPSONS T20
+http://eyplay.io:80/dPRPQR/St3gc1/802
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/YYK" group-title="Canais @ 24 Horas",(24H) OS SIMPSONS T21
+http://eyplay.io:80/dPRPQR/St3gc1/803
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/hhA" group-title="Canais @ 24 Horas",(24H) OS SIMPSONS T22
+http://eyplay.io:80/dPRPQR/St3gc1/804
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/V7J" group-title="Canais @ 24 Horas",(24H) OS SIMPSONS T23
+http://eyplay.io:80/dPRPQR/St3gc1/805
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/evz" group-title="Canais @ 24 Horas",(24H) OS SIMPSONS T24
+http://eyplay.io:80/dPRPQR/St3gc1/806
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/cZP" group-title="Canais @ 24 Horas",(24H) OS SIMPSONS T25
+http://eyplay.io:80/dPRPQR/St3gc1/807
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/SHX" group-title="Canais @ 24 Horas",(24H) OS SIMPSONS T26
+http://eyplay.io:80/dPRPQR/St3gc1/808
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/w5w" group-title="Canais @ 24 Horas",(24H) OS SIMPSONS T28
+http://eyplay.io:80/dPRPQR/St3gc1/810
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/YpC" group-title="Canais @ 24 Horas",(24H) OS SUPER PATOS
+http://eyplay.io:80/dPRPQR/St3gc1/811
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/ayX" group-title="Canais @ 24 Horas",(24H) OS TRAPALHOES
+http://eyplay.io:80/dPRPQR/St3gc1/812
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/CRF" group-title="Canais @ 24 Horas",(24H) OS TRAPALHOES CLASSICO
+http://eyplay.io:80/dPRPQR/St3gc1/813
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/mfL" group-title="Canais @ 24 Horas",(24H) OS URSINHOS GUMMI
+http://eyplay.io:80/dPRPQR/St3gc1/814
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/BKX" group-title="Canais @ 24 Horas",(24H) OS VALENTES COWBOYS DE MOO MESA
+http://eyplay.io:80/dPRPQR/St3gc1/815
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/1eJ" group-title="Canais @ 24 Horas",(24H) OS VIDEOS MAIS INCRIVEIS DO MUNDO
+http://eyplay.io:80/dPRPQR/St3gc1/816
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/MTP" group-title="Canais @ 24 Horas",(24H) OS VINGADORES
+http://eyplay.io:80/dPRPQR/St3gc1/817
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/39R" group-title="Canais @ 24 Horas",(24H) OSWALDO
+http://eyplay.io:80/dPRPQR/St3gc1/818
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/kbx" group-title="Canais @ 24 Horas",(24H) PARTOBA
+http://eyplay.io:80/dPRPQR/St3gc1/820
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/mzy" group-title="Canais @ 24 Horas",(24H) PATRULHA CANINA T01
+http://eyplay.io:80/dPRPQR/St3gc1/821
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/Lb9" group-title="Canais @ 24 Horas",(24H) PATRULHA CANINA T02
+http://eyplay.io:80/dPRPQR/St3gc1/822
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/uDn" group-title="Canais @ 24 Horas",(24H) PATRULHA CANINA T03
+http://eyplay.io:80/dPRPQR/St3gc1/823
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/ZeK" group-title="Canais @ 24 Horas",(24H) PATRULHA ESTELAR
+http://eyplay.io:80/dPRPQR/St3gc1/824
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/6vc" group-title="Canais @ 24 Horas",(24H) PEGADINHAS JOAO KLEBER
+http://eyplay.io:80/dPRPQR/St3gc1/825
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/kWL" group-title="Canais @ 24 Horas",(24H) PEGADINHAS SILVIO SANTOS
+http://eyplay.io:80/dPRPQR/St3gc1/826
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/3xF" group-title="Canais @ 24 Horas",(24H) PEPE LE PEW
+http://eyplay.io:80/dPRPQR/St3gc1/827
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/Gpg" group-title="Canais @ 24 Horas",(24H) PEPPA PIG
+http://eyplay.io:80/dPRPQR/St3gc1/828
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/HzB" group-title="Canais @ 24 Horas",(24H) PERDIDOS NO ESPACO
+http://eyplay.io:80/dPRPQR/St3gc1/830
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/Ep5" group-title="Canais @ 24 Horas",(24H) PERNALONGA E SUA TURMA
+http://eyplay.io:80/dPRPQR/St3gc1/831
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/N6s" group-title="Canais @ 24 Horas",(24H) PHINEAS E FERB
+http://eyplay.io:80/dPRPQR/St3gc1/832
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/HNy" group-title="Canais @ 24 Horas",(24H) PICA PAU (WOODY WOODPECKER)
+http://eyplay.io:80/dPRPQR/St3gc1/833
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/y57" group-title="Canais @ 24 Horas",(24H) PINKY E CEREBRO
+http://eyplay.io:80/dPRPQR/St3gc1/834
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/ldr" group-title="Canais @ 24 Horas",(24H) PLANET SURVIVAL
+http://eyplay.io:80/dPRPQR/St3gc1/835
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/PXw" group-title="Canais @ 24 Horas",(24H) POCOYO
+http://eyplay.io:80/dPRPQR/St3gc1/836
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/3Ib" group-title="Canais @ 24 Horas",(24H) POKEMON T01 LIGA INDIGO
+http://eyplay.io:80/dPRPQR/St3gc1/837
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/bVP" group-title="Canais @ 24 Horas",(24H) POKEMON T02 LIGA LARANJA
+http://eyplay.io:80/dPRPQR/St3gc1/838
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/i7x" group-title="Canais @ 24 Horas",(24H) POKEMON T04 CAMPEOES DA LIGA JOHTO
+http://eyplay.io:80/dPRPQR/St3gc1/840
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/2Da" group-title="Canais @ 24 Horas",(24H) POKEMON T05 MASTER QUEST
+http://eyplay.io:80/dPRPQR/St3gc1/841
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/F87" group-title="Canais @ 24 Horas",(24H) POKEMON T06 ADVANCED GENERATION
+http://eyplay.io:80/dPRPQR/St3gc1/842
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/AYt" group-title="Canais @ 24 Horas",(24H) POKEMON T07 ADVANCED CHALLENGE
+http://eyplay.io:80/dPRPQR/St3gc1/843
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/SGY" group-title="Canais @ 24 Horas",(24H) POKEMON T08 ADVANCED.BATTLE
+http://eyplay.io:80/dPRPQR/St3gc1/844
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/qIW" group-title="Canais @ 24 Horas",(24H) POKEMON T09 BATTLE FRONTIER
+http://eyplay.io:80/dPRPQR/St3gc1/845
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/r1I" group-title="Canais @ 24 Horas",(24H) POKEMON T10 DIAMOND E PEARL
+http://eyplay.io:80/dPRPQR/St3gc1/846
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/Eqd" group-title="Canais @ 24 Horas",(24H) POKEMON T11 BATALHA DIMENCIONAL
+http://eyplay.io:80/dPRPQR/St3gc1/847
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/l8t" group-title="Canais @ 24 Horas",(24H) POKEMON T12 BATALHAS GALATICAS
+http://eyplay.io:80/dPRPQR/St3gc1/848
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/iBB" group-title="Canais @ 24 Horas",(24H) POPEYE 75TH ANNIVERSARY
+http://eyplay.io:80/dPRPQR/St3gc1/850
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/rTm" group-title="Canais @ 24 Horas",(24H) POWER RANGERS MIGHTY MORPHIN 1 TEMPORADA
+http://eyplay.io:80/dPRPQR/St3gc1/851
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/9SW" group-title="Canais @ 24 Horas",(24H) PROJETO ZETA
+http://eyplay.io:80/dPRPQR/St3gc1/852
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/Fou" group-title="Canais @ 24 Horas",(24H) RAGNAROK
+http://eyplay.io:80/dPRPQR/St3gc1/853
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/q5J" group-title="Canais @ 24 Horas",(24H) RECRUTA ZERO
+http://eyplay.io:80/dPRPQR/St3gc1/854
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/ACF" group-title="Canais @ 24 Horas",(24H) REDAKAI
+http://eyplay.io:80/dPRPQR/St3gc1/855
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/H4C" group-title="Canais @ 24 Horas",(24H) REN E STIMPY
+http://eyplay.io:80/dPRPQR/St3gc1/856
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/ypo" group-title="Canais @ 24 Horas",(24H) RIQUINHO
+http://eyplay.io:80/dPRPQR/St3gc1/857
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/yOC" group-title="Canais @ 24 Horas",(24H) RUGRATS OS ANJINHOS
+http://eyplay.io:80/dPRPQR/St3gc1/858
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/u2I" group-title="Canais @ 24 Horas",(24H) Sai de Baixo T01
+http://eyplay.io:80/dPRPQR/St3gc1/860
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/G9W" group-title="Canais @ 24 Horas",(24H) Sai de Baixo T02
+http://eyplay.io:80/dPRPQR/St3gc1/861
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/9E8" group-title="Canais @ 24 Horas",(24H) Sai de Baixo T03
+http://eyplay.io:80/dPRPQR/St3gc1/862
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/hQ7" group-title="Canais @ 24 Horas",(24H) Sai de Baixo T04
+http://eyplay.io:80/dPRPQR/St3gc1/863
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/6TV" group-title="Canais @ 24 Horas",(24H) Sai de Baixo T05
+http://eyplay.io:80/dPRPQR/St3gc1/864
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/7Od" group-title="Canais @ 24 Horas",(24H) Sai de Baixo T06
+http://eyplay.io:80/dPRPQR/St3gc1/865
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/Wqe" group-title="Canais @ 24 Horas",(24H) Sai de Baixo T07
+http://eyplay.io:80/dPRPQR/St3gc1/866
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/GR8" group-title="Canais @ 24 Horas",(24H) Sai de Baixo T08
+http://eyplay.io:80/dPRPQR/St3gc1/867
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/kKc" group-title="Canais @ 24 Horas",(24H) SAKURA CARD CAPTORS
+http://eyplay.io:80/dPRPQR/St3gc1/868
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/H3W" group-title="Canais @ 24 Horas",(24H) SAMURAI WARRIORS
+http://eyplay.io:80/dPRPQR/St3gc1/870
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/UfF" group-title="Canais @ 24 Horas",(24H) SCOOB DOO SHOW
+http://eyplay.io:80/dPRPQR/St3gc1/871
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/PeO" group-title="Canais @ 24 Horas",(24H) SERIE HERCULES
+http://eyplay.io:80/dPRPQR/St3gc1/872
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/ikD" group-title="Canais @ 24 Horas",(24H) SHAMAN KING
+http://eyplay.io:80/dPRPQR/St3gc1/873
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/IXk" group-title="Canais @ 24 Horas",(24H) SHE-RA
+http://eyplay.io:80/dPRPQR/St3gc1/874
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/Wfi" group-title="Canais @ 24 Horas",(24H) SHINZO
+http://eyplay.io:80/dPRPQR/St3gc1/875
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/j9Y" group-title="Canais @ 24 Horas",(24H) SHURATO
+http://eyplay.io:80/dPRPQR/St3gc1/876
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/B7S" group-title="Canais @ 24 Horas",(24H) SILVERHAWKS (LEGENDADO)
+http://eyplay.io:80/dPRPQR/St3gc1/877
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/TI4" group-title="Canais @ 24 Horas",(24H) SITIO DO PICAPAU AMARELO
+http://eyplay.io:80/dPRPQR/St3gc1/878
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/1vE" group-title="Canais @ 24 Horas",(24H) Smallville T02
+http://eyplay.io:80/dPRPQR/St3gc1/880
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/ucF" group-title="Canais @ 24 Horas",(24H) Smallville T03
+http://eyplay.io:80/dPRPQR/St3gc1/881
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/pnY" group-title="Canais @ 24 Horas",(24H) Smallville T04
+http://eyplay.io:80/dPRPQR/St3gc1/882
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/EYK" group-title="Canais @ 24 Horas",(24H) Smallville T05
+http://eyplay.io:80/dPRPQR/St3gc1/883
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/t6H" group-title="Canais @ 24 Horas",(24H) Smallville T06
+http://eyplay.io:80/dPRPQR/St3gc1/884
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/Pvl" group-title="Canais @ 24 Horas",(24H) Smallville T07
+http://eyplay.io:80/dPRPQR/St3gc1/885
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/KBv" group-title="Canais @ 24 Horas",(24H) Smallville T08
+http://eyplay.io:80/dPRPQR/St3gc1/886
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/1xu" group-title="Canais @ 24 Horas",(24H) Smallville T09
+http://eyplay.io:80/dPRPQR/St3gc1/887
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/qvQ" group-title="Canais @ 24 Horas",(24H) Smallville T10
+http://eyplay.io:80/dPRPQR/St3gc1/888
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/Xv7" group-title="Canais @ 24 Horas",(24H) SONIC X
+http://eyplay.io:80/dPRPQR/St3gc1/890
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/aCA" group-title="Canais @ 24 Horas",(24H) SOUTH PARK T01
+http://eyplay.io:80/dPRPQR/St3gc1/891
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/1dZ" group-title="Canais @ 24 Horas",(24H) SOUTH PARK T02
+http://eyplay.io:80/dPRPQR/St3gc1/892
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/Z5m" group-title="Canais @ 24 Horas",(24H) SOUTH PARK T03
+http://eyplay.io:80/dPRPQR/St3gc1/893
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/sQh" group-title="Canais @ 24 Horas",(24H) SOUTH PARK T04
+http://eyplay.io:80/dPRPQR/St3gc1/894
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/cjh" group-title="Canais @ 24 Horas",(24H) SOUTH PARK T05
+http://eyplay.io:80/dPRPQR/St3gc1/895
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/YZL" group-title="Canais @ 24 Horas",(24H) SOUTH PARK T06
+http://eyplay.io:80/dPRPQR/St3gc1/896
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/LDM" group-title="Canais @ 24 Horas",(24H) SOUTH PARK T07
+http://eyplay.io:80/dPRPQR/St3gc1/897
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/Ubh" group-title="Canais @ 24 Horas",(24H) SOUTH PARK T08
+http://eyplay.io:80/dPRPQR/St3gc1/898
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/ciC" group-title="Canais @ 24 Horas",(24H) SOUTH PARK T10
+http://eyplay.io:80/dPRPQR/St3gc1/900
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/OoE" group-title="Canais @ 24 Horas",(24H) SOUTH PARK T11
+http://eyplay.io:80/dPRPQR/St3gc1/901
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/laY" group-title="Canais @ 24 Horas",(24H) SOUTH PARK T12
+http://eyplay.io:80/dPRPQR/St3gc1/902
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/PJz" group-title="Canais @ 24 Horas",(24H) SOUTH PARK T13
+http://eyplay.io:80/dPRPQR/St3gc1/903
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/sEn" group-title="Canais @ 24 Horas",(24H) SOUTH PARK T15
+http://eyplay.io:80/dPRPQR/St3gc1/904
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/s5x" group-title="Canais @ 24 Horas",(24H) SOUTH PARK T16
+http://eyplay.io:80/dPRPQR/St3gc1/905
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/Hii" group-title="Canais @ 24 Horas",(24H) SOUTH PARK T17
+http://eyplay.io:80/dPRPQR/St3gc1/906
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/GAd" group-title="Canais @ 24 Horas",(24H) SOUTH PARK T18
+http://eyplay.io:80/dPRPQR/St3gc1/907
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/Tz5" group-title="Canais @ 24 Horas",(24H) SOUTH PARK T19
+http://eyplay.io:80/dPRPQR/St3gc1/908
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/ya8" group-title="Canais @ 24 Horas",(24H) SOUTH PARK T21
+http://eyplay.io:80/dPRPQR/St3gc1/910
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/9lA" group-title="Canais @ 24 Horas",(24H) SPACE GOST
+http://eyplay.io:80/dPRPQR/St3gc1/911
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/9rq" group-title="Canais @ 24 Horas",(24H) SPEED RACER A NOVA GERACAO
+http://eyplay.io:80/dPRPQR/St3gc1/912
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/AKU" group-title="Canais @ 24 Horas",(24H) SPEED RACER CLASSICO
+http://eyplay.io:80/dPRPQR/St3gc1/913
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/JjF" group-title="Canais @ 24 Horas",(24H) SUPER AMIGOS
+http://eyplay.io:80/dPRPQR/St3gc1/914
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/SXv" group-title="Canais @ 24 Horas",(24H) SUPER MARIO BROS 3
+http://eyplay.io:80/dPRPQR/St3gc1/915
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/BgY" group-title="Canais @ 24 Horas",(24H) SUPERNATURAL T02
+http://eyplay.io:80/dPRPQR/St3gc1/916
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/2iw" group-title="Canais @ 24 Horas",(24H) Supernatural T02
+http://eyplay.io:80/dPRPQR/St3gc1/917
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/PaW" group-title="Canais @ 24 Horas",(24H) Supernatural T03
+http://eyplay.io:80/dPRPQR/St3gc1/918
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/r5g" group-title="Canais @ 24 Horas",(24H) Supernatural T05
+http://eyplay.io:80/dPRPQR/St3gc1/920
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/XLo" group-title="Canais @ 24 Horas",(24H) Supernatural T06
+http://eyplay.io:80/dPRPQR/St3gc1/921
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/pT7" group-title="Canais @ 24 Horas",(24H) Supernatural T07
+http://eyplay.io:80/dPRPQR/St3gc1/922
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/X47" group-title="Canais @ 24 Horas",(24H) Supernatural T08
+http://eyplay.io:80/dPRPQR/St3gc1/923
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/L2g" group-title="Canais @ 24 Horas",(24H) Supernatural T09
+http://eyplay.io:80/dPRPQR/St3gc1/924
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/fJz" group-title="Canais @ 24 Horas",(24H) Supernatural T10
+http://eyplay.io:80/dPRPQR/St3gc1/925
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/GeA" group-title="Canais @ 24 Horas",(24H) Supernatural T11
+http://eyplay.io:80/dPRPQR/St3gc1/926
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/IDm" group-title="Canais @ 24 Horas",(24H) Supernatural T12
+http://eyplay.io:80/dPRPQR/St3gc1/927
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/UJW" group-title="Canais @ 24 Horas",(24H) Supernatural T13
+http://eyplay.io:80/dPRPQR/St3gc1/928
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/8VE" group-title="Canais @ 24 Horas",(24H) TARTARUGA TOUCHE E DUM DUM
+http://eyplay.io:80/dPRPQR/St3gc1/930
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/KGD" group-title="Canais @ 24 Horas",(24H) TARZAN
+http://eyplay.io:80/dPRPQR/St3gc1/931
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/aG1" group-title="Canais @ 24 Horas",(24H) TARZAN O REI DA SELVA
+http://eyplay.io:80/dPRPQR/St3gc1/932
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/cCz" group-title="Canais @ 24 Horas",(24H) TAZ-MANIA
+http://eyplay.io:80/dPRPQR/St3gc1/933
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/Ato" group-title="Canais @ 24 Horas",(24H) TEAM GALAXY
+http://eyplay.io:80/dPRPQR/St3gc1/934
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/pyD" group-title="Canais @ 24 Horas",(24H) TELETUBBIES CLASSICO
+http://eyplay.io:80/dPRPQR/St3gc1/935
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/C3s" group-title="Canais @ 24 Horas",(24H) TELETUBBIES NOVO
+http://eyplay.io:80/dPRPQR/St3gc1/936
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/l04" group-title="Canais @ 24 Horas",(24H) TELETUBBIES STOP MOTION
+http://eyplay.io:80/dPRPQR/St3gc1/937
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/zTx" group-title="Canais @ 24 Horas",(24H) The Big Bang Theory T01
+http://eyplay.io:80/dPRPQR/St3gc1/938
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/Jp9" group-title="Canais @ 24 Horas",(24H) The Big Bang Theory T03
+http://eyplay.io:80/dPRPQR/St3gc1/940
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/CWd" group-title="Canais @ 24 Horas",(24H) The Big Bang Theory T04
+http://eyplay.io:80/dPRPQR/St3gc1/941
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/Vhp" group-title="Canais @ 24 Horas",(24H) The Big Bang Theory T05
+http://eyplay.io:80/dPRPQR/St3gc1/942
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/BAH" group-title="Canais @ 24 Horas",(24H) The Big Bang Theory T06
+http://eyplay.io:80/dPRPQR/St3gc1/943
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/4AY" group-title="Canais @ 24 Horas",(24H) The Big Bang Theory T07
+http://eyplay.io:80/dPRPQR/St3gc1/944
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/buP" group-title="Canais @ 24 Horas",(24H) The Big Bang Theory T08
+http://eyplay.io:80/dPRPQR/St3gc1/945
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/wjV" group-title="Canais @ 24 Horas",(24H) The Big Bang Theory T09
+http://eyplay.io:80/dPRPQR/St3gc1/946
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/P4e" group-title="Canais @ 24 Horas",(24H) The Big Bang Theory T10
+http://eyplay.io:80/dPRPQR/St3gc1/947
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/tjm" group-title="Canais @ 24 Horas",(24H) The Big Bang Theory T11
+http://eyplay.io:80/dPRPQR/St3gc1/948
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/Ge3" group-title="Canais @ 24 Horas",(24H) THE OBLONGS
+http://eyplay.io:80/dPRPQR/St3gc1/950
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/Tca" group-title="Canais @ 24 Horas",(24H) THOMAS E SEUS AMIGOS
+http://eyplay.io:80/dPRPQR/St3gc1/951
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/cFF" group-title="Canais @ 24 Horas",(24H) THUNDERCATS
+http://eyplay.io:80/dPRPQR/St3gc1/952
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/pnM" group-title="Canais @ 24 Horas",(24H) TIMAO E PUMBA
+http://eyplay.io:80/dPRPQR/St3gc1/953
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/3KF" group-title="Canais @ 24 Horas",(24H) TITA SIMBIONICO
+http://eyplay.io:80/dPRPQR/St3gc1/954
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/Q5G" group-title="Canais @ 24 Horas",(24H) TITIO AVO
+http://eyplay.io:80/dPRPQR/St3gc1/955
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/8g9" group-title="Canais @ 24 Horas",(24H) TODO MUNDO ODEIA O CHRIS T01
+http://eyplay.io:80/dPRPQR/St3gc1/956
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/RQg" group-title="Canais @ 24 Horas",(24H) TODO MUNDO ODEIA O CHRIS T02
+http://eyplay.io:80/dPRPQR/St3gc1/957
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/B4j" group-title="Canais @ 24 Horas",(24H) TODO MUNDO ODEIA O CHRIS T03
+http://eyplay.io:80/dPRPQR/St3gc1/958
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/aWn" group-title="Canais @ 24 Horas",(24H) TOM & JERRY
+http://eyplay.io:80/dPRPQR/St3gc1/960
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/xBR" group-title="Canais @ 24 Horas",(24H) TOURADAS
+http://eyplay.io:80/dPRPQR/St3gc1/961
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/uMK" group-title="Canais @ 24 Horas",(24H) TRES ESPIAS DEMAIS T01
+http://eyplay.io:80/dPRPQR/St3gc1/962
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/U6N" group-title="Canais @ 24 Horas",(24H) TRES ESPIAS DEMAIS T02
+http://eyplay.io:80/dPRPQR/St3gc1/963
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/LXV" group-title="Canais @ 24 Horas",(24H) TRES ESPIAS DEMAIS T03
+http://eyplay.io:80/dPRPQR/St3gc1/964
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/0ve" group-title="Canais @ 24 Horas",(24H) TRES ESPIAS DEMAIS T04
+http://eyplay.io:80/dPRPQR/St3gc1/965
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/tb6" group-title="Canais @ 24 Horas",(24H) TRES ESPIAS DEMAIS T05
+http://eyplay.io:80/dPRPQR/St3gc1/966
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/QMo" group-title="Canais @ 24 Horas",(24H) TUNEL DO TEMPO
+http://eyplay.io:80/dPRPQR/St3gc1/967
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/nPV" group-title="Canais @ 24 Horas",(24H) TUTUBARAO
+http://eyplay.io:80/dPRPQR/St3gc1/968
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/MUT" group-title="Canais @ 24 Horas",(24H) UM MALUCO NO PEDACO T01
+http://eyplay.io:80/dPRPQR/St3gc1/970
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/oIu" group-title="Canais @ 24 Horas",(24H) UM MALUCO NO PEDACO T02
+http://eyplay.io:80/dPRPQR/St3gc1/971
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/vXz" group-title="Canais @ 24 Horas",(24H) UM MALUCO NO PEDACO T03
+http://eyplay.io:80/dPRPQR/St3gc1/972
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/SDH" group-title="Canais @ 24 Horas",(24H) UM MALUCO NO PEDACO T04
+http://eyplay.io:80/dPRPQR/St3gc1/973
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/xYY" group-title="Canais @ 24 Horas",(24H) UM MALUCO NO PEDACO T05
+http://eyplay.io:80/dPRPQR/St3gc1/974
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/NRm" group-title="Canais @ 24 Horas",(24H) UM MALUCO NO PEDACO T06
+http://eyplay.io:80/dPRPQR/St3gc1/975
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/cnb" group-title="Canais @ 24 Horas",(24H) URSINHOS CARINHOSOS
+http://eyplay.io:80/dPRPQR/St3gc1/976
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/ggD" group-title="Canais @ 24 Horas",(24H) VALE DOS DINOSSAUROS
+http://eyplay.io:80/dPRPQR/St3gc1/977
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/sSw" group-title="Canais @ 24 Horas",(24H) WALLY GATOR
+http://eyplay.io:80/dPRPQR/St3gc1/978
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/LzF" group-title="Canais @ 24 Horas",(24H) YU-GI-OH CLASSICO T0
+http://eyplay.io:80/dPRPQR/St3gc1/980
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/tMV" group-title="Canais @ 24 Horas",(24H) YU-GI-OH CLASSICO T01
+http://eyplay.io:80/dPRPQR/St3gc1/981
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/uqG" group-title="Canais @ 24 Horas",(24H) YU-GI-OH CLASSICO T02
+http://eyplay.io:80/dPRPQR/St3gc1/982
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/K8U" group-title="Canais @ 24 Horas",(24H) YU-GI-OH CLASSICO T03
+http://eyplay.io:80/dPRPQR/St3gc1/983
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/w7Z" group-title="Canais @ 24 Horas",(24H) YU-GI-OH CLASSICO T04
+http://eyplay.io:80/dPRPQR/St3gc1/984
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/r97" group-title="Canais @ 24 Horas",(24H) YU-GI-OH CLASSICO T06
+http://eyplay.io:80/dPRPQR/St3gc1/985
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/4U8" group-title="Canais @ 24 Horas",(24H) YU-GI-OH CLASSICO T07
+http://eyplay.io:80/dPRPQR/St3gc1/986
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/phA" group-title="Canais @ 24 Horas",(24H) ZATCH BELL
+http://eyplay.io:80/dPRPQR/St3gc1/987
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/TQ2" group-title="Canais @ 24 Horas",(24H) ZE BUSCAPE
+http://eyplay.io:80/dPRPQR/St3gc1/988
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/VvN" group-title="Canais @ 24 Horas",(24H) ZORRA TOTAL (2008)
+http://eyplay.io:80/dPRPQR/St3gc1/990
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/DKO" group-title="Canais @ 24 Horas",(24H) ZORRA TOTAL (2009)
+http://eyplay.io:80/dPRPQR/St3gc1/991
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/v4F" group-title="Canais @ 24 Horas",(24H) ZORRA TOTAL (2010)
+http://eyplay.io:80/dPRPQR/St3gc1/992
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/58G" group-title="Canais @ 24 Horas",(24H) ZORRA TOTAL (2011)
+http://eyplay.io:80/dPRPQR/St3gc1/993
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/9j6" group-title="Canais @ 24 Horas",(24H) ZORRA TOTAL (2012)
+http://eyplay.io:80/dPRPQR/St3gc1/994
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/bkb" group-title="Canais @ 24 Horas",(24H) ZORRA TOTAL (2013)
+http://eyplay.io:80/dPRPQR/St3gc1/995
+#EXTINF:-1 tvg-id="0" tvg-logo="http://iv.pe/3sI" group-title="Canais @ 24 Horas",(24H) ZORRA TOTAL (2014)
+http://eyplay.io:80/dPRPQR/St3gc1/996

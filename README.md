@@ -1317,3 +1317,89 @@ http://eyplay.io:80/dPRPQR/St3gc1/448
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/ratimbum.png" aspect-ratio="16:9" group-title="Canais | Infantis",TV Ra Tim Bum SD
 http://eyplay.io:80/dPRPQR/St3gc1/449
 
+
+
+###########################################CANAIS NOTÍCIAS###############################################
+
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/bandnews.png" aspect-ratio="16:9" group-title="Canais | Notícias",BandNews FHD (H265)
+http://eyplay.io:80/dPRPQR/St3gc1/20
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/bandnews.png" aspect-ratio="16:9" group-title="Canais | Notícias",BandNews HD
+http://eyplay.io:80/dPRPQR/St3gc1/21
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/bandnews.png" aspect-ratio="16:9" group-title="Canais | Notícias",BandNews SD
+http://eyplay.io:80/dPRPQR/St3gc1/22
+
+
+#EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="Canais | Notícias",CNN Brasil FHD (H265)
+http://eyplay.io:80/dPRPQR/St3gc1/14076
+
+
+#EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="Canais | Notícias",CNN Brasil HD
+http://eyplay.io:80/dPRPQR/St3gc1/14075
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/cnn.png" aspect-ratio="16:9" group-title="Canais | Notícias",CNN Espanhol FHD (H265)
+http://eyplay.io:80/dPRPQR/St3gc1/70
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/cnn.png" aspect-ratio="16:9" group-title="Canais | Notícias",CNN Espanhol HD
+http://eyplay.io:80/dPRPQR/St3gc1/71
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/cnn.png" aspect-ratio="16:9" group-title="Canais | Notícias",CNN Espanhol SD
+http://eyplay.io:80/dPRPQR/St3gc1/72
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/cnn.png" aspect-ratio="16:9" group-title="Canais | Notícias",CNN Internacional FHD (H265)
+http://eyplay.io:80/dPRPQR/St3gc1/73
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/cnn.png" aspect-ratio="16:9" group-title="Canais | Notícias",CNN Internacional HD
+http://eyplay.io:80/dPRPQR/St3gc1/74
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/cnn.png" aspect-ratio="16:9" group-title="Canais | Notícias",CNN Internacional SD
+http://eyplay.io:80/dPRPQR/St3gc1/75
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/foxnews.png" aspect-ratio="16:9" group-title="Canais | Notícias",Fox News FHD (H265)
+http://eyplay.io:80/dPRPQR/St3gc1/166
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/foxnews.png" aspect-ratio="16:9" group-title="Canais | Notícias",Fox News HD
+http://eyplay.io:80/dPRPQR/St3gc1/167
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/foxnews.png" aspect-ratio="16:9" group-title="Canais | Notícias",Fox News SD
+http://eyplay.io:80/dPRPQR/St3gc1/168
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/globonews.png" aspect-ratio="16:9" group-title="Canais | Notícias",Globo News FHD (H265)
+http://eyplay.io:80/dPRPQR/St3gc1/202
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/globonews.png" aspect-ratio="16:9" group-title="Canais | Notícias",Globo News HD
+http://eyplay.io:80/dPRPQR/St3gc1/203
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/globonews.png" aspect-ratio="16:9" group-title="Canais | Notícias",Globo News SD
+http://eyplay.io:80/dPRPQR/St3gc1/204
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/recordnews.png" aspect-ratio="16:9" group-title="Canais | Notícias",Record News FHD (H265)
+http://eyplay.io:80/dPRPQR/St3gc1/364
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/recordnews.png" aspect-ratio="16:9" group-title="Canais | Notícias",Record News HD
+http://eyplay.io:80/dPRPQR/St3gc1/365
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/recordnews.png" aspect-ratio="16:9" group-title="Canais | Notícias",Record News SD
+http://eyplay.io:80/dPRPQR/St3gc1/366
+
+

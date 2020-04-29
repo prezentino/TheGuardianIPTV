@@ -794,3 +794,376 @@ http://eyplay.io:80/dPRPQR/St3gc1/462
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/warner.png" aspect-ratio="16:9" group-title="Canais | Filmes e Séries",Warner Channel SD
 http://eyplay.io:80/dPRPQR/St3gc1/463
+
+
+
+#########################################################################################################
+
+                                          CANAIS GLOBO
+
+#########################################################################################################
+
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/globo.png" aspect-ratio="16:9" group-title="Canais | Globo",Globo Brasilia HD
+http://eyplay.io:80/dPRPQR/St3gc1/185
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/globo.png" aspect-ratio="16:9" group-title="Canais | Globo",Globo Brasilia SD
+http://eyplay.io:80/dPRPQR/St3gc1/186
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/globo.png" aspect-ratio="16:9" group-title="Canais | Globo",Globo EPTV Campinas FHD (H265)
+http://eyplay.io:80/dPRPQR/St3gc1/189
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/globo.png" aspect-ratio="16:9" group-title="Canais | Globo",Globo EPTV Campinas HD
+http://eyplay.io:80/dPRPQR/St3gc1/190
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/globo.png" aspect-ratio="16:9" group-title="Canais | Globo",Globo EPTV Campinas SD
+http://eyplay.io:80/dPRPQR/St3gc1/191
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/globo.png" aspect-ratio="16:9" group-title="Canais | Globo",Globo EPTV Ribeirao Preto SD
+http://eyplay.io:80/dPRPQR/St3gc1/192
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/globo.png" aspect-ratio="16:9" group-title="Canais | Globo",Globo EPTV Sul de Minas FHD (H265)
+http://eyplay.io:80/dPRPQR/St3gc1/193
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/globo.png" aspect-ratio="16:9" group-title="Canais | Globo",Globo EPTV Sul de Minas HD
+http://eyplay.io:80/dPRPQR/St3gc1/194
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/globo.png" aspect-ratio="16:9" group-title="Canais | Globo",Globo Inter TV Cabugi SD
+http://eyplay.io:80/dPRPQR/St3gc1/195
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/globo.png" aspect-ratio="16:9" group-title="Canais | Globo",Globo Inter TV dos Vales FHD (H265)
+http://eyplay.io:80/dPRPQR/St3gc1/196
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/globo.png" aspect-ratio="16:9" group-title="Canais | Globo",Globo Inter TV Grande Minas FHD (H265)
+http://eyplay.io:80/dPRPQR/St3gc1/197
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/globo.png" aspect-ratio="16:9" group-title="Canais | Globo",Globo Inter TV Grande Minas HD
+http://eyplay.io:80/dPRPQR/St3gc1/198
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/globo.png" aspect-ratio="16:9" group-title="Canais | Globo",Globo Minas FHD (H265)
+http://eyplay.io:80/dPRPQR/St3gc1/199
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/globo.png" aspect-ratio="16:9" group-title="Canais | Globo",Globo Minas HD
+http://eyplay.io:80/dPRPQR/St3gc1/200
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/globo.png" aspect-ratio="16:9" group-title="Canais | Globo",Globo Minas SD
+http://eyplay.io:80/dPRPQR/St3gc1/201
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/globo.png" aspect-ratio="16:9" group-title="Canais | Globo",Globo Nordeste FHD (H265)
+http://eyplay.io:80/dPRPQR/St3gc1/205
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/globo.png" aspect-ratio="16:9" group-title="Canais | Globo",Globo Nordeste HD
+http://eyplay.io:80/dPRPQR/St3gc1/206
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/globo.png" aspect-ratio="16:9" group-title="Canais | Globo",Globo Nordeste SD
+http://eyplay.io:80/dPRPQR/St3gc1/207
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/globo.png" aspect-ratio="16:9" group-title="Canais | Globo",Globo NSC Florianopolis FHD (H265)
+http://eyplay.io:80/dPRPQR/St3gc1/208
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/globo.png" aspect-ratio="16:9" group-title="Canais | Globo",Globo NSC Florianopolis HD
+http://eyplay.io:80/dPRPQR/St3gc1/209
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/globo.png" aspect-ratio="16:9" group-title="Canais | Globo",Globo NSC Florianopolis SD
+http://eyplay.io:80/dPRPQR/St3gc1/210
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/globo.png" aspect-ratio="16:9" group-title="Canais | Globo",Globo NSC TV Blumenau FHD (H265)
+http://eyplay.io:80/dPRPQR/St3gc1/211
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/globo.png" aspect-ratio="16:9" group-title="Canais | Globo",Globo RBS TV Porto Alegre SD
+http://eyplay.io:80/dPRPQR/St3gc1/214
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/globo.png" aspect-ratio="16:9" group-title="Canais | Globo",Globo Rede Amazonica SD
+http://eyplay.io:80/dPRPQR/St3gc1/215
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/globo.png" aspect-ratio="16:9" group-title="Canais | Globo",Globo RJ FHD (H265)
+http://eyplay.io:80/dPRPQR/St3gc1/216
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/globo.png" aspect-ratio="16:9" group-title="Canais | Globo",Globo RJ HD
+http://eyplay.io:80/dPRPQR/St3gc1/217
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/globo.png" aspect-ratio="16:9" group-title="Canais | Globo",Globo RPC Curitiba SD
+http://eyplay.io:80/dPRPQR/St3gc1/221
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/globo.png" aspect-ratio="16:9" group-title="Canais | Globo",Globo RPC Paranavaí FHD (H265)
+http://eyplay.io:80/dPRPQR/St3gc1/218
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/globo.png" aspect-ratio="16:9" group-title="Canais | Globo",Globo RPC Paranavaí HD
+http://eyplay.io:80/dPRPQR/St3gc1/219
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/globo.png" aspect-ratio="16:9" group-title="Canais | Globo",Globo RPC Paranavaí SD
+http://eyplay.io:80/dPRPQR/St3gc1/220
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/globo.png" aspect-ratio="16:9" group-title="Canais | Globo",Globo SP FHD (H265)
+http://eyplay.io:80/dPRPQR/St3gc1/222
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/globo.png" aspect-ratio="16:9" group-title="Canais | Globo",Globo SP HD
+http://eyplay.io:80/dPRPQR/St3gc1/223
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/globo.png" aspect-ratio="16:9" group-title="Canais | Globo",Globo SP SD
+http://eyplay.io:80/dPRPQR/St3gc1/224
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/globo.png" aspect-ratio="16:9" group-title="Canais | Globo",Globo TV Anhanguera FHD (H265)
+http://eyplay.io:80/dPRPQR/St3gc1/225
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/globo.png" aspect-ratio="16:9" group-title="Canais | Globo",Globo TV Anhanguera HD
+http://eyplay.io:80/dPRPQR/St3gc1/226
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/globo.png" aspect-ratio="16:9" group-title="Canais | Globo",Globo TV Anhanguera SD
+http://eyplay.io:80/dPRPQR/St3gc1/227
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/globo.png" aspect-ratio="16:9" group-title="Canais | Globo",Globo TV Bahia FHD (H265)
+http://eyplay.io:80/dPRPQR/St3gc1/228
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/globo.png" aspect-ratio="16:9" group-title="Canais | Globo",Globo TV Bahia HD
+http://eyplay.io:80/dPRPQR/St3gc1/229
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/globo.png" aspect-ratio="16:9" group-title="Canais | Globo",Globo TV Bahia SD
+http://eyplay.io:80/dPRPQR/St3gc1/230
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/globo.png" aspect-ratio="16:9" group-title="Canais | Globo",Globo TV Centro America FHD (H265)
+http://eyplay.io:80/dPRPQR/St3gc1/187
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/globo.png" aspect-ratio="16:9" group-title="Canais | Globo",Globo TV Centro America HD
+http://eyplay.io:80/dPRPQR/St3gc1/188
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/globo.png" aspect-ratio="16:9" group-title="Canais | Globo",Globo TV Diario FHD (H265)
+http://eyplay.io:80/dPRPQR/St3gc1/234
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/globo.png" aspect-ratio="16:9" group-title="Canais | Globo",Globo TV Diario HD
+http://eyplay.io:80/dPRPQR/St3gc1/235
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/globo.png" aspect-ratio="16:9" group-title="Canais | Globo",Globo TV Gazeta Alagoas FHD (H265)
+http://eyplay.io:80/dPRPQR/St3gc1/236
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/globo.png" aspect-ratio="16:9" group-title="Canais | Globo",Globo TV Liberal Belem FHD (H265)
+http://eyplay.io:80/dPRPQR/St3gc1/231
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/globo.png" aspect-ratio="16:9" group-title="Canais | Globo",Globo TV Liberal Belem HD
+http://eyplay.io:80/dPRPQR/St3gc1/232
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/globo.png" aspect-ratio="16:9" group-title="Canais | Globo",Globo TV Liberal Belem SD
+http://eyplay.io:80/dPRPQR/St3gc1/233
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/globo.png" aspect-ratio="16:9" group-title="Canais | Globo",Globo TV Mirante FHD (H265)
+http://eyplay.io:80/dPRPQR/St3gc1/238
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/globo.png" aspect-ratio="16:9" group-title="Canais | Globo",Globo TV Mirante HD
+http://eyplay.io:80/dPRPQR/St3gc1/239
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/globo.png" aspect-ratio="16:9" group-title="Canais | Globo",Globo TV Mirante SD
+http://eyplay.io:80/dPRPQR/St3gc1/240
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/globo.png" aspect-ratio="16:9" group-title="Canais | Globo",Globo TV Morena FHD (H265)
+http://eyplay.io:80/dPRPQR/St3gc1/241
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/globo.png" aspect-ratio="16:9" group-title="Canais | Globo",Globo TV Morena HD
+http://eyplay.io:80/dPRPQR/St3gc1/242
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/globo.png" aspect-ratio="16:9" group-title="Canais | Globo",Globo TV Morena SD
+http://eyplay.io:80/dPRPQR/St3gc1/243
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/globo.png" aspect-ratio="16:9" group-title="Canais | Globo",Globo TV Santa Cruz FHD (H265)
+http://eyplay.io:80/dPRPQR/St3gc1/450
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/globo.png" aspect-ratio="16:9" group-title="Canais | Globo",Globo TV Sergipe FHD (H265)
+http://eyplay.io:80/dPRPQR/St3gc1/244
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/globo.png" aspect-ratio="16:9" group-title="Canais | Globo",Globo TV TEM Bauru SD
+http://eyplay.io:80/dPRPQR/St3gc1/245
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/globo.png" aspect-ratio="16:9" group-title="Canais | Globo",Globo TV TEM Sorocaba SD
+http://eyplay.io:80/dPRPQR/St3gc1/246
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/globo.png" aspect-ratio="16:9" group-title="Canais | Globo",Globo TV Tribuna Santos SD
+http://eyplay.io:80/dPRPQR/St3gc1/247
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/globo.png" aspect-ratio="16:9" group-title="Canais | Globo",Globo TV Vanguarda S.J.C SD
+http://eyplay.io:80/dPRPQR/St3gc1/248
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/globo.png" aspect-ratio="16:9" group-title="Canais | Globo",Globo TV Verdes Mares FHD (H265)
+http://eyplay.io:80/dPRPQR/St3gc1/249
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/globo.png" aspect-ratio="16:9" group-title="Canais | Globo",Globo TV Verdes Mares HD
+http://eyplay.io:80/dPRPQR/St3gc1/250
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/globo.png" aspect-ratio="16:9" group-title="Canais | Globo",Globo TV Verdes Mares SD
+http://eyplay.io:80/dPRPQR/St3gc1/251
+
+
+
+#########################################################################################################
+
+                                          CANAIS HBO
+
+#########################################################################################################
+
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/hbo.png" aspect-ratio="16:9" group-title="Canais | Filmes e Séries",HBO FHD (H265)
+http://eyplay.io:80/dPRPQR/St3gc1/270
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/hbo.png" aspect-ratio="16:9" group-title="Canais | Filmes e Séries",HBO HD
+http://eyplay.io:80/dPRPQR/St3gc1/271
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/hbo.png" aspect-ratio="16:9" group-title="Canais | Filmes e Séries",HBO SD
+http://eyplay.io:80/dPRPQR/St3gc1/281
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/hbo2.png" aspect-ratio="16:9" group-title="Canais | Filmes e Séries",HBO 2 FHD (H265)
+http://eyplay.io:80/dPRPQR/St3gc1/264
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/hbo2.png" aspect-ratio="16:9" group-title="Canais | Filmes e Séries",HBO 2 HD
+http://eyplay.io:80/dPRPQR/St3gc1/265
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/hbo2.png" aspect-ratio="16:9" group-title="Canais | Filmes e Séries",HBO 2 SD
+http://eyplay.io:80/dPRPQR/St3gc1/266
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/hbofamily.png" aspect-ratio="16:9" group-title="Canais | Filmes e Séries",HBO Family FHD (H265)
+http://eyplay.io:80/dPRPQR/St3gc1/267
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/hbofamily.png" aspect-ratio="16:9" group-title="Canais | Filmes e Séries",HBO Family HD
+http://eyplay.io:80/dPRPQR/St3gc1/268
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/hbofamily.png" aspect-ratio="16:9" group-title="Canais | Filmes e Séries",HBO Family SD
+http://eyplay.io:80/dPRPQR/St3gc1/269
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/hbomundi.png" aspect-ratio="16:9" group-title="Canais | Filmes e Séries",HBO Mundi FHD (H265)
+http://eyplay.io:80/dPRPQR/St3gc1/272
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/hbomundi.png" aspect-ratio="16:9" group-title="Canais | Filmes e Séries",HBO Mundi HD
+http://eyplay.io:80/dPRPQR/St3gc1/273
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/hbomundi.png" aspect-ratio="16:9" group-title="Canais | Filmes e Séries",HBO Mundi SD
+http://eyplay.io:80/dPRPQR/St3gc1/274
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/hboplus.png" aspect-ratio="16:9" group-title="Canais | Filmes e Séries",HBO Plus FHD (H265)
+http://eyplay.io:80/dPRPQR/St3gc1/275
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/hboplus.png" aspect-ratio="16:9" group-title="Canais | Filmes e Séries",HBO Plus HD
+http://eyplay.io:80/dPRPQR/St3gc1/276
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/hboplus.png" aspect-ratio="16:9" group-title="Canais | Filmes e Séries",HBO Plus SD
+http://eyplay.io:80/dPRPQR/St3gc1/277
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/hbopop.png" aspect-ratio="16:9" group-title="Canais | Filmes e Séries",HBO Pop FHD (H265)
+http://eyplay.io:80/dPRPQR/St3gc1/278
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/hbopop.png" aspect-ratio="16:9" group-title="Canais | Filmes e Séries",HBO Pop HD
+http://eyplay.io:80/dPRPQR/St3gc1/279
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/hbopop.png" aspect-ratio="16:9" group-title="Canais | Filmes e Séries",HBO Pop SD
+http://eyplay.io:80/dPRPQR/St3gc1/280
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/hbosignature.png" aspect-ratio="16:9" group-title="Canais | Filmes e Séries",HBO Signature FHD (H265)
+http://eyplay.io:80/dPRPQR/St3gc1/282
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/hbosignature.png" aspect-ratio="16:9" group-title="Canais | Filmes e Séries",HBO Signature HD
+http://eyplay.io:80/dPRPQR/St3gc1/283
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/hbosignature.png" aspect-ratio="16:9" group-title="Canais | Filmes e Séries",HBO Signature SD
+http://eyplay.io:80/dPRPQR/St3gc1/284
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/hboxtreme.png" aspect-ratio="16:9" group-title="Canais | Filmes e Séries",HBO Xtreme FHD (H265)
+http://eyplay.io:80/dPRPQR/St3gc1/285
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/hboxtreme.png" aspect-ratio="16:9" group-title="Canais | Filmes e Séries",HBO Xtreme HD
+http://eyplay.io:80/dPRPQR/St3gc1/286
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/hboxtreme.png" aspect-ratio="16:9" group-title="Canais | Filmes e Séries",HBO Xtreme SD
+http://eyplay.io:80/dPRPQR/St3gc1/287
+
+
+
+#########################################################################################################
+
+                                          CANAIS HBO
+
+#########################################################################################################
+
+
+

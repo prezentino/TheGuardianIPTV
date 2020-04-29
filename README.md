@@ -4619,3 +4619,1104 @@ http://eyplay.io:80/movie/YYnVMD/bSDwYW/18126.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pHUxVCnB3DPu9afBnl01MtlH7q6.jpg" group-title="Filmes | Lançamentos",O Melhor Verão das Nossas Vidas - 2020
 http://eyplay.io:80/movie/YYnVMD/bSDwYW/18136.mp4
+
+
+
+###########################################FILMES AÇÃO###############################################
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/001204ddfed3da5fbd9301a45815b68e.jpg" group-title="Filmes | Ação",007 - Cassino Royale - 2006
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14825.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/04f447938a46021ae6ad64726ca3e483.jpg" group-title="Filmes | Ação",007 - Contra Spectre - 2015
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14828.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/cd31625e5b0d30ce7127df3a4cd0ed16.jpg" group-title="Filmes | Ação",007 - Operação Skyfall - 2012
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14826.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/eef763eff34fabf9c5be93da7a0a773c.jpg" group-title="Filmes | Ação",007 - Quantum of Solace - 2008
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14827.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/90a0971da535a5c48b49cc0645b7a539.jpg" group-title="Filmes | Ação",12 Rounds - 2009
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14829.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/22bba9f187e6cb928a935e54939f2606.jpg" group-title="Filmes | Ação",13 Assassinos - 2010
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14830.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/6edc5c3c2c4743187f228cc444102f87.jpg" group-title="Filmes | Ação",13 Horas: Os Soldados Secretos de Benghazi - 2016
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14831.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5lbS36H4OEK12BTHcY29Kd91nnF.jpg" group-title="Filmes | Ação",13° Distrito - Ultimato - 2009
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14832.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f8Ed6cwMDbQWNrQoihF6FhbMdYP.jpg" group-title="Filmes | Ação",13º Distrito - 2004
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14833.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/17395f7708643e2dc0c8f80146c69b76.jpg" group-title="Filmes | Ação",15 Minutos de Guerra - 2019
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14834.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x41qAERATedHCuvpADDgDoSjrsq.jpg" group-title="Filmes | Ação",2012 - 2009
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14840.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/cf437e531cdaa94af6d41c62eadead7a.jpg" group-title="Filmes | Ação",211 - O Grande Assalto - 2018
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14838.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/f96a40adea3a9124ccae27bc6b4bbedb.jpg" group-title="Filmes | Ação",22 Balas - 2010
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14835.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/71da9c32d356351661763abd8df1ae61.jpg" group-title="Filmes | Ação",22 Milhas - 2018
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14836.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/77ddb71c954b56b8298b6f563671613c.jpg" group-title="Filmes | Ação",3 Dias para Matar - 2014
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14824.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/ca125244831da879a23d4baacd65338e.jpg" group-title="Filmes | Ação",300: A Ascensão do Império - 2014
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14839.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/0c6af89c9705971535b21d3aac218895.jpg" group-title="Filmes | Ação",60 Segundos - 2000
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14837.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/68781a449c596ef0fdf7e4225fa4306e.jpg" group-title="Filmes | Ação",A Arqueira - 2017
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14842.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/df60788a5173aaa8590dd66940768e03.jpg" group-title="Filmes | Ação",A Carga - 2018
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14843.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/7942fa19bc7fafbc837222aef2455623.jpg" group-title="Filmes | Ação",A Espada do Imortal - 2017
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14844.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/cf4b5f6594e4cbb3aae04cd802cdd05f.jpg" group-title="Filmes | Ação",A Espiã Vermelha - 2018
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14845.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/9bc8d8b55bd254712d96677a68c03e70.jpg" group-title="Filmes | Ação",A Grande Muralha Verde - 2019
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14846.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/28163abe2ed65260840560017af1e5ec.jpg" group-title="Filmes | Ação",A Gripe - 2013
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14847.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/4d72b6801d5113ed93cf74adec53da78.jpg" group-title="Filmes | Ação",A Hospedeira - 2013
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14848.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/50c15720d497f3912fb97c5bd35d9f82.jpg" group-title="Filmes | Ação",A Identidade Bourne - 2002
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14849.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/281c4cda5b5b89542df0b23a99b0cb73.jpg" group-title="Filmes | Ação",A Ilha - Uma Prisão sem Grades - 2008
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14850.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/e1c554f457169b03087b87f345cf8b74.jpg" group-title="Filmes | Ação",A Justiceira - 2014
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14851.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/fa4ee1cd174785bd7acacc4b054b809d.jpg" group-title="Filmes | Ação",A Lenda de Tarzan - 2016
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14853.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/739d7a72aebe0147e1e979331810bfb3.jpg" group-title="Filmes | Ação",A Lenda do Tesouro Perdido - Livro dos Segredos - 2007
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14854.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/42d75ca322e84dc48e4e84a0999813ea.jpg" group-title="Filmes | Ação",A Marca do Zorro - 1920
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14859.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/8cd49595b096526270b4a0946aefb86e.jpg" group-title="Filmes | Ação",A Marca Negra - 2018
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14858.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/4d18a14547c5a1f0eb9d9d89570ca866.jpg" group-title="Filmes | Ação",A Múmia - 1999
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14860.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/78d2f82e0b5a94509da178ec8b0cbc70.jpg" group-title="Filmes | Ação",A Múmia - Tumba do Imperador Dragão - 2008
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14861.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/f770ade3958449ab77e781b76889b475.jpg" group-title="Filmes | Ação",A Noite nos Persegue - 2018
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14867.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/e7f32ed8d61c80294af7ba908a85f11e.jpg" group-title="Filmes | Ação",A Outra Face - 1997
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14868.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/b0f0e2ca69bc8b0637dbe5532ab0fa14.jpg" group-title="Filmes | Ação",A Senha: Swordfish - 2001
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14874.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/e8f838a57da357aeba4ffae484dad477.jpg" group-title="Filmes | Ação",A Supremacia Bourne - 2004
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14884.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/c9ea35d50ac1172a63e50c8390f191b3.jpg" group-title="Filmes | Ação",A Série Divergente: Convergente - 2016
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14875.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/e39058b209a1fb1de616e44eb8999a5a.jpg" group-title="Filmes | Ação",A Série Divergente: Insurgente - 2015
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14876.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/01ca2c5910f4fc4a2d77a1b7fb7f1184.jpg" group-title="Filmes | Ação",A Torre Negra - 2017
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14887.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/b0c3632d316698e82a6e88af556cf20a.jpg" group-title="Filmes | Ação",A Vigilante do Amanhã: Ghost in the Shell - 2017
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14897.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/a112978b1a8ddd8ea76f5ac938e1a908.jpg" group-title="Filmes | Ação",A Última Missão - 1973
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14894.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/e4df6be2463efebb86a3afdea725ea14.jpg" group-title="Filmes | Ação",A Última Resistência - 2017
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14895.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9kB56ZdMB6RgY5QtX9Bar45jCeI.jpg" group-title="Filmes | Ação",A-X-L: O Cão Robô - 2018
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14841.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lM7K3kTzDMkAq5HdADvK9XSBeQu.jpg" group-title="Filmes | Ação",Alemão - 2014
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14852.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/3bc94a75c7c6b1f618a720fd741f83ec.jpg" group-title="Filmes | Ação",Alexandre Astier - L'Exoconférence - 2015
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14855.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/011a40a355a463cf9b99b45ebf278db1.jpg" group-title="Filmes | Ação",Alita - Anjo de Combate - 1993
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14856.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/4ddc25d447eeebcbefc4293cb1fa99cb.jpg" group-title="Filmes | Ação",Amanhecer Violento - 2012
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14857.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rCp9VYqvBphiETtC86fGZFSXc63.jpg" group-title="Filmes | Ação",Anaconda 4 - Rastro de Sangue
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14862.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/74159950cf82dea8114f2d5f6db253eb.jpg" group-title="Filmes | Ação",Anaconda 2 - A Caçada pela Orquídea Sangrenta - 2004
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14863.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/d02c549243712d87ba9e6c971b16f30e.jpg" group-title="Filmes | Ação",Anaconda 3 - 2008
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14864.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/0e3e6cfc25343d9fe22c086551ea7852.jpg" group-title="Filmes | Ação",Anjos da Vida - Mais Bravos que o Mar - 2006
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14865.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/9d399663136dc667e11ca420abfcf23f.jpg" group-title="Filmes | Ação",Anna - O Perigo Tem Nome - 2019
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14866.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/2406ad02f76d3ba619d0f0ffc58b8dc1.jpg" group-title="Filmes | Ação",Apocalypto - 2006
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14869.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oB367uFcyU2uhGkFqo5RB4Evdji.jpg" group-title="Filmes | Ação",Aquaman - 2018
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14870.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/113bce7468c8cded8da1129d84d91fca.jpg" group-title="Filmes | Ação",Armageddon - 1998
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14872.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fvwR00VUW2yFtSdYr8F3NUmusf6.jpg" group-title="Filmes | Ação",Arranha-Céu: Coragem Sem Limite
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14873.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/dbc24929739ab8f3acf0659b86fa606f.jpg" group-title="Filmes | Ação",As Aventuras de Errol Flynn - 2018
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/16969.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/84bc425cc0d3bb6cc2afb290f5c9f822.jpg" group-title="Filmes | Ação",As Aventuras de uma Super Professora - 2018
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/16971.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/330613b479f6ff98fab2ad4b800e45ec.jpg" group-title="Filmes | Ação",As Tartarugas Ninja 2 - 2016
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14883.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/4ec24571454a7c7e6b15d092aab8a098.jpg" group-title="Filmes | Ação",Asfalto de Sangue - 2017
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14877.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/3349c90715b4c02ce6dc1128a6f7c905.jpg" group-title="Filmes | Ação",Assassin's Creed - 2016
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14878.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/396db7b3678664e29ff05bccf66304c2.jpg" group-title="Filmes | Ação",Assassino a Preço Fixo 2 - A Ressurreição - 2016
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14879.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8JtL1oAKo6MzfxxWSSVdd4NvD5D.jpg" group-title="Filmes @ Suspense",Assassino Em Série - 2017
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/17401.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/620e4b372cc0b1f09e74d47ac7c79ab2.jpg" group-title="Filmes | Ação",Assassinos Anônimos - 2019
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14880.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/6ad187f4abc60a291f0d4a9998e9cc38.jpg" group-title="Filmes | Ação",Assassinos de Guerra - 2019
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14881.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/9f6103453623111729559bf13e3b6539.jpg" group-title="Filmes | Ação",Assassinos Múltiplos - 2017
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14882.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/535e06d4ee72855089414baa921aa4a3.jpg" group-title="Filmes | Ação",Atentado em Paris - 2016
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14885.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/bff8179e7a7575603335593b3a763af0.jpg" group-title="Filmes | Ação",Atos de Violência - 2018
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14888.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/0fba0dbdbf615a2a4e2a0fc40ac78bed.jpg" group-title="Filmes | Ação",Atrás das Linhas Inimigas 2: O Eixo do Mal - 2006
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14889.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/3005cc9a51f3430d5756988df3139a13.jpg" group-title="Filmes | Ação",Atrás das Linhas Inimigas 3: Operação Colômbia - 2009
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14890.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/6456f1f0b653e2d679562bfe21b99184.jpg" group-title="Filmes | Ação",Atrás das Linhas Inimigas 4: Missão África - 2014
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14891.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ynv9tbskUZxmj0iXwjPSuJu395l.jpg" group-title="Filmes | Ação",Upgrade: Atualização - 2018
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14893.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGY3NmMyY2QtMTIwNi00NzM4LTljOGYtNWE2MWQ0OTRlMTBjXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_.jpg" group-title="Filmes | Ação",Atómica - 1998
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14886.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/5e3d9115c4709217e90ea061b159b954.jpg" group-title="Filmes | Ação",Avatar - 2009
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14896.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/5f76156ae69703e9152a4d4adefcc67c.jpg" group-title="Filmes | Ação",Baahubali: O Início - 2015
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14898.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/b81d6a0623e4308590c90a655056fb41.jpg" group-title="Filmes | Ação",Batman Begins - 2005
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14900.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/d701175ff2844ef17a641ddcfe438bd0.jpg" group-title="Filmes | Ação",Batman vs Superman: A Origem da Justiça - 2016
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14901.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/7492fdc1426e20b717fb9e0e2c94c5fe.jpg" group-title="Filmes | Ação",Batman: O Cavaleiro das Trevas Ressurge - 2012
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14899.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/3f5524fd0d429c2764bfd008eca526ff.jpg" group-title="Filmes | Ação",Battleship: A Batalha dos Mares - 2012
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14902.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/3a9196d63145f67a767a3a3198209bb2.jpg" group-title="Filmes | Ação",Bem Vindo à Selva - 2013
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14903.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c9CoGrBA5yw8A7YBMz0hGzfzpNq.jpg" group-title="Filmes | Ação",Ben-Hur - 2016
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14904.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/51c88e5f8123353d39f96d0a56538c02.jpg" group-title="Filmes | Ação",Bernie, o Golfinho - 2018
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14905.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2zQqUoQPauW5iOgX0CkDvDWDc9W.jpg" group-title="Filmes | Ação",Black Water: Na Escuridão do Oceano - 2018
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/16987.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/00e2dbf9aabbfb5bcdc115eb20d8be7a.jpg" group-title="Filmes | Ação",Blade - O Caçador de Vampiros - 1998
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14906.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/c8183ca7acff34ab621567362dcf7e04.jpg" group-title="Filmes | Ação",Blade II - O Caçador de Vampiros - 2002
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14908.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/e1370e7c1e9758b779b046db09bee6dc.jpg" group-title="Filmes | Ação",Blade: Trinity - 2004
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14907.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5IJqncy0kAVwXGZyoWhv6CqBjKJ.jpg" group-title="Filmes | Ação",Boyka: O Imbatível 1 - 2002
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14909.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AhmIl2mWpjhbflHx2MSxaZbUVIJ.jpg" group-title="Filmes | Ação",Boyka: O Lutador 2 - 2006
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14910.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7SYJPBHU9ynbzWx2PB3ujXpGqeA.jpg" group-title="Filmes | Ação",Boyka: O Imbatível 3 - A Redenção
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14911.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/odcLHmXCMCygQT29jTt0NrHsGz.jpg" group-title="Filmes | Ação",Boyka: O Imbatível 4 - 2016
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14912.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/f678063dda352a0ec36fb392806be2ac.jpg" group-title="Filmes | Ação",Breakdown - Implacável Perseguição - 1997
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14913.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hjOgTrBRFHZ344tuORpbUKCxghU.jpg" group-title="Filmes | Ação",Bruce Lee: O Dragão Chinês - 1971
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14914.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rDck231IFGPvjKxKL8cYjCUKS8f.jpg" group-title="Filmes | Ação",Bruce Lee: A Fúria do Dragão - 1972
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14915.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m7AIITQ624sfldI4SsX4htXPH1f.jpg" group-title="Filmes | Ação",Bruce Lee: O Vôo do Dragão - 1972
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14916.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zN7OOSARMLVzl9xJqkW2CcZ3xhY.jpg" group-title="Filmes | Ação",Bruce Lee: Operação Dragão - 1973
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14917.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5L0WZOdcNGgtPdqzDdoe5FAGOa3.jpg" group-title="Filmes | Ação",Bruce Lee: O Jogo da Morte - 1978
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14918.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jN5vrNeDr8ynAHY2iSUBE2gJz5R.jpg" group-title="Filmes | Ação",Bruce Lee: O Jogo da Morte 2 - 1981
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14919.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/bb82af7315371c0d9ae21c0a9640a847.jpg" group-title="Filmes | Ação",Bumblebee - 2018
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14920.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AePtWcNgawXIGOnB24fDPC1M6Rc.jpg" group-title="Filmes | Ação",Busca Implacável 2 - 2012
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14921.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gtsoJsoIweDa4pxFq4VenNdrcDz.jpg" group-title="Filmes | Ação",Busca Implacável - 2008
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14922.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/1a7286577b2e57153b48a82318b73b2c.jpg" group-title="Filmes | Ação",Caos na Prisão - 2017
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14928.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/565626019eafe06e76ca175b34840339.jpg" group-title="Filmes | Ação",Capitã Marvel - 2019
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14929.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/874202010b1cd1487158e6e76ee0f739.jpg" group-title="Filmes | Ação",Capitão América 2: O Soldado Invernal - 2014
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14930.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/a0f456e2a78ed434191fd1807c161373.jpg" group-title="Filmes | Ação",Capitão América: Guerra Civil - 2016
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14931.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/6ab25257a320d8285cf01f825afa601b.jpg" group-title="Filmes | Ação",Capitão América: O Primeiro Vingador - 2011
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14932.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/101c61d8553ec496208b2e3ec3cf8ebb.jpg" group-title="Filmes | Ação",Carga Bruta - 2016
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14933.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/e6cf3d196005a2d84008702d96299e98.jpg" group-title="Filmes | Ação",Carga Explosiva - 2002
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14934.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/e6cf3d196005a2d84008702d96299e98.jpg" group-title="Filmes | Ação",Carga Explosiva - 2002
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14935.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/07dfc61867f6f533a0fd7ad5233afe91.jpg" group-title="Filmes | Ação",Carga Mortal - 2018
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14936.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/a316fc878c9f86af6330ccb1ac1a027b.jpg" group-title="Filmes | Ação",Caçada Brutal - 2017
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14923.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/e898950694a8eabcc2fdc7fd331f14b5.jpg" group-title="Filmes | Ação",Caçadores de Emoção: Além do Limite - 2015
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14924.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/ccbd023694156b0c8b18637fb0ddf686.jpg" group-title="Filmes | Ação",Caçadores De Homens - 2017
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14925.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/e4edf8ae3a7b8ab20fe12f48de77d6d0.jpg" group-title="Filmes | Ação",Centro de Trauma - 2019
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14937.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/1e7fc8beb5792434a3467f31e6e85bb4.jpg" group-title="Filmes | Ação",Chamas da Vingança - 1984
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14938.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/e80feb5f63fe58ca9071701894da7c2b.jpg" group-title="Filmes | Ação",Chappie - 2015
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14939.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/8e6e4048292bdff8f8d08fce8fd73775.jpg" group-title="Filmes | Ação",Cidade de Deus - 2002
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14940.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wkeKhseRUJd4SavrCu5BtD5DgcB.jpg" group-title="Filmes | Ação",Círculo de Fogo - 2013
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14941.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/16aa6d79e2a85410d7f1f1963a6f1c78.jpg" group-title="Filmes | Ação",Comando Justiceiro - 2019
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14943.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/f77a2c4627aafff325e5fac5463ccb18.jpg" group-title="Filmes | Ação",Comando Para Matar - 1985
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14944.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/14de194c2e3c22d242d85c08262acbaa.jpg" group-title="Filmes | Ação",Con Air: A Rota da Fuga - 1997
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14945.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zbks565OOTYsO3Cd9capcGz5hXX.jpg" group-title="Filmes | Ação",Conan, o Bárbaro - 2011
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14947.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/7d7f16395632bf33ae4fdb038d278bf1.jpg" group-title="Filmes | Ação",Conan, O Destruidor - 1984
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14946.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/69f56099864db8b369ea5ace15b8d80a.jpg" group-title="Filmes | Ação",Condenação Brutal - 1989
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14948.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/18aa5adb6a6ba5549ffaaaa8c092fb5e.jpg" group-title="Filmes | Ação",Conexão Jamaica - 2002
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14949.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/38aeca0e0da961adb164f7f68bd32837.jpg" group-title="Filmes | Ação",Coração Valente - 1995
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14950.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/5eed52ce06437f5d69bbaadcbc988ef1.jpg" group-title="Filmes | Ação",Corações de Ferro - 2014
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14951.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/5e1ca5da475133dc4bc5516a192c810e.jpg" group-title="Filmes | Ação",Corrida Mortal - 2008
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14952.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rrGcj3TbaeIYlr5itXoLONI2Ki7.jpg" group-title="Filmes | Ação",Corrida Mortal 2 - 2010
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14953.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/dd4989d331f2f3e64b120d1ba0b54fe4.jpg" group-title="Filmes | Ação",Corrida Mortal 3 - Inferno - 2013
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14954.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/a320f90a0e6221483bd75bf8746294c7.jpg" group-title="Filmes | Ação",Corrida Mortal 4 - Além da Anarquia - 2018
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14955.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/c2496cb57875a557daa802d7792490b6.jpg" group-title="Filmes @ Drama",Corrida Selvagem - 2017
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/16288.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/f81d0909d3e68a437ceb13a30d317e0e.jpg" group-title="Filmes | Ação",Corridas Clandestinas - 2003
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14956.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/dddad9a633fb3339fc7f776ee838355d.jpg" group-title="Filmes | Ação",Cortina de Fogo 2 - 2019
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14957.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/e2bddb5003f6576a91656a4d0f905bff.jpg" group-title="Filmes | Ação",Covil de Ladrões - 2018
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14958.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/55f4e46ffac0ef147f0f346be908a9df.jpg" group-title="Filmes | Ação",Creed II - 2018
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14959.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wp2Vk9XmK8XbGeJ8YmH3N14juw9.jpg" group-title="Filmes | Ação",Creed 1 - Nascido para Lutar - 2015
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/16289.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/19c2627e10c1b5d5a4dd02c8649b781d.jpg" group-title="Filmes | Ação",Crimes Obscuros - 2018
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14960.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/df56f73ba73905a03879f00124d81d4b.jpg" group-title="Filmes | Ação",Cão de Briga - 2005
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14926.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/2fbf389fac3a0262dade3aed00ed5832.jpg" group-title="Filmes | Ação",Cão Selvagem - 2017
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14927.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/48387b6a1f8e50bc32dd85e59d6339d4.jpg" group-title="Filmes | Ação",Círculo de Fogo: A Revolta - 2018
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14942.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/20095bdab3951906a04beae220cbfb20.jpg" group-title="Filmes | Ação",Darc - 2018
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14961.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/06a5f5bb6e705bb49d1aa1acbe7c7e59.jpg" group-title="Filmes | Ação",Darkman 2: O Retorno de Durant - 1995
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14962.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/86474f155064c4ac1f17a53c46085977.jpg" group-title="Filmes | Ação",Darkman 3: Enfrentando a Morte - 1996
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14963.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/c189248910b6826a2c595b0cc5d9afd0.jpg" group-title="Filmes | Ação",Darkman: Vingança Sem Rosto - 1990
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14964.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/c7151ccf7efb1b637da308435458bc52.jpg" group-title="Filmes | Ação",Deja Vu - 1985
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14965.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/4252db154ebef61e08a09d633e744d3b.jpg" group-title="Filmes | Ação",Desejo de Matar - 1974
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14966.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/f4c1c39ba8dcf4108a669babfd9c7168.jpg" group-title="Filmes | Ação",Desejo de Matar 2 - 1982
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14967.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/99d6e47db712324a04d39e89b6d66896.jpg" group-title="Filmes | Ação",Desejo de Matar 3 - 1985
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14968.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/c7255a19d09ebb0ad453a8aad8ed8861.jpg" group-title="Filmes | Ação",Desejo de Matar 4: Operação Crackdown - 1987
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14969.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/df5d7bb00db52cb32d7c00bc7fcdf636.jpg" group-title="Filmes | Ação",Deus da Guerra - 2017
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14970.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/1b26190697f1d3ac8540dde1b41b4c7b.jpg" group-title="Filmes | Ação",Deuses do Egito - 2016
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14971.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/17e1a311215cd387e962e3ca8e98431b.jpg" group-title="Filmes | Ação",Dia de Treinamento - 2001
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14972.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/bf023f08d7f532f5211b837619c2cfb3.jpg" group-title="Filmes | Ação",Dias de Trovão - 2015
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14973.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/45ae356374cafcdd889aa05f949f6838.jpg" group-title="Filmes | Ação",Direção Explosiva - 2018
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14974.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/1f9c0d5e054833776140fed9851dd6fc.jpg" group-title="Filmes | Ação",Dirty Harry na Lista Negra - 1988
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14975.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/723fcb51b4681b899c3c0f2a64561d14.jpg" group-title="Filmes | Ação",Divisão de Homicídios - 2003
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14976.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gbDNaZJt9bqEaDB6OU3aYEskj72.jpg" group-title="Filmes | Ação",Do Fundo do Mar - 1999
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14977.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/31bdc7106cade79d75ca4b876c43b99a.jpg" group-title="Filmes | Ação",Do Fundo do Mar 2 - 2018
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14978.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/fcb3b2dfc5197e8689905ed7c99ec669.jpg" group-title="Filmes | Ação",Doom: A Porta do Inferno - 2005
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14979.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/5d91f561c74f2ade3556df5d996a67b2.jpg" group-title="Filmes | Ação",Doze Homens e Outro Segredo - 2004
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14980.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/64c1fcfb3dac1f82b09c966f4c1293f2.jpg" group-title="Filmes | Ação",Dupla Explosiva - 2002
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14981.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/6b0125b4a6592e2d293881b075e30199.jpg" group-title="Filmes | Ação",Dupla Implacável - 2010
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14982.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/f61664487d9a3bc7029c4a420cbf780d.jpg" group-title="Filmes | Ação",Duro de Matar 3: A Vingança - 1995
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14985.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/en0r76LdougNDBimL1tLzpTvTau.jpg" group-title="Filmes | Ação",Duro de Matar - 1988
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14983.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z5uiLFzjgeYhnpHmBlFg7s1YHwp.jpg" group-title="Filmes | Ação",Duro de Matar 2 - 1990
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14984.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/8f3926cf1d8350a6644cc92ea09ae03d.jpg" group-title="Filmes | Ação",Duro de Matar 4.0 - 2007
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14986.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/f805b3adce5fb8514a045f8b71a1b5ca.jpg" group-title="Filmes | Ação",Duro de Matar 5: Um Bom Dia para Morrer - 2013
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14987.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/591d501c7d44dd85d5da63beb3a9b98c.jpg" group-title="Filmes | Ação",Efeito Colateral - 2002
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14988.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/f2f2a9931072af8a36000d46dc565b2c.jpg" group-title="Filmes | Ação",Elektra - 2005
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14989.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/2ab93bd5e659225bf3bb13c69041eb56.jpg" group-title="Filmes | Ação",Em Busca da Vitória - 2019
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14990.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/ae7c911aac44810b5447499f0923061e.jpg" group-title="Filmes | Ação",Em Busca de Vingança - 2017
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14991.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/cd60b087bca2aa214b7ca9b7cccd77da.jpg" group-title="Filmes | Ação",Em Ritmo de Fuga - 2017
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14993.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDk1MDFkMjgtMjA2My00ODNhLTgzN2MtZDI4Yzg2YjE0ZDA3XkEyXkFqcGdeQXVyMzU0NzkwMDg@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="Filmes | Ação",Empire State - 1988
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14992.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/974023d17d02db5b403a4f983a2083c2.jpg" group-title="Filmes | Ação",Encontro Explosivo - 2010
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14994.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/bcefc69b949728c08e77328b2c4629a0.jpg" group-title="Filmes | Ação",Entre dos mundos
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14995.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/2e5aedb809c4abf3fadf2cfc3c8fa8cc.jpg" group-title="Filmes | Ação",Equilibrium - 2002
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14996.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/2fe4d2768f6a6c3fc434bf6f6625abfc.jpg" group-title="Filmes | Ação",Era Uma Vez Um Deadpool - 2018
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14997.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/2d65b40c782abd0151aeaf61e8377d35.jpg" group-title="Filmes | Ação",Esporte Sangrento - 1993
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14998.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/8abf744f65771a382b1bf17900606f13.jpg" group-title="Filmes | Ação",Esquadrão 6 - 2019
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14999.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/788ebb94cb7d112c6284e017bc802c63.jpg" group-title="Filmes | Ação",Esquadrão Suicida 2 - 2021
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15000.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/b46a730ea25c64b469bcacb41df8e0f5.jpg" group-title="Filmes | Ação",Eu Sou a Fúria - 2016
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15002.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/33b5985682b85537df14b1a435053ff1.jpg" group-title="Filmes | Ação",Eu, Robô - 2004
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15001.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/70a8a81c1f3f2a562f8afacc9a682f4c.jpg" group-title="Filmes | Ação",Falcão - O Campeão dos Campeões - 1987
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15003.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/a02c56f42a27360d1cd1259ed08d1562.jpg" group-title="Filmes | Ação",Falcão Negro em Perigo - 2001
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15004.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/cfd43e7e79c2b7c4ab7204a94ee778e4.jpg" group-title="Filmes | Ação",Feito na América - 2017
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15005.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/60cb47a4e3c3615136ad1b4afcb2f0eb.jpg" group-title="Filmes | Ação",Fim dos Dias - 1999
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15158.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/96b28dcbd768f7366cfa530f6ce2d945.jpg" group-title="Filmes | Ação",Fim dos Tempos - 2012
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15006.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/5ba6a280934c7606b704815dd17dd26c.jpg" group-title="Filmes | Ação",Fogo Contra Fogo - 2012
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15007.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/1704721a3ed7ab94b536b90a6a70feed.jpg" group-title="Filmes | Ação",Fúria de Titãs - 1981
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15008.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/596efd672380479853cf6737220a97dc.jpg" group-title="Filmes | Ação",Fúria de Titãs 2 - 2012
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15009.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/7eb3a88abf93dd890ba171eb034eb5c9.jpg" group-title="Filmes | Ação",Fúria em Alto Mar - 2018
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15010.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/9904895dbbc842eb65cfcdaec04aa452.jpg" group-title="Filmes | Ação",Fúria em Duas Rodas - 2004
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15011.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/691a5afd364061359aec4ca5f2a9eeb1.jpg" group-title="Filmes | Ação",Fúria Sobre Rodas - 2011
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15012.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/d18c48a220d89c0c78ca8222e3e433d1.jpg" group-title="Filmes | Ação",G.I. Joe - A Origem de Cobra - 2009
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15013.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/af5e332e9d0adc544e273280b5868c20.jpg" group-title="Filmes | Ação",G.I. Joe - Retaliação - 2013
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15014.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/bc440b08dd9bf300df521e7d5df09d4d.jpg" group-title="Filmes | Ação",Galveston - 2017
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15015.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/aa00f4b27c3c9ae74accbf57e17a50cd.jpg" group-title="Filmes | Ação",Garotas sem rumo - 2005
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15016.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/0973a335217e48e24ab43c9187598044.jpg" group-title="Filmes | Ação",Gigantes de Aço - 2011
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15017.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/c53090a116354619ed3822b33ddc482e.jpg" group-title="Filmes | Ação",Gladiadores - 2017
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15018.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/dacee99df4ecb7566d7854dc9e3787aa.jpg" group-title="Filmes | Ação",Godzilla II: Rei dos Monstros - 2019
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15019.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/22c0f252f7d4cecc188b00aec63a7ae9.jpg" group-title="Filmes | Ação",Golpe de Risco - 2017
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15020.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/be88f84809bd2c4c3e7e89637a43ad28.jpg" group-title="Filmes | Ação",Guerra contra Aliens - 2019
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15021.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/74b8bf3f2241cb4292abe9c0ffc3c706.jpg" group-title="Filmes | Ação",Guerreira De Sangue - 2016
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15022.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/de12dfa5b7e40d0731962c0491221561.jpg" group-title="Filmes | Ação",Guerreiro da Escuridão - 2017
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15023.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/374fd75f34b0b451712de035ddce8a90.jpg" group-title="Filmes | Ação",Hitman - Assassino 47 - 2007
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15024.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/06260c92e0e7dbc9de96729e742cf6ab.jpg" group-title="Filmes | Ação",Hitman: Agente 47 - 2015
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15025.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/2feb285ff825f2c365d0ea663980e97f.jpg" group-title="Filmes | Ação",Homem de Ferro 2 - 2010
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15031.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/fe0c409b77b85db06a3c4ce9383b836b.jpg" group-title="Filmes | Ação",Homem de Ferro 3 - 2013
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15032.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2T3GkzO6Ar5dlp6Bet43UnxZfQr.jpg" group-title="Filmes | Ação",Homem-Aranha - 2002
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15026.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ulY3TIeF3cNZKmLmrnQueNYZ0gn.jpg" group-title="Filmes | Ação",Homem-Aranha 2 - 2004
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15027.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h7goptmUGulOnr2jM4wwc5ypHL.jpg" group-title="Filmes | Ação",Homem-Aranha 3 - 2007
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15028.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Fgs1ewIZiBBTto1XDHeBN0D8ug.jpg" group-title="Filmes | Ação",Homem-Aranha: De Volta ao Lar - 2017
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15029.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/smRrzh8W4PfIYiqAEqc6U1D6Ekl.jpg" group-title="Filmes | Ação",Homem-Formiga e a Vespa - 2018
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15030.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/9992f89f03fe3d78903be83e9bd6b6a4.jpg" group-title="Filmes | Ação",Homens de Coragem - 2017
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15033.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/e73dbbe2372de71649f64a57a03c3fec.jpg" group-title="Filmes | Ação",Horas de Desespero - 1955
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15034.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7DacyzHeZsruzFn1C0H1hsnDfaO.jpg" group-title="Filmes | Ação",Horizonte Profundo - Desastre no Golfo - 2016
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15035.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/ddda554994139b144a12ee4d5137967d.jpg" group-title="Filmes | Ação",I Am Street Fighter - 2012
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15290.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/bfd857c5b10cc5e8472530d46bed755b.jpg" group-title="Filmes | Ação",Ilha das Sombras - 2010
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/17037.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/949a295eb7be2913e14de44f5da70914.jpg" group-title="Filmes | Ação",Impacto Fulminante - 1983
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15036.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/aec99b735e4738a2d1f1a7cc68214239.jpg" group-title="Filmes | Ação",Impacto Profundo - 1998
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15037.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/4d5448a5d0b520441c0a580a6b00a546.jpg" group-title="Filmes | Ação",Independence Day: O Ressurgimento - 2016
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15038.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/43a85a2deff2aaf1e51c1b5ecf8d5e50.jpg" group-title="Filmes | Ação",Inimigo do Estado - 1998
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15039.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/f12311475997f5a0c08604cf154a189b.jpg" group-title="Filmes | Ação",Inimigo Mortal - 2017
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15040.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/2b519e67d9037ffc52f478203affe77b.jpg" group-title="Filmes | Ação",Invasão à Casa Branca - 2013
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15041.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/d8ac8dfe97047e0e058436b9395b8a2e.jpg" group-title="Filmes | Ação",Invasão à Londres - 2016
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15042.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/db99139c7f1a59cb5e34ddf1cef4853b.jpg" group-title="Filmes | Ação",Jack Reacher: O Último Tiro - 2012
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15045.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/6deb914daf5ce31470a203d9daf8d453.jpg" group-title="Filmes | Ação",Jack Reacher: Sem Retorno - 2016
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15044.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/203a822da31d1a40c3f0a2cc9b0adc69.jpg" group-title="Filmes | Ação",Jack: O Caçador de Gigantes - 2013
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15043.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/7b03fe7d090fa5dbb3eae7d5fd754db3.jpg" group-title="Filmes | Ação",Jogada Divina - 2014
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15046.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/045c95cd2c4228c17641b33ac872d38c.jpg" group-title="Filmes | Ação",Jogo Duplo - 2018
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15047.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/42089fb899c2050ed2fef2c156123ff4.jpg" group-title="Filmes | Ação",Jogos Vorazes - 2012
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15048.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m1lky5ftnhLRpkoYWKssH8qvlRU.jpg" group-title="Filmes | Ação",Jogos Vorazes: Em Chamas - 2013
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15049.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hekpVNWOROZm57RS4OLW0ySkxx9.jpg" group-title="Filmes | Ação",Jogos Vorazes: A Esperança - Parte 1 - 2014
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15050.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5KSQkozSelQj6bq8NCKtINvsSSj.jpg" group-title="Filmes | Ação",Jogos Vorazes: A Esperança - O Final - 2015
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15051.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rboZslo3eQWKBQ3QvlO6wGV0J3K.jpg" group-title="Filmes | Ação",John Wick 1: De Volta ao Jogo - 2014
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15052.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k36UzsRQaY6E055cdYPdYbyREer.jpg" group-title="Filmes | Ação",John Wick 2: Um Novo Dia para Matar - 2017
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15053.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mOoERCQCGrgFHOrco7wLy6CAYfp.jpg" group-title="Filmes | Ação",John Wick 3: Parabellum - 2019
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15054.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bgxdK2eFyXpFBhUYDXrJKvQFZkB.jpg" group-title="Filmes | Ação",Jurassic Park 2 - 1997
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15055.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/a77b2ae200da13da091eecbeee3530b2.jpg" group-title="Filmes | Ação",Jurassic Park 3 - 2001
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15056.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rDChbF4m9qPChlTXkg9rq0ZmTl9.jpg" group-title="Filmes | Ação",Jurassic World: O Mundo dos Dinossauros - 2015
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15057.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e50XYhyoaJpJUNn18Fs4FsZgtfx.jpg" group-title="Filmes | Ação",Kickboxer 1 - O Desafio do Dragão - 1989
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15058.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s8gjg0NGxaX0wyCv5x3UTBKRpFG.jpg" group-title="Filmes | Ação",Kickboxer 2 - A Vingança do Dragão - 1991
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15059.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7K9Nh9ACZfSTn7ngMMAFELiyUr6.jpg" group-title="Filmes | Ação",Kickboxer 3 - A Arte da Guerra - 1992
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15060.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1oaAi6GiIISCf7jkFeypMyztsPV.jpg" group-title="Filmes | Ação",Kickboxer 4 - O Agressor - 1994
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15061.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a6essQQLBu0YuYVau1xuihfkdGJ.jpg" group-title="Filmes | Ação",Kickboxer 5 - O Desafio Final - 1995
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15062.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qqhTNSrOcU0rgN7QSTckp9p5yyx.jpg" group-title="Filmes | Ação",Kickboxer 6 - A Vingança do Dragão - 2016
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15063.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2jdC3LhzCyHTaKUlW9FUsDd0106.jpg" group-title="Filmes | Ação",Kickboxer 7 - A Retaliação - 2018
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15064.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/74be49f6a2d9a6b1987bae4ce5126bf4.jpg" group-title="Filmes | Ação",Kingsman: O Círculo Dourado - 2017
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15065.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/0b0c72b66d07eadc5d40bade50d950f5.jpg" group-title="Filmes | Ação",Kingsman: Serviço Secreto - 2014
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15066.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/8ce3ade6d4b98da6f1b25d9f0f4138c1.jpg" group-title="Filmes | Ação",Kong: A Ilha da Caveira - 2017
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15067.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/ab32bc82c031124d3475c9d0db68af93.jpg" group-title="Filmes | Ação",Kung Fu Yoga - 2017
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15068.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/88631cc5a376fa4024fa740d76a2e928.jpg" group-title="Filmes | Ação",Kung Pow: O Mestre da Kung-Fu-São - 2002
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15069.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2yQUnpc1BXgesJrfcdoRa6jTAnA.jpg" group-title="Filmes | Ação",Pantera Negra - 2018
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15214.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/85c7ad3a5f9fbf0512727c9220c7313a.jpg" group-title="Filmes | Ação",Lanterna Verde - 2011
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15070.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/598cea410a8f21fdb65608b9cea2018d.jpg" group-title="Filmes | Ação",LEAL Só Existe Uma Maneira de Viver - 2018
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15071.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/44397f06b47c3f1de85b69c6534986dd.jpg" group-title="Filmes | Ação",Liga dos Deuses - 2016
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15072.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/d9a1eba5be8734b4f5c6399353a417b5.jpg" group-title="Filmes | Ação",Linha de Frente - 2013
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15073.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/4c9b220655996a265afa4d1662a4acaa.jpg" group-title="Filmes | Ação",Lobo Guerreiro 2 - 2017
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15074.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/9018c5e0a5198fc01e771e1f466f965b.jpg" group-title="Filmes | Ação",Logan - 2017
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15075.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rFTGCeuezNTpVyaMJsQX3gAAIGH.jpg" group-title="Filmes | Ação",Logan Lucky - Roubo em Família - 2017
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15076.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/7ac67b9a1e56b92b6f02387f1c95fd8e.jpg" group-title="Filmes | Ação",Los Tres Mosqueteros - 1942
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15205.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1RobAQaPIYV2PBmkb4XISbsQZPe.jpg" group-title="Filmes | Ação",Lua Negra - 1996
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15077.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6f10Yn1vooCMhb6DrY6AvsK19Yh.jpg" group-title="Filmes | Ação",Lucy - 2014
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15078.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z2Ujt0FwMwHhAo7QJC0u1HG1m1h.jpg" group-title="Filmes | Ação",Lukas - 2018
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15079.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nfX3u8DEdYl94IhDoyFWId1Dxd9.jpg" group-title="Filmes | Ação",Lutador de Rua - 2009
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15080.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5ad9TjDgRADhKqZjoed2M6h9TO2.jpg" group-title="Filmes | Ação",Mad Max - 1979
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15081.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hqDHnVaRV5NBTZs99kaz2RcyY5.jpg" group-title="Filmes | Ação",Mad Max: A Caçada Continua - 1981
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15082.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o4rv4JyeDmDKGaZgvmQxSkaCJXX.jpg" group-title="Filmes | Ação",Mad Max: Além da Cúpula do Trovão - 1985
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15083.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tH64gzAHDFg7EFcgfkkZyHdGM5P.jpg" group-title="Filmes | Ação",Mad Max: Estrada da Fúria - 2015
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15084.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v4dlt8HUBgCuUiJTXID8OB4cZLF.jpg" group-title="Filmes | Ação",Man Down - A Guerra - 2016
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15085.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wMCwGfjm0Z4YR0UCrjTvFt3TVo6.jpg" group-title="Filmes | Ação",Massacre no Bairro Japonês - 1991
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15090.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aOIuZAjPaRIE6CMzbazvcHuHXDc.jpg" group-title="Filmes | Ação",Matrix 1 - 1999
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15091.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTGg4gT6yBAxm6bskTkOjdRsbit.jpg" group-title="Filmes | Ação",Matrix 2 - Reloaded - 2003
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15092.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t1wm4PgOQ8e4z1C6tk1yDNrps4T.jpg" group-title="Filmes | Ação",Matrix 3 -Revolutions - 2003
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15093.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fOGtuC11sy3L4o2vJDdJqISakxF.jpg" group-title="Filmes | Ação",Maze Runner: A Cura Mortal - 2018
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15094.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6VscmBcqlTlOAZi7arTwtx8HStj.jpg" group-title="Filmes | Ação",Melhores Amigos - 2016
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15095.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mUGIrdTMy24EpkYvjKrzRzszDSS.jpg" group-title="Filmes | Ação",Mente Criminosa - 2016
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15096.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oHxt6fIRgFPpD1SeYHst9hk7sOP.jpg" group-title="Filmes | Ação",Mergulho Radical - 2005
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15097.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kVIayzNyobQW50ZSm7NK6ux86uX.jpg" group-title="Filmes | Ação",Meu Ex é um Espião - 2018
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15098.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mxopI5VyShCeAlJf3X4Q1T40Bub.jpg" group-title="Filmes | Ação",MIB: Homens de Preto - Internacional - 2019
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15099.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jNailYxoCT6L2DDBFNz7kNCULhG.jpg" group-title="Filmes | Ação",MIB: Homens de Preto - 1997
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15100.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/0ef6a0cb6bc48cfc64a7a55afad4a05f.jpg" group-title="Filmes | Ação",MIB: Homens de Preto II - 2002
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15101.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g3DyE2sU4Xr14XR1ZXirCn2lt7e.jpg" group-title="Filmes | Ação",MIB: Homens de Preto III - 2012
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15102.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/ae8c8c9756cdcf5f1134c06e3b833813.jpg" group-title="Filmes | Ação",Millennium: A Garota na Teia de Aranha - 2018
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15103.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/244080c41968740f3f4658ecac8d9515.jpg" group-title="Filmes | Ação",Miss Bala - 2019
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15112.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/70MV8TU1Lxc6vyj8BaEU3HLuU7W.jpg" group-title="Filmes | Ação",Missão: Impossível 1 - 1996
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15106.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Odva4vcrL6D7NRhIMlYf8Dg5nC.jpg" group-title="Filmes | Ação",Missão: Impossível 4 - Protocolo Fantasma - 2011
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15109.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fxL6ktSUDejDq9Ni6UsoY73DC2I.jpg" group-title="Filmes | Ação",Missão: Impossível 5 - Nação Secreta - 2015
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15110.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i273qQubszItr11lQNMFWnYP4J1.jpg" group-title="Filmes | Ação",Missão: Impossível 6 - Efeito Fallout - 2018
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15111.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/b0f9abe1d3d340258fba0cbf7355b0e8.jpg" group-title="Filmes | Ação",Missão Extraordinária - 2017
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15104.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/23a62499f73b2d7eea9249de81cbf10c.jpg" group-title="Filmes | Ação",Missão Final - 2018
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15105.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sT5hbs7rmMk2Edup7Pw9MB02x9G.jpg" group-title="Filmes | Ação",Missão: Impossível 2 - 2000
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15107.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ui7TCk3IzsjLcDRkZi08nLFvwRO.jpg" group-title="Filmes | Ação",Missão: Impossível 3 - 2006
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15108.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sT5hbs7rmMk2Edup7Pw9MB02x9G.jpg" group-title="Filmes | Ação",Missão: Impossível 2 - 2000
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15107.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ui7TCk3IzsjLcDRkZi08nLFvwRO.jpg" group-title="Filmes | Ação",Missão: Impossível 3 - 2006
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15108.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/5876b531a9af22f5ef6cdf6ae0028645.jpg" group-title="Filmes | Ação",Momento Crítico - 1996
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15113.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/3e46ca264060c1433072e8e35632170c.jpg" group-title="Filmes | Ação",Monster Trucks - 2016
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15114.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/8ac66f21e24d992d32c730f6c7bbaad8.jpg" group-title="Filmes | Ação",Mortal Kombat - 1995
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15115.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/8ac66f21e24d992d32c730f6c7bbaad8.jpg" group-title="Filmes | Ação",Mortal Kombat - 1995
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15116.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/abd91b831ff26d9f41b187b3da53fb54.jpg" group-title="Filmes | Ação",Morte Súbita - 2007
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15117.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/eeac7896fcd8332a375933330dd6d354.jpg" group-title="Filmes | Ação",Motoqueiros Selvagens - 2007
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15118.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/d30f8d2cadbbb3a87c83e1a1091d98ae.jpg" group-title="Filmes | Ação",Mulher Maravilha 1984 - 2020
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15120.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/c408bf20dc2699f109d030691bcaecd0.jpg" group-title="Filmes | Ação",Mulher-Gato - 2004
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15119.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xmLVl0IJuOuZn5RiyBgxEXQ5cai.jpg" group-title="Filmes | Ação",Máquina Mortífera 2 - 1989
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15086.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fkEX64OnvSNP2HnESRjPuuUsi2F.jpg" group-title="Filmes | Ação",Máquina Mortífera 3 - 1992
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15087.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6f2IQoZl2vwT95AaCQz6EgYQ7sL.jpg" group-title="Filmes | Ação",Máquina Mortífera 4 - 1998
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15088.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sBdtAsZNVPMOOYcq8zh0XULqU9T.jpg" group-title="Filmes | Ação",Máquinas Mortais - 2018
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15089.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/60dd715cae4af20a0d0158fc55176bf4.jpg" group-title="Filmes | Ação",Na Escuridão do Oceano - 2018
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15121.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xeRmg7ZRHjdQ9sFWAKAU7Z9lla8.jpg" group-title="Filmes | Ação",Na Mira dos Assassinos
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15122.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/a63a2b5056cd59356b4219dffd6b228e.jpg" group-title="Filmes | Ação",Na Teia da Conspiração - 2019
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15123.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/1a828e97595eeca6f479e04e51c8f3b7.jpg" group-title="Filmes | Ação",Next Gen - 2018
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15124.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/63354be2c056a0ac1881ae50ad452a60.jpg" group-title="Filmes | Ação",No Limite do Amanhã - 2014
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15126.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/e9e5cb50c6753c3a478a2d7e3856e793.jpg" group-title="Filmes | Ação",No Olho do Furacão - 2018
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15127.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/094daaa88781511a05fb8434fc7a0bc4.jpg" group-title="Filmes | Ação",No Olho do Tornado - 2014
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15128.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/2f8890a7d465884071621a07638719cb.jpg" group-title="Filmes | Ação",Nocaute - 2011
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15125.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/647139259bc4abda0fe0414e58b7342d.jpg" group-title="Filmes | Ação",Nós Somos os Campeões - 1992
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15129.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/8b29434fdf44e5ad9f7c9f5abdf78f14.jpg" group-title="Filmes | Ação",O Alvo - 1993
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15130.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/1e6c4c4c993c0bd1f62139fb13b90d07.jpg" group-title="Filmes | Ação",O Anel do Rei: A Última Batalha - 2018
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15131.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/3cc6a739d6f07bb2baf8a320fcc7e4c5.jpg" group-title="Filmes | Ação",O Assassino: O Primeiro Alvo - 2017
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15132.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/56ba1700c3d3d945086326894815ecb7.jpg" group-title="Filmes | Ação",O Atirador: O Extermínio Final - 2017
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15133.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/ecade00a556fadeeb7d64dd706465ec5.jpg" group-title="Filmes | Ação",O Beijo do Dragão - 2001
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15134.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/479eba5705b39e3721985fa30beb4d4b.jpg" group-title="Filmes | Ação",O Caminho Difícil - 2019
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15136.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/8ddc9167967fd8014806bdaf331e42f5.jpg" group-title="Filmes | Ação",O Carma de Um Assassino - 2018
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15137.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/f2b975875e5c230c369d3567aee06543.jpg" group-title="Filmes | Ação",O Caçador e a Rainha do Gelo - 2016
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15135.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/d0df6585741a9a4fe5ca22a0c66c1e96.jpg" group-title="Filmes | Ação",O Chacal - 1997
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15138.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/e090f014829dc0e92496c12997258dd1.jpg" group-title="Filmes | Ação",O Conde de Monte Cristo - 1975
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15139.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/50449df97bb9790f2932feccd6ec1b28.jpg" group-title="Filmes | Ação",O Confronto - 2001
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15140.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/aad194e1a17a6b9934a2b95084e21362.jpg" group-title="Filmes | Ação",O Contador - 2016
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15141.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/cbab3d061d27ecf7484850c6747d7a7c.jpg" group-title="Filmes | Ação",O Despertar da Lenda - 2014
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15142.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/840d038d951043fb0854d1729d120349.jpg" group-title="Filmes | Ação",O Destemido - 2010
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15143.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/728189cf7b5ec37c659e314db898d61a.jpg" group-title="Filmes | Ação",O Dia Depois de Amanhã - 2004
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15144.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/523df9a1ae0723ca8d4b513dcf09e9bc.jpg" group-title="Filmes | Ação",O Duelo Final - 2017
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15145.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Jm7qB3HdiXANt7EgTc3WCcSrLd.jpg" group-title="Filmes | Ação",O Escorpião Rei 1 - 2002
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15146.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6mPBRYOn4hl4151yWhs02ZLEdv9.jpg" group-title="Filmes | Ação",O Escorpião Rei 2 - A Saga de um Guerreiro - 2008
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15147.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/chDnDwzv9njnYHDr2lhsvujSaPb.jpg" group-title="Filmes | Ação",O Escorpião Rei 3 - Batalha pela Redenção - 2012
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15148.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5GISNwtHWbmYJdbFHMpLoaotYhL.jpg" group-title="Filmes | Ação",O Escorpião Rei 4 - Na Busca pelo Poder - 2015
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15149.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z5POjnFBZM7mvLi3HCfGyhs0s1e.jpg" group-title="Filmes | Ação",O Escorpião Rei 5 - O Livro das Almas - 2018
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15150.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/b7da27e736165806fe511149d6953b87.jpg" group-title="Filmes | Ação",O Espetacular Homem-Aranha - 2012
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15151.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pnLRNJXy0URPR5khEshbytlirDN.jpg" group-title="Filmes | Ação",O Estrangeiro - 2017
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15152.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iHVDy91mpqUbUDdG6hfyniFQPx4.jpg" group-title="Filmes | Ação",O Exterminador do Futuro 1 - 1984
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15153.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3TozsOOvgppyDQPVPQntmJhviRF.jpg" group-title="Filmes | Ação",O Exterminador do Futuro 2 - O Julgamento Final - 1991
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15154.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ycs9eita98mrcpkxXAL2GVPI0N8.jpg" group-title="Filmes | Ação",O Exterminador do Futuro 3 - A Rebelião das Máquinas - 2003
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15155.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tNKoEs9ovTLpJURT9WKJASUDktM.jpg" group-title="Filmes | Ação",O Exterminador do Futuro 4 - A Salvação - 2009
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15156.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mgFUi4xTual7RkcyobhP76Ctx6A.jpg" group-title="Filmes | Ação",A Lenda do Mestre Chinês - 2011
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15157.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/adcb06ab9319ae14292be587dcee5992.jpg" group-title="Filmes | Ação",O Fugitivo - 1993
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15159.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/a9b2417d4fa9a7da6afe40ec87d8c5a5.jpg" group-title="Filmes | Ação",O Grande Dragão Branco 2 - 1996
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15160.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/fcff25055ff732311860555925261410.jpg" group-title="Filmes | Ação",O Grande Herói - 2013
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15161.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3v06xJfco8hMDaMYOdUaxquh7hx.jpg" group-title="Filmes | Ação",O Grande Mestre 1 - 2008
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15162.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tGF7xNmbJVJYUj8kNggygUFMSaq.jpg" group-title="Filmes | Ação",O Grande Mestre 2 - 2013
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15163.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/c06629c3c3baeff87aa2152dd1bc0dfc.jpg" group-title="Filmes | Ação",O Grande Mestre 3 - 2015
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15164.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2VgZW2ZD3pNoV2j8U2GXNRwOsk9.jpg" group-title="Filmes | Ação",O Guarda-Costas - 1992
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15165.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/8ade8fecb0c2848736a7a6c1dace3e93.jpg" group-title="Filmes | Ação",O Homem da Máscara de Ferro - 1998
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15166.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/7ec964e1eed53c0a20f5f1dd083ced7e.jpg" group-title="Filmes | Ação",O Homem de Aço - 2013
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15167.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/f5d6948d92434182dceee555b0606cdf.jpg" group-title="Filmes | Ação",O Imperador de Paris - 2018
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15168.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/f10f1ebb3e92fb4218cdd96572489892.jpg" group-title="Filmes | Ação",O Incrível Hulk - 1977
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15169.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/b0b517e2ae4a8fced867739aa1feb92f.jpg" group-title="Filmes | Ação",O Inferno de Dante - 1997
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15170.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/6a9e44ce32d8f54272e9d03c7d4474ec.jpg" group-title="Filmes | Ação",O Justiceiro: Estrada do Caos - 2014
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15171.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/a72b008b95f93a16fb52ac871022364e.jpg" group-title="Filmes | Ação",O Legado Bourne - 2012
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15172.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/98ea0d0425fc43137cbe2cef104f5c69.jpg" group-title="Filmes | Ação",O Livro de Eli - 2010
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15173.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/29ba21ad92442167d06e6fc78d87b111.jpg" group-title="Filmes | Ação",O Matador - 2017
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15174.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/0a4aea4aa9eebf7cc105062929240fcc.jpg" group-title="Filmes | Ação",O Mestre das Armas - 2006
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15175.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/ca461723e4a6785be78612c85cae1861.jpg" group-title="Filmes | Ação",O Plano Perfeito 2 - 2019
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15184.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/46aa7a3153b4510963e605c45e7703db.jpg" group-title="Filmes | Ação",O Preço do Amanhã - 2011
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15185.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/a6084cd1e615220b60af815f17446054.jpg" group-title="Filmes | Ação",O Procurado - 2008
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15186.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/396e32ae62a8ac5f04625778c35b2548.jpg" group-title="Filmes | Ação",O Quebra Gelo - 2016
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/17114.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/1015a9a47b622d510b6e7b4623aeed42.jpg" group-title="Filmes | Ação",O Rei das Drogas - 2018
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15188.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/22bf21e167b45e7f8b7a2203ef0646d6.jpg" group-title="Filmes | Ação",O Rei Guerreiro - 2017
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15189.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/76dc0a93c20b1a776ccc06dc6128a9a9.jpg" group-title="Filmes | Ação",O Reino das Espadas - 2018
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/17115.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/497adbb321c07387635f88745bf9b224.jpg" group-title="Filmes | Ação",O Reino Proibido - 2008
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15190.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/bfdfff913cc6c941d4edb8258060b518.jpg" group-title="Filmes | Ação",O Retorno da Múmia - 2001
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15191.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/28791423fe2dd5420a04dc9ed1984fc2.jpg" group-title="Filmes | Ação",O Retorno do Dragão A Cidade Perdida - 2011
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15192.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/20b69238c9c3b08fa4e16745768631f5.jpg" group-title="Filmes | Ação",O Sétimo Filho - 2014
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15197.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/fae091e4c2d2081a4846bae48879b4ef.jpg" group-title="Filmes | Ação",O Ultimato Bourne - 2007
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15208.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/e2ae7fb5c9517cb6a7a6599acd5751c6.jpg" group-title="Filmes | Ação",O Vendedor Chinês - 2017
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15212.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/7d46ead4075e71a387aa952cd39f28b5.jpg" group-title="Filmes | Ação",O Último Assalto - 2017
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15209.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/25ccfac8777ceae756fa2994efd854bb.jpg" group-title="Filmes | Ação",O Último Desafio - 2013
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15210.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/a5797f6ae6fd2d50c6a31c418b429dcc.jpg" group-title="Filmes | Ação",O Último Samurai - 2003
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15211.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/f594faae7fe4a881d6bd75983de481a3.jpg" group-title="Filmes | Ação",O Último Viking - 2018
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/17124.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ohlebuI95t8lLc6ukIN06L1vZ89.jpg" group-title="Filmes | Ação",Ong Bak 2 - O Começo - 2008
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15178.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gE0ouuxZ5NaM5nbL9xgJC1Hq1lf.jpg" group-title="Filmes | Ação",Ong Bak 3 - 2010
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15176.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7QJsZMasorm07MbqtaVOYKhbW9g.jpg" group-title="Filmes | Ação",Ong Bak 1 - Guerreiro Sagrado - 2003
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15177.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5dDHkDbzj8rYOCYqlFIna3sV8tg.jpg" group-title="Filmes | Ação",Operação Invasão 1 - 2011
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15181.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7wubJeBNod3z4UTG30XvEhXA7Xr.jpg" group-title="Filmes | Ação",Operação Invasão 2 - 2014
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15182.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/266336df28bc9477243fc107d6615a77.jpg" group-title="Filmes | Ação",Operação Fronteira - 2019
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15180.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/4817ffb20cf71380083da2f63c9df111.jpg" group-title="Filmes | Ação",Operação Sombra: Jack Ryan - 2014
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15183.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/1bc9cb12310434c9cf771201cb012453.jpg" group-title="Filmes | Ação",Os Aventureiros do Bairro Proibido - 1986
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15193.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/f1ae4030bf163ff609403037211d095a.jpg" group-title="Filmes | Ação",Os Bad Boys - 1995
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15194.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/3a1f6858c45daa56a80b3773714ebfbd.jpg" group-title="Filmes | Ação",Os Bad Boys II - 2003
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15195.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xeSqpHnvqOQACOodVI8O8MvLgkg.jpg" group-title="Filmes | Ação",Os Condenados 2 - 2015
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15196.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/848d08494159085eb7d651dc78b7da3d.jpg" group-title="Filmes | Ação",Os Indomáveis - 2007
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15198.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/glHqwsvFkQHFMFpA0FjFp8hPu6P.jpg" group-title="Filmes | Ação",Os Instrumentos Mortais: Cidade dos Ossos - 2013
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15199.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gEDpD6l2CJ8aLbtYLL2ecQ3yk09.jpg" group-title="Filmes | Ação",Os Mercenários 2 - 2012
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15200.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vd22faXhHRCr8d1FSiXuFfnpSKv.jpg" group-title="Filmes | Ação",Os Mercenários 3 - 2014
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15201.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/72d65f9e9dd434e0312a35ce0c050cd6.jpg" group-title="Filmes | Ação",Os Outros Caras - 2010
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15202.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/79290a3a8cd4f50f8b23aacbcc31d303.jpg" group-title="Filmes | Ação",Os Perdedores - 2010
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15203.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/a23e5358d7bcbd5e4afc8bb16c6fa78e.jpg" group-title="Filmes | Ação",Os Quatro 2: Reino Sem Lei - 2013
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15204.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xX2xp5QSQPhnqZK9BnluFg9v8qs.jpg" group-title="Filmes | Ação",Os Vingadores - 2012
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15206.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/abe5ec8e8a1878b75a43a8650dbb4a80.jpg" group-title="Filmes | Ação",Padre - 2016
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15213.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/c2832de5e283e3ce0ae77d4142bb0938.jpg" group-title="Filmes | Ação",Par Perfeito - 2018
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15216.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/8f85f3f31816633b44f9aacbaa146d03.jpg" group-title="Filmes | Ação",Paradise Beach - 2019
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15215.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/88de93aa74a8c7fc48c97d187f5e32ec.jpg" group-title="Filmes | Ação",Passageiro 57 - 1992
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15217.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/55860e87ba44c6dbe640ad2feb53a1cf.jpg" group-title="Filmes | Ação",Passageiros - 2008
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15179.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/46e6e18db330b0b746744ade4419c51c.jpg" group-title="Filmes | Ação",Perda Total - 2018
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15218.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/0cd05881651dd35e05a599573cf615d9.jpg" group-title="Filmes | Ação",Perigo Extremo - 1987
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15219.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/e28f1e40a848d1ed9335cb699498abbe.jpg" group-title="Filmes | Ação",Perseguidor Implacável - 1971
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15221.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/cf6bd10815767cea1987c3dc6ca2b4bb.jpg" group-title="Filmes | Ação",Perseguição Explosiva - 2017
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15220.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/7d5e5e680272d578abe42649a826440d.jpg" group-title="Filmes | Ação",Pixels - 2015
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15222.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/06968fae15026966e1f0d49305305246.jpg" group-title="Filmes | Ação",Platoon - 1986
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15223.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/20f349163f84cf14b93aa99acce75dc2.jpg" group-title="Filmes | Ação",Polícia Federal: A Lei é Para Todos - 2017
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15224.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/97cd6e6694fbe0b0a55c28b71bef285c.jpg" group-title="Filmes | Ação",Pompeia - 2014
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15225.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/22f15a046e5d0d428cdab79036a6bd8b.jpg" group-title="Filmes | Ação",Poseidon - 2006
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15226.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/c487b93120d280e5f17ae52a84111a24.jpg" group-title="Filmes | Ação",Preso no Tempo - 2016
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15227.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/3f056522da4c05f47761f5d85ec8cb81.jpg" group-title="Filmes | Ação",Próxima Parada: Apocalipse - 2018
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15228.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l7NpBV9CrHGTmUuLZbWTjsOFVal.jpg" group-title="Filmes | Ação",Quarteto Fantástico 1 - 1994
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15229.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l7NpBV9CrHGTmUuLZbWTjsOFVal.jpg" group-title="Filmes | Ação",Quarteto Fantástico 2 - 2005
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15230.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oeMpEsjmiT9PEJbRM1Fm7TZ1dE0.jpg" group-title="Filmes | Ação",Quarteto Fantástico 3 - 2015
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15231.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/0341bc22a994b68637677256e35ec0db.jpg" group-title="Filmes | Ação",Queima de Arquivo - 1996
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15232.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/52c68cb48807410f2c4d89017cee03a2.jpg" group-title="Filmes | Ação",Quem Sou Eu? - 1998
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15233.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/ae4dfa9db20a85cc147fbae939007524.jpg" group-title="Filmes | Ação",Rainhas do Crime - 2019
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15234.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6ocBqNSqG1hWbzjv2sZxLc07nLs.jpg" group-title="Filmes | Ação",Rambo 1 - Programado Para Matar - 1982
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15235.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vXJSUAu7ObRI6pBleXdGUBJyTos.jpg" group-title="Filmes | Ação",Rambo II - A Missão - 1985
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15236.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3SKg3XKEyNSZ2oAba3Ucfr0Sxw0.jpg" group-title="Filmes | Ação",Rambo III - 1988
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15237.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n8oAmmvqPF2PQuUn7p73wdbgciU.jpg" group-title="Filmes | Ação",Rambo IV - 2008
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15238.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vaoCd6iZ6xmBTvsiuWjcMWY6wdm.jpg" group-title="Filmes | Ação",Rambo: Até o Fim - 2019
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15239.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/0dcb23b2b1514821ebae24d34d8f0863.jpg" group-title="Filmes | Ação",Rampage: Destruição Total - 2018
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15240.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/bfa735c0161bd611feb5064f8b89e6a1.jpg" group-title="Filmes | Ação",Rapto - 2019
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15187.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/2a7541d277da9bef545a15fcfc3a1d78.jpg" group-title="Filmes | Ação",RED - Aposentados e Perigosos - 2010
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15241.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/6abf285e21be5054948742e65218b5f4.jpg" group-title="Filmes | Ação",RedBad: A Invasão dos Francos - 2018
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15242.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/56e60b083fedac37931ad5f3706c2b4a.jpg" group-title="Filmes | Ação",Rede de Corrupção - 2001
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15243.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/0f938e40c941e415e65c7e2cfb8481f1.jpg" group-title="Filmes | Ação",Refém do Jogo - 2018
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15244.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/34b4373836aa2c812f9c4de90555421a.jpg" group-title="Filmes | Ação",Reféns do Crime - 2010
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15245.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/47807687ba08b4d5193fd7a9b4fcd070.jpg" group-title="Filmes | Ação",Reféns do Desconhecido - 2008
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15246.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/457fa920ef9c5c4fdf672439c3cdb310.jpg" group-title="Filmes | Ação",Rei Arthur: A Lenda da Espada - 2017
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15247.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fNSFl35PqSqc3vpkl0txC3eZLm0.jpg" group-title="Filmes | Ação",Reino dos Assassinos - 2010
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15248.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/cd9fbba5aead68db1b5ce12163938521.jpg" group-title="Filmes | Ação",Resgate Mortal - 2018
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15249.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6lXVU7OZG0QaSk5rHla48czXyuU.jpg" group-title="Filmes | Ação",Resgate Sem Limites - 2003
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15250.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/3c61337c8844488ffad5098263672458.jpg" group-title="Filmes | Ação",Risco Máximo - 1996
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15251.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/fb794a2a96cdb58d596637b9c8dffacf.jpg" group-title="Filmes | Ação",Robin Hood - 1973
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15252.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gM5ql3BKYmHG3WtZ0buKXN7xY8O.jpg" group-title="Filmes | Ação",RoboCop - 2014
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15253.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.vortexcultural.com.br/images/2019/01/ROcobop-Prime-Directives.jpg" group-title="Filmes | Ação",RoboCop: Prime Directives - 2001
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15256.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lGeHKDxWHaSKwNPXYJjns81fR3P.jpg" group-title="Filmes | Ação",RoboCop 2 - 1990
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15254.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iXmx1JOrkBUYqvm2vTNPOiill7b.jpg" group-title="Filmes | Ação",RoboCop 3 - 1993
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15255.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/53d4b49a113265367535de90a15a4b93.jpg" group-title="Filmes | Ação",Rogue One: Uma História Star Wars - 2016
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15257.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/bdbab032b9ac66c3f6d6eba925fc000f.jpg" group-title="Filmes | Ação",Romeu Tem Que Morrer - 2000
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15258.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/04dc1128bccd48a17327dc657c3a043c.jpg" group-title="Filmes | Ação",Rota de Fuga - 2017
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15259.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/04dc1128bccd48a17327dc657c3a043c.jpg" group-title="Filmes | Ação",Rota de Fuga - 2017
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15260.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/48bef2963fca1123d9b6a71b4a1ebde1.jpg" group-title="Filmes | Ação",Rota de Fuga 3: O Resgate - 2019
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15261.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/b47232d526bdb9c5dd816cc8a14fb316.jpg" group-title="Filmes | Ação",Ruas Sangrentas - O Acerto Final - 2006
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15262.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pLH1uFhIhWlzmTwEui4CzjpV3PY.jpg" group-title="Filmes | Ação",S.W.A.T.: Comando Especial - 2003
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15263.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/a28af8752b7ce8cefc822471fdd7c17c.jpg" group-title="Filmes | Ação",Sabotagem - 2014
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15264.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/e0b1ffb2d3c84e1961c1fc756dfa29cc.jpg" group-title="Filmes | Ação",Sala de Fuga - 2019
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15265.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/db04132d5d61c99c266eb1defb01ace2.jpg" group-title="Filmes | Ação",Salyut 7: Missão Espacial - 2017
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/17146.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/e640160ecb79235b061577d07daa6bec.jpg" group-title="Filmes | Ação",Samurai X: O Fim de Uma Lenda - 2014
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15266.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/577531ba3d93fd1d70ad0cbaa8107189.jpg" group-title="Filmes | Ação",Sangue na Veia - 2014
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15267.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t1qccBXQEt15vhDUwznfEvDgEgt.jpg" group-title="Filmes | Ação",Sansão - 2018
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15268.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j5hIPcdVIQg8cRCbnAtYvBh6aOa.jpg" group-title="Filmes | Ação",Scarface - 1983
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15269.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/153d51301e95ff880bfeec184f55c65b.jpg" group-title="Filmes | Ação",Sem Escalas - 2014
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15270.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fbHXfr2N4pI2j7i9RLYiddjotBl.jpg" group-title="Filmes | Ação",Sem Limites 2 - 2017
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15271.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/9c107851d21b9983844430eadfb41c27.jpg" group-title="Filmes | Ação",Sentença de Morte - 2007
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15272.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/aa7c7795169038aa642550766e935931.jpg" group-title="Filmes | Ação",Sequestro na Ilha - 2016
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15273.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/2285a3253d91a9c20505ced0ebae2196.jpg" group-title="Filmes | Ação",Shaft - 2019
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15274.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/c32d188866aee186c7762bbcea2a9e48.jpg" group-title="Filmes | Ação",Shazam! - 2019
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15275.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/e23340c616ac2e2c6e9a8ddfb71830ed.jpg" group-title="Filmes | Ação",Sherlock Holmes - 2009
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15276.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/ededd24e1662db23fe7cde7a46ad42ed.jpg" group-title="Filmes | Ação",Sherlock Holmes: O Jogo de Sombras - 2011
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15277.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/22eada78732cc32d2fa2077fde4e7424.jpg" group-title="Filmes | Ação",Show Dogs: O Agente Canino - 2018
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15278.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/375b2a4f76381a37f840b179fd87642a.jpg" group-title="Filmes | Ação",Sicário: Dia do Soldado - 2018
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15279.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/1f0c3a3249d0a8305729adcaa52ab944.jpg" group-title="Filmes | Ação",Sicário: Terra de Ninguém - 2015
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15280.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2bDFy7tS2tIxASXPdOeLO8pC5Xt.jpg" group-title="Filmes | Ação",Sin City: A Cidade do Pecado - 2005
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15281.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b8V2qtG58vjX1S0AT6uP9M2BDqY.jpg" group-title="Filmes | Ação",Sin City: A Dama Fatal - 2014
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15282.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/b390f3beca81a0fef0139dd0036c514d.jpg" group-title="Filmes | Ação",Sniper Americano - 2014
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15283.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/36b8178dbc9b809f98b29c45136e656a.jpg" group-title="Filmes | Ação",Sniper: Operações Especiais - 2016
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15284.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2w4QJF8uu7PknmKBhOLN1InKrhu.jpg" group-title="Filmes | Ação",Soldado Universal 2 - 1998
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15285.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r68RpZCZt5B7gHaZ6V9xYZ3kyA1.jpg" group-title="Filmes | Ação",Soldado Universal 3 - Regeneração - 2009
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15286.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AjJdy7RdVkPm5yCK5apBJKCXf49.jpg" group-title="Filmes | Ação",Soldado Universal 4 - Juízo Final - 2012
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15287.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/76932a8de2232ec70f37e0c37758892e.jpg" group-title="Filmes | Ação",Speed Racer - 2008
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15288.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/0bab6e5d7a68831be52367f642a4bdeb.jpg" group-title="Filmes | Ação",Stallone: Cobra - 1986
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15289.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/53f8308f0ad2ba9eba12b00d76eeb293.jpg" group-title="Filmes | Ação",Stuber - A Corrida Maluca - 2019
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15291.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/05d247211d57a3940809979110505729.jpg" group-title="Filmes | Ação",Submundo Das Lutas - 2016
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15292.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/a7e7e713ceb51b65ac2924bd12937fbc.jpg" group-title="Filmes | Ação",Sucker Punch: Mundo Surreal - 2011
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15293.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/830d584102ba49187eb2f8bbfab028cb.jpg" group-title="Filmes | Ação",Super Fly - 1972
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15295.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/74a9566407994ad4dd89e85dbc982235.jpg" group-title="Filmes | Ação",Supercross - 2005
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15294.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/85kutR0sRgvDFOXZQALcvTS3Lko.jpg" group-title="Filmes | Ação",Táxi 2 - 2000
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15297.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Yk3O5mNIYpIKIKaB2l4TJBDdlS.jpg" group-title="Filmes | Ação",Táxi 3 - 2003
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15298.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8OoVXQo23kgMw4ooLfi2mDGVfUE.jpg" group-title="Filmes | Ação",Táxi 4 - 2007
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15299.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/fc664b95bb4ed46a44682035a7ad97ba.jpg" group-title="Filmes | Ação",Terremoto: A Falha de San Andreas - 2015
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15300.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/745601fe0e5a0e179fae4e684f9e1866.jpg" group-title="Filmes | Ação",The Warriors - Os Selvagens da Noite - 1979
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15340.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/bd5c8b3c46e5671b93b8618111d5a16c.jpg" group-title="Filmes | Ação",Thor - 2011
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15301.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/5bac1ca4c04fd655ec0118efbb3bde0f.jpg" group-title="Filmes | Ação",Thor: O Mundo Sombrio - 2013
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15302.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/a29ed6595932df8a2c0d803093edad22.jpg" group-title="Filmes | Ação",Thor: Ragnarok - 2017
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15303.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/a3d8ec883d68de429a7f62ef4eedde68.jpg" group-title="Filmes | Ação",Tomb Raider: A Origem - 2018
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15304.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/dac0a27248564e13e2bf190df0b856ed.jpg" group-title="Filmes | Ação",Top Gun - Ases Indomáveis - 1986
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15305.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/b4519b6e0616e4c4b31101e23617f907.jpg" group-title="Filmes | Ação",Travessia - 2017
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14892.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/584eb024072af35f2ca69b1fedba3888.jpg" group-title="Filmes | Ação",Treze Homens e um Novo Segredo - 2007
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15306.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/86BnliVDBo2TjKmrgQTJIPHxAKd.jpg" group-title="Filmes | Ação",xXx 1 - 2002
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15307.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fnSzxO7T9AsRv4QbSILloZhgAAc.jpg" group-title="Filmes | Ação",xXx 2 - Estado de Emergência - 2005
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15308.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/3e330977f81353ae713eb5a774bbbc45.jpg" group-title="Filmes | Ação",Tropa de Elite - 2007
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15309.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/642c1d5ffc0a4c90a0c9ffe95b2f0811.jpg" group-title="Filmes | Ação",Tropas Estelares - 1997
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15310.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/58d2c16dcef17f85313d8f7cd9153e3b.jpg" group-title="Filmes | Ação",Tropas Estelares 2 - 2004
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15311.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/d1549d56afe909266fa2dbd7183f6260.jpg" group-title="Filmes | Ação",Tropas Estelares 3 - 2008
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15312.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/8f765338473790dca2a7471b1559f6b6.jpg" group-title="Filmes | Ação",Tropas Estelares: Invasores de Marte - 2017
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15313.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/be1432784ef8f415e321a6c837a68d06.jpg" group-title="Filmes | Ação",True Lies - 1994
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15314.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/7bbbc308f61b0c3d54cc2f47f11d9f0c.jpg" group-title="Filmes | Ação",Truque de Mestre: O 2º Ato - 2016
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15315.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/d6bc50649592aad1a7b16ac73d4f8877.jpg" group-title="Filmes | Ação",Turistas - 2006
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15207.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/2fa1ebc95f9dc4a435810eb8f2b304a7.jpg" group-title="Filmes | Ação",Twister - 1996
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15316.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/7bb6da4f39496ea454bf0595b9008e1d.jpg" group-title="Filmes | Ação",Táxi - Velocidade nas Ruas - 1998
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15296.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/d761c00806d8e1af7d1de053b6dd7657.jpg" group-title="Filmes | Ação",Um Ninja da Pesada - 1997
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15318.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/9d10e0ffc8a821fd54cef423257cde58.jpg" group-title="Filmes | Ação",Uma Saída de Mestre - 2003
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15317.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hSPV4hM1Cz5EJ15rgmbjdT8Rtjn.jpg" group-title="Filmes | Ação",V de Vingança - 2006
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15319.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/7dbc2e2fa4f9a9761aeace610900bfe1.jpg" group-title="Filmes | Ação",Velocidade Máxima - 1994
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15320.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7FUqXrudOZ1jbvnVxPLoph0H8yF.jpg" group-title="Filmes | Ação",Velozes e Furiosos 1 - 2001
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15322.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bztZ5NWmsT7oq0vCWGQGWxd10Gf.jpg" group-title="Filmes | Ação",Velozes e Furiosos 2 - Turbo-Charged Prelude - 2003
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15323.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sHojCCXnSW4Kn294E0BYgq74D5o.jpg" group-title="Filmes | Ação",Velozes e Furiosos 3 - Desafio em Tóquio - 2006
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15324.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zvjQPVttJWaCSbzMijyc2x2MLr4.jpg" group-title="Filmes | Ação",Velozes e Furiosos 4 - 2009
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15325.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l1lvu5P4xfBicxuhgL0pmvkWReO.jpg" group-title="Filmes | Ação",Velozes e Furiosos 5 - Operação Rio - 2011
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15326.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/870V0yMDOEAKAv45WPLe7LzcMcL.jpg" group-title="Filmes | Ação",Velozes e Furiosos 6 - 2013
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15327.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vK3EINuibdkBwUe9jOhVUXtLeb6.jpg" group-title="Filmes | Ação",Velozes & Furiosos 7 - 2015
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15328.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3G6PUtqIKPKyZXXWB8jgZZJF1C8.jpg" group-title="Filmes | Ação",Velozes e Furiosos 8 - 2017
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15329.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mKRiLf2SCU9ySjByMLMxKYs5c1i.jpg" group-title="Filmes | Ação",Velozes e Furiosos: Hobbs & Shaw - 2019
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15321.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/fe123217481eb519990f55ad9ded92fa.jpg" group-title="Filmes | Ação",Viagem 2 - A Ilha Misteriosa - 2012
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15330.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yS7lsYDalDmZZgOYWVdE2hXdX3V.jpg" group-title="Filmes | Ação",Viagem ao Centro da Terra: O Filme - 2008
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15331.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/cb4ce415c0b443d7a81451d3d2a47939.jpg" group-title="Filmes | Ação",Viagem das Loucas - 2017
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15332.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/7ad3d5606ade137ac100db72bf42c7d0.jpg" group-title="Filmes | Ação",Viagem Insólita - 1987
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15333.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/4860605fb915221767e23bd788d3ac05.jpg" group-title="Filmes | Ação",Vidas à Deriva - 2018
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15334.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/337b9ed64ab3828bc740f1afd6918388.jpg" group-title="Filmes | Ação",Vingadores: Era de Ultron - 2015
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15335.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/8fbc3da02be93e8c32560e040a098088.jpg" group-title="Filmes | Ação",Vingadores: Guerra Infinita - 2018
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15337.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/97116339e40b8081e13817d9ab74e690.jpg" group-title="Filmes | Ação",Vingadores: Ultimato - 2019
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15336.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/1d9e33e61dd670dbdeaf92becb23e9c2.jpg" group-title="Filmes | Ação",Vingança à Sangue Frio - 2019
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15338.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/4c5c065045fef8a79b228e345d405813.jpg" group-title="Filmes | Ação",Warcraft - O Primeiro Encontro de Dois Mundos - 2016
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15339.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/e3c2fe33740d0a476393d4f1e7079b26.jpg" group-title="Filmes | Ação",Wolverine: Imortal - 2013
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15341.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eTAK1gU8vTaHt0W9I6PFYQsdhKP.jpg" group-title="Filmes | Ação",X-Men 1 - O Filme - 2000
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15342.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/74kUYdgpTx8xoCZ7vDuSN7t4P5V.jpg" group-title="Filmes | Ação",X-Men 2 - 2003
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15343.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fqwe4Asmlg1s3ZFN7fP2xVwlYNP.jpg" group-title="Filmes | Ação",X-Men 3 - O Confronto Final - 2006
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15344.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qUqx0nGiUGeDRQtCWItG3lpuFjY.jpg" group-title="Filmes | Ação",X-Men 4 - Origens: Wolverine - 2009
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15345.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4cZWMQUCAYaQk5CzUI6zRLhcWI2.jpg" group-title="Filmes | Ação",X-Men 5 - Primeira Classe - 2011
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15346.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bFBCWz9mfTXQ9fVwce8z99dGuXh.jpg" group-title="Filmes | Ação",X-Men 6 - Dias de um Futuro Esquecido - 2014
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15347.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/csohoj37afZPMZP5H6STMDEZjdx.jpg" group-title="Filmes | Ação",xXx 3 - Reativado - 2017
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15348.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/9c23bddc95c47c47f7be3a2813bd403e.jpg" group-title="Filmes | Ação",Zona de Perigo - 1993
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15349.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://eyplay.io:80/images/a6814d00d40f0900a37ce89c49ef616e.jpg" group-title="Filmes | Ação",Zona Fria - 2017
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/15350.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zFN9c739JHBoLXr3MBjGwrsR7ys.jpg" group-title="Filmes | Ação",À Queima-Roupa - 2019
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/14871.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/EdZ49LtW3SQhPWIzJEbmcTTjpl.jpg" group-title="Filmes | Ação",Dentro do Labirinto Cinzento - 2015
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/17998.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iFYV5UyP7RoKrYMd3iHBdE9X9Cm.jpg" group-title="Filmes | Ação",O Pacto - 2018
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/18003.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l9YPHzsmaybkRkvYfxzTDn7LgRS.jpg" group-title="Filmes | Ação",Parker - 2013
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/18005.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fNPFGg3S1Nirx1Nq4NfGjchNyzt.jpg" group-title="Filmes | Ação",Cano Serrado - 2018
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/18013.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2xcutvWsZsqDAM9COlRF6wXRMiv.jpg" group-title="Filmes | Ação",Jason Bourne - 2016
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/18016.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8rN7hvGDmje6CDAYuIuVB4UhT0c.jpg" group-title="Filmes | Ação",Lágrimas do Sol - 2003
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/18017.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qi7jnR2yj4p6ibyoVWzaPU72cNR.jpg" group-title="Filmes | Ação",Os Bons Companheiros - 1990
+http://eyplay.io:80/movie/YYnVMD/bSDwYW/18018.mp4

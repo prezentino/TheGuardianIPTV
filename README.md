@@ -1322,6 +1322,7 @@ http://eyplay.io:80/dPRPQR/St3gc1/449
 ###########################################CANAIS NOTÍCIAS###############################################
 
 
+
 #EXTINF:-1 tvg-logo="https://tinyurl.com/tqnaak8" group-title="Canais | Notícias",[COLOR blue][B]THE GUARDIAN[/B][/COLOR]
 https://facebook.com/xx.ely.david.xx
 
@@ -1409,4 +1410,100 @@ http://eyplay.io:80/dPRPQR/St3gc1/365
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/recordnews.png" aspect-ratio="16:9" group-title="Canais | Notícias",Record News SD
 http://eyplay.io:80/dPRPQR/St3gc1/366
 
+
+
+###########################################CANAIS PREMIERE###############################################
+
+
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/tqnaak8" group-title="Canais | Premiere",[COLOR blue][B]THE GUARDIAN[/B][/COLOR]
+https://facebook.com/xx.ely.david.xx
+
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/wrzf2ze" group-title="Canais | Premiere",[COLOR lightsalmon]SUPORTE VIA DISCORD: discord.gg/bVSswd[/COLOR]
+https://facebook.com/xx.ely.david.xx
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/premiere.png" aspect-ratio="16:9" group-title="Canais | Premiere",Premiere Clubes FHD (H265)
+http://eyplay.io:80/dPRPQR/St3gc1/357
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/premiere.png" aspect-ratio="16:9" group-title="Canais | Premiere",Premiere Clubes HD
+http://eyplay.io:80/dPRPQR/St3gc1/358
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/premiere.png" aspect-ratio="16:9" group-title="Canais | Premiere",Premiere Clubes SD
+http://eyplay.io:80/dPRPQR/St3gc1/359
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/premiere.png" aspect-ratio="16:9" group-title="Canais | Premiere",Premiere 2 FHD (H265)
+http://eyplay.io:80/dPRPQR/St3gc1/339
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/premiere.png" aspect-ratio="16:9" group-title="Canais | Premiere",Premiere 2 HD
+http://eyplay.io:80/dPRPQR/St3gc1/340
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/premiere.png" aspect-ratio="16:9" group-title="Canais | Premiere",Premiere 2 SD
+http://eyplay.io:80/dPRPQR/St3gc1/341
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/premiere.png" aspect-ratio="16:9" group-title="Canais | Premiere",Premiere 3 FHD (H265)
+http://eyplay.io:80/dPRPQR/St3gc1/342
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/premiere.png" aspect-ratio="16:9" group-title="Canais | Premiere",Premiere 3 HD
+http://eyplay.io:80/dPRPQR/St3gc1/343
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/premiere.png" aspect-ratio="16:9" group-title="Canais | Premiere",Premiere 3 SD
+http://eyplay.io:80/dPRPQR/St3gc1/344
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/premiere.png" aspect-ratio="16:9" group-title="Canais | Premiere",Premiere 4 FHD (H265)
+http://eyplay.io:80/dPRPQR/St3gc1/345
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/premiere.png" aspect-ratio="16:9" group-title="Canais | Premiere",Premiere 4 HD
+http://eyplay.io:80/dPRPQR/St3gc1/346
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/premiere.png" aspect-ratio="16:9" group-title="Canais | Premiere",Premiere 4 SD
+http://eyplay.io:80/dPRPQR/St3gc1/347
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/premiere.png" aspect-ratio="16:9" group-title="Canais | Premiere",Premiere 5 FHD (H265)
+http://eyplay.io:80/dPRPQR/St3gc1/348
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/premiere.png" aspect-ratio="16:9" group-title="Canais | Premiere",Premiere 5 HD
+http://eyplay.io:80/dPRPQR/St3gc1/349
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/premiere.png" aspect-ratio="16:9" group-title="Canais | Premiere",Premiere 5 SD
+http://eyplay.io:80/dPRPQR/St3gc1/350
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/premiere.png" aspect-ratio="16:9" group-title="Canais | Premiere",Premiere 6 FHD (H265)
+http://eyplay.io:80/dPRPQR/St3gc1/351
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/premiere.png" aspect-ratio="16:9" group-title="Canais | Premiere",Premiere 6 HD
+http://eyplay.io:80/dPRPQR/St3gc1/352
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/premiere.png" aspect-ratio="16:9" group-title="Canais | Premiere",Premiere 6 SD
+http://eyplay.io:80/dPRPQR/St3gc1/353
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/premiere.png" aspect-ratio="16:9" group-title="Canais | Premiere",Premiere 7 FHD (H265)
+http://eyplay.io:80/dPRPQR/St3gc1/354
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/premiere.png" aspect-ratio="16:9" group-title="Canais | Premiere",Premiere 7 HD
+http://eyplay.io:80/dPRPQR/St3gc1/355
+
+
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/premiere.png" aspect-ratio="16:9" group-title="Canais | Premiere",Premiere 7 SD
+http://eyplay.io:80/dPRPQR/St3gc1/356
 

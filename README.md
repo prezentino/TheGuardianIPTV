@@ -51,32 +51,32 @@ http://lindaflor.net:8080/tc76fo/r9kta5/10498
 http://lindaflor.net:8080/tc76fo/r9kta5/10537
 
 
-#EXTINF:-1 tvg-logo="" group-title="CANAIS | ABERTOS",
+#EXTINF:-1 tvg-logo="http://img.cs10.tv/448.png" group-title="CANAIS | ABERTOS",Play TV SD
+http://lindaflor.net:8080/tc76fo/r9kta5/96
 
 
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS | ABERTOS",
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS | ABERTOS",
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VKur9Jh.png" group-title="CANAIS | ABERTOS",Polishop TV SD
+http://lindaflor.net:8080/tc76fo/r9kta5/97
 
 
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS | ABERTOS",
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="CANAIS | ABERTOS",
+#EXTINF:-1 tvg-logo="http://img.cs10.tv/97.png" group-title="CANAIS | ABERTOS",Rede Brasil SD
+http://lindaflor.net:8080/tc76fo/r9kta5/112
 
 
+#EXTINF:-1 tvg-logo="http://img.cs10.tv/89.png" group-title="CANAIS | ABERTOS",Rede TV FHD H.265
+http://lindaflor.net:8080/tc76fo/r9kta5/290
 
-#EXTINF:-1 tvg-logo="" group-title="CANAIS | ABERTOS",
+
+#EXTINF:-1 tvg-logo="http://img.cs10.tv/89.png" group-title="CANAIS | ABERTOS",Rede TV HD
+http://lindaflor.net:8080/tc76fo/r9kta5/374
 
 
+#EXTINF:-1 tvg-logo="http://img.cs10.tv/89.png" group-title="CANAIS | ABERTOS",Rede TV SD
+http://lindaflor.net:8080/tc76fo/r9kta5/113
 
-#EXTINF:-1 tvg-logo="" group-title="CANAIS | ABERTOS",
 
+#EXTINF:-1 tvg-logo="http://img.cs10.tv/593.png" group-title="CANAIS | ABERTOS",Rede Vida SD
+http://lindaflor.net:8080/tc76fo/r9kta5/114
 
 
 #EXTINF:-1 tvg-logo="" group-title="CANAIS | ABERTOS",

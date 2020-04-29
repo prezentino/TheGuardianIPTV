@@ -666,16 +666,16 @@ http://canais.servidor.tv:8080/nmbh74/9hjkek/1461
 http://canais.servidor.tv:8080/nmbh74/9hjkek/224
 
 
-#EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="Canais | HBO",Max Prime HD
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y9c9zeeh" aspect-ratio="16:9" group-title="Canais | HBO",HBO Extreme HD
 http://canais.servidor.tv:8080/xhgasg/xf7wtc/1456
 
 
-#EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="Canais | HBO",Max Prime HD+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y9c9zeeh" aspect-ratio="16:9" group-title="Canais | HBO",HBO Extreme HD+
 http://canais.servidor.tv:8080/xhgasg/xf7wtc/209
 
 
-#EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="",
-
+#EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="Canais | HBO",Max HD
+http://canais.servidor.tv:8080/xhgasg/xf7wtc/1457
 
 
 #EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="",

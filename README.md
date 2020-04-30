@@ -32,7 +32,7 @@ https://facebook.com/xx.ely.david.xx
 
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/wrzf2ze" group-title="Canais | Abertos",SUPORTE VIA DISCORD: discord.gg/bVSswd
-https://facebook.com/xx.ely.david.xx
+https://videocdn.cos.tv/video/19306872956832768.mp4
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/band.png" aspect-ratio="16:9" group-title="Canais | Abertos",Band FHD (H265)

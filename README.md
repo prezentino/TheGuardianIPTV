@@ -6811,6 +6811,1018 @@ http://eyplay.io:80/movie/U8T0Gg/RwbY5C/18018.mp4
 
 
 
+###########################################FILMES ANIMAÇÃO###############################################
+
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/405ee78880a99cf219ac88e43b8c25b3.jpg" group-title="Filmes | Animação",101 Dálmatas - 1996
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15351.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/bcc852a3624bf3eb1e3b3ba976cdefd5.jpg" group-title="Filmes | Animação",A Abelhinha Maya: O Filme - 2018
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15352.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/e7988df60c511d8290fccd0c3422e17c.jpg" group-title="Filmes | Animação",A Bailarina - 2016
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15353.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/65c4d5b4d1adfb53bb7bd1ba99c60c79.jpg" group-title="Filmes | Animação",A Dama e o Vagabundo - 2019
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15354.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mjRmQ3oGyJdc16sg4ZupyGhSXii.jpg" group-title="Filmes | Animação",A Era do Gelo 1 - 2002
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15355.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xeTIkupXJIfLkO0HpwwL9bHOtct.jpg" group-title="Filmes | Animação",A Era do Gelo 3 - 2009
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15357.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ysQqYp9G37Q114Nc6uvCHbDmaj6.jpg" group-title="Filmes | Animação",A Era do Gelo 5 - 2016
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15359.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mC5gWMUHy21dUejFFgqYQei2LCm.jpg" group-title="Filmes | Animação",A Era do Gelo 2 - 2006
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15356.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jkKQdH4GiuQYz6qyQIyRVqWyVVT.jpg" group-title="Filmes | Animação",A Era do Gelo 4 - 2012
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15358.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/feddb96495063c8980157c1b1f87f54f.jpg" group-title="Filmes | Animação",A Estrela de Belém - 2017
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15360.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/54b143eb4b289b91e6ca1f95c7097851.jpg" group-title="Filmes | Animação",A Família do Futuro - 2007
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15361.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/puTDvsUADxCA5NjJuwgEWqQ3xGA.jpg" group-title="Filmes | Animação",Festa no Céu - 2014
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15444.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/9683c7a9a3cb0fbe5e35f0425d0a7512.jpg" group-title="Filmes | Animação",A Fuga Das Galinhas - 2000
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15362.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/b60cc36535172c8f8bb54d11ffee16dd.jpg" group-title="Filmes | Animação",A Guarda do Leão - Um Novo Rugido - 2015
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15364.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/382f1b321d5331289f7f99d4775df5b0.jpg" group-title="Filmes | Animação",A Lenda do Pato Sol - 2016
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15367.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/a1214d9bd34d9019bf174c772087f013.jpg" group-title="Filmes | Animação",A Lenda dos Guardiões - 2010
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15368.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/a3143d64cb42fa8e514136dcea11f958.jpg" group-title="Filmes | Animação",A Morte do Superman - 2007
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15371.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/73097280fb8d2cc3ac68ecf9009c3f2b.jpg" group-title="Filmes | Animação",A Noiva Cadáver - 2005
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15375.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/964e2035d41d1887c1e74de6c31939a6.jpg" group-title="Filmes | Animação",A Nova Onda do Imperador - 2000
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15376.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/735678fd7e1917c3b49a70c58f3a32f0.jpg" group-title="Filmes | Animação",A Origem dos Guardiões - 2012
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15377.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/beff088ad6af3432c700e37a606f57d0.jpg" group-title="Filmes | Animação",A Pequena Sereia - 2018
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15378.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/754095df10330796629d9b3a007e8110.jpg" group-title="Filmes | Animação",A Princesa e o Dragão - 2018
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15379.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8d5KHotqKMK9M40h9vKMabfMDD.jpg" group-title="Filmes | Animação",A Princesa e o Sapo - 2009
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15380.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/8f2f14b3afb59aa36ff0f529451f73bf.jpg" group-title="Filmes | Animação",A Vida Moderna de Rocko: Volta ao Lar - 2019
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15391.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lG6yg4GLIq89ngkUpu0ZevHNrbu.jpg" group-title="Filmes | Animação",Agente 00-Gato - 2019
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15363.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/380Fyz8DSyNkh4Q8NLxZs2f2C6a.jpg" group-title="Filmes | Animação",Aladdin - 1992
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15365.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/99d8274a996e53dc771da035ae108dff.jpg" group-title="Filmes | Animação",Alvin e os Esquilos - 2007
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15369.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/de354f62a6770a1c99304836fb4fc8f9.jpg" group-title="Filmes | Animação",Amarelo é o Novo Preto - 2018
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15370.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/a3f06c487e6b70ddd1c2cc96e76b1e6c.jpg" group-title="Filmes | Animação",Anastasia - 1997
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15372.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bFXFfxCZe1pCYWzcGGxsxqc1bc7.jpg" group-title="Filmes | Animação",Angry Birds: O Filme - 2016
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15373.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/aaf27490cfe0ead3705a529000711607.jpg" group-title="Filmes | Animação",Angry Birds 2: O Filme - 2019
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15374.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/7608995d8f24fb5d578b1d8307c5c4a3.jpg" group-title="Filmes | Animação",Animais em Apuros - 2018
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/16957.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/e14a6050da3153c11324d404b2d6bbfe.jpg" group-title="Filmes | Animação",Arthur e a Guerra dos Dois Mundos - 2010
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15381.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/60e6ec23f7daf02063f20aeb519842e9.jpg" group-title="Filmes | Animação",As Aristogatas - 1970
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15382.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/ff37d4241d0849fccaec20b6b62143ad.jpg" group-title="Filmes | Animação",As Aventuras de Fujiwara Manchester: O Filme - 2019
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15383.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/2ff640365c13476c90fb19140a348644.jpg" group-title="Filmes | Animação",As Aventuras de Peabody e Sherman - 2014
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15384.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/97185cde873b79446cd6d6a4550fd71e.jpg" group-title="Filmes | Animação",As Aventuras de Tadeo - 2012
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15385.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/97195cc6315e200152e5822a81cc373c.jpg" group-title="Filmes | Animação",As Aventuras do Capitão Cueca - O Filme - 2017
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15386.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/5d0a413582ba98985d0aab95149729d3.jpg" group-title="Filmes | Animação",Asterix e o Segredo da Poção Mágica - 2018
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15387.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/5564895b518b2738cbe6cc91a3901a61.jpg" group-title="Filmes | Animação",Astro Kid - 2019
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15388.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/bc78305d2a29904a86b3895299b2644f.jpg" group-title="Filmes | Animação",Atlantis: O Reino Perdido - 2001
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15389.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/muzldVHxJo0qcjjrIjvolIbYiUR.jpg" group-title="Filmes | Animação",Aventuras no Fundo do Mar - 2018
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15390.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9uqCaPEIep4iBG3U4AqSP20LGjq.jpg" group-title="Filmes | Animação",Aviões 1 - 2013
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15392.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/daj4sIfKsBZQ3DscyecsnWS6hz1.jpg" group-title="Filmes | Animação",Aviões 2 - Heróis do Fogo ao Resgate - 2014
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15393.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/95a59aeb8e53e4d2148dc76dcaa65bfe.jpg" group-title="Filmes | Animação",Axel e os Meninos do Espaço - 2017
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/16981.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yqGWdxAYRH7uwFAhIIJdKkmCKob.jpg" group-title="Filmes | Animação",Bambi - 1942
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15394.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wIVLCnwYynKIiAheJoEQtC8gTjq.jpg" group-title="Filmes | Animação",Bambi 2 - 2006
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15395.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hab6ZMC3eXj9pQHlSxNUjonphCR.jpg" group-title="Filmes | Animação",Barbie: A Princesa e a Popstar - 2012
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15396.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/7b7892812588b85abd60038a84bf322d.jpg" group-title="Filmes | Animação",Barbie Dreamtopia: Festival da Alegria - 2017
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15399.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/ead648a65a66c8e2be7951999dc6bddb.jpg" group-title="Filmes | Animação",Barbie e as Agentes Secretas - 2016
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15400.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/261245e6f566ba2268c19d0111b40b29.jpg" group-title="Filmes | Animação",Barbie e o Portal Secreto - 2014
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15403.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/9074e01d9719e0e9af9dd00edd9d45de.jpg" group-title="Filmes | Animação",Barbie em a Canção de Natal - 2008
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15401.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bFnf8f8DXdCANQ7Y62djgubhh4P.jpg" group-title="Filmes | Animação",Barbie: Moda e Magia - 2010
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15404.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/e690038b4ff03de34a02e8fbe66f2cf2.jpg" group-title="Filmes | Animação",Barbie: A Sereia das Pérolas - 2013
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15397.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/d59d4ad08bb61c218e2919961c2677d6.jpg" group-title="Filmes | Animação",Barbie: Aventura nas Estrelas - 2016
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15398.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/1ee8986f2ed2a34277bd1c3df9e294f5.jpg" group-title="Filmes | Animação",Barbie: Vida de Sereia - 2010
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15402.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/4f05da9809da84c6475b88f557bf961a.jpg" group-title="Filmes | Animação",Batman - Silêncio - 2019
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15405.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/134efd85b5398d09276baf889a284237.jpg" group-title="Filmes | Animação",Batman vs. Duas-Caras - 2017
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15406.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/53e02048eb03c77fc4325a9ddc6ae477.jpg" group-title="Filmes | Animação",Bob Esponja - Um Herói Fora D'Água - 2015
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15407.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rftJUGtWWxXYYOHqgBazIwOYCDV.jpg" group-title="Filmes | Animação",Os Cavaleiros do Zodíaco - O Prólogo do Céu - 2004
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15410.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/a04e4ed93b170e9ba63643bf2deb5d73.jpg" group-title="Filmes | Animação",Cegonhas - A História que Não te Contaram - 2016
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15411.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/c35d97836308b51be70c2025de116c3a.jpg" group-title="Filmes | Animação",Christopher Robin: Um Reencontro Inesquecível - 2018
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15412.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/f4cf265fe6c969ce72865372fe979afc.jpg" group-title="Filmes | Animação",Cinderela e o Príncipe Secreto - 2018
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15413.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/f55e7d37061f2e4a13e56de53d1162e8.jpg" group-title="Filmes | Animação",Combatentes da Liberdade: Ray - 2018
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15414.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sLpQSFj8A5jyUZStwzWfKpoJoAx.jpg" group-title="Filmes | Animação",Como Treinar o Seu Dragão 1 - 2010
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15415.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/brmRmSagvnQVgIw1lBF4CaKpaoU.jpg" group-title="Filmes | Animação",Como Treinar o seu Dragão 2 - 2014
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15416.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5uqxMHM7YLKk6yni4bOE0D6DVz8.jpg" group-title="Filmes | Animação",Como Treinar o Seu Dragão 3 - 2019
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15417.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/95ICCO7QJ4vUOAtp5njm3oHcF3B.jpg" group-title="Filmes | Animação",Constantine: Cidade dos Demônios - O Filme - 2018
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15418.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/b4643c14a0b12aba3f7ec362cfcb8585.jpg" group-title="Filmes | Animação",Corgi: Top Dog - 2019
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15419.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4ezEwZp2gUCfiT5STguLWNV4BYR.jpg" group-title="Filmes | Animação",Detetives do Prédio Azul 1 - O Filme - 2017
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15420.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/92cbcdf51df4f68700c0536b568b20bb.jpg" group-title="Filmes | Animação",Detona Ralph - 2012
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15421.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/omjYHYRYMv1FhDwogNcvhrFgZkb.jpg" group-title="Filmes | Animação",Dias de Inverno - 2003
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15422.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/a939a2bf11f3f43535631764ee668b26.jpg" group-title="Filmes | Animação",Dinossauro - 2000
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15423.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/dd4d657322f064088eee14ab2bfb73a1.jpg" group-title="Filmes | Animação",Divertida Mente - 2015
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15424.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qwgp3aihvSPONoQh0gqWU4LrPDb.jpg" group-title="Filmes | Animação",Dragon Ball Z: Broly O Lendario Super Saiyajin - 1993
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15426.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xolX6EZdn5n1p5YcLkDjDLe1lN7.jpg" group-title="Filmes | Animação",Dragon Ball Z: Goku, o Super Sayajin - 1991
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15433.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/b115552309ee1dcaceafacd9bfdb86de.jpg" group-title="Filmes | Animação",Dragon Ball Z: A Batalha dos Deuses - 2013
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15430.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/0594edf7d930f0cd703523778ad67fd6.jpg" group-title="Filmes | Animação",Dragon Ball Z: A Batalha Nos Dois Mundos - 1993
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15425.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/7a6c8964007f15d51f8261b012a9408a.jpg" group-title="Filmes | Animação",Dragon Ball Z: Bardock, O Pai de Goku - 1990
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15432.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/d6604e4937549b5eb6f2307cde584149.jpg" group-title="Filmes | Animação",Dragon Ball Z: O Ataque do Dragão - 1995
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15427.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/26ce972fed8e19b02b7bb7ea16e89a81.jpg" group-title="Filmes | Animação",Dragon Ball Z: O Combate Final, Bio-Broly - 1994
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15428.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/ce69e78afa5399c14437157deba5be5c.jpg" group-title="Filmes | Animação",Dragon Ball Z: O Homem Mais Forte do Mundo - 1990
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15434.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/9885f8e2a2548fc62686e29a603b772f.jpg" group-title="Filmes | Animação",Dragon Ball Z: O Renascimento de Freeza - 2015
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15429.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/6ad2d6d46791d43743e96d67b728f1c0.jpg" group-title="Filmes | Animação",Dragon Ball Z: O Retorno dos Androides - 1992
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15435.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/cc374f83c77b4b3ae89100d51e248bdd.jpg" group-title="Filmes | Animação",Dragon Ball Z: Uma Vingança Para Freeza - 1991
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15436.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/b12a7c561855f366f5624ef4c003aa0d.jpg" group-title="Filmes | Animação",Dragon Ball: A Lenda de Shenlong - 1986
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15431.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AgdpO2FE5B1pqOa6e9PPaDeFl3U.jpg" group-title="Filmes | Animação",Em Busca do Vale Encantado 1 - 1988
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15437.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aQbzMp86i46ceay0m1X4miGMgcy.jpg" group-title="Filmes | Animação",Em Busca do Vale Encantado 2 - 1994
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15438.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iQOHOizgqwGz3KogSGkvX7DEQ5D.jpg" group-title="Filmes | Animação",Em Busca do Vale Encantado 3 - 1995
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15439.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jS3iH0zYESdKa1dv8vXY2QdTKbv.jpg" group-title="Filmes | Animação",Em Busca do Vale Encantado 4 - 1996
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15440.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lWOimQWgEgZNQtsAlqhcdjk5eze.jpg" group-title="Filmes | Animação",Em Busca do Vale Encantado 5 - 1997
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15441.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/1ca86c14c255bf1815ac9f8af9bcdc25.jpg" group-title="Filmes | Animação",Emoji: O Filme - 2017
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15442.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/71555da68e7dd09af9c1098d8bf40162.jpg" group-title="Filmes | Animação",Encantado - 2018
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15443.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/321b14a638d725404278a148a698007f.jpg" group-title="Filmes | Animação",Fixies - Amigos Secretos - 2017
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15445.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ymwrFId2z9W8yC1xpxfX7Oaj2C.jpg" group-title="Filmes | Animação",Flicka 1 - 2006
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15446.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jJpYWz8wqXypAWhJJ0yVUtaHc79.jpg" group-title="Filmes | Animação",Flicka 3 - 2012
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15448.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9fon68TdGTlcgVmHe0arPLnEvc6.jpg" group-title="Filmes | Animação",Flicka 2 - 2010
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15447.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/f13b4dfcba7075c2f350b9f4c77ee61a.jpg" group-title="Filmes | Animação",FormiguinhaZ - 1998
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15449.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/c0674d0423f8d7aaf264f0832dc67252.jpg" group-title="Filmes | Animação",Frozen - Febre Congelante - 2015
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15451.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/07ab114c29b7d11d5dd3f8df070092cd.jpg" group-title="Filmes | Animação",Frozen: Uma Aventura Congelante - 2013
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15450.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/1e552f42ff502c8ed66ccb318f45395c.jpg" group-title="Filmes | Animação",Garotos em Guerra - 2015
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15452.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/6d4749917e83cd102b754aa01a37db0b.jpg" group-title="Filmes | Animação",Gato de Botas - 2011
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15453.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/7c8a64c4624adde1a8791a9de728c0af.jpg" group-title="Filmes | Animação",Gato Sórdido - 2016
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/17033.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/647c4bd150ef6c5dbba0c20d377a9392.jpg" group-title="Filmes | Animação",Gavin - Um Ratinho Corajoso - 2015
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15454.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/3393c9b3deed3ec56e516f2110b186ff.jpg" group-title="Filmes | Animação",Gnomeu e Julieta - 2011
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15455.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7vi0LDLIOTGF0YJTQDvKyQJwP1S.jpg" group-title="Filmes | Animação",Homem-Aranha no Aranhaverso - 2018
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15457.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kKFgwQnR5q08UFsAvtoYyTIiHyj.jpg" group-title="Filmes | Animação",Hotel Transilvânia 2 - 2015
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15458.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ji1aJB052iPLnnzL082It683Nr.jpg" group-title="Filmes | Animação",Hotel Transilvânia 3 - 2018
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15459.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c8xgxYJHmIHHREFxlNqUD23kvvc.jpg" group-title="Filmes | Animação",Hotel Transilvânia 1 - 2012
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15460.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/d2cd4a1341fd722540c8dba091067ef3.jpg" group-title="Filmes | Animação",Hércules - 2014
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15456.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/52986fdcd862adbda80f3318ce1c5665.jpg" group-title="Filmes | Animação",Ilha dos Cachorros - 2018
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15461.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/0553faab745e04fd2d995d78ab6942bb.jpg" group-title="Filmes | Animação",Invasor Zim e o Florpus - 2019
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15462.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fIzn6W7znipa9YcPMr5arsMm2UP.jpg" group-title="Filmes | Animação",Irmão Urso 1 - 2003
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15463.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pRXvS7uK77fbuWckvBA7eYAyYNh.jpg" group-title="Filmes | Animação",Irmão Urso 2 - 2006
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15464.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/4d6c17a2c00f62932e5a535e9388c2d1.jpg" group-title="Filmes | Animação",Jumbo - 2019
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15465.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/3fd8203eac2ec487734eb7baee0af739.jpg" group-title="Filmes | Animação",Klaus - 2019
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15466.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xCn3VOST64XpOA8x0gaQkQiZtZY.jpg" group-title="Filmes | Animação",Kung Fu Panda 1 - 2008
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15467.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oDoxqekgain7WEHjoBN8BZIY6dY.jpg" group-title="Filmes | Animação",Kung Fu Panda 2 - 2011
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15468.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/79eaa66001f8a40aa2863d51cb50a588.jpg" group-title="Filmes | Animação",Kung Fu Panda 3 - 2016
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15469.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bLDAx2dPpZdd5va0FcufxsgFiJw.jpg" group-title="Filmes | Animação",LEGO DC Batman - Assunto de Família - 2019
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15470.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6rFSUpslOYqYcevRm3ZAGkr3RMz.jpg" group-title="Filmes | Animação",Lego Jurassic World: A Exposição Secreta - 2018
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15471.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/91c662e2cf30c45025edce7a0fba332d.jpg" group-title="Filmes | Animação",LEGO Liga da Justiça - Combate Cosmico - 2016
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15472.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/6859c238c01f2239f3df3a26e0a21649.jpg" group-title="Filmes | Animação",Lego Ninjago: O Filme - 2017
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15473.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/6ecf483ab66fd1311f76e1bb9d5a5503.jpg" group-title="Filmes | Animação",Lilo & Stitch - 2002
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15474.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/262b154e9132e0479d01e81984690641.jpg" group-title="Filmes | Animação",Lino: Uma Aventura de Sete Vidas - 2017
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15475.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/d4041a2d2e5250195735b582bcc15785.jpg" group-title="Filmes | Animação",Lord - A lenda da Dinastia - 2016
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/17060.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7aoLcwd4nQVGbG7L4vqu0d929JD.jpg" group-title="Filmes | Animação",Madagascar 1 - 2005
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15476.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bDajHGXl6DgOlrfNAogh7ncQrxD.jpg" group-title="Filmes | Animação",Madagascar 2 - 2008
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15477.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bPRvFj9MGeLeqidaTniUf8yQ0PW.jpg" group-title="Filmes | Animação",Madagascar 3 - 2012
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15478.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/78dc24a8e2b699fa12df01c305bd8a26.jpg" group-title="Filmes | Animação",Magia Estranha - 2015
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15479.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/0e2c6302361dca7f7ccd1979627cd823.jpg" group-title="Filmes | Animação",Marvel Rising - Guerreiros Secretos - 2018
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15480.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/896637257a88f596f8591de0a2ad7cc1.jpg" group-title="Filmes | Animação",Marvel Rising: Coração de Ferro - 2019
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15481.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/0d1fe67dd5a951c15ebd737d1e289f60.jpg" group-title="Filmes | Animação",Megamente - 2010
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15482.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/572e7d7408f78dfe1d4fcdebdc223329.jpg" group-title="Filmes | Animação",Meu Amigo Vampiro - 2017
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15483.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/d409d3efad1c3c25a43b8250fe220cc3.jpg" group-title="Filmes | Animação",Meus Amigos Dinossauros - 1993
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15484.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/bb1f9ca80eb38c1d1846adaebb8befc4.jpg" group-title="Filmes | Animação",Minions - 2015
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15485.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/a4fbe69210ab80e62cfbb3bb1524dad1.jpg" group-title="Filmes | Animação",Moana - Um Mar de Aventuras - 2016
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15486.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/8a02466eeec5e8fb18822c172d5788bd.jpg" group-title="Filmes | Animação",Modest Heroes - 2018
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15487.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/6d7719d13872683124ed1927baf1986c.jpg" group-title="Filmes | Animação",Monstros S.A. - 2001
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15488.mp4
+
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODkxNGQ1NWYtNzg0Ny00Yjg3LThmZTItMjE2YjhmZTQ0ODY5XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg" group-title="Filmes | Animação",Mulan - 1998
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15489.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/521f978fad7d465036b40158d7e80f83.jpg" group-title="Filmes | Animação",Mulan 2 - 2004
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15490.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/e5ee5b386a38708493e82516b60edd04.jpg" group-title="Filmes | Animação",Mulher-Maravilha - Linhagem de Sangue - 2019
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15491.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/06e0ed24c1091502fd72ba85dc77cda2.jpg" group-title="Filmes | Animação",My Hero Academia: 2 Heróis - O Filme - 2018
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15492.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/d0799642be027096fc2de2a81bbbc976.jpg" group-title="Filmes | Animação",My Little Pony - O Filme - 2017
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15493.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/b4cfa80d98a59529d8a7382e95283fe8.jpg" group-title="Filmes | Animação",Nem que a Vaca Tussa - 2004
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15494.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t6n81JDmbKnjjdagHmPx3gSGVNr.jpg" group-title="Filmes | Animação",O Bicho Vai Pegar 1 - 2006
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15495.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/itTdFkQd8WdGirR2ooNgWgJPqkS.jpg" group-title="Filmes | Animação",O Bicho Vai Pegar 2 - 2008
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15496.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gxh80YqyRcxOnFsmsEOXhkO6Qwx.jpg" group-title="Filmes | Animação",O Bicho Vai Pegar 3 - 2010
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15497.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/a2d42601ccf48254240e0fb36cea4cac.jpg" group-title="Filmes | Animação",O Bom Dinossauro - 2015
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15498.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/c91a9248bd9ae625e75c8edffbb3ba65.jpg" group-title="Filmes | Animação",O Castelo Animado - 2004
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15499.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/4454d31df0f529d4de52c9a2f276d825.jpg" group-title="Filmes | Animação",O Corcel Negro - 1979
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15500.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/780fa8c81a2d1c62dbc92a7fc9f97510.jpg" group-title="Filmes | Animação",O Espanta Tubarões - 2004
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15501.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/6d2e72f224e7eca6c8322640a695a5c4.jpg" group-title="Filmes | Animação",O Expresso Polar - 2004
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15502.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/b00b490eaf5d953229fbfbbe9fe9fa1d.jpg" group-title="Filmes | Animação",O Herói Cuco - 2016
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15503.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/aec29f4b103292bdab27b38d2cb978c9.jpg" group-title="Filmes | Animação",O Parque dos Sonhos - 2019
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15504.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/4642d9fe55aab6da5d095d883f599b1f.jpg" group-title="Filmes | Animação",O Pequeno Stuart Little 2 - 2002
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15505.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/8049861eeacd111854ed08fc1b401563.jpg" group-title="Filmes | Animação",O Poderoso Chefinho - 2017
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15508.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/665e9c607385bb50ee23f195e90bb192.jpg" group-title="Filmes | Animação",O Que Será de Nozes 2 - 2017
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15509.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/miTUFemBRhBEhdwA6r22AzI2YxD.jpg" group-title="Filmes | Animação",O Rei Leão 1 - 1994
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15510.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2j5JYBIm5cGyfpWc7xtE02jjUiv.jpg" group-title="Filmes | Animação",O Rei Leão 2 - 1998
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15511.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vtX3wirmv2VkQi1u4C9cSdHTXQn.jpg" group-title="Filmes | Animação",O Rei Leão 3 - 2004
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15512.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8hqdB3xYhvn1yC180n5vbthLGfb.jpg" group-title="Filmes | Animação",O Reino Gelado 1 - 2012
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15513.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mZJGBPMZy2Fy1yFVHmLNK3BznP4.jpg" group-title="Filmes | Animação",O Reino Gelado 2 - 2014
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15514.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/52YjoWA0zwgH7dpMCReKzICF0rM.jpg" group-title="Filmes | Animação",O Reino Gelado 3 - 2016
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15515.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/e7a208ad77c7ba0cc2d67ab225e4061c.jpg" group-title="Filmes | Animação",O Reino Gelado: A Terra dos Espelhos - 2018
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/17116.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/cd33bd49b7a2ee22706a888e7ba1720d.jpg" group-title="Filmes | Animação",O Segredo dos Animais - 2006
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15517.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/8f7751cb77fd9ed3e6d3221a3a136f26.jpg" group-title="Filmes | Animação",O Show da Luna: Bichos na Fazenda - 2019
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15519.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/b46feaabb1485a016363582454533fde.jpg" group-title="Filmes | Animação",O Touro Ferdinando - 2017
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15528.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/d74ac2c02b9325d968779fec6621c53e.jpg" group-title="Filmes | Animação",Operação Big Hero - 2014
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15506.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/b656670d2a05018291e9f05b522eb792.jpg" group-title="Filmes | Animação",Operação Presente - 2011
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15507.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/d27cec0e4392962d00dc31d9bad8463c.jpg" group-title="Filmes | Animação",Os Croods - 2013
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15516.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/bac8e8ef8e7c258c3cbc04a5c6485136.jpg" group-title="Filmes | Animação",Os Fantasmas de Scrooge - 1938
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15518.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/acb437b7ba1d809147255b0d19356c93.jpg" group-title="Filmes | Animação",Os Incríveis - 2004
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15520.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/e14f8da7053c872f988bf784b20dbd64.jpg" group-title="Filmes | Animação",Os Jovens Titãs em Ação! Nos Cinemas - 2018
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15522.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/amZmPAzPh2WAeOC7E30CGn0UxME.jpg" group-title="Filmes | Animação",Ajudantes do Papai Noel - 2019
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15523.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w9jno0ySammISRGvc0RZREjYUvg.jpg" group-title="Filmes | Animação",Os Pinguins de Madagascar - 2014
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15524.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/92cf18e04ab3f2604b1b8cf8cdc46aed.jpg" group-title="Filmes | Animação",Os Sem-Floresta - 2006
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15525.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/4a492524bef303ce07ea994920139cc8.jpg" group-title="Filmes | Animação",Os Smurfs 2 - 2013
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15526.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/397bd74256ace9e40a8c3b0e7c039995.jpg" group-title="Filmes | Animação",Os Smurfs e a Vila Perdida - 2017
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15527.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/7737fb2719aa01995c4a8697204fa44c.jpg" group-title="Filmes | Animação",Pachamama - 2018
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15529.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hXETzXKoFkMpHyQQtT9oC8uXZxb.jpg" group-title="Filmes | Animação",O Pequeno Pé Grande - 2016
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15532.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/c7f9ed00077d14f4b1e5769caa34907a.jpg" group-title="Filmes | Animação",Pedro Coelho - 2018
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15530.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/79JKguByLMppMBvg3SK32MIiXgf.jpg" group-title="Filmes | Animação",Peixonauta - O Filme - 2018
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15531.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/d8582127a4fa3ae7b513f5bf190099f7.jpg" group-title="Filmes | Animação",Perdi Meu Corpo - 2019
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15533.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/8e657b7a375437739a9f81ac25997d64.jpg" group-title="Filmes | Animação",Peter Pan - 2003
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15534.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sPEAwV5u6cwqNMBV6MD4CWFAclu.jpg" group-title="Filmes | Animação",Pets: A Vida Secreta dos Bichos 2 - 2019
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15535.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xKpQ8fDDu1qCvBl5bF2vpsZPSUj.jpg" group-title="Filmes | Animação",Pets: A Vida Secreta dos Bichos 1 - 2016
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15536.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/f03c4060338622e4ab51c526ba206557.jpg" group-title="Filmes | Animação",Pinocchio - 2002
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15537.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/7bd5c495aadd38146126125ce72439a1.jpg" group-title="Filmes | Animação",Planeta do Tesouro - 2002
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15538.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/a14f5f3eeb22fddf2607742c1be2ceb2.jpg" group-title="Filmes | Animação",Pocahontas - 1994
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15539.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Aip9h0zIzKHTdSxoZHdOWweQTrI.jpg" group-title="Filmes | Animação",Pokémon - Eu Escolho Você! - 2017
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15540.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yzfGkn1nfx4EvYP5axS2jKJmkHK.jpg" group-title="Filmes | Animação",Pokémon - Volcanion e a Maravilha Mecânica - 2016
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/17133.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/98c8d8a171e53decf984f8ef48e6090d.jpg" group-title="Filmes | Animação",Ponyo - Uma Amizade que Veio do Mar - 2008
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15541.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/e1b7496ef4bcd3a859c4eb350be0cb7d.jpg" group-title="Filmes | Animação",Por Água Abaixo - 2006
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15542.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/e53e67ab45db565dfca2dd1316bb65b4.jpg" group-title="Filmes | Animação",Procurando Dory - 2016
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15543.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/f3eea54d1e4b48394726f072328f847d.jpg" group-title="Filmes | Animação",Procurando Nemo - 2003
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15544.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/3aa38dbcadf701af53020ae6d452b680.jpg" group-title="Filmes | Animação",Racetime - Hora da Corrida - 2018
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/17143.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/52eHrAJb6OeZWkk392VfqbUAauZ.jpg" group-title="Filmes | Animação",Rapunzel: Enrolados - 2010
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15545.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/8fd24f5e5b4c0e96efffc7b6f3f5d592.jpg" group-title="Filmes | Animação",Ratatouille - 2007
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15546.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/069565bfbf6c6a84226279d384059b1c.jpg" group-title="Filmes | Animação",Reino Escondido - 2013
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15547.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/c076028a23cedb71ff7863c6247e4ccf.jpg" group-title="Filmes | Animação",Rio 2 - 2014
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15548.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eOhINB4ofQTU3PIxtq2ihh1le7G.jpg" group-title="Filmes | Animação",Scooby-Doo! e o Fantasma Gourmet - 2018
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15549.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/7bc53b2f51002d383e5b38ef6c54c2a6.jpg" group-title="Filmes | Animação",Scooby-Doo na Ilha dos Zumbis - 1998
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15550.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/73658f4b781cd34ac5bcbad526270a8a.jpg" group-title="Filmes | Animação",Shopkins: Aventura Selvagem - 2018
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15551.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o04jZs5SXhbvhqO4981W7KJXOWZ.jpg" group-title="Filmes | Animação",Shrek 1 - 2001
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15552.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jtsu9H1mZ3ecRTXAB0WhrTUiut2.jpg" group-title="Filmes | Animação",Shrek 3 - 2007
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15554.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wQ1vzJuKui9btHYqzn4ZEFwth2w.jpg" group-title="Filmes | Animação",Shrek 4 - 2010
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15555.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2SwrbqS8Tv40bHx4AGYpNJX1xDW.jpg" group-title="Filmes | Animação",Shrek 2 - 2004
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15553.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/d92730269d975c7ac8b0f5c0dbb62c05.jpg" group-title="Filmes | Animação",Sing - Quem Canta Seus Males Espanta - 2016
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15556.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/fd7f52ef2d4613723537a49ddbd8f31b.jpg" group-title="Filmes | Animação",Snoopy e Charlie Brown: Peanuts, O Filme - 2015
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15557.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/722b0484edcf419112458686e802ecb6.jpg" group-title="Filmes | Animação",South Park: Maior, Melhor e Sem Cortes - 1999
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15558.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/5e4e4f486513556ef888f161903a9691.jpg" group-title="Filmes | Animação",Space Jam - O Jogo do Século - 1996
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15559.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/1340e1db9d0dd355e581cabfbdf01c13.jpg" group-title="Filmes | Animação",Spark - Uma Aventura Espacial - 2017
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15560.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/3064fc16e0dd357914a3fd119de65741.jpg" group-title="Filmes | Animação",Spirit -  O Corcel Indomável - 2002
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15561.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8mRgpubxHqnqvENK4Bei30xMDvy.jpg" group-title="Filmes | Animação",Steven Universo - O Filme - 2019
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15562.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/a019cf32007f8a7943781043f8a41b32.jpg" group-title="Filmes | Animação",Super Monstros - Superamigos para Sempre - 2019
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15563.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/a08f071d23f4291b610f17c94f069c95.jpg" group-title="Filmes | Animação",Super Monstros Salvam o Natal - 2019
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15564.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/czEUatnzoLXjCDZjTKHyjcKBTFy.jpg" group-title="Filmes | Animação",Tá Chovendo Hambúrguer 1 - 2009
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15565.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/a20457ddf663801215040830c7e744b4.jpg" group-title="Filmes | Animação",Tarzan - 1999
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15567.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qVf6lTFzDsBZUbYbk8m9dk9SipX.jpg" group-title="Filmes | Animação",Lego Batman: O Filme - 2017
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15568.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/amdog2unjyVrqISXsRra5b1bTp5.jpg" group-title="Filmes | Animação",Tinker Bell 1 - 2008
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15569.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9lPZueYyDiUCpVqr4WsIUSkJ9rV.jpg" group-title="Filmes | Animação",Tinker Bell 2 - 2009
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15570.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p7YQsVRywr2dtn1G5VnWsR5xyQV.jpg" group-title="Filmes | Animação",Tinker Bell 3 - 2010
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15571.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5q72GagtB9NM4i3z7M40EXLb3ut.jpg" group-title="Filmes | Animação",Tinker Bell 4 - 2012
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15572.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2wnJj5SPmR70o6YK3m31SnOT33.jpg" group-title="Filmes | Animação",Tinker Bell 5 - 2014
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15573.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rWC9LUDVrGNRZvzFEqrSt9mJcBA.jpg" group-title="Filmes | Animação",Tinker Bell 6 - 2014
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15574.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/cc51e514935da6185b12681b40ff4361.jpg" group-title="Filmes | Animação",Tito e os Pássaros - 2019
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15575.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/75b254ab0654c0a064e53e03aad4e390.jpg" group-title="Filmes | Animação",Toy Story 2 - 1999
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15577.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/e198a006a3b4cb64e8a85881176cc135.jpg" group-title="Filmes | Animação",Toy Story 3 - 2010
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15578.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8j4Hrbm0wpBLXZTvsWf83pk4moV.jpg" group-title="Filmes | Animação",Toy Story 1 - 1995
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15576.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/17102791fb749be9ee9caeb0cebc9d3e.jpg" group-title="Filmes | Animação",Trolls 2 - 2020
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15580.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/eb945c0c6a34d1671b82c5399c84ec42.jpg" group-title="Filmes | Animação",Três Espiãs Demais: O Filme - 2009
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15579.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/858e145caf06d9ccd9c57d5440be4400.jpg" group-title="Filmes | Animação",Turbo - 2013
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15581.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dSBwFpO0A4cTsiSofdnyV2B5nnV.jpg" group-title="Filmes | Animação",Tá Chovendo Hambúrguer 2 - 2013
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15566.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pdyFm9jprjePviNe2fObff65h3G.jpg" group-title="Filmes | Animação",Altamente Imperfeitos - 2019
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15582.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/451644eda74ccdb42894ea4f9cad7ce3.jpg" group-title="Filmes | Animação",Um Time Show de Bola - 2013
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15587.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Akt1i1g47sS4Bhz5bR43U371E0k.jpg" group-title="Filmes | Animação",Uma Aventura Lego 1 - 2014
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15583.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k6tF0HDUJ7UbGz76pitj1OPTX5X.jpg" group-title="Filmes | Animação",Uma Aventura Lego 2 - 2019
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15584.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/86032e7142d2dd5745531739ad507ab5.jpg" group-title="Filmes | Animação",Uma Família Feliz - 2017
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15585.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/265d13f7fffb032d38700d7a9b7c62b8.jpg" group-title="Filmes | Animação",Uma Floresta Muito Louca - 2017
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15586.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/f6a4c102d3228a5cc0823bce67a75310.jpg" group-title="Filmes | Animação",Universidade Monstros - 2013
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15588.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/842953abf369cf9d70e47992e5c23143.jpg" group-title="Filmes | Animação",Up: Altas Aventuras - 2009
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15589.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/c9f15b81fc5fc2f35518d0dfa500a7f6.jpg" group-title="Filmes | Animação",Vera - Sonhos de Inverno - 2019
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15590.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/e50adf02a6e7d89dd9c9d618738108e0.jpg" group-title="Filmes | Animação",Vida de Inseto - 1998
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15591.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/e255efc547362293bf0f57f9ba4994fe.jpg" group-title="Filmes | Animação",Viva - A Vida é uma Festa - 2017
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15592.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/9cda70a23e238d2a96b5475cb939a14e.jpg" group-title="Filmes | Animação",Voando Alto - 2003
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15593.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/43422414a1c96e3e1df95bdfecfdfa90.jpg" group-title="Filmes | Animação",WALL-E - 2008
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15594.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/6fa466dc8864d76b34b167d518f76fd9.jpg" group-title="Filmes | Animação",WiFi Ralph: Quebrando a Internet - 2018
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15595.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/f42bacc85e4265d0debcbaf58dc20d03.jpg" group-title="Filmes | Animação",Zoo: Uma Amizade Maior que a Vida - 2018
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15596.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/458c435a231b1c7d299c83fa27ef59bb.jpg" group-title="Filmes | Animação",Zootopia - Essa Cidade é o Bicho - 2016
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15597.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/b16aab4c63d399b69d726991957c7a0e.jpg" group-title="Filmes | Animação",Zumbilênio -  O Parque dos Monstros - 2017
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/15598.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dwsHEw5IWOx6cjrgAsMPlYm0J6h.jpg" group-title="Filmes | Animação",Rango - 2011
+http://eyplay.io:80/movie/HTAZKP/c4Jvwc/18006.mp4
+
+
 
 ###########################################FILMES COMÉDIA###############################################
 

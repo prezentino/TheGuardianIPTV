@@ -11884,14 +11884,6 @@ http://eyplay.io:80/movie/9dB0P7/N16pL2/16733.mp4
 http://eyplay.io:80/movie/9dB0P7/N16pL2/16736.mp4
 
 
-#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/d304f98624238caac3e0812609ceaa58.jpg" group-title="Filmes @ Faroeste",Big Kill - A Cidade do Medo - 2018
-http://eyplay.io:80/movie/9dB0P7/N16pL2/16985.mp4
-
-
-#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/a18712c9b21bd328007d9ae927d0e74b.jpg" group-title="Filmes @ Faroeste",Black '47 - 2018
-http://eyplay.io:80/movie/9dB0P7/N16pL2/16986.mp4
-
-
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/c43bc74322dfe786d43e949644145863.jpg" group-title="Filmes | Fantasia",Black Mirror - Bandersnatch - 2018
 http://eyplay.io:80/movie/9dB0P7/N16pL2/16738.mp4
 

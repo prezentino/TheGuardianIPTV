@@ -615,8 +615,8 @@ http://eyplay.io:80/LHEsE0/IZmTac/68
 http://eyplay.io:80/LHEsE0/IZmTac/69
 
 
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/fox.png" aspect-ratio="16:9" group-title="Canais | Filmes e Séries",Fox FHD (H265)
-http://eyplay.io:80/LHEsE0/IZmTac/161
+#EXTINF:-1 tvg-id="Fox FHD (H265)" tvg-logo="http://s.eyplay.io/logos/canais/fox.png" aspect-ratio="16:9" group-title="Canais | Filmes e Séries",Fox FHD (H265)
+http://needvip.ml:8080/451312/714439/45826
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/fox.png" aspect-ratio="16:9" group-title="Canais | Filmes e Séries",Fox HD

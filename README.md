@@ -1659,15 +1659,15 @@ https://facebook.com/xx.ely.david.xx
 https://facebook.com/xx.ely.david.xx
 
 
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/a%26e.png" aspect-ratio="16:9" group-title="Canais | Variedades",A&E FHD (H265)
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/a%26e.png" aspect-ratio="16:9" group-title="Canais | Variedades",AE FHD (H265)
 http://eyplay.io:80/s4u0sv/TDIUlG/2
 
 
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/a%26e.png" aspect-ratio="16:9" group-title="Canais | Variedades",A&E HD
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/a%26e.png" aspect-ratio="16:9" group-title="Canais | Variedades",AE HD
 http://eyplay.io:80/s4u0sv/TDIUlG/3
 
 
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/a%26e.png" aspect-ratio="16:9" group-title="Canais | Variedades",A&E SD
+#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/a%26e.png" aspect-ratio="16:9" group-title="Canais | Variedades",AE SD
 http://eyplay.io:80/s4u0sv/TDIUlG/4
 
 
@@ -13559,3 +13559,708 @@ http://eyplay.io:80/movie/s4u0sv/TDIUlG/16900.mp4
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ji1aJB052iPLnnzL082It683Nr.jpg" group-title="Filmes | Animação",Hotel Transilvânia 3 - 2018
 http://eyplay.io:80/movie/s4u0sv/TDIUlG/15459.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/0d456e58d83bbb93fd330b92eabc6d4a.jpg" group-title="Séries | Dr.House",Dr. House S01 E01
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2797.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/bbc227ab9906eaff396885816ac9f5a0.jpg" group-title="Séries | Dr.House",Dr. House S01 E02
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2798.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/2f16c2e71b5157cc2c95fbd0cf1825ea.jpg" group-title="Séries | Dr.House",Dr. House S01 E03
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2799.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/8e7bc06d743ffbec7cd85ec1e20a2215.jpg" group-title="Séries | Dr.House",Dr. House S01 E04
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2800.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/c220a6447387fb89d81d4cf9b5da4f03.jpg" group-title="Séries | Dr.House",Dr. House S01 E05
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2801.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/0cc7a31f0bf9db70ba60e0a7b6fea385.jpg" group-title="Séries | Dr.House",Dr. House S01 E06
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2802.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/54de382af88bd328aa4dfa3d30a0fa3c.jpg" group-title="Séries | Dr.House",Dr. House S01 E07
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2803.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/a33ed618ad1b7d3e3e1fc4b410e21b4a.jpg" group-title="Séries | Dr.House",Dr. House S01 E08
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2804.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/244a96e6f569912780872b9387a6fa4d.jpg" group-title="Séries | Dr.House",Dr. House S01 E09
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2805.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/019ef8e16c1a995392ec0842b325a64f.jpg" group-title="Séries | Dr.House",Dr. House S01 E10
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2806.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/91e281b748c30ea51a2a6475e4a2a7b0.jpg" group-title="Séries | Dr.House",Dr. House S01 E11
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2807.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/abd67290da8f91c5c04dcfa2e305556d.jpg" group-title="Séries | Dr.House",Dr. House S01 E12
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2808.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/e2047a96fe8931b611f9abe7d234a4ce.jpg" group-title="Séries | Dr.House",Dr. House S01 E13
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2809.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/6d904b3bf8e1b103a64cc3697f8131a4.jpg" group-title="Séries | Dr.House",Dr. House S01 E14
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2810.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/4f5fda13ec6df205311e23e7751a869e.jpg" group-title="Séries | Dr.House",Dr. House S01 E15
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2811.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/b3121cbe008a1a5c0507610a7e31cb66.jpg" group-title="Séries | Dr.House",Dr. House S01 E16
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2812.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/b6eeaaacdb29c4ea1df9dd4818c78c4e.jpg" group-title="Séries | Dr.House",Dr. House S01 E17
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2813.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/b229708dcded46c802f00c19fa34c564.jpg" group-title="Séries | Dr.House",Dr. House S01 E18
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2814.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/4bed00d9a825db4f6826de44352f69d7.jpg" group-title="Séries | Dr.House",Dr. House S01 E19
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2815.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/9aba9a3265cdd422a2debcb8a3292f9e.jpg" group-title="Séries | Dr.House",Dr. House S01 E20
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2816.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/bf508e7a5454dff84108e53a8d12a4db.jpg" group-title="Séries | Dr.House",Dr. House S01 E21
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2817.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/23dc63bae329ca6269c26f136627e3bf.jpg" group-title="Séries | Dr.House",Dr. House S01 E22
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2818.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/237baf79e9acab6fdc3fbed35ececa7e.jpg" group-title="Séries | Dr.House",Dr. House S02 E01
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2819.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/c194de20f2a54e83c9336b2ecee7b4e1.jpg" group-title="Séries | Dr.House",Dr. House S02 E02
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2820.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/b187669469d293482e53b8beb97d4f52.jpg" group-title="Séries | Dr.House",Dr. House S02 E03
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2821.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/390d0fdc96a24748ac3b20b688354726.jpg" group-title="Séries | Dr.House",Dr. House S02 E04
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2822.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/5abd0abd1da8dccb8c9c8e76b99e28f1.jpg" group-title="Séries | Dr.House",Dr. House S02 E05
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2823.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/3aeaf83e96e692273df143424962d158.jpg" group-title="Séries | Dr.House",Dr. House S02 E06
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2824.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/ec84b84ef7226f6748f526cd789ee9c2.jpg" group-title="Séries | Dr.House",Dr. House S02 E07
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2825.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/2e07d9158807895f46a07ebb67ab5d88.jpg" group-title="Séries | Dr.House",Dr. House S02 E08
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2826.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/183bdbf89fda758f35e14268508de283.jpg" group-title="Séries | Dr.House",Dr. House S02 E09
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2827.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/c70e0a41a5b19d327ef81ad511524619.jpg" group-title="Séries | Dr.House",Dr. House S02 E10
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2828.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/5b0fca4a977bf78692a59ee99b9e8561.jpg" group-title="Séries | Dr.House",Dr. House S02 E11
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2829.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/b0c38a14ce0cf935907d3dd6d643ef81.jpg" group-title="Séries | Dr.House",Dr. House S02 E12
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2830.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/d40a6b559a853227abef7a8c98814b1e.jpg" group-title="Séries | Dr.House",Dr. House S02 E13
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2831.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/cfd9a098cfeb4886061c70ee2ab44c02.jpg" group-title="Séries | Dr.House",Dr. House S02 E14
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2832.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/7bc97e32f246f9cb3685f1d8cebe86c2.jpg" group-title="Séries | Dr.House",Dr. House S02 E15
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2833.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/4ed1f6e7ddf28f9f4243c875ae8bb1a3.jpg" group-title="Séries | Dr.House",Dr. House S02 E16
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2834.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/f0e46cc8f62df2dec619626e34a805a4.jpg" group-title="Séries | Dr.House",Dr. House S02 E17
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2835.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/d78aa1e9d465b01ad830a7545636d318.jpg" group-title="Séries | Dr.House",Dr. House S02 E18
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2836.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/bb6cca8f715acff2fd160c05690d0760.jpg" group-title="Séries | Dr.House",Dr. House S02 E19
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2837.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/4b8b7cb4f45a48aebfefc4b5ae4e2620.jpg" group-title="Séries | Dr.House",Dr. House S02 E20
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2838.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/6551b2bb37d2826eb9dde25262753fb6.jpg" group-title="Séries | Dr.House",Dr. House S02 E21
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2839.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/922091ec18ec922d200014932cab6adb.jpg" group-title="Séries | Dr.House",Dr. House S02 E22
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2840.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/9e277f6289fb42ec1eafe753dfa6f77d.jpg" group-title="Séries | Dr.House",Dr. House S02 E23
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2841.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/27a6f3c9b04778ba3794b5f3748cad86.jpg" group-title="Séries | Dr.House",Dr. House S02 E24
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2842.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/7907223035299fb7debc209d375683be.jpg" group-title="Séries | Dr.House",Dr. House S03 E01
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2843.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/7485cd6d1271e5bd4105cd3b276ed432.jpg" group-title="Séries | Dr.House",Dr. House S03 E02
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2844.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/3b0c50d5bf5caac4d7a4c568e1aa80f2.jpg" group-title="Séries | Dr.House",Dr. House S03 E03
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2845.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/69c59aea0a36ae560f541f7d25986071.jpg" group-title="Séries | Dr.House",Dr. House S03 E04
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2846.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/74841a16c63878a5adfac0e5068d6b43.jpg" group-title="Séries | Dr.House",Dr. House S03 E05
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2847.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/9b46efe74061a4e325c3d6b6e41264a9.jpg" group-title="Séries | Dr.House",Dr. House S03 E06
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2848.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/97d0f846dcb1e404ed9ebf5d4f12fe77.jpg" group-title="Séries | Dr.House",Dr. House S03 E07
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2849.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/1603e3057571bf95ffd4b8a9ec40648b.jpg" group-title="Séries | Dr.House",Dr. House S03 E08
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2850.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/c224ad21d0087c9b31d5d008db90f98c.jpg" group-title="Séries | Dr.House",Dr. House S03 E09
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2851.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/6770ca33c0567ab29de3ed4bdb9825c3.jpg" group-title="Séries | Dr.House",Dr. House S03 E10
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2852.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/4a83368baa00b472247c81f11dd56898.jpg" group-title="Séries | Dr.House",Dr. House S03 E11
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2853.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/f01c20b080315dd83a0ddb1b0875cba4.jpg" group-title="Séries | Dr.House",Dr. House S03 E12
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2854.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/661ee5712244fe1b7db73a62de84c3cc.jpg" group-title="Séries | Dr.House",Dr. House S03 E13
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2855.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/07ae0f9698d9e09e3d4a27f8ee7bc9a1.jpg" group-title="Séries | Dr.House",Dr. House S03 E14
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2856.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/d8f2ba149cac81540ca5b10529737413.jpg" group-title="Séries | Dr.House",Dr. House S03 E15
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2857.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/59bd287c9bd76f5fd93508de50517d1d.jpg" group-title="Séries | Dr.House",Dr. House S03 E16
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2858.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/dacb348f201aa7a1f339e344bc42eed7.jpg" group-title="Séries | Dr.House",Dr. House S03 E17
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2859.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/249417e8f467accef3e4118736a19978.jpg" group-title="Séries | Dr.House",Dr. House S03 E18
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2860.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/839092aeebe12f3a9363c508e6f21d60.jpg" group-title="Séries | Dr.House",Dr. House S03 E19
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2861.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/3cba94a509b0400698e0eebe73d93dab.jpg" group-title="Séries | Dr.House",Dr. House S03 E20
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2862.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/39464824803014dfbd5c8588d8793099.jpg" group-title="Séries | Dr.House",Dr. House S03 E21
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2863.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/2cf71e3faf07b763ff12b45864a628f9.jpg" group-title="Séries | Dr.House",Dr. House S03 E22
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2864.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/5d578789ded25fa7f30b5bf195e2c9fb.jpg" group-title="Séries | Dr.House",Dr. House S03 E23
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2865.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/3fab4ae7380d5368a50ac6a6c59db13c.jpg" group-title="Séries | Dr.House",Dr. House S03 E24
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2866.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/4e753926197421ef93185c8e10be27cf.jpg" group-title="Séries | Dr.House",Dr. House S04 E01
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2867.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/d21dd6b080b184164ab56429d97181b3.jpg" group-title="Séries | Dr.House",Dr. House S04 E02
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2868.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/8a107d69a6e2549e36fcac2d38bcdc15.jpg" group-title="Séries | Dr.House",Dr. House S04 E03
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2869.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/1803e651ffc0c5fe9176250818767fe3.jpg" group-title="Séries | Dr.House",Dr. House S04 E04
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2870.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/5298a6d6d8031ce1b40384663756b44a.jpg" group-title="Séries | Dr.House",Dr. House S04 E05
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2871.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/bebc13fee44ba3ee5ce941afafb616e5.jpg" group-title="Séries | Dr.House",Dr. House S04 E06
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2872.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/c2ebe782cedfa9f307de51c242fa9282.jpg" group-title="Séries | Dr.House",Dr. House S04 E07
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2873.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/632c365155093104b64c4457bf038ace.jpg" group-title="Séries | Dr.House",Dr. House S04 E08
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2874.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/d8850c8ed44bd363d533a5430fb575a3.jpg" group-title="Séries | Dr.House",Dr. House S04 E09
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2875.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/89fc4ade148346ebe96af6d4f53b1b6e.jpg" group-title="Séries | Dr.House",Dr. House S04 E10
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2876.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/8b4dc7c030d851e2696acac43d58bbd7.jpg" group-title="Séries | Dr.House",Dr. House S04 E11
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2877.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/b6be055e0211450080039fba52838da0.jpg" group-title="Séries | Dr.House",Dr. House S04 E12
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2878.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/b6be055e0211450080039fba52838da0.jpg" group-title="Séries | Dr.House",Dr. House S04 E13
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2879.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/430894121eab741bd0d1807371437f32.jpg" group-title="Séries | Dr.House",Dr. House S04 E14
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2880.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/e72ebb5e372245c3d8aee8b6c4d7fc2e.jpg" group-title="Séries | Dr.House",Dr. House S04 E15
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2881.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/abeea004a268dbe785dfc9982915ab2f.jpg" group-title="Séries | Dr.House",Dr. House S04 E16
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2882.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/b248d0a7df4d67b0ff09fd443d4e5e0c.jpg" group-title="Séries | Dr.House",Dr. House S05 E01
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2883.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/f3d4c0ea8be55dd3bc2d661447bf0703.jpg" group-title="Séries | Dr.House",Dr. House S05 E02
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2884.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/a170ad8738170fc6abd4cb66369adab2.jpg" group-title="Séries | Dr.House",Dr. House S05 E03
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2885.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/aa8773363de753067bf56393566b567a.jpg" group-title="Séries | Dr.House",Dr. House S05 E04
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2886.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/5afc6a7b91de8600f4a5d2701662c20b.jpg" group-title="Séries | Dr.House",Dr. House S05 E05
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2887.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/5e229f61964f8e56dda698defdb28eab.jpg" group-title="Séries | Dr.House",Dr. House S05 E06
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2888.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/42f967e1a3ee3b2b64c106b3f3ff3cf6.jpg" group-title="Séries | Dr.House",Dr. House S05 E07
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2889.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/322a0134951a838c918bcbb76e60185a.jpg" group-title="Séries | Dr.House",Dr. House S05 E08
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2890.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/d8928367a6b4d87cf04e4d6f55a5265c.jpg" group-title="Séries | Dr.House",Dr. House S05 E09
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2891.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/0eda647af653f16b31a6b767eae336d7.jpg" group-title="Séries | Dr.House",Dr. House S05 E10
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2892.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/7d833e32fdf852ea9a54abcda7b60578.jpg" group-title="Séries | Dr.House",Dr. House S05 E11
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2893.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/e025f1b1a573eee71dc845c0bd7493d9.jpg" group-title="Séries | Dr.House",Dr. House S05 E12
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2894.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/9f1584db7415e00d4d6b2bba3a369141.jpg" group-title="Séries | Dr.House",Dr. House S05 E13
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2895.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/2da20d8cc911c7905dce30a1a6c17244.jpg" group-title="Séries | Dr.House",Dr. House S05 E14
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2896.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/0e2843a182cdaff49dd0a9de5d47c4a1.jpg" group-title="Séries | Dr.House",Dr. House S05 E15
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2897.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/9849c8c34838458de5d4fbe3150acff5.jpg" group-title="Séries | Dr.House",Dr. House S05 E16
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2898.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/7fbccb4115292c0a18aa3d7bc5aed784.jpg" group-title="Séries | Dr.House",Dr. House S05 E17
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2899.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/8bff2ea74540224b0c2deaf0f431431b.jpg" group-title="Séries | Dr.House",Dr. House S05 E18
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2900.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/7d3b42f915dd02efb8e5d18674020d2a.jpg" group-title="Séries | Dr.House",Dr. House S05 E19
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2901.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/43e6e2be10db071b7a6606de1e080660.jpg" group-title="Séries | Dr.House",Dr. House S05 E20
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2902.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/607b3a9dcb976a9df5d2d106ec30dd97.jpg" group-title="Séries | Dr.House",Dr. House S05 E21
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2903.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/ecbb2fdf74bbe8bccd1f928ac9903e89.jpg" group-title="Séries | Dr.House",Dr. House S05 E22
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2904.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/1cc039bc285de41b475f98ec2368dc67.jpg" group-title="Séries | Dr.House",Dr. House S05 E23
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2905.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/59fc0eabd5e437f675f4a06688abb0d7.jpg" group-title="Séries | Dr.House",Dr. House S05 E24
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2906.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/fa004022f4185461122291a2a660dcfa.jpg" group-title="Séries | Dr.House",Dr. House S06 E01
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2907.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/8689f865a023b1607c5662fd36361deb.jpg" group-title="Séries | Dr.House",Dr. House S06 E02
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2908.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/2f2039d3bed5ae1000f3ffe151e3b5e5.jpg" group-title="Séries | Dr.House",Dr. House S06 E03
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2909.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/da0fffca5d9335a7767d82f3d2ca2430.jpg" group-title="Séries | Dr.House",Dr. House S06 E04
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2910.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/ef27bbdb0c01e1f0b4ee2d4291b37c17.jpg" group-title="Séries | Dr.House",Dr. House S06 E05
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2911.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/fd28eddce60bde4364c37e247abde5dc.jpg" group-title="Séries | Dr.House",Dr. House S06 E06
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2912.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/8bea09c8319212e04fc85129d86454fc.jpg" group-title="Séries | Dr.House",Dr. House S06 E07
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2913.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/45667d44045e06a58e248cde88dc9665.jpg" group-title="Séries | Dr.House",Dr. House S06 E08
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2914.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/2d4c086be3c8d57482be116e457ea649.jpg" group-title="Séries | Dr.House",Dr. House S06 E09
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2915.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/fed04246b546fe011862d6c31f785c00.jpg" group-title="Séries | Dr.House",Dr. House S06 E10
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2916.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/ea665fc3d6384a6adf938825d70a2ff0.jpg" group-title="Séries | Dr.House",Dr. House S06 E11
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2917.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/b36eacd1799cde3329cdd6a1461042c7.jpg" group-title="Séries | Dr.House",Dr. House S06 E12
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2918.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/aef572a3999061479a476e458763a577.jpg" group-title="Séries | Dr.House",Dr. House S06 E13
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2919.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/e35f8c0705542c45aaa8ebf1b3d4cbea.jpg" group-title="Séries | Dr.House",Dr. House S06 E14
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2920.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/ffc22445c218a5099fefcd75b3410875.jpg" group-title="Séries | Dr.House",Dr. House S06 E15
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2921.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/37d6f23492874d556ebf667e2161782a.jpg" group-title="Séries | Dr.House",Dr. House S06 E16
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2922.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/9a780ff51b265678711295d2f82c6a5a.jpg" group-title="Séries | Dr.House",Dr. House S06 E17
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2923.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/e1ad8830cfb885bc40b3a8d89ff5e196.jpg" group-title="Séries | Dr.House",Dr. House S06 E18
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2924.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/b276c6b4ae43369f913ebc7a39043c9f.jpg" group-title="Séries | Dr.House",Dr. House S06 E19
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2925.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/f94843e95e51047798e5977b7dc395fb.jpg" group-title="Séries | Dr.House",Dr. House S06 E20
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2926.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/e07146852beaa29faede0048d959d973.jpg" group-title="Séries | Dr.House",Dr. House S06 E21
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2927.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/f11dcfb291ef7be88043a29d1612c915.jpg" group-title="Séries | Dr.House",Dr. House S07 E01
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2928.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/3db3b0e01d730380ba3067866005eb07.jpg" group-title="Séries | Dr.House",Dr. House S07 E02
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2929.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/9c3474444b7ca03d6610071e72e4ea81.jpg" group-title="Séries | Dr.House",Dr. House S07 E03
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2930.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/dc24a6b87f86446ec7e63e94191fd265.jpg" group-title="Séries | Dr.House",Dr. House S07 E04
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2931.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/d8db309b2fcf8d68336e4be7274c8320.jpg" group-title="Séries | Dr.House",Dr. House S07 E05
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2932.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/425c55c8e68f3ee565a6594f7a872fba.jpg" group-title="Séries | Dr.House",Dr. House S07 E06
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2933.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/e1fb8f15b7a1e4f3d102b9072eca118c.jpg" group-title="Séries | Dr.House",Dr. House S07 E07
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2934.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/8eddc13e5dbf3b02bef0ab68f7496061.jpg" group-title="Séries | Dr.House",Dr. House S07 E08
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2935.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/57b6df6d42b5178a01263116a379fe89.jpg" group-title="Séries | Dr.House",Dr. House S07 E09
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2936.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/3271e539311324cf5aa64f86a0c2f093.jpg" group-title="Séries | Dr.House",Dr. House S07 E10
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2937.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/248a0a9069d19cb6185e206c6fc34a7c.jpg" group-title="Séries | Dr.House",Dr. House S07 E11
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2938.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/a7c276e531b557f2baa38ebeddccd623.jpg" group-title="Séries | Dr.House",Dr. House S07 E12
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2939.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/b69f89645686c1490f1cbe4d5f538092.jpg" group-title="Séries | Dr.House",Dr. House S07 E13
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2940.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/a85c4ac88a4c8ca71dfad9d82ce637b5.jpg" group-title="Séries | Dr.House",Dr. House S07 E14
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2941.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/8bd57afd8a6083f2bca253c28665cc60.jpg" group-title="Séries | Dr.House",Dr. House S07 E15
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2942.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/60ca1291a546b4d6de23aafb40bb83db.jpg" group-title="Séries | Dr.House",Dr. House S07 E16
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2943.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/5b423f99bc4bd3dcf8e88990b95c185c.jpg" group-title="Séries | Dr.House",Dr. House S07 E17
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2944.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/0f98372a9e5f5faa873b2d20d29b4193.jpg" group-title="Séries | Dr.House",Dr. House S07 E18
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2945.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/edb6f1bf4eb0e9d0c6bab8331dcc660a.jpg" group-title="Séries | Dr.House",Dr. House S07 E19
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2946.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/e3cd29b81980cb818f69dc888e840971.jpg" group-title="Séries | Dr.House",Dr. House S07 E20
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2947.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/1b91733eaf2079b25ce59feca35a9b47.jpg" group-title="Séries | Dr.House",Dr. House S07 E21
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2948.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/e2d500692a2a1d2803d473434f5698f2.jpg" group-title="Séries | Dr.House",Dr. House S07 E22
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2949.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/0395cadef21345e018f69d072622f4f7.jpg" group-title="Séries | Dr.House",Dr. House S07 E23
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2950.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/0fd0257be63797789c1856fd0c96c281.jpg" group-title="Séries | Dr.House",Dr. House S08 E01
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2951.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/785ee729543631526a05fdc842a54905.jpg" group-title="Séries | Dr.House",Dr. House S08 E02
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2952.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/68d015b5cb94fed638f17eab0c7375c8.jpg" group-title="Séries | Dr.House",Dr. House S08 E03
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2953.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/982e1bb1688b51b3b360f420f98fcade.jpg" group-title="Séries | Dr.House",Dr. House S08 E04
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2954.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/b32f87594f27465ac77a638cc5131ef2.jpg" group-title="Séries | Dr.House",Dr. House S08 E05
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2955.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/e4a57ec94b7557142bf76ade61266cdd.jpg" group-title="Séries | Dr.House",Dr. House S08 E06
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2956.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/46afb3ce350e02b5971bdda7e7d6df11.jpg" group-title="Séries | Dr.House",Dr. House S08 E07
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2957.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/239650fd6b4d8bd61f428a05d7ef467e.jpg" group-title="Séries | Dr.House",Dr. House S08 E08
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2958.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/60d11be1525a2f7723b9fcba576a35bb.jpg" group-title="Séries | Dr.House",Dr. House S08 E09
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2959.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/cfc7f0d065ad5d80c87adc57d7ffe9c3.jpg" group-title="Séries | Dr.House",Dr. House S08 E10
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2960.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/30b88259c684f96dbb484d058ac8511b.jpg" group-title="Séries | Dr.House",Dr. House S08 E11
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2961.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/527d05f6c5b9ad2de8f96164e749d674.jpg" group-title="Séries | Dr.House",Dr. House S08 E12
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2962.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/42535219fe536f43b87146d8db4006ae.jpg" group-title="Séries | Dr.House",Dr. House S08 E13
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2963.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/f03336b6d311b5054c8213e33f189715.jpg" group-title="Séries | Dr.House",Dr. House S08 E14
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2964.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/cf219a4ab84d708676f8040d1d7ee23a.jpg" group-title="Séries | Dr.House",Dr. House S08 E15
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2965.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/d1851bdb0a4b92038371be297b0bdc6e.jpg" group-title="Séries | Dr.House",Dr. House S08 E16
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2966.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/678faf3fe410589847efb18d4f7e1a4e.jpg" group-title="Séries | Dr.House",Dr. House S08 E17
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2967.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/72e889326cc834178cce02020ef3377f.jpg" group-title="Séries | Dr.House",Dr. House S08 E18
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2968.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/bd04868de2eb17f4cc40887becc679a2.jpg" group-title="Séries | Dr.House",Dr. House S08 E19
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2969.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/713901b5b6e98c55574b27eb381031d0.jpg" group-title="Séries | Dr.House",Dr. House S08 E20
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2970.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/8b15236295ea1c78bcb083f9a3a9d477.jpg" group-title="Séries | Dr.House",Dr. House S08 E21
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2971.mp4
+
+
+#EXTINF:-1 tvg-logo="http://eyplay.io:80/images/095525ef02aedf650ee22618fe434b71.jpg" group-title="Séries | Dr.House",Dr. House S08 E22
+http://eyplay.io:80/series/i7TNoI/bKXEtt/2972.mp4
+

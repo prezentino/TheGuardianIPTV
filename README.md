@@ -21,17 +21,13 @@
 #                                                 #
 ###################################################
 
-Elton Usuário: M8RlV3
-
-Senha: MrlUGJ
-
 
 
 ###########################################CANAIS ABERTOS################################################
 
 
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/tqnaak8" group-title="Canais | Abertos",ELY DAVID
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ybcwj7gv" group-title="Canais | Abertos",ELY DAVID
 https://facebook.com/xx.ely.david.xx
 
 
@@ -185,7 +181,7 @@ http://eyplay.io:80/qYp06D/NxmlQ2/14073
 
 
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/tqnaak8" group-title="Canais | Documentários",ELY DAVID
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ybcwj7gv" group-title="Canais | Documentários",ELY DAVID
 https://facebook.com/xx.ely.david.xx
 
 
@@ -358,7 +354,7 @@ http://eyplay.io:80/qYp06D/NxmlQ2/445
 
 
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/tqnaak8" group-title="Canais | Esportes",ELY DAVID
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ybcwj7gv" group-title="Canais | Esportes",ELY DAVID
 https://facebook.com/xx.ely.david.xx
 
 
@@ -559,7 +555,7 @@ http://eyplay.io:80/qYp06D/NxmlQ2/363
 
 
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/tqnaak8" group-title="Canais | Filmes e Séries",ELY DAVID
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ybcwj7gv" group-title="Canais | Filmes e Séries",ELY DAVID
 https://facebook.com/xx.ely.david.xx
 
 
@@ -812,7 +808,7 @@ http://eyplay.io:80/qYp06D/NxmlQ2/463
 
 
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/tqnaak8" group-title="Canais | Globo",ELY DAVID
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ybcwj7gv" group-title="Canais | Globo",ELY DAVID
 https://facebook.com/xx.ely.david.xx
 
 
@@ -1073,7 +1069,7 @@ http://eyplay.io:80/qYp06D/NxmlQ2/251
 
 
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/tqnaak8" group-title="Canais | HBO",ELY DAVID
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ybcwj7gv" group-title="Canais | HBO",ELY DAVID
 https://facebook.com/xx.ely.david.xx
 
 
@@ -1182,7 +1178,7 @@ http://eyplay.io:80/qYp06D/NxmlQ2/287
 
 
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/tqnaak8" group-title="Canais | Infantis",ELY DAVID
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ybcwj7gv" group-title="Canais | Infantis",ELY DAVID
 https://facebook.com/xx.ely.david.xx
 
 
@@ -1327,7 +1323,7 @@ http://eyplay.io:80/qYp06D/NxmlQ2/449
 
 
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/tqnaak8" group-title="Canais | Notícias",ELY DAVID
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ybcwj7gv" group-title="Canais | Notícias",ELY DAVID
 https://facebook.com/xx.ely.david.xx
 
 
@@ -1420,7 +1416,7 @@ http://eyplay.io:80/qYp06D/NxmlQ2/366
 
 
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/tqnaak8" group-title="Canais | Premiere",ELY DAVID
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ybcwj7gv" group-title="Canais | Premiere",ELY DAVID
 https://facebook.com/xx.ely.david.xx
 
 
@@ -1517,7 +1513,7 @@ http://eyplay.io:80/qYp06D/NxmlQ2/356
 
 
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/tqnaak8" group-title="Canais | SporTV",ELY DAVID
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ybcwj7gv" group-title="Canais | SporTV",ELY DAVID
 https://facebook.com/xx.ely.david.xx
 
 
@@ -1566,7 +1562,7 @@ http://eyplay.io:80/qYp06D/NxmlQ2/397
 
 
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/tqnaak8" group-title="Canais | Telecine",ELY DAVID
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ybcwj7gv" group-title="Canais | Telecine",ELY DAVID
 https://facebook.com/xx.ely.david.xx
 
 
@@ -1651,7 +1647,7 @@ http://eyplay.io:80/qYp06D/NxmlQ2/430
 
 
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/tqnaak8" group-title="Canais | Variedades",ELY DAVID
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ybcwj7gv" group-title="Canais | Variedades",ELY DAVID
 https://facebook.com/xx.ely.david.xx
 
 

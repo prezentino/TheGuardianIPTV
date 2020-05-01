@@ -36,144 +36,144 @@ https://videocdn.cos.tv/video/19306872956832768.mp4
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/band.png" aspect-ratio="16:9" group-title="Canais | Abertos",Band FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/17
+http://eyplay.io:80/l1vHzB/RV6D06/17
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/band.png" aspect-ratio="16:9" group-title="Canais | Abertos",Band HD
-http://eyplay.io:80/qYp06D/NxmlQ2/18
+http://eyplay.io:80/l1vHzB/RV6D06/18
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/band.png" aspect-ratio="16:9" group-title="Canais | Abertos",Band SD
-http://eyplay.io:80/qYp06D/NxmlQ2/19
+http://eyplay.io:80/l1vHzB/RV6D06/19
 
 
 #EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="Canais | Abertos",Boa Vontade TV SD 
-http://eyplay.io:80/qYp06D/NxmlQ2/14063
+http://eyplay.io:80/l1vHzB/RV6D06/14063
 
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/canaldoboi.png" aspect-ratio="16:9" group-title="Canais | Abertos",Canal do Boi SD
-http://eyplay.io:80/qYp06D/NxmlQ2/59
+http://eyplay.io:80/l1vHzB/RV6D06/59
 
 
 #EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="Canais | Abertos",Cancao Nova SD
-http://eyplay.io:80/qYp06D/NxmlQ2/14064
+http://eyplay.io:80/l1vHzB/RV6D06/14064
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/record.png" aspect-ratio="16:9" group-title="Canais | Abertos",RecordTV Bahia HD
-http://eyplay.io:80/qYp06D/NxmlQ2/367
+http://eyplay.io:80/l1vHzB/RV6D06/367
 
 
 #EXTINF:-1 tvg-id="RecordTV Belém" tvg-logo="http://s.eyplay.io/logos/canais/record.png" aspect-ratio="16:9" group-title="Canais | Abertos",RecordTV Belem SD
-http://eyplay.io:80/qYp06D/NxmlQ2/368
+http://eyplay.io:80/l1vHzB/RV6D06/368
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/record.png" aspect-ratio="16:9" group-title="Canais | Abertos",RecordTV Brasilia HD
-http://eyplay.io:80/qYp06D/NxmlQ2/369
+http://eyplay.io:80/l1vHzB/RV6D06/369
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/record.png" aspect-ratio="16:9" group-title="Canais | Abertos",RecordTV FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/370
+http://eyplay.io:80/l1vHzB/RV6D06/370
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/record.png" aspect-ratio="16:9" group-title="Canais | Abertos",RecordTV Goias SD
-http://eyplay.io:80/qYp06D/NxmlQ2/371
+http://eyplay.io:80/l1vHzB/RV6D06/371
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/record.png" aspect-ratio="16:9" group-title="Canais | Abertos",RecordTV HD
-http://eyplay.io:80/qYp06D/NxmlQ2/372
+http://eyplay.io:80/l1vHzB/RV6D06/372
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/record.png" aspect-ratio="16:9" group-title="Canais | Abertos",RecordTV Minas HD
-http://eyplay.io:80/qYp06D/NxmlQ2/373
+http://eyplay.io:80/l1vHzB/RV6D06/373
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/record.png" aspect-ratio="16:9" group-title="Canais | Abertos",RecordTV Minas SD
-http://eyplay.io:80/qYp06D/NxmlQ2/374
+http://eyplay.io:80/l1vHzB/RV6D06/374
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/record.png" aspect-ratio="16:9" group-title="Canais | Abertos",RecordTV Rio HD
-http://eyplay.io:80/qYp06D/NxmlQ2/375
+http://eyplay.io:80/l1vHzB/RV6D06/375
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/record.png" aspect-ratio="16:9" group-title="Canais | Abertos",RecordTV RS HD
-http://eyplay.io:80/qYp06D/NxmlQ2/376
+http://eyplay.io:80/l1vHzB/RV6D06/376
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/record.png" aspect-ratio="16:9" group-title="Canais | Abertos",RecordTV RS SD
-http://eyplay.io:80/qYp06D/NxmlQ2/377
+http://eyplay.io:80/l1vHzB/RV6D06/377
 
 
 #EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="Canais | Abertos",Rede Gospel FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/14068
+http://eyplay.io:80/l1vHzB/RV6D06/14068
 
 
 #EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="Canais | Abertos",Rede Gospel HD
-http://eyplay.io:80/qYp06D/NxmlQ2/14067
+http://eyplay.io:80/l1vHzB/RV6D06/14067
 
 
 #EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="Canais | Abertos",Rede Gospel SD
-http://eyplay.io:80/qYp06D/NxmlQ2/14069
+http://eyplay.io:80/l1vHzB/RV6D06/14069
 
 
 #EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="Canais | Abertos",Rede Super FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/378
+http://eyplay.io:80/l1vHzB/RV6D06/378
 
 
 #EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="Canais | Abertos",Rede Vida HD
-http://eyplay.io:80/qYp06D/NxmlQ2/14066
+http://eyplay.io:80/l1vHzB/RV6D06/14066
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/redetv.png" aspect-ratio="16:9" group-title="Canais | Abertos",RedeTV FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/379
+http://eyplay.io:80/l1vHzB/RV6D06/379
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/redetv.png" aspect-ratio="16:9" group-title="Canais | Abertos",RedeTV HD
-http://eyplay.io:80/qYp06D/NxmlQ2/380
+http://eyplay.io:80/l1vHzB/RV6D06/380
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/redetv.png" aspect-ratio="16:9" group-title="Canais | Abertos",RedeTV SD
-http://eyplay.io:80/qYp06D/NxmlQ2/381
+http://eyplay.io:80/l1vHzB/RV6D06/381
 
 
 #EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="Canais | Abertos",RiT TV SD
-http://eyplay.io:80/qYp06D/NxmlQ2/14070
+http://eyplay.io:80/l1vHzB/RV6D06/14070
 
 
 #EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="Canais | Abertos",SBT Alterosa MG HD
-http://eyplay.io:80/qYp06D/NxmlQ2/13904
+http://eyplay.io:80/l1vHzB/RV6D06/13904
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/sbt.png" aspect-ratio="16:9" group-title="Canais | Abertos",SBT FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/382
+http://eyplay.io:80/l1vHzB/RV6D06/382
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/sbt.png" aspect-ratio="16:9" group-title="Canais | Abertos",SBT HD
-http://eyplay.io:80/qYp06D/NxmlQ2/383
+http://eyplay.io:80/l1vHzB/RV6D06/383
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/sbt.png" aspect-ratio="16:9" group-title="Canais | Abertos",SBT SD
-http://eyplay.io:80/qYp06D/NxmlQ2/384
+http://eyplay.io:80/l1vHzB/RV6D06/384
 
 
 #EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="Canais | Abertos",TV Aparecida SD
-http://eyplay.io:80/qYp06D/NxmlQ2/14065
+http://eyplay.io:80/l1vHzB/RV6D06/14065
 
 
 #EXTINF:-1 tvg-id="Gazeta" tvg-logo="http://s.eyplay.io/logos/canais/tvgazeta.png" aspect-ratio="16:9" group-title="Canais | Abertos",TV Gazeta FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/446
+http://eyplay.io:80/l1vHzB/RV6D06/446
 
 
 #EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="Canais | Abertos",TV Novo Tempo FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/14071
+http://eyplay.io:80/l1vHzB/RV6D06/14071
 
 
 #EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="Canais | Abertos",TV Novo Tempo HD
-http://eyplay.io:80/qYp06D/NxmlQ2/14072
+http://eyplay.io:80/l1vHzB/RV6D06/14072
 
 
 #EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="Canais | Abertos",TV Novo Tempo SD
-http://eyplay.io:80/qYp06D/NxmlQ2/14073
+http://eyplay.io:80/l1vHzB/RV6D06/14073
 
 
 
@@ -190,163 +190,163 @@ https://facebook.com/xx.ely.david.xx
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/animalplanet.png" aspect-ratio="16:9" group-title="Canais | Documentários",Animal Planet FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/5
+http://eyplay.io:80/l1vHzB/RV6D06/5
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/animalplanet.png" aspect-ratio="16:9" group-title="Canais | Documentários",Animal Planet HD
-http://eyplay.io:80/qYp06D/NxmlQ2/6
+http://eyplay.io:80/l1vHzB/RV6D06/6
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/animalplanet.png" aspect-ratio="16:9" group-title="Canais | Documentários",Animal Planet SD
-http://eyplay.io:80/qYp06D/NxmlQ2/7
+http://eyplay.io:80/l1vHzB/RV6D06/7
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/arte1.png" aspect-ratio="16:9" group-title="Canais | Documentários",Arte 1 FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/8
+http://eyplay.io:80/l1vHzB/RV6D06/8
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/arte1.png" aspect-ratio="16:9" group-title="Canais | Documentários",Arte 1 HD
-http://eyplay.io:80/qYp06D/NxmlQ2/9
+http://eyplay.io:80/l1vHzB/RV6D06/9
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/arte1.png" aspect-ratio="16:9" group-title="Canais | Documentários",Arte 1 SD
-http://eyplay.io:80/qYp06D/NxmlQ2/10
+http://eyplay.io:80/l1vHzB/RV6D06/10
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/curta.png" aspect-ratio="16:9" group-title="Canais | Documentários",Curta FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/90
+http://eyplay.io:80/l1vHzB/RV6D06/90
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/curta.png" aspect-ratio="16:9" group-title="Canais | Documentários",Curta HD
-http://eyplay.io:80/qYp06D/NxmlQ2/91
+http://eyplay.io:80/l1vHzB/RV6D06/91
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/curta.png" aspect-ratio="16:9" group-title="Canais | Documentários",Curta SD
-http://eyplay.io:80/qYp06D/NxmlQ2/92
+http://eyplay.io:80/l1vHzB/RV6D06/92
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/discoverychannel.png" aspect-ratio="16:9" group-title="Canais | Documentários",Discovery Channel FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/95
+http://eyplay.io:80/l1vHzB/RV6D06/95
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/discoverychannel.png" aspect-ratio="16:9" group-title="Canais | Documentários",Discovery Channel HD
-http://eyplay.io:80/qYp06D/NxmlQ2/96
+http://eyplay.io:80/l1vHzB/RV6D06/96
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/discoverychannel.png" aspect-ratio="16:9" group-title="Canais | Documentários",Discovery Channel SD
-http://eyplay.io:80/qYp06D/NxmlQ2/97
+http://eyplay.io:80/l1vHzB/RV6D06/97
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/discoveryscience.png" aspect-ratio="16:9" group-title="Canais | Documentários",Discovery Science FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/107
+http://eyplay.io:80/l1vHzB/RV6D06/107
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/discoveryscience.png" aspect-ratio="16:9" group-title="Canais | Documentários",Discovery Science HD
-http://eyplay.io:80/qYp06D/NxmlQ2/108
+http://eyplay.io:80/l1vHzB/RV6D06/108
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/discoveryscience.png" aspect-ratio="16:9" group-title="Canais | Documentários",Discovery Science SD
-http://eyplay.io:80/qYp06D/NxmlQ2/109
+http://eyplay.io:80/l1vHzB/RV6D06/109
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/discoverytheater.png" aspect-ratio="16:9" group-title="Canais | Documentários",Discovery Theater FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/110
+http://eyplay.io:80/l1vHzB/RV6D06/110
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/discoverytheater.png" aspect-ratio="16:9" group-title="Canais | Documentários",Discovery Theater HD
-http://eyplay.io:80/qYp06D/NxmlQ2/111
+http://eyplay.io:80/l1vHzB/RV6D06/111
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/discoverytheater.png" aspect-ratio="16:9" group-title="Canais | Documentários",Discovery Theater SD
-http://eyplay.io:80/qYp06D/NxmlQ2/112
+http://eyplay.io:80/l1vHzB/RV6D06/112
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/discoveryworld.png" aspect-ratio="16:9" group-title="Canais | Documentários",Discovery World FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/116
+http://eyplay.io:80/l1vHzB/RV6D06/116
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/discoveryworld.png" aspect-ratio="16:9" group-title="Canais | Documentários",Discovery World HD
-http://eyplay.io:80/qYp06D/NxmlQ2/117
+http://eyplay.io:80/l1vHzB/RV6D06/117
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/discoveryworld.png" aspect-ratio="16:9" group-title="Canais | Documentários",Discovery World SD
-http://eyplay.io:80/qYp06D/NxmlQ2/118
+http://eyplay.io:80/l1vHzB/RV6D06/118
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/hgtv.png" aspect-ratio="16:9" group-title="Canais | Documentários",HGTV FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/98
+http://eyplay.io:80/l1vHzB/RV6D06/98
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/hgtv.png" aspect-ratio="16:9" group-title="Canais | Documentários",HGTV HD
-http://eyplay.io:80/qYp06D/NxmlQ2/99
+http://eyplay.io:80/l1vHzB/RV6D06/99
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/hgtv.png" aspect-ratio="16:9" group-title="Canais | Documentários",HGTV SD
-http://eyplay.io:80/qYp06D/NxmlQ2/100
+http://eyplay.io:80/l1vHzB/RV6D06/100
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/history.png" aspect-ratio="16:9" group-title="Canais | Documentários",History FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/288
+http://eyplay.io:80/l1vHzB/RV6D06/288
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/history.png" aspect-ratio="16:9" group-title="Canais | Documentários",History HD
-http://eyplay.io:80/qYp06D/NxmlQ2/289
+http://eyplay.io:80/l1vHzB/RV6D06/289
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/history.png" aspect-ratio="16:9" group-title="Canais | Documentários",History SD
-http://eyplay.io:80/qYp06D/NxmlQ2/290
+http://eyplay.io:80/l1vHzB/RV6D06/290
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/h2.png" aspect-ratio="16:9" group-title="Canais | Documentários",H2 FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/261
+http://eyplay.io:80/l1vHzB/RV6D06/261
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/h2.png" aspect-ratio="16:9" group-title="Canais | Documentários",H2 HD
-http://eyplay.io:80/qYp06D/NxmlQ2/262
+http://eyplay.io:80/l1vHzB/RV6D06/262
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/h2.png" aspect-ratio="16:9" group-title="Canais | Documentários",H2 SD
-http://eyplay.io:80/qYp06D/NxmlQ2/263
+http://eyplay.io:80/l1vHzB/RV6D06/263
 
 
 #EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="Canais | Documentários",Love Nature FHD
-http://eyplay.io:80/qYp06D/NxmlQ2/2551
+http://eyplay.io:80/l1vHzB/RV6D06/2551
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/natgeowild.png" aspect-ratio="16:9" group-title="Canais | Documentários",Natgeo Wild FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/321
+http://eyplay.io:80/l1vHzB/RV6D06/321
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/natgeowild.png" aspect-ratio="16:9" group-title="Canais | Documentários",Natgeo Wild HD
-http://eyplay.io:80/qYp06D/NxmlQ2/322
+http://eyplay.io:80/l1vHzB/RV6D06/322
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/natgeowild.png" aspect-ratio="16:9" group-title="Canais | Documentários",Natgeo Wild SD
-http://eyplay.io:80/qYp06D/NxmlQ2/323
+http://eyplay.io:80/l1vHzB/RV6D06/323
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/nationalgeographic.png" aspect-ratio="16:9" group-title="Canais | Documentários",National Geographic FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/315
+http://eyplay.io:80/l1vHzB/RV6D06/315
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/nationalgeographic.png" aspect-ratio="16:9" group-title="Canais | Documentários",National Geographic HD
-http://eyplay.io:80/qYp06D/NxmlQ2/316
+http://eyplay.io:80/l1vHzB/RV6D06/316
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/nationalgeographic.png" aspect-ratio="16:9" group-title="Canais | Documentários",National Geographic SD
-http://eyplay.io:80/qYp06D/NxmlQ2/320
+http://eyplay.io:80/l1vHzB/RV6D06/320
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/trutv.png" aspect-ratio="16:9" group-title="Canais | Documentários",Tru TV FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/443
+http://eyplay.io:80/l1vHzB/RV6D06/443
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/trutv.png" aspect-ratio="16:9" group-title="Canais | Documentários",Tru TV HD
-http://eyplay.io:80/qYp06D/NxmlQ2/444
+http://eyplay.io:80/l1vHzB/RV6D06/444
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/trutv.png" aspect-ratio="16:9" group-title="Canais | Documentários",Tru TV SD
-http://eyplay.io:80/qYp06D/NxmlQ2/445
+http://eyplay.io:80/l1vHzB/RV6D06/445
 
 
 
@@ -363,191 +363,191 @@ https://facebook.com/xx.ely.david.xx
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/bandsports.png" aspect-ratio="16:9" group-title="Canais | Esportes",BandSports FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/23
+http://eyplay.io:80/l1vHzB/RV6D06/23
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/bandsports.png" aspect-ratio="16:9" group-title="Canais | Esportes",BandSports HD
-http://eyplay.io:80/qYp06D/NxmlQ2/24
+http://eyplay.io:80/l1vHzB/RV6D06/24
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/bandsports.png" aspect-ratio="16:9" group-title="Canais | Esportes",BandSports SD
-http://eyplay.io:80/qYp06D/NxmlQ2/25
+http://eyplay.io:80/l1vHzB/RV6D06/25
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/combate.png" aspect-ratio="16:9" group-title="Canais | Esportes",Combate FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/76
+http://eyplay.io:80/l1vHzB/RV6D06/76
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/combate.png" aspect-ratio="16:9" group-title="Canais | Esportes",Combate HD
-http://eyplay.io:80/qYp06D/NxmlQ2/77
+http://eyplay.io:80/l1vHzB/RV6D06/77
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/combate.png" aspect-ratio="16:9" group-title="Canais | Esportes",Combate SD
-http://eyplay.io:80/qYp06D/NxmlQ2/78
+http://eyplay.io:80/l1vHzB/RV6D06/78
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/campeonatocatarinense.png" aspect-ratio="16:9" group-title="Canais | Esportes",Copa Catarinense 1 HD
-http://eyplay.io:80/qYp06D/NxmlQ2/82
+http://eyplay.io:80/l1vHzB/RV6D06/82
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/campeonatocatarinense.png" aspect-ratio="16:9" group-title="Canais | Esportes",Copa Catarinense 1 SD
-http://eyplay.io:80/qYp06D/NxmlQ2/83
+http://eyplay.io:80/l1vHzB/RV6D06/83
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/campeonatocatarinense.png" aspect-ratio="16:9" group-title="Canais | Esportes",Copa Catarinense 2 HD
-http://eyplay.io:80/qYp06D/NxmlQ2/84
+http://eyplay.io:80/l1vHzB/RV6D06/84
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/campeonatocatarinense.png" aspect-ratio="16:9" group-title="Canais | Esportes",Copa Catarinense 2 SD
-http://eyplay.io:80/qYp06D/NxmlQ2/85
+http://eyplay.io:80/l1vHzB/RV6D06/85
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/copanordeste.png" aspect-ratio="16:9" group-title="Canais | Esportes",Copa do Nordeste 1 HD
-http://eyplay.io:80/qYp06D/NxmlQ2/86
+http://eyplay.io:80/l1vHzB/RV6D06/86
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/copanordeste.png" aspect-ratio="16:9" group-title="Canais | Esportes",Copa do Nordeste 1 SD
-http://eyplay.io:80/qYp06D/NxmlQ2/87
+http://eyplay.io:80/l1vHzB/RV6D06/87
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/copanordeste.png" aspect-ratio="16:9" group-title="Canais | Esportes",Copa do Nordeste 2 HD
-http://eyplay.io:80/qYp06D/NxmlQ2/88
+http://eyplay.io:80/l1vHzB/RV6D06/88
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/copanordeste.png" aspect-ratio="16:9" group-title="Canais | Esportes",Copa do Nordeste 2 SD
-http://eyplay.io:80/qYp06D/NxmlQ2/89
+http://eyplay.io:80/l1vHzB/RV6D06/89
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/276" aspect-ratio="16:9" group-title="Canais | Esportes",Copa Libertadores HD
-http://eyplay.io:80/qYp06D/NxmlQ2/14074
+http://eyplay.io:80/l1vHzB/RV6D06/14074
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/dazn.png" aspect-ratio="16:9" group-title="Canais | Esportes",DAZN 1 FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/93
+http://eyplay.io:80/l1vHzB/RV6D06/93
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/dazn.png" aspect-ratio="16:9" group-title="Canais | Esportes",DAZN 1 HD
-http://eyplay.io:80/qYp06D/NxmlQ2/94
+http://eyplay.io:80/l1vHzB/RV6D06/94
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/eiplus.png" aspect-ratio="16:9" group-title="Canais | Esportes",Ei Plus 1 HD
-http://eyplay.io:80/qYp06D/NxmlQ2/131
+http://eyplay.io:80/l1vHzB/RV6D06/131
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/eiplus.png" aspect-ratio="16:9" group-title="Canais | Esportes",Ei Plus 1 SD
-http://eyplay.io:80/qYp06D/NxmlQ2/132
+http://eyplay.io:80/l1vHzB/RV6D06/132
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/eiplus.png" aspect-ratio="16:9" group-title="Canais | Esportes",Ei Plus 2 HD
-http://eyplay.io:80/qYp06D/NxmlQ2/133
+http://eyplay.io:80/l1vHzB/RV6D06/133
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/eiplus.png" aspect-ratio="16:9" group-title="Canais | Esportes",Ei Plus 2 SD
-http://eyplay.io:80/qYp06D/NxmlQ2/134
+http://eyplay.io:80/l1vHzB/RV6D06/134
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/eiplus.png" aspect-ratio="16:9" group-title="Canais | Esportes",Ei Plus 3 HD
-http://eyplay.io:80/qYp06D/NxmlQ2/135
+http://eyplay.io:80/l1vHzB/RV6D06/135
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/eiplus.png" aspect-ratio="16:9" group-title="Canais | Esportes",Ei Plus 3 SD
-http://eyplay.io:80/qYp06D/NxmlQ2/136
+http://eyplay.io:80/l1vHzB/RV6D06/136
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/eiplus.png" aspect-ratio="16:9" group-title="Canais | Esportes",Ei Plus 4 HD
-http://eyplay.io:80/qYp06D/NxmlQ2/137
+http://eyplay.io:80/l1vHzB/RV6D06/137
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/eiplus.png" aspect-ratio="16:9" group-title="Canais | Esportes",Ei Plus 4 SD
-http://eyplay.io:80/qYp06D/NxmlQ2/138
+http://eyplay.io:80/l1vHzB/RV6D06/138
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/eiplus.png" aspect-ratio="16:9" group-title="Canais | Esportes",Ei Plus 5 HD
-http://eyplay.io:80/qYp06D/NxmlQ2/139
+http://eyplay.io:80/l1vHzB/RV6D06/139
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/eiplus.png" aspect-ratio="16:9" group-title="Canais | Esportes",Ei Plus 5 SD
-http://eyplay.io:80/qYp06D/NxmlQ2/140
+http://eyplay.io:80/l1vHzB/RV6D06/140
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/eiplus.png" aspect-ratio="16:9" group-title="Canais | Esportes",Ei Plus 6 HD
-http://eyplay.io:80/qYp06D/NxmlQ2/142
+http://eyplay.io:80/l1vHzB/RV6D06/142
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/eiplus.png" aspect-ratio="16:9" group-title="Canais | Esportes",Ei Plus 6 SD
-http://eyplay.io:80/qYp06D/NxmlQ2/141
+http://eyplay.io:80/l1vHzB/RV6D06/141
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/espn.png" aspect-ratio="16:9" group-title="Canais | Esportes",ESPN FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/152
+http://eyplay.io:80/l1vHzB/RV6D06/152
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/espn.png" aspect-ratio="16:9" group-title="Canais | Esportes",ESPN HD
-http://eyplay.io:80/qYp06D/NxmlQ2/153
+http://eyplay.io:80/l1vHzB/RV6D06/153
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/espn.png" aspect-ratio="16:9" group-title="Canais | Esportes",ESPN SD
-http://eyplay.io:80/qYp06D/NxmlQ2/154
+http://eyplay.io:80/l1vHzB/RV6D06/154
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/espn2.png" aspect-ratio="16:9" group-title="Canais | Esportes",ESPN 2 FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/144
+http://eyplay.io:80/l1vHzB/RV6D06/144
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/espn2.png" aspect-ratio="16:9" group-title="Canais | Esportes",ESPN 2 HD
-http://eyplay.io:80/qYp06D/NxmlQ2/145
+http://eyplay.io:80/l1vHzB/RV6D06/145
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/espn2.png" aspect-ratio="16:9" group-title="Canais | Esportes",ESPN 2 SD
-http://eyplay.io:80/qYp06D/NxmlQ2/146
+http://eyplay.io:80/l1vHzB/RV6D06/146
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/espnbrasil.png" aspect-ratio="16:9" group-title="Canais | Esportes",ESPN Brasil FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/147
+http://eyplay.io:80/l1vHzB/RV6D06/147
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/espnbrasil.png" aspect-ratio="16:9" group-title="Canais | Esportes",ESPN Brasil HD
-http://eyplay.io:80/qYp06D/NxmlQ2/148
+http://eyplay.io:80/l1vHzB/RV6D06/148
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/espnbrasil.png" aspect-ratio="16:9" group-title="Canais | Esportes",ESPN Brasil SD
-http://eyplay.io:80/qYp06D/NxmlQ2/149
+http://eyplay.io:80/l1vHzB/RV6D06/149
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/espnextra.png" aspect-ratio="16:9" group-title="Canais | Esportes",ESPN Extra HD
-http://eyplay.io:80/qYp06D/NxmlQ2/150
+http://eyplay.io:80/l1vHzB/RV6D06/150
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/espnextra.png" aspect-ratio="16:9" group-title="Canais | Esportes",ESPN Extra SD
-http://eyplay.io:80/qYp06D/NxmlQ2/151
+http://eyplay.io:80/l1vHzB/RV6D06/151
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/foxsports1.png" aspect-ratio="16:9" group-title="Canais | Esportes",Fox Sports FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/179
+http://eyplay.io:80/l1vHzB/RV6D06/179
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/foxsports1.png" aspect-ratio="16:9" group-title="Canais | Esportes",Fox Sports HD
-http://eyplay.io:80/qYp06D/NxmlQ2/180
+http://eyplay.io:80/l1vHzB/RV6D06/180
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/foxsports1.png" aspect-ratio="16:9" group-title="Canais | Esportes",Fox Sports SD
-http://eyplay.io:80/qYp06D/NxmlQ2/181
+http://eyplay.io:80/l1vHzB/RV6D06/181
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/foxsports2.png" aspect-ratio="16:9" group-title="Canais | Esportes",Fox Sports 2 FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/176
+http://eyplay.io:80/l1vHzB/RV6D06/176
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/foxsports2.png" aspect-ratio="16:9" group-title="Canais | Esportes",Fox Sports 2 HD
-http://eyplay.io:80/qYp06D/NxmlQ2/177
+http://eyplay.io:80/l1vHzB/RV6D06/177
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/foxsports2.png" aspect-ratio="16:9" group-title="Canais | Esportes",Fox Sports 2 SD
-http://eyplay.io:80/qYp06D/NxmlQ2/178
+http://eyplay.io:80/l1vHzB/RV6D06/178
 
 
 #EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="Canais | Esportes",Real Madrid SD
-http://eyplay.io:80/qYp06D/NxmlQ2/363
+http://eyplay.io:80/l1vHzB/RV6D06/363
 
 
 
@@ -564,243 +564,243 @@ https://facebook.com/xx.ely.david.xx
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/amc.png" aspect-ratio="16:9" group-title="Canais | Filmes e Séries",AMC FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/474
+http://eyplay.io:80/l1vHzB/RV6D06/474
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/amc.png" aspect-ratio="16:9" group-title="Canais | Filmes e Séries",AMC HD
-http://eyplay.io:80/qYp06D/NxmlQ2/475
+http://eyplay.io:80/l1vHzB/RV6D06/475
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/amc.png" aspect-ratio="16:9" group-title="Canais | Filmes e Séries",AMC SD
-http://eyplay.io:80/qYp06D/NxmlQ2/476
+http://eyplay.io:80/l1vHzB/RV6D06/476
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/axn.png" aspect-ratio="16:9" group-title="Canais | Filmes e Séries",AXN FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/11
+http://eyplay.io:80/l1vHzB/RV6D06/11
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/axn.png" aspect-ratio="16:9" group-title="Canais | Filmes e Séries",AXN HD
-http://eyplay.io:80/qYp06D/NxmlQ2/12
+http://eyplay.io:80/l1vHzB/RV6D06/12
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/axn.png" aspect-ratio="16:9" group-title="Canais | Filmes e Séries",AXN SD
-http://eyplay.io:80/qYp06D/NxmlQ2/13
+http://eyplay.io:80/l1vHzB/RV6D06/13
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/canalbrasil.png" aspect-ratio="16:9" group-title="Canais | Filmes e Séries",Canal Brasil FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/56
+http://eyplay.io:80/l1vHzB/RV6D06/56
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/canalbrasil.png" aspect-ratio="16:9" group-title="Canais | Filmes e Séries",Canal Brasil HD
-http://eyplay.io:80/qYp06D/NxmlQ2/57
+http://eyplay.io:80/l1vHzB/RV6D06/57
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/canalbrasil.png" aspect-ratio="16:9" group-title="Canais | Filmes e Séries",Canal Brasil SD
-http://eyplay.io:80/qYp06D/NxmlQ2/58
+http://eyplay.io:80/l1vHzB/RV6D06/58
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/cinemax.png" aspect-ratio="16:9" group-title="Canais | Filmes e Séries",Cinemax FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/67
+http://eyplay.io:80/l1vHzB/RV6D06/67
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/cinemax.png" aspect-ratio="16:9" group-title="Canais | Filmes e Séries",Cinemax HD
-http://eyplay.io:80/qYp06D/NxmlQ2/68
+http://eyplay.io:80/l1vHzB/RV6D06/68
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/cinemax.png" aspect-ratio="16:9" group-title="Canais | Filmes e Séries",Cinemax SD
-http://eyplay.io:80/qYp06D/NxmlQ2/69
+http://eyplay.io:80/l1vHzB/RV6D06/69
 
 
 #EXTINF:-1 tvg-id="Fox FHD (H265)" tvg-logo="http://s.eyplay.io/logos/canais/fox.png" aspect-ratio="16:9" group-title="Canais | Filmes e Séries",Fox FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/161
+http://eyplay.io:80/l1vHzB/RV6D06/161
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/fox.png" aspect-ratio="16:9" group-title="Canais | Filmes e Séries",Fox HD
-http://eyplay.io:80/qYp06D/NxmlQ2/162
+http://eyplay.io:80/l1vHzB/RV6D06/162
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/fox.png" aspect-ratio="16:9" group-title="Canais | Filmes e Séries",Fox SD
-http://eyplay.io:80/qYp06D/NxmlQ2/175
+http://eyplay.io:80/l1vHzB/RV6D06/175
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/foxpremium1.png" aspect-ratio="16:9" group-title="Canais | Filmes e Séries",Fox Premium 1 FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/169
+http://eyplay.io:80/l1vHzB/RV6D06/169
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/foxpremium1.png" aspect-ratio="16:9" group-title="Canais | Filmes e Séries",Fox Premium 1 HD
-http://eyplay.io:80/qYp06D/NxmlQ2/170
+http://eyplay.io:80/l1vHzB/RV6D06/170
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/foxpremium1.png" aspect-ratio="16:9" group-title="Canais | Filmes e Séries",Fox Premium 1 SD
-http://eyplay.io:80/qYp06D/NxmlQ2/171
+http://eyplay.io:80/l1vHzB/RV6D06/171
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/foxpremium2.png" aspect-ratio="16:9" group-title="Canais | Filmes e Séries",Fox Premium 2 FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/172
+http://eyplay.io:80/l1vHzB/RV6D06/172
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/foxpremium2.png" aspect-ratio="16:9" group-title="Canais | Filmes e Séries",Fox Premium 2 HD
-http://eyplay.io:80/qYp06D/NxmlQ2/173
+http://eyplay.io:80/l1vHzB/RV6D06/173
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/foxpremium2.png" aspect-ratio="16:9" group-title="Canais | Filmes e Séries",Fox Premium 2 SD
-http://eyplay.io:80/qYp06D/NxmlQ2/174
+http://eyplay.io:80/l1vHzB/RV6D06/174
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/fx.png" aspect-ratio="16:9" group-title="Canais | Filmes e Séries",FX FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/182
+http://eyplay.io:80/l1vHzB/RV6D06/182
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/fx.png" aspect-ratio="16:9" group-title="Canais | Filmes e Séries",FX HD
-http://eyplay.io:80/qYp06D/NxmlQ2/183
+http://eyplay.io:80/l1vHzB/RV6D06/183
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/fx.png" aspect-ratio="16:9" group-title="Canais | Filmes e Séries",FX SD
-http://eyplay.io:80/qYp06D/NxmlQ2/184
+http://eyplay.io:80/l1vHzB/RV6D06/184
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/megapix.png" aspect-ratio="16:9" group-title="Canais | Filmes e Séries",Megapix FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/303
+http://eyplay.io:80/l1vHzB/RV6D06/303
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/megapix.png" aspect-ratio="16:9" group-title="Canais | Filmes e Séries",Megapix HD
-http://eyplay.io:80/qYp06D/NxmlQ2/304
+http://eyplay.io:80/l1vHzB/RV6D06/304
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/megapix.png" aspect-ratio="16:9" group-title="Canais | Filmes e Séries",Megapix SD
-http://eyplay.io:80/qYp06D/NxmlQ2/305
+http://eyplay.io:80/l1vHzB/RV6D06/305
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/paramount.png" aspect-ratio="16:9" group-title="Canais | Filmes e Séries",Paramount Channel FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/333
+http://eyplay.io:80/l1vHzB/RV6D06/333
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/paramount.png" aspect-ratio="16:9" group-title="Canais | Filmes e Séries",Paramount Channel HD
-http://eyplay.io:80/qYp06D/NxmlQ2/334
+http://eyplay.io:80/l1vHzB/RV6D06/334
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/paramount.png" aspect-ratio="16:9" group-title="Canais | Filmes e Séries",Paramount Channel SD
-http://eyplay.io:80/qYp06D/NxmlQ2/335
+http://eyplay.io:80/l1vHzB/RV6D06/335
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/sony.png" aspect-ratio="16:9" group-title="Canais | Filmes e Séries",Sony FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/386
+http://eyplay.io:80/l1vHzB/RV6D06/386
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/sony.png" aspect-ratio="16:9" group-title="Canais | Filmes e Séries",Sony HD
-http://eyplay.io:80/qYp06D/NxmlQ2/387
+http://eyplay.io:80/l1vHzB/RV6D06/387
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/sony.png" aspect-ratio="16:9" group-title="Canais | Filmes e Séries",Sony SD
-http://eyplay.io:80/qYp06D/NxmlQ2/388
+http://eyplay.io:80/l1vHzB/RV6D06/388
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/space.png" aspect-ratio="16:9" group-title="Canais | Filmes e Séries",Space FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/389
+http://eyplay.io:80/l1vHzB/RV6D06/389
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/space.png" aspect-ratio="16:9" group-title="Canais | Filmes e Séries",Space HD
-http://eyplay.io:80/qYp06D/NxmlQ2/390
+http://eyplay.io:80/l1vHzB/RV6D06/390
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/space.png" aspect-ratio="16:9" group-title="Canais | Filmes e Séries",Space SD
-http://eyplay.io:80/qYp06D/NxmlQ2/391
+http://eyplay.io:80/l1vHzB/RV6D06/391
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/studiouniversal.png" aspect-ratio="16:9" group-title="Canais | Filmes e Séries",Studio Universal FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/401
+http://eyplay.io:80/l1vHzB/RV6D06/401
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/studiouniversal.png" aspect-ratio="16:9" group-title="Canais | Filmes e Séries",Studio Universal HD
-http://eyplay.io:80/qYp06D/NxmlQ2/402
+http://eyplay.io:80/l1vHzB/RV6D06/402
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/studiouniversal.png" aspect-ratio="16:9" group-title="Canais | Filmes e Séries",Studio Universal SD
-http://eyplay.io:80/qYp06D/NxmlQ2/403
+http://eyplay.io:80/l1vHzB/RV6D06/403
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/syfy.png" aspect-ratio="16:9" group-title="Canais | Filmes e Séries",Syfy FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/404
+http://eyplay.io:80/l1vHzB/RV6D06/404
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/syfy.png" aspect-ratio="16:9" group-title="Canais | Filmes e Séries",Syfy HD
-http://eyplay.io:80/qYp06D/NxmlQ2/405
+http://eyplay.io:80/l1vHzB/RV6D06/405
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/syfy.png" aspect-ratio="16:9" group-title="Canais | Filmes e Séries",Syfy SD
-http://eyplay.io:80/qYp06D/NxmlQ2/406
+http://eyplay.io:80/l1vHzB/RV6D06/406
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/tbs.png" aspect-ratio="16:9" group-title="Canais | Filmes e Séries",TBS FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/407
+http://eyplay.io:80/l1vHzB/RV6D06/407
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/tbs.png" aspect-ratio="16:9" group-title="Canais | Filmes e Séries",TBS HD
-http://eyplay.io:80/qYp06D/NxmlQ2/408
+http://eyplay.io:80/l1vHzB/RV6D06/408
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/tbs.png" aspect-ratio="16:9" group-title="Canais | Filmes e Séries",TBS SD
-http://eyplay.io:80/qYp06D/NxmlQ2/409
+http://eyplay.io:80/l1vHzB/RV6D06/409
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/tcm.png" aspect-ratio="16:9" group-title="Canais | Filmes e Séries",TCM FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/410
+http://eyplay.io:80/l1vHzB/RV6D06/410
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/tcm.png" aspect-ratio="16:9" group-title="Canais | Filmes e Séries",TCM HD
-http://eyplay.io:80/qYp06D/NxmlQ2/411
+http://eyplay.io:80/l1vHzB/RV6D06/411
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/tcm.png" aspect-ratio="16:9" group-title="Canais | Filmes e Séries",TCM SD
-http://eyplay.io:80/qYp06D/NxmlQ2/412
+http://eyplay.io:80/l1vHzB/RV6D06/412
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/tnt.png" aspect-ratio="16:9" group-title="Canais | Filmes e Séries",TNT FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/434
+http://eyplay.io:80/l1vHzB/RV6D06/434
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/tnt.png" aspect-ratio="16:9" group-title="Canais | Filmes e Séries",TNT HD
-http://eyplay.io:80/qYp06D/NxmlQ2/435
+http://eyplay.io:80/l1vHzB/RV6D06/435
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/tnt.png" aspect-ratio="16:9" group-title="Canais | Filmes e Séries",TNT SD
-http://eyplay.io:80/qYp06D/NxmlQ2/436
+http://eyplay.io:80/l1vHzB/RV6D06/436
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/tntseries.png" aspect-ratio="16:9" group-title="Canais | Filmes e Séries",TNT Series FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/437
+http://eyplay.io:80/l1vHzB/RV6D06/437
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/tntseries.png" aspect-ratio="16:9" group-title="Canais | Filmes e Séries",TNT Series HD
-http://eyplay.io:80/qYp06D/NxmlQ2/438
+http://eyplay.io:80/l1vHzB/RV6D06/438
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/tntseries.png" aspect-ratio="16:9" group-title="Canais | Filmes e Séries",TNT Series SD
-http://eyplay.io:80/qYp06D/NxmlQ2/439
+http://eyplay.io:80/l1vHzB/RV6D06/439
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/universalchannel.png" aspect-ratio="16:9" group-title="Canais | Filmes e Séries",Universal Channel FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/452
+http://eyplay.io:80/l1vHzB/RV6D06/452
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/universalchannel.png" aspect-ratio="16:9" group-title="Canais | Filmes e Séries",Universal Channel HD
-http://eyplay.io:80/qYp06D/NxmlQ2/453
+http://eyplay.io:80/l1vHzB/RV6D06/453
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/universalchannel.png" aspect-ratio="16:9" group-title="Canais | Filmes e Séries",Universal Channel SD
-http://eyplay.io:80/qYp06D/NxmlQ2/454
+http://eyplay.io:80/l1vHzB/RV6D06/454
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/warner.png" aspect-ratio="16:9" group-title="Canais | Filmes e Séries",Warner Channel FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/461
+http://eyplay.io:80/l1vHzB/RV6D06/461
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/warner.png" aspect-ratio="16:9" group-title="Canais | Filmes e Séries",Warner Channel HD
-http://eyplay.io:80/qYp06D/NxmlQ2/462
+http://eyplay.io:80/l1vHzB/RV6D06/462
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/warner.png" aspect-ratio="16:9" group-title="Canais | Filmes e Séries",Warner Channel SD
-http://eyplay.io:80/qYp06D/NxmlQ2/463
+http://eyplay.io:80/l1vHzB/RV6D06/463
 
 
 
@@ -817,251 +817,251 @@ https://facebook.com/xx.ely.david.xx
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/globo.png" aspect-ratio="16:9" group-title="Canais | Globo",Globo Brasilia HD
-http://eyplay.io:80/qYp06D/NxmlQ2/185
+http://eyplay.io:80/l1vHzB/RV6D06/185
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/globo.png" aspect-ratio="16:9" group-title="Canais | Globo",Globo Brasilia SD
-http://eyplay.io:80/qYp06D/NxmlQ2/186
+http://eyplay.io:80/l1vHzB/RV6D06/186
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/globo.png" aspect-ratio="16:9" group-title="Canais | Globo",Globo EPTV Campinas FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/189
+http://eyplay.io:80/l1vHzB/RV6D06/189
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/globo.png" aspect-ratio="16:9" group-title="Canais | Globo",Globo EPTV Campinas HD
-http://eyplay.io:80/qYp06D/NxmlQ2/190
+http://eyplay.io:80/l1vHzB/RV6D06/190
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/globo.png" aspect-ratio="16:9" group-title="Canais | Globo",Globo EPTV Campinas SD
-http://eyplay.io:80/qYp06D/NxmlQ2/191
+http://eyplay.io:80/l1vHzB/RV6D06/191
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/globo.png" aspect-ratio="16:9" group-title="Canais | Globo",Globo EPTV Ribeirao Preto SD
-http://eyplay.io:80/qYp06D/NxmlQ2/192
+http://eyplay.io:80/l1vHzB/RV6D06/192
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/globo.png" aspect-ratio="16:9" group-title="Canais | Globo",Globo EPTV Sul de Minas FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/193
+http://eyplay.io:80/l1vHzB/RV6D06/193
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/globo.png" aspect-ratio="16:9" group-title="Canais | Globo",Globo EPTV Sul de Minas HD
-http://eyplay.io:80/qYp06D/NxmlQ2/194
+http://eyplay.io:80/l1vHzB/RV6D06/194
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/globo.png" aspect-ratio="16:9" group-title="Canais | Globo",Globo Inter TV Cabugi SD
-http://eyplay.io:80/qYp06D/NxmlQ2/195
+http://eyplay.io:80/l1vHzB/RV6D06/195
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/globo.png" aspect-ratio="16:9" group-title="Canais | Globo",Globo Inter TV dos Vales FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/196
+http://eyplay.io:80/l1vHzB/RV6D06/196
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/globo.png" aspect-ratio="16:9" group-title="Canais | Globo",Globo Inter TV Grande Minas FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/197
+http://eyplay.io:80/l1vHzB/RV6D06/197
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/globo.png" aspect-ratio="16:9" group-title="Canais | Globo",Globo Inter TV Grande Minas HD
-http://eyplay.io:80/qYp06D/NxmlQ2/198
+http://eyplay.io:80/l1vHzB/RV6D06/198
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/globo.png" aspect-ratio="16:9" group-title="Canais | Globo",Globo Minas FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/199
+http://eyplay.io:80/l1vHzB/RV6D06/199
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/globo.png" aspect-ratio="16:9" group-title="Canais | Globo",Globo Minas HD
-http://eyplay.io:80/qYp06D/NxmlQ2/200
+http://eyplay.io:80/l1vHzB/RV6D06/200
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/globo.png" aspect-ratio="16:9" group-title="Canais | Globo",Globo Minas SD
-http://eyplay.io:80/qYp06D/NxmlQ2/201
+http://eyplay.io:80/l1vHzB/RV6D06/201
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/globo.png" aspect-ratio="16:9" group-title="Canais | Globo",Globo Nordeste FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/205
+http://eyplay.io:80/l1vHzB/RV6D06/205
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/globo.png" aspect-ratio="16:9" group-title="Canais | Globo",Globo Nordeste HD
-http://eyplay.io:80/qYp06D/NxmlQ2/206
+http://eyplay.io:80/l1vHzB/RV6D06/206
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/globo.png" aspect-ratio="16:9" group-title="Canais | Globo",Globo Nordeste SD
-http://eyplay.io:80/qYp06D/NxmlQ2/207
+http://eyplay.io:80/l1vHzB/RV6D06/207
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/globo.png" aspect-ratio="16:9" group-title="Canais | Globo",Globo NSC Florianopolis FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/208
+http://eyplay.io:80/l1vHzB/RV6D06/208
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/globo.png" aspect-ratio="16:9" group-title="Canais | Globo",Globo NSC Florianopolis HD
-http://eyplay.io:80/qYp06D/NxmlQ2/209
+http://eyplay.io:80/l1vHzB/RV6D06/209
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/globo.png" aspect-ratio="16:9" group-title="Canais | Globo",Globo NSC Florianopolis SD
-http://eyplay.io:80/qYp06D/NxmlQ2/210
+http://eyplay.io:80/l1vHzB/RV6D06/210
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/globo.png" aspect-ratio="16:9" group-title="Canais | Globo",Globo NSC TV Blumenau FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/211
+http://eyplay.io:80/l1vHzB/RV6D06/211
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/globo.png" aspect-ratio="16:9" group-title="Canais | Globo",Globo RBS TV Porto Alegre SD
-http://eyplay.io:80/qYp06D/NxmlQ2/214
+http://eyplay.io:80/l1vHzB/RV6D06/214
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/globo.png" aspect-ratio="16:9" group-title="Canais | Globo",Globo Rede Amazonica SD
-http://eyplay.io:80/qYp06D/NxmlQ2/215
+http://eyplay.io:80/l1vHzB/RV6D06/215
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/globo.png" aspect-ratio="16:9" group-title="Canais | Globo",Globo RJ FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/216
+http://eyplay.io:80/l1vHzB/RV6D06/216
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/globo.png" aspect-ratio="16:9" group-title="Canais | Globo",Globo RJ HD
-http://eyplay.io:80/qYp06D/NxmlQ2/217
+http://eyplay.io:80/l1vHzB/RV6D06/217
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/globo.png" aspect-ratio="16:9" group-title="Canais | Globo",Globo RPC Curitiba SD
-http://eyplay.io:80/qYp06D/NxmlQ2/221
+http://eyplay.io:80/l1vHzB/RV6D06/221
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/globo.png" aspect-ratio="16:9" group-title="Canais | Globo",Globo RPC Paranavaí FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/218
+http://eyplay.io:80/l1vHzB/RV6D06/218
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/globo.png" aspect-ratio="16:9" group-title="Canais | Globo",Globo RPC Paranavaí HD
-http://eyplay.io:80/qYp06D/NxmlQ2/219
+http://eyplay.io:80/l1vHzB/RV6D06/219
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/globo.png" aspect-ratio="16:9" group-title="Canais | Globo",Globo RPC Paranavaí SD
-http://eyplay.io:80/qYp06D/NxmlQ2/220
+http://eyplay.io:80/l1vHzB/RV6D06/220
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/globo.png" aspect-ratio="16:9" group-title="Canais | Globo",Globo SP FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/222
+http://eyplay.io:80/l1vHzB/RV6D06/222
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/globo.png" aspect-ratio="16:9" group-title="Canais | Globo",Globo SP HD
-http://eyplay.io:80/qYp06D/NxmlQ2/223
+http://eyplay.io:80/l1vHzB/RV6D06/223
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/globo.png" aspect-ratio="16:9" group-title="Canais | Globo",Globo SP SD
-http://eyplay.io:80/qYp06D/NxmlQ2/224
+http://eyplay.io:80/l1vHzB/RV6D06/224
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/globo.png" aspect-ratio="16:9" group-title="Canais | Globo",Globo TV Anhanguera FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/225
+http://eyplay.io:80/l1vHzB/RV6D06/225
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/globo.png" aspect-ratio="16:9" group-title="Canais | Globo",Globo TV Anhanguera HD
-http://eyplay.io:80/qYp06D/NxmlQ2/226
+http://eyplay.io:80/l1vHzB/RV6D06/226
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/globo.png" aspect-ratio="16:9" group-title="Canais | Globo",Globo TV Anhanguera SD
-http://eyplay.io:80/qYp06D/NxmlQ2/227
+http://eyplay.io:80/l1vHzB/RV6D06/227
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/globo.png" aspect-ratio="16:9" group-title="Canais | Globo",Globo TV Bahia FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/228
+http://eyplay.io:80/l1vHzB/RV6D06/228
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/globo.png" aspect-ratio="16:9" group-title="Canais | Globo",Globo TV Bahia HD
-http://eyplay.io:80/qYp06D/NxmlQ2/229
+http://eyplay.io:80/l1vHzB/RV6D06/229
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/globo.png" aspect-ratio="16:9" group-title="Canais | Globo",Globo TV Bahia SD
-http://eyplay.io:80/qYp06D/NxmlQ2/230
+http://eyplay.io:80/l1vHzB/RV6D06/230
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/globo.png" aspect-ratio="16:9" group-title="Canais | Globo",Globo TV Centro America FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/187
+http://eyplay.io:80/l1vHzB/RV6D06/187
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/globo.png" aspect-ratio="16:9" group-title="Canais | Globo",Globo TV Centro America HD
-http://eyplay.io:80/qYp06D/NxmlQ2/188
+http://eyplay.io:80/l1vHzB/RV6D06/188
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/globo.png" aspect-ratio="16:9" group-title="Canais | Globo",Globo TV Diario FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/234
+http://eyplay.io:80/l1vHzB/RV6D06/234
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/globo.png" aspect-ratio="16:9" group-title="Canais | Globo",Globo TV Diario HD
-http://eyplay.io:80/qYp06D/NxmlQ2/235
+http://eyplay.io:80/l1vHzB/RV6D06/235
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/globo.png" aspect-ratio="16:9" group-title="Canais | Globo",Globo TV Gazeta Alagoas FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/236
+http://eyplay.io:80/l1vHzB/RV6D06/236
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/globo.png" aspect-ratio="16:9" group-title="Canais | Globo",Globo TV Liberal Belem FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/231
+http://eyplay.io:80/l1vHzB/RV6D06/231
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/globo.png" aspect-ratio="16:9" group-title="Canais | Globo",Globo TV Liberal Belem HD
-http://eyplay.io:80/qYp06D/NxmlQ2/232
+http://eyplay.io:80/l1vHzB/RV6D06/232
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/globo.png" aspect-ratio="16:9" group-title="Canais | Globo",Globo TV Liberal Belem SD
-http://eyplay.io:80/qYp06D/NxmlQ2/233
+http://eyplay.io:80/l1vHzB/RV6D06/233
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/globo.png" aspect-ratio="16:9" group-title="Canais | Globo",Globo TV Mirante FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/238
+http://eyplay.io:80/l1vHzB/RV6D06/238
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/globo.png" aspect-ratio="16:9" group-title="Canais | Globo",Globo TV Mirante HD
-http://eyplay.io:80/qYp06D/NxmlQ2/239
+http://eyplay.io:80/l1vHzB/RV6D06/239
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/globo.png" aspect-ratio="16:9" group-title="Canais | Globo",Globo TV Mirante SD
-http://eyplay.io:80/qYp06D/NxmlQ2/240
+http://eyplay.io:80/l1vHzB/RV6D06/240
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/globo.png" aspect-ratio="16:9" group-title="Canais | Globo",Globo TV Morena FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/241
+http://eyplay.io:80/l1vHzB/RV6D06/241
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/globo.png" aspect-ratio="16:9" group-title="Canais | Globo",Globo TV Morena HD
-http://eyplay.io:80/qYp06D/NxmlQ2/242
+http://eyplay.io:80/l1vHzB/RV6D06/242
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/globo.png" aspect-ratio="16:9" group-title="Canais | Globo",Globo TV Morena SD
-http://eyplay.io:80/qYp06D/NxmlQ2/243
+http://eyplay.io:80/l1vHzB/RV6D06/243
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/globo.png" aspect-ratio="16:9" group-title="Canais | Globo",Globo TV Santa Cruz FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/450
+http://eyplay.io:80/l1vHzB/RV6D06/450
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/globo.png" aspect-ratio="16:9" group-title="Canais | Globo",Globo TV Sergipe FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/244
+http://eyplay.io:80/l1vHzB/RV6D06/244
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/globo.png" aspect-ratio="16:9" group-title="Canais | Globo",Globo TV TEM Bauru SD
-http://eyplay.io:80/qYp06D/NxmlQ2/245
+http://eyplay.io:80/l1vHzB/RV6D06/245
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/globo.png" aspect-ratio="16:9" group-title="Canais | Globo",Globo TV TEM Sorocaba SD
-http://eyplay.io:80/qYp06D/NxmlQ2/246
+http://eyplay.io:80/l1vHzB/RV6D06/246
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/globo.png" aspect-ratio="16:9" group-title="Canais | Globo",Globo TV Tribuna Santos SD
-http://eyplay.io:80/qYp06D/NxmlQ2/247
+http://eyplay.io:80/l1vHzB/RV6D06/247
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/globo.png" aspect-ratio="16:9" group-title="Canais | Globo",Globo TV Vanguarda S.J.C SD
-http://eyplay.io:80/qYp06D/NxmlQ2/248
+http://eyplay.io:80/l1vHzB/RV6D06/248
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/globo.png" aspect-ratio="16:9" group-title="Canais | Globo",Globo TV Verdes Mares FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/249
+http://eyplay.io:80/l1vHzB/RV6D06/249
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/globo.png" aspect-ratio="16:9" group-title="Canais | Globo",Globo TV Verdes Mares HD
-http://eyplay.io:80/qYp06D/NxmlQ2/250
+http://eyplay.io:80/l1vHzB/RV6D06/250
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/globo.png" aspect-ratio="16:9" group-title="Canais | Globo",Globo TV Verdes Mares SD
-http://eyplay.io:80/qYp06D/NxmlQ2/251
+http://eyplay.io:80/l1vHzB/RV6D06/251
 
 
 
@@ -1078,99 +1078,99 @@ https://facebook.com/xx.ely.david.xx
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/hbo.png" aspect-ratio="16:9" group-title="Canais | HBO",HBO FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/270
+http://eyplay.io:80/l1vHzB/RV6D06/270
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/hbo.png" aspect-ratio="16:9" group-title="Canais | HBO",HBO HD
-http://eyplay.io:80/qYp06D/NxmlQ2/271
+http://eyplay.io:80/l1vHzB/RV6D06/271
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/hbo.png" aspect-ratio="16:9" group-title="Canais | HBO",HBO SD
-http://eyplay.io:80/qYp06D/NxmlQ2/281
+http://eyplay.io:80/l1vHzB/RV6D06/281
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/hbo2.png" aspect-ratio="16:9" group-title="Canais | HBO",HBO 2 FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/264
+http://eyplay.io:80/l1vHzB/RV6D06/264
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/hbo2.png" aspect-ratio="16:9" group-title="Canais | HBO",HBO 2 HD
-http://eyplay.io:80/qYp06D/NxmlQ2/265
+http://eyplay.io:80/l1vHzB/RV6D06/265
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/hbo2.png" aspect-ratio="16:9" group-title="Canais | HBO",HBO 2 SD
-http://eyplay.io:80/qYp06D/NxmlQ2/266
+http://eyplay.io:80/l1vHzB/RV6D06/266
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/hbofamily.png" aspect-ratio="16:9" group-title="Canais | HBO",HBO Family FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/267
+http://eyplay.io:80/l1vHzB/RV6D06/267
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/hbofamily.png" aspect-ratio="16:9" group-title="Canais | HBO",HBO Family HD
-http://eyplay.io:80/qYp06D/NxmlQ2/268
+http://eyplay.io:80/l1vHzB/RV6D06/268
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/hbofamily.png" aspect-ratio="16:9" group-title="Canais | HBO",HBO Family SD
-http://eyplay.io:80/qYp06D/NxmlQ2/269
+http://eyplay.io:80/l1vHzB/RV6D06/269
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/hbomundi.png" aspect-ratio="16:9" group-title="Canais | HBO",HBO Mundi FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/272
+http://eyplay.io:80/l1vHzB/RV6D06/272
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/hbomundi.png" aspect-ratio="16:9" group-title="Canais | HBO",HBO Mundi HD
-http://eyplay.io:80/qYp06D/NxmlQ2/273
+http://eyplay.io:80/l1vHzB/RV6D06/273
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/hbomundi.png" aspect-ratio="16:9" group-title="Canais | HBO",HBO Mundi SD
-http://eyplay.io:80/qYp06D/NxmlQ2/274
+http://eyplay.io:80/l1vHzB/RV6D06/274
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/hboplus.png" aspect-ratio="16:9" group-title="Canais | HBO",HBO Plus FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/275
+http://eyplay.io:80/l1vHzB/RV6D06/275
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/hboplus.png" aspect-ratio="16:9" group-title="Canais | HBO",HBO Plus HD
-http://eyplay.io:80/qYp06D/NxmlQ2/276
+http://eyplay.io:80/l1vHzB/RV6D06/276
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/hboplus.png" aspect-ratio="16:9" group-title="Canais | HBO",HBO Plus SD
-http://eyplay.io:80/qYp06D/NxmlQ2/277
+http://eyplay.io:80/l1vHzB/RV6D06/277
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/hbopop.png" aspect-ratio="16:9" group-title="Canais | HBO",HBO Pop FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/278
+http://eyplay.io:80/l1vHzB/RV6D06/278
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/hbopop.png" aspect-ratio="16:9" group-title="Canais | HBO",HBO Pop HD
-http://eyplay.io:80/qYp06D/NxmlQ2/279
+http://eyplay.io:80/l1vHzB/RV6D06/279
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/hbopop.png" aspect-ratio="16:9" group-title="Canais | HBO",HBO Pop SD
-http://eyplay.io:80/qYp06D/NxmlQ2/280
+http://eyplay.io:80/l1vHzB/RV6D06/280
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/hbosignature.png" aspect-ratio="16:9" group-title="Canais | HBO",HBO Signature FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/282
+http://eyplay.io:80/l1vHzB/RV6D06/282
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/hbosignature.png" aspect-ratio="16:9" group-title="Canais | HBO",HBO Signature HD
-http://eyplay.io:80/qYp06D/NxmlQ2/283
+http://eyplay.io:80/l1vHzB/RV6D06/283
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/hbosignature.png" aspect-ratio="16:9" group-title="Canais | HBO",HBO Signature SD
-http://eyplay.io:80/qYp06D/NxmlQ2/284
+http://eyplay.io:80/l1vHzB/RV6D06/284
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/hboxtreme.png" aspect-ratio="16:9" group-title="Canais | HBO",HBO Xtreme FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/285
+http://eyplay.io:80/l1vHzB/RV6D06/285
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/hboxtreme.png" aspect-ratio="16:9" group-title="Canais | HBO",HBO Xtreme HD
-http://eyplay.io:80/qYp06D/NxmlQ2/286
+http://eyplay.io:80/l1vHzB/RV6D06/286
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/hboxtreme.png" aspect-ratio="16:9" group-title="Canais | HBO",HBO Xtreme SD
-http://eyplay.io:80/qYp06D/NxmlQ2/287
+http://eyplay.io:80/l1vHzB/RV6D06/287
 
 
 
@@ -1187,135 +1187,135 @@ https://facebook.com/xx.ely.david.xx
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/discoverykids.png" aspect-ratio="16:9" group-title="Canais | Infantis",Discovery Kids FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/104
+http://eyplay.io:80/l1vHzB/RV6D06/104
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/discoverykids.png" aspect-ratio="16:9" group-title="Canais | Infantis",Discovery Kids HD
-http://eyplay.io:80/qYp06D/NxmlQ2/105
+http://eyplay.io:80/l1vHzB/RV6D06/105
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/discoverykids.png" aspect-ratio="16:9" group-title="Canais | Infantis",Discovery Kids SD
-http://eyplay.io:80/qYp06D/NxmlQ2/106
+http://eyplay.io:80/l1vHzB/RV6D06/106
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/disney.png" aspect-ratio="16:9" group-title="Canais | Infantis",Disney Channel FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/119
+http://eyplay.io:80/l1vHzB/RV6D06/119
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/disney.png" aspect-ratio="16:9" group-title="Canais | Infantis",Disney Channel HD
-http://eyplay.io:80/qYp06D/NxmlQ2/120
+http://eyplay.io:80/l1vHzB/RV6D06/120
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/disney.png" aspect-ratio="16:9" group-title="Canais | Infantis",Disney Channel SD
-http://eyplay.io:80/qYp06D/NxmlQ2/121
+http://eyplay.io:80/l1vHzB/RV6D06/121
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/disneyjr.png" aspect-ratio="16:9" group-title="Canais | Infantis",Disney Jr FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/122
+http://eyplay.io:80/l1vHzB/RV6D06/122
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/disneyjr.png" aspect-ratio="16:9" group-title="Canais | Infantis",Disney Jr HD
-http://eyplay.io:80/qYp06D/NxmlQ2/123
+http://eyplay.io:80/l1vHzB/RV6D06/123
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/disneyjr.png" aspect-ratio="16:9" group-title="Canais | Infantis",Disney Jr SD
-http://eyplay.io:80/qYp06D/NxmlQ2/124
+http://eyplay.io:80/l1vHzB/RV6D06/124
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/disneyxd.png" aspect-ratio="16:9" group-title="Canais | Infantis",Disney XD FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/125
+http://eyplay.io:80/l1vHzB/RV6D06/125
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/disneyxd.png" aspect-ratio="16:9" group-title="Canais | Infantis",Disney XD HD
-http://eyplay.io:80/qYp06D/NxmlQ2/126
+http://eyplay.io:80/l1vHzB/RV6D06/126
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/disneyxd.png" aspect-ratio="16:9" group-title="Canais | Infantis",Disney XD SD
-http://eyplay.io:80/qYp06D/NxmlQ2/127
+http://eyplay.io:80/l1vHzB/RV6D06/127
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/gloob.png" aspect-ratio="16:9" group-title="Canais | Infantis",Gloob FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/252
+http://eyplay.io:80/l1vHzB/RV6D06/252
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/gloob.png" aspect-ratio="16:9" group-title="Canais | Infantis",Gloob HD
-http://eyplay.io:80/qYp06D/NxmlQ2/253
+http://eyplay.io:80/l1vHzB/RV6D06/253
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/gloob.png" aspect-ratio="16:9" group-title="Canais | Infantis",Gloob SD
-http://eyplay.io:80/qYp06D/NxmlQ2/254
+http://eyplay.io:80/l1vHzB/RV6D06/254
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/gloobinho.png" aspect-ratio="16:9" group-title="Canais | Infantis",Gloobinho FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/255
+http://eyplay.io:80/l1vHzB/RV6D06/255
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/gloobinho.png" aspect-ratio="16:9" group-title="Canais | Infantis",Gloobinho HD
-http://eyplay.io:80/qYp06D/NxmlQ2/256
+http://eyplay.io:80/l1vHzB/RV6D06/256
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/gloobinho.png" aspect-ratio="16:9" group-title="Canais | Infantis",Gloobinho SD
-http://eyplay.io:80/qYp06D/NxmlQ2/257
+http://eyplay.io:80/l1vHzB/RV6D06/257
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/natgeokids.png" aspect-ratio="16:9" group-title="Canais | Infantis",Natgeo Kids FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/317
+http://eyplay.io:80/l1vHzB/RV6D06/317
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/natgeokids.png" aspect-ratio="16:9" group-title="Canais | Infantis",Natgeo Kids HD
-http://eyplay.io:80/qYp06D/NxmlQ2/318
+http://eyplay.io:80/l1vHzB/RV6D06/318
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/natgeokids.png" aspect-ratio="16:9" group-title="Canais | Infantis",Natgeo Kids SD
-http://eyplay.io:80/qYp06D/NxmlQ2/319
+http://eyplay.io:80/l1vHzB/RV6D06/319
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/nickjr.png" aspect-ratio="16:9" group-title="Canais | Infantis",Nick Jr FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/324
+http://eyplay.io:80/l1vHzB/RV6D06/324
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/nickjr.png" aspect-ratio="16:9" group-title="Canais | Infantis",Nick Jr HD
-http://eyplay.io:80/qYp06D/NxmlQ2/325
+http://eyplay.io:80/l1vHzB/RV6D06/325
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/nickjr.png" aspect-ratio="16:9" group-title="Canais | Infantis",Nick Jr SD
-http://eyplay.io:80/qYp06D/NxmlQ2/326
+http://eyplay.io:80/l1vHzB/RV6D06/326
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/nick.png" aspect-ratio="16:9" group-title="Canais | Infantis",Nickelodeon FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/328
+http://eyplay.io:80/l1vHzB/RV6D06/328
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/nick.png" aspect-ratio="16:9" group-title="Canais | Infantis",Nickelodeon HD
-http://eyplay.io:80/qYp06D/NxmlQ2/329
+http://eyplay.io:80/l1vHzB/RV6D06/329
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/nick.png" aspect-ratio="16:9" group-title="Canais | Infantis",Nickelodeon SD
-http://eyplay.io:80/qYp06D/NxmlQ2/327
+http://eyplay.io:80/l1vHzB/RV6D06/327
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/tooncast.png" aspect-ratio="16:9" group-title="Canais | Infantis",Tooncast FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/440
+http://eyplay.io:80/l1vHzB/RV6D06/440
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/tooncast.png" aspect-ratio="16:9" group-title="Canais | Infantis",Tooncast HD
-http://eyplay.io:80/qYp06D/NxmlQ2/441
+http://eyplay.io:80/l1vHzB/RV6D06/441
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/tooncast.png" aspect-ratio="16:9" group-title="Canais | Infantis",Tooncast SD
-http://eyplay.io:80/qYp06D/NxmlQ2/442
+http://eyplay.io:80/l1vHzB/RV6D06/442
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/ratimbum.png" aspect-ratio="16:9" group-title="Canais | Infantis",TV Ra Tim Bum FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/447
+http://eyplay.io:80/l1vHzB/RV6D06/447
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/ratimbum.png" aspect-ratio="16:9" group-title="Canais | Infantis",TV Ra Tim Bum HD
-http://eyplay.io:80/qYp06D/NxmlQ2/448
+http://eyplay.io:80/l1vHzB/RV6D06/448
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/ratimbum.png" aspect-ratio="16:9" group-title="Canais | Infantis",TV Ra Tim Bum SD
-http://eyplay.io:80/qYp06D/NxmlQ2/449
+http://eyplay.io:80/l1vHzB/RV6D06/449
 
 
 
@@ -1332,83 +1332,83 @@ https://facebook.com/xx.ely.david.xx
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/bandnews.png" aspect-ratio="16:9" group-title="Canais | Notícias",BandNews FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/20
+http://eyplay.io:80/l1vHzB/RV6D06/20
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/bandnews.png" aspect-ratio="16:9" group-title="Canais | Notícias",BandNews HD
-http://eyplay.io:80/qYp06D/NxmlQ2/21
+http://eyplay.io:80/l1vHzB/RV6D06/21
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/bandnews.png" aspect-ratio="16:9" group-title="Canais | Notícias",BandNews SD
-http://eyplay.io:80/qYp06D/NxmlQ2/22
+http://eyplay.io:80/l1vHzB/RV6D06/22
 
 
 #EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="Canais | Notícias",CNN Brasil FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/14076
+http://eyplay.io:80/l1vHzB/RV6D06/14076
 
 
 #EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="Canais | Notícias",CNN Brasil HD
-http://eyplay.io:80/qYp06D/NxmlQ2/14075
+http://eyplay.io:80/l1vHzB/RV6D06/14075
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/cnn.png" aspect-ratio="16:9" group-title="Canais | Notícias",CNN Espanhol FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/70
+http://eyplay.io:80/l1vHzB/RV6D06/70
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/cnn.png" aspect-ratio="16:9" group-title="Canais | Notícias",CNN Espanhol HD
-http://eyplay.io:80/qYp06D/NxmlQ2/71
+http://eyplay.io:80/l1vHzB/RV6D06/71
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/cnn.png" aspect-ratio="16:9" group-title="Canais | Notícias",CNN Espanhol SD
-http://eyplay.io:80/qYp06D/NxmlQ2/72
+http://eyplay.io:80/l1vHzB/RV6D06/72
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/cnn.png" aspect-ratio="16:9" group-title="Canais | Notícias",CNN Internacional FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/73
+http://eyplay.io:80/l1vHzB/RV6D06/73
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/cnn.png" aspect-ratio="16:9" group-title="Canais | Notícias",CNN Internacional HD
-http://eyplay.io:80/qYp06D/NxmlQ2/74
+http://eyplay.io:80/l1vHzB/RV6D06/74
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/cnn.png" aspect-ratio="16:9" group-title="Canais | Notícias",CNN Internacional SD
-http://eyplay.io:80/qYp06D/NxmlQ2/75
+http://eyplay.io:80/l1vHzB/RV6D06/75
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/foxnews.png" aspect-ratio="16:9" group-title="Canais | Notícias",Fox News FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/166
+http://eyplay.io:80/l1vHzB/RV6D06/166
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/foxnews.png" aspect-ratio="16:9" group-title="Canais | Notícias",Fox News HD
-http://eyplay.io:80/qYp06D/NxmlQ2/167
+http://eyplay.io:80/l1vHzB/RV6D06/167
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/foxnews.png" aspect-ratio="16:9" group-title="Canais | Notícias",Fox News SD
-http://eyplay.io:80/qYp06D/NxmlQ2/168
+http://eyplay.io:80/l1vHzB/RV6D06/168
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/globonews.png" aspect-ratio="16:9" group-title="Canais | Notícias",Globo News FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/202
+http://eyplay.io:80/l1vHzB/RV6D06/202
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/globonews.png" aspect-ratio="16:9" group-title="Canais | Notícias",Globo News HD
-http://eyplay.io:80/qYp06D/NxmlQ2/203
+http://eyplay.io:80/l1vHzB/RV6D06/203
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/globonews.png" aspect-ratio="16:9" group-title="Canais | Notícias",Globo News SD
-http://eyplay.io:80/qYp06D/NxmlQ2/204
+http://eyplay.io:80/l1vHzB/RV6D06/204
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/recordnews.png" aspect-ratio="16:9" group-title="Canais | Notícias",Record News FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/364
+http://eyplay.io:80/l1vHzB/RV6D06/364
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/recordnews.png" aspect-ratio="16:9" group-title="Canais | Notícias",Record News HD
-http://eyplay.io:80/qYp06D/NxmlQ2/365
+http://eyplay.io:80/l1vHzB/RV6D06/365
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/recordnews.png" aspect-ratio="16:9" group-title="Canais | Notícias",Record News SD
-http://eyplay.io:80/qYp06D/NxmlQ2/366
+http://eyplay.io:80/l1vHzB/RV6D06/366
 
 
 
@@ -1425,87 +1425,87 @@ https://facebook.com/xx.ely.david.xx
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/premiere.png" aspect-ratio="16:9" group-title="Canais | Premiere",Premiere Clubes FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/357
+http://eyplay.io:80/l1vHzB/RV6D06/357
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/premiere.png" aspect-ratio="16:9" group-title="Canais | Premiere",Premiere Clubes HD
-http://eyplay.io:80/qYp06D/NxmlQ2/358
+http://eyplay.io:80/l1vHzB/RV6D06/358
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/premiere.png" aspect-ratio="16:9" group-title="Canais | Premiere",Premiere Clubes SD
-http://eyplay.io:80/qYp06D/NxmlQ2/359
+http://eyplay.io:80/l1vHzB/RV6D06/359
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/premiere.png" aspect-ratio="16:9" group-title="Canais | Premiere",Premiere 2 FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/339
+http://eyplay.io:80/l1vHzB/RV6D06/339
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/premiere.png" aspect-ratio="16:9" group-title="Canais | Premiere",Premiere 2 HD
-http://eyplay.io:80/qYp06D/NxmlQ2/340
+http://eyplay.io:80/l1vHzB/RV6D06/340
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/premiere.png" aspect-ratio="16:9" group-title="Canais | Premiere",Premiere 2 SD
-http://eyplay.io:80/qYp06D/NxmlQ2/341
+http://eyplay.io:80/l1vHzB/RV6D06/341
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/premiere.png" aspect-ratio="16:9" group-title="Canais | Premiere",Premiere 3 FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/342
+http://eyplay.io:80/l1vHzB/RV6D06/342
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/premiere.png" aspect-ratio="16:9" group-title="Canais | Premiere",Premiere 3 HD
-http://eyplay.io:80/qYp06D/NxmlQ2/343
+http://eyplay.io:80/l1vHzB/RV6D06/343
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/premiere.png" aspect-ratio="16:9" group-title="Canais | Premiere",Premiere 3 SD
-http://eyplay.io:80/qYp06D/NxmlQ2/344
+http://eyplay.io:80/l1vHzB/RV6D06/344
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/premiere.png" aspect-ratio="16:9" group-title="Canais | Premiere",Premiere 4 FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/345
+http://eyplay.io:80/l1vHzB/RV6D06/345
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/premiere.png" aspect-ratio="16:9" group-title="Canais | Premiere",Premiere 4 HD
-http://eyplay.io:80/qYp06D/NxmlQ2/346
+http://eyplay.io:80/l1vHzB/RV6D06/346
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/premiere.png" aspect-ratio="16:9" group-title="Canais | Premiere",Premiere 4 SD
-http://eyplay.io:80/qYp06D/NxmlQ2/347
+http://eyplay.io:80/l1vHzB/RV6D06/347
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/premiere.png" aspect-ratio="16:9" group-title="Canais | Premiere",Premiere 5 FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/348
+http://eyplay.io:80/l1vHzB/RV6D06/348
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/premiere.png" aspect-ratio="16:9" group-title="Canais | Premiere",Premiere 5 HD
-http://eyplay.io:80/qYp06D/NxmlQ2/349
+http://eyplay.io:80/l1vHzB/RV6D06/349
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/premiere.png" aspect-ratio="16:9" group-title="Canais | Premiere",Premiere 5 SD
-http://eyplay.io:80/qYp06D/NxmlQ2/350
+http://eyplay.io:80/l1vHzB/RV6D06/350
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/premiere.png" aspect-ratio="16:9" group-title="Canais | Premiere",Premiere 6 FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/351
+http://eyplay.io:80/l1vHzB/RV6D06/351
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/premiere.png" aspect-ratio="16:9" group-title="Canais | Premiere",Premiere 6 HD
-http://eyplay.io:80/qYp06D/NxmlQ2/352
+http://eyplay.io:80/l1vHzB/RV6D06/352
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/premiere.png" aspect-ratio="16:9" group-title="Canais | Premiere",Premiere 6 SD
-http://eyplay.io:80/qYp06D/NxmlQ2/353
+http://eyplay.io:80/l1vHzB/RV6D06/353
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/premiere.png" aspect-ratio="16:9" group-title="Canais | Premiere",Premiere 7 FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/354
+http://eyplay.io:80/l1vHzB/RV6D06/354
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/premiere.png" aspect-ratio="16:9" group-title="Canais | Premiere",Premiere 7 HD
-http://eyplay.io:80/qYp06D/NxmlQ2/355
+http://eyplay.io:80/l1vHzB/RV6D06/355
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/premiere.png" aspect-ratio="16:9" group-title="Canais | Premiere",Premiere 7 SD
-http://eyplay.io:80/qYp06D/NxmlQ2/356
+http://eyplay.io:80/l1vHzB/RV6D06/356
 
 
 
@@ -1522,39 +1522,39 @@ https://facebook.com/xx.ely.david.xx
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/sportv.png" aspect-ratio="16:9" group-title="Canais | SporTV",SporTV FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/398
+http://eyplay.io:80/l1vHzB/RV6D06/398
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/sportv.png" aspect-ratio="16:9" group-title="Canais | SporTV",SporTV HD
-http://eyplay.io:80/qYp06D/NxmlQ2/399
+http://eyplay.io:80/l1vHzB/RV6D06/399
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/sportv.png" aspect-ratio="16:9" group-title="Canais | SporTV",SporTV SD
-http://eyplay.io:80/qYp06D/NxmlQ2/400
+http://eyplay.io:80/l1vHzB/RV6D06/400
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/sportv2.png" aspect-ratio="16:9" group-title="Canais | SporTV",SporTV 2 FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/392
+http://eyplay.io:80/l1vHzB/RV6D06/392
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/sportv2.png" aspect-ratio="16:9" group-title="Canais | SporTV",SporTV 2 HD
-http://eyplay.io:80/qYp06D/NxmlQ2/393
+http://eyplay.io:80/l1vHzB/RV6D06/393
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/sportv2.png" aspect-ratio="16:9" group-title="Canais | SporTV",SporTV 2 SD
-http://eyplay.io:80/qYp06D/NxmlQ2/394
+http://eyplay.io:80/l1vHzB/RV6D06/394
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/sportv3.png" aspect-ratio="16:9" group-title="Canais | SporTV",SporTV 3 FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/395
+http://eyplay.io:80/l1vHzB/RV6D06/395
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/sportv3.png" aspect-ratio="16:9" group-title="Canais | SporTV",SporTV 3 HD
-http://eyplay.io:80/qYp06D/NxmlQ2/396
+http://eyplay.io:80/l1vHzB/RV6D06/396
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/sportv3.png" aspect-ratio="16:9" group-title="Canais | SporTV",SporTV 3 SD
-http://eyplay.io:80/qYp06D/NxmlQ2/397
+http://eyplay.io:80/l1vHzB/RV6D06/397
 
 
 
@@ -1571,75 +1571,75 @@ https://facebook.com/xx.ely.david.xx
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/telecineaction.png" aspect-ratio="16:9" group-title="Canais | Telecine",Telecine Action FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/413
+http://eyplay.io:80/l1vHzB/RV6D06/413
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/telecineaction.png" aspect-ratio="16:9" group-title="Canais | Telecine",Telecine Action HD
-http://eyplay.io:80/qYp06D/NxmlQ2/414
+http://eyplay.io:80/l1vHzB/RV6D06/414
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/telecineaction.png" aspect-ratio="16:9" group-title="Canais | Telecine",Telecine Action SD
-http://eyplay.io:80/qYp06D/NxmlQ2/415
+http://eyplay.io:80/l1vHzB/RV6D06/415
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/telecinecult.png" aspect-ratio="16:9" group-title="Canais | Telecine",Telecine Cult FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/416
+http://eyplay.io:80/l1vHzB/RV6D06/416
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/telecinecult.png" aspect-ratio="16:9" group-title="Canais | Telecine",Telecine Cult HD
-http://eyplay.io:80/qYp06D/NxmlQ2/417
+http://eyplay.io:80/l1vHzB/RV6D06/417
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/telecinecult.png" aspect-ratio="16:9" group-title="Canais | Telecine",Telecine Cult SD
-http://eyplay.io:80/qYp06D/NxmlQ2/418
+http://eyplay.io:80/l1vHzB/RV6D06/418
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/telecinefun.png" aspect-ratio="16:9" group-title="Canais | Telecine",Telecine Fun FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/419
+http://eyplay.io:80/l1vHzB/RV6D06/419
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/telecinefun.png" aspect-ratio="16:9" group-title="Canais | Telecine",Telecine Fun HD
-http://eyplay.io:80/qYp06D/NxmlQ2/420
+http://eyplay.io:80/l1vHzB/RV6D06/420
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/telecinefun.png" aspect-ratio="16:9" group-title="Canais | Telecine",Telecine Fun SD
-http://eyplay.io:80/qYp06D/NxmlQ2/421
+http://eyplay.io:80/l1vHzB/RV6D06/421
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/telecinepipoca.png" aspect-ratio="16:9" group-title="Canais | Telecine",Telecine Pipoca FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/422
+http://eyplay.io:80/l1vHzB/RV6D06/422
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/telecinepipoca.png" aspect-ratio="16:9" group-title="Canais | Telecine",Telecine Pipoca HD
-http://eyplay.io:80/qYp06D/NxmlQ2/423
+http://eyplay.io:80/l1vHzB/RV6D06/423
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/telecinepipoca.png" aspect-ratio="16:9" group-title="Canais | Telecine",Telecine Pipoca SD
-http://eyplay.io:80/qYp06D/NxmlQ2/424
+http://eyplay.io:80/l1vHzB/RV6D06/424
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/telecinepremium.png" aspect-ratio="16:9" group-title="Canais | Telecine",Telecine Premium FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/425
+http://eyplay.io:80/l1vHzB/RV6D06/425
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/telecinepremium.png" aspect-ratio="16:9" group-title="Canais | Telecine",Telecine Premium HD
-http://eyplay.io:80/qYp06D/NxmlQ2/426
+http://eyplay.io:80/l1vHzB/RV6D06/426
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/telecinepremium.png" aspect-ratio="16:9" group-title="Canais | Telecine",Telecine Premium SD
-http://eyplay.io:80/qYp06D/NxmlQ2/427
+http://eyplay.io:80/l1vHzB/RV6D06/427
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/telecinetouch.png" aspect-ratio="16:9" group-title="Canais | Telecine",Telecine Touch FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/428
+http://eyplay.io:80/l1vHzB/RV6D06/428
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/telecinetouch.png" aspect-ratio="16:9" group-title="Canais | Telecine",Telecine Touch HD
-http://eyplay.io:80/qYp06D/NxmlQ2/429
+http://eyplay.io:80/l1vHzB/RV6D06/429
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/telecinetouch.png" aspect-ratio="16:9" group-title="Canais | Telecine",Telecine Touch SD
-http://eyplay.io:80/qYp06D/NxmlQ2/430
+http://eyplay.io:80/l1vHzB/RV6D06/430
 
 
 
@@ -1656,315 +1656,315 @@ https://facebook.com/xx.ely.david.xx
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/a%26e.png" aspect-ratio="16:9" group-title="Canais | Variedades",AE FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/2
+http://eyplay.io:80/l1vHzB/RV6D06/2
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/a%26e.png" aspect-ratio="16:9" group-title="Canais | Variedades",AE HD
-http://eyplay.io:80/qYp06D/NxmlQ2/3
+http://eyplay.io:80/l1vHzB/RV6D06/3
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/a%26e.png" aspect-ratio="16:9" group-title="Canais | Variedades",AE SD
-http://eyplay.io:80/qYp06D/NxmlQ2/4
+http://eyplay.io:80/l1vHzB/RV6D06/4
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/bis.png" aspect-ratio="16:9" group-title="Canais | Variedades",BIS FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/48
+http://eyplay.io:80/l1vHzB/RV6D06/48
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/bis.png" aspect-ratio="16:9" group-title="Canais | Variedades",BIS HD
-http://eyplay.io:80/qYp06D/NxmlQ2/49
+http://eyplay.io:80/l1vHzB/RV6D06/49
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/bis.png" aspect-ratio="16:9" group-title="Canais | Variedades",BIS SD
-http://eyplay.io:80/qYp06D/NxmlQ2/50
+http://eyplay.io:80/l1vHzB/RV6D06/50
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/4fun.png" aspect-ratio="16:9" group-title="Canais | Variedades",Canal 4 Fun HD
-http://eyplay.io:80/qYp06D/NxmlQ2/54
+http://eyplay.io:80/l1vHzB/RV6D06/54
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/cheftv.png" aspect-ratio="16:9" group-title="Canais | Variedades",Chef TV FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/63
+http://eyplay.io:80/l1vHzB/RV6D06/63
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/cheftv.png" aspect-ratio="16:9" group-title="Canais | Variedades",Chef TV HD
-http://eyplay.io:80/qYp06D/NxmlQ2/64
+http://eyplay.io:80/l1vHzB/RV6D06/64
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/cheftv.png" aspect-ratio="16:9" group-title="Canais | Variedades",Chef TV SD
-http://eyplay.io:80/qYp06D/NxmlQ2/65
+http://eyplay.io:80/l1vHzB/RV6D06/65
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/comedycentral.png" aspect-ratio="16:9" group-title="Canais | Variedades",Comedy Central FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/79
+http://eyplay.io:80/l1vHzB/RV6D06/79
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/comedycentral.png" aspect-ratio="16:9" group-title="Canais | Variedades",Comedy Central HD
-http://eyplay.io:80/qYp06D/NxmlQ2/80
+http://eyplay.io:80/l1vHzB/RV6D06/80
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/comedycentral.png" aspect-ratio="16:9" group-title="Canais | Variedades",Comedy Central SD
-http://eyplay.io:80/qYp06D/NxmlQ2/81
+http://eyplay.io:80/l1vHzB/RV6D06/81
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/discoveryh%26h.png" aspect-ratio="16:9" group-title="Canais | Variedades",Discovery Home & Health FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/101
+http://eyplay.io:80/l1vHzB/RV6D06/101
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/discoveryh%26h.png" aspect-ratio="16:9" group-title="Canais | Variedades",Discovery Home & Health HD
-http://eyplay.io:80/qYp06D/NxmlQ2/102
+http://eyplay.io:80/l1vHzB/RV6D06/102
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/discoveryh%26h.png" aspect-ratio="16:9" group-title="Canais | Variedades",Discovery Home & Health SD
-http://eyplay.io:80/qYp06D/NxmlQ2/103
+http://eyplay.io:80/l1vHzB/RV6D06/103
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/id.png" aspect-ratio="16:9" group-title="Canais | Variedades",Discovery ID FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/294
+http://eyplay.io:80/l1vHzB/RV6D06/294
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/id.png" aspect-ratio="16:9" group-title="Canais | Variedades",Discovery ID HD
-http://eyplay.io:80/qYp06D/NxmlQ2/295
+http://eyplay.io:80/l1vHzB/RV6D06/295
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/id.png" aspect-ratio="16:9" group-title="Canais | Variedades",Discovery ID SD
-http://eyplay.io:80/qYp06D/NxmlQ2/296
+http://eyplay.io:80/l1vHzB/RV6D06/296
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/discoveryturbo.png" aspect-ratio="16:9" group-title="Canais | Variedades",Discovery Turbo FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/113
+http://eyplay.io:80/l1vHzB/RV6D06/113
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/discoveryturbo.png" aspect-ratio="16:9" group-title="Canais | Variedades",Discovery Turbo HD
-http://eyplay.io:80/qYp06D/NxmlQ2/114
+http://eyplay.io:80/l1vHzB/RV6D06/114
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/discoveryturbo.png" aspect-ratio="16:9" group-title="Canais | Variedades",Discovery Turbo SD
-http://eyplay.io:80/qYp06D/NxmlQ2/115
+http://eyplay.io:80/l1vHzB/RV6D06/115
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/e%21.png" aspect-ratio="16:9" group-title="Canais | Variedades",E FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/128
+http://eyplay.io:80/l1vHzB/RV6D06/128
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/e%21.png" aspect-ratio="16:9" group-title="Canais | Variedades",E SD
-http://eyplay.io:80/qYp06D/NxmlQ2/130
+http://eyplay.io:80/l1vHzB/RV6D06/130
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/e%21.png" aspect-ratio="16:9" group-title="Canais | Variedades",E! HD
-http://eyplay.io:80/qYp06D/NxmlQ2/129
+http://eyplay.io:80/l1vHzB/RV6D06/129
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/fishtv.png" aspect-ratio="16:9" group-title="Canais | Variedades",Fish TV FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/155
+http://eyplay.io:80/l1vHzB/RV6D06/155
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/fishtv.png" aspect-ratio="16:9" group-title="Canais | Variedades",Fish TV HD
-http://eyplay.io:80/qYp06D/NxmlQ2/156
+http://eyplay.io:80/l1vHzB/RV6D06/156
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/fishtv.png" aspect-ratio="16:9" group-title="Canais | Variedades",Fish TV SD
-http://eyplay.io:80/qYp06D/NxmlQ2/157
+http://eyplay.io:80/l1vHzB/RV6D06/157
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/foodnetwork.png" aspect-ratio="16:9" group-title="Canais | Variedades",Food Network FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/158
+http://eyplay.io:80/l1vHzB/RV6D06/158
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/foodnetwork.png" aspect-ratio="16:9" group-title="Canais | Variedades",Food Network HD
-http://eyplay.io:80/qYp06D/NxmlQ2/159
+http://eyplay.io:80/l1vHzB/RV6D06/159
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/foodnetwork.png" aspect-ratio="16:9" group-title="Canais | Variedades",Food Network SD
-http://eyplay.io:80/qYp06D/NxmlQ2/160
+http://eyplay.io:80/l1vHzB/RV6D06/160
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/foxlife.png" aspect-ratio="16:9" group-title="Canais | Variedades",Fox Life FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/163
+http://eyplay.io:80/l1vHzB/RV6D06/163
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/foxlife.png" aspect-ratio="16:9" group-title="Canais | Variedades",Fox Life HD
-http://eyplay.io:80/qYp06D/NxmlQ2/164
+http://eyplay.io:80/l1vHzB/RV6D06/164
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/foxlife.png" aspect-ratio="16:9" group-title="Canais | Variedades",Fox Life SD
-http://eyplay.io:80/qYp06D/NxmlQ2/165
+http://eyplay.io:80/l1vHzB/RV6D06/165
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/gnt.png" aspect-ratio="16:9" group-title="Canais | Variedades",GNT FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/258
+http://eyplay.io:80/l1vHzB/RV6D06/258
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/gnt.png" aspect-ratio="16:9" group-title="Canais | Variedades",GNT HD
-http://eyplay.io:80/qYp06D/NxmlQ2/259
+http://eyplay.io:80/l1vHzB/RV6D06/259
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/gnt.png" aspect-ratio="16:9" group-title="Canais | Variedades",GNT SD
-http://eyplay.io:80/qYp06D/NxmlQ2/260
+http://eyplay.io:80/l1vHzB/RV6D06/260
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/isat.png" aspect-ratio="16:9" group-title="Canais | Variedades",i Sat FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/291
+http://eyplay.io:80/l1vHzB/RV6D06/291
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/isat.png" aspect-ratio="16:9" group-title="Canais | Variedades",i Sat HD
-http://eyplay.io:80/qYp06D/NxmlQ2/292
+http://eyplay.io:80/l1vHzB/RV6D06/292
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/isat.png" aspect-ratio="16:9" group-title="Canais | Variedades",I Sat SD
-http://eyplay.io:80/qYp06D/NxmlQ2/293
+http://eyplay.io:80/l1vHzB/RV6D06/293
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/lifetime.png" aspect-ratio="16:9" group-title="Canais | Variedades",Lifetime FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/297
+http://eyplay.io:80/l1vHzB/RV6D06/297
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/lifetime.png" aspect-ratio="16:9" group-title="Canais | Variedades",Lifetime HD
-http://eyplay.io:80/qYp06D/NxmlQ2/298
+http://eyplay.io:80/l1vHzB/RV6D06/298
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/lifetime.png" aspect-ratio="16:9" group-title="Canais | Variedades",Lifetime SD
-http://eyplay.io:80/qYp06D/NxmlQ2/299
+http://eyplay.io:80/l1vHzB/RV6D06/299
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/maisglobosat.png" aspect-ratio="16:9" group-title="Canais | Variedades",Mais Globosat FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/300
+http://eyplay.io:80/l1vHzB/RV6D06/300
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/maisglobosat.png" aspect-ratio="16:9" group-title="Canais | Variedades",Mais Globosat HD
-http://eyplay.io:80/qYp06D/NxmlQ2/301
+http://eyplay.io:80/l1vHzB/RV6D06/301
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/maisglobosat.png" aspect-ratio="16:9" group-title="Canais | Variedades",Mais Globosat SD
-http://eyplay.io:80/qYp06D/NxmlQ2/302
+http://eyplay.io:80/l1vHzB/RV6D06/302
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/mtv.png" aspect-ratio="16:9" group-title="Canais | Variedades",MTV FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/306
+http://eyplay.io:80/l1vHzB/RV6D06/306
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/mtv.png" aspect-ratio="16:9" group-title="Canais | Variedades",MTV HD
-http://eyplay.io:80/qYp06D/NxmlQ2/307
+http://eyplay.io:80/l1vHzB/RV6D06/307
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/mtv.png" aspect-ratio="16:9" group-title="Canais | Variedades",MTV SD
-http://eyplay.io:80/qYp06D/NxmlQ2/308
+http://eyplay.io:80/l1vHzB/RV6D06/308
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/multishow.png" aspect-ratio="16:9" group-title="Canais | Variedades",Multishow FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/309
+http://eyplay.io:80/l1vHzB/RV6D06/309
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/multishow.png" aspect-ratio="16:9" group-title="Canais | Variedades",Multishow HD
-http://eyplay.io:80/qYp06D/NxmlQ2/310
+http://eyplay.io:80/l1vHzB/RV6D06/310
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/multishow.png" aspect-ratio="16:9" group-title="Canais | Variedades",Multishow SD
-http://eyplay.io:80/qYp06D/NxmlQ2/311
+http://eyplay.io:80/l1vHzB/RV6D06/311
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/musicboxbrazil.png" aspect-ratio="16:9" group-title="Canais | Variedades",Music Box Brasil FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/312
+http://eyplay.io:80/l1vHzB/RV6D06/312
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/musicboxbrazil.png" aspect-ratio="16:9" group-title="Canais | Variedades",Music Box Brasil HD
-http://eyplay.io:80/qYp06D/NxmlQ2/313
+http://eyplay.io:80/l1vHzB/RV6D06/313
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/musicboxbrazil.png" aspect-ratio="16:9" group-title="Canais | Variedades",Music Box Brasil SD
-http://eyplay.io:80/qYp06D/NxmlQ2/314
+http://eyplay.io:80/l1vHzB/RV6D06/314
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/off.png" aspect-ratio="16:9" group-title="Canais | Variedades",OFF FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/330
+http://eyplay.io:80/l1vHzB/RV6D06/330
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/off.png" aspect-ratio="16:9" group-title="Canais | Variedades",OFF HD
-http://eyplay.io:80/qYp06D/NxmlQ2/331
+http://eyplay.io:80/l1vHzB/RV6D06/331
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/off.png" aspect-ratio="16:9" group-title="Canais | Variedades",OFF SD
-http://eyplay.io:80/qYp06D/NxmlQ2/332
+http://eyplay.io:80/l1vHzB/RV6D06/332
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/playtv.png" aspect-ratio="16:9" group-title="Canais | Variedades",Play TV FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/336
+http://eyplay.io:80/l1vHzB/RV6D06/336
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/playtv.png" aspect-ratio="16:9" group-title="Canais | Variedades",Play TV HD
-http://eyplay.io:80/qYp06D/NxmlQ2/337
+http://eyplay.io:80/l1vHzB/RV6D06/337
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/playtv.png" aspect-ratio="16:9" group-title="Canais | Variedades",Play TV SD
-http://eyplay.io:80/qYp06D/NxmlQ2/338
+http://eyplay.io:80/l1vHzB/RV6D06/338
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/primeboxbrazil.png" aspect-ratio="16:9" group-title="Canais | Variedades",Prime Box Brasil FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/360
+http://eyplay.io:80/l1vHzB/RV6D06/360
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/primeboxbrazil.png" aspect-ratio="16:9" group-title="Canais | Variedades",Prime Box Brasil HD
-http://eyplay.io:80/qYp06D/NxmlQ2/361
+http://eyplay.io:80/l1vHzB/RV6D06/361
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/primeboxbrazil.png" aspect-ratio="16:9" group-title="Canais | Variedades",Prime Box Brasil SD
-http://eyplay.io:80/qYp06D/NxmlQ2/362
+http://eyplay.io:80/l1vHzB/RV6D06/362
 
 
 #EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="Canais | Variedades",Shoptime FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/385
+http://eyplay.io:80/l1vHzB/RV6D06/385
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/tlc.png" aspect-ratio="16:9" group-title="Canais | Variedades",TLC FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/431
+http://eyplay.io:80/l1vHzB/RV6D06/431
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/tlc.png" aspect-ratio="16:9" group-title="Canais | Variedades",TLC HD
-http://eyplay.io:80/qYp06D/NxmlQ2/432
+http://eyplay.io:80/l1vHzB/RV6D06/432
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/tlc.png" aspect-ratio="16:9" group-title="Canais | Variedades",TLC SD
-http://eyplay.io:80/qYp06D/NxmlQ2/433
+http://eyplay.io:80/l1vHzB/RV6D06/433
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/tv5.png" aspect-ratio="16:9" group-title="Canais | Variedades",TV5 HD
-http://eyplay.io:80/qYp06D/NxmlQ2/451
+http://eyplay.io:80/l1vHzB/RV6D06/451
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/vh1.png" aspect-ratio="16:9" group-title="Canais | Variedades",VH1 FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/477
+http://eyplay.io:80/l1vHzB/RV6D06/477
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/vh1.png" aspect-ratio="16:9" group-title="Canais | Variedades",VH1 HD
-http://eyplay.io:80/qYp06D/NxmlQ2/14077
+http://eyplay.io:80/l1vHzB/RV6D06/14077
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/vh1megahits.png" aspect-ratio="16:9" group-title="Canais | Variedades",VH1 Mega Hits FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/455
+http://eyplay.io:80/l1vHzB/RV6D06/455
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/vh1megahits.png" aspect-ratio="16:9" group-title="Canais | Variedades",VH1 Mega Hits HD
-http://eyplay.io:80/qYp06D/NxmlQ2/456
+http://eyplay.io:80/l1vHzB/RV6D06/456
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/vh1megahits.png" aspect-ratio="16:9" group-title="Canais | Variedades",VH1 Mega Hits SD
-http://eyplay.io:80/qYp06D/NxmlQ2/457
+http://eyplay.io:80/l1vHzB/RV6D06/457
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/viva.png" aspect-ratio="16:9" group-title="Canais | Variedades",Viva FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/458
+http://eyplay.io:80/l1vHzB/RV6D06/458
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/viva.png" aspect-ratio="16:9" group-title="Canais | Variedades",Viva HD
-http://eyplay.io:80/qYp06D/NxmlQ2/459
+http://eyplay.io:80/l1vHzB/RV6D06/459
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/viva.png" aspect-ratio="16:9" group-title="Canais | Variedades",Viva SD
-http://eyplay.io:80/qYp06D/NxmlQ2/460
+http://eyplay.io:80/l1vHzB/RV6D06/460
 
 
 #EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/woohoo.png" aspect-ratio="16:9" group-title="Canais | Variedades",Woohoo FHD (H265)
-http://eyplay.io:80/qYp06D/NxmlQ2/464
+http://eyplay.io:80/l1vHzB/RV6D06/464
 
 
 
@@ -1973,1871 +1973,1871 @@ http://eyplay.io:80/qYp06D/NxmlQ2/464
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/W2q" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) 101 DALMATAS
-http://eyplay.io:80/qYp06D/NxmlQ2/478
+http://eyplay.io:80/l1vHzB/RV6D06/478
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/Oym" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) 3 PALAVRINHAS
-http://eyplay.io:80/qYp06D/NxmlQ2/480
+http://eyplay.io:80/l1vHzB/RV6D06/480
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/Gkw" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) A BRUXINHA SABRINA
-http://eyplay.io:80/qYp06D/NxmlQ2/481
+http://eyplay.io:80/l1vHzB/RV6D06/481
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/gMc" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) A CEGONHA PERNA FINA
-http://eyplay.io:80/qYp06D/NxmlQ2/482
+http://eyplay.io:80/l1vHzB/RV6D06/482
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/rpW" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) A COBRINHA AZUL
-http://eyplay.io:80/qYp06D/NxmlQ2/483
+http://eyplay.io:80/l1vHzB/RV6D06/483
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/JEs" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) A ESCOLINHA DO PROFESSOR RAIMUNDO
-http://eyplay.io:80/qYp06D/NxmlQ2/484
+http://eyplay.io:80/l1vHzB/RV6D06/484
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/WLj" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) A FAMILIA ADDAMS 1992
-http://eyplay.io:80/qYp06D/NxmlQ2/485
+http://eyplay.io:80/l1vHzB/RV6D06/485
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/VpD" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) A FAMILIA DRACULA
-http://eyplay.io:80/qYp06D/NxmlQ2/486
+http://eyplay.io:80/l1vHzB/RV6D06/486
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/oXz" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) A FAMILIA DRACULA
-http://eyplay.io:80/qYp06D/NxmlQ2/487
+http://eyplay.io:80/l1vHzB/RV6D06/487
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/oxJ" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) A FAMÍLIA DINOSSAURO
-http://eyplay.io:80/qYp06D/NxmlQ2/488
+http://eyplay.io:80/l1vHzB/RV6D06/488
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/xQy" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) A FEITICEIRA FACEIRA
-http://eyplay.io:80/qYp06D/NxmlQ2/490
+http://eyplay.io:80/l1vHzB/RV6D06/490
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/rmg" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) A FORMIGA ATÔMICA
-http://eyplay.io:80/qYp06D/NxmlQ2/491
+http://eyplay.io:80/l1vHzB/RV6D06/491
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/ct4" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) A MANSÃO FOSTER PARA AMIGOS IMAGINÁRIOS
-http://eyplay.io:80/qYp06D/NxmlQ2/492
+http://eyplay.io:80/l1vHzB/RV6D06/492
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/8fr" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) A MUMIA
-http://eyplay.io:80/qYp06D/NxmlQ2/493
+http://eyplay.io:80/l1vHzB/RV6D06/493
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/rgL" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) A NOSSA TURMA
-http://eyplay.io:80/qYp06D/NxmlQ2/494
+http://eyplay.io:80/l1vHzB/RV6D06/494
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/dBZ" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) A PANTERA COR DE ROSA
-http://eyplay.io:80/qYp06D/NxmlQ2/495
+http://eyplay.io:80/l1vHzB/RV6D06/495
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/yfa" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) A PEQUENA SEREIA
-http://eyplay.io:80/qYp06D/NxmlQ2/496
+http://eyplay.io:80/l1vHzB/RV6D06/496
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/PLZ" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) A PEQUENA SEREIA
-http://eyplay.io:80/qYp06D/NxmlQ2/497
+http://eyplay.io:80/l1vHzB/RV6D06/497
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/b9e" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) A TURMA DE CHARLIE BROWN E SNOOPY
-http://eyplay.io:80/qYp06D/NxmlQ2/498
+http://eyplay.io:80/l1vHzB/RV6D06/498
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/DFd" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) A VACA E O FRANGO
-http://eyplay.io:80/qYp06D/NxmlQ2/500
+http://eyplay.io:80/l1vHzB/RV6D06/500
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/u8R" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) A VIDA MODERNA DE ROCKO
-http://eyplay.io:80/qYp06D/NxmlQ2/501
+http://eyplay.io:80/l1vHzB/RV6D06/501
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/nnb" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) ACAMPAMENTO LAKEBOTTOM
-http://eyplay.io:80/qYp06D/NxmlQ2/502
+http://eyplay.io:80/l1vHzB/RV6D06/502
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/Dkk" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) ALADDIN DESENHO ANIMADO
-http://eyplay.io:80/qYp06D/NxmlQ2/503
+http://eyplay.io:80/l1vHzB/RV6D06/503
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/25A" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) ANDY PANDA
-http://eyplay.io:80/qYp06D/NxmlQ2/504
+http://eyplay.io:80/l1vHzB/RV6D06/504
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/Y6A" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) ANIMANIACS
-http://eyplay.io:80/qYp06D/NxmlQ2/505
+http://eyplay.io:80/l1vHzB/RV6D06/505
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/YOR" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) ARQUIVO CÃOFIDENCIAL
-http://eyplay.io:80/qYp06D/NxmlQ2/506
+http://eyplay.io:80/l1vHzB/RV6D06/506
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/zsb" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) AS AVENTURAS DE JACKIE CHAN
-http://eyplay.io:80/qYp06D/NxmlQ2/507
+http://eyplay.io:80/l1vHzB/RV6D06/507
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/WYd" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) AS AVENTURAS DE TINTIM
-http://eyplay.io:80/qYp06D/NxmlQ2/508
+http://eyplay.io:80/l1vHzB/RV6D06/508
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/UXr" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) AS MENINAS SUPERPODEROSAS
-http://eyplay.io:80/qYp06D/NxmlQ2/510
+http://eyplay.io:80/l1vHzB/RV6D06/510
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/6ig" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) AS MUMIAS VIVAS
-http://eyplay.io:80/qYp06D/NxmlQ2/511
+http://eyplay.io:80/l1vHzB/RV6D06/511
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/yci" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) AS TARTARUGAS NINJAS
-http://eyplay.io:80/qYp06D/NxmlQ2/512
+http://eyplay.io:80/l1vHzB/RV6D06/512
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/yfQ" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) AS TRAPALHADAS DE FLAPJACK
-http://eyplay.io:80/qYp06D/NxmlQ2/513
+http://eyplay.io:80/l1vHzB/RV6D06/513
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/7dO" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) AS TRIGÊMIAS
-http://eyplay.io:80/qYp06D/NxmlQ2/514
+http://eyplay.io:80/l1vHzB/RV6D06/514
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/Sbk" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) AVATAR ANIME COMPLETO
-http://eyplay.io:80/qYp06D/NxmlQ2/515
+http://eyplay.io:80/l1vHzB/RV6D06/515
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/q0F" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) BABY LOONEY TOONES
-http://eyplay.io:80/qYp06D/NxmlQ2/516
+http://eyplay.io:80/l1vHzB/RV6D06/516
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/K0W" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) BACKYARDIGANS
-http://eyplay.io:80/qYp06D/NxmlQ2/517
+http://eyplay.io:80/l1vHzB/RV6D06/517
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/XZX" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) BAKUGAN
-http://eyplay.io:80/qYp06D/NxmlQ2/518
+http://eyplay.io:80/l1vHzB/RV6D06/518
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/7cW" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) BATES MOTEL T01
-http://eyplay.io:80/qYp06D/NxmlQ2/520
+http://eyplay.io:80/l1vHzB/RV6D06/520
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/BJb" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) BATES MOTEL T02
-http://eyplay.io:80/qYp06D/NxmlQ2/521
+http://eyplay.io:80/l1vHzB/RV6D06/521
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/u9Y" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) BATES MOTEL T03
-http://eyplay.io:80/qYp06D/NxmlQ2/522
+http://eyplay.io:80/l1vHzB/RV6D06/522
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/g0k" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) BATES MOTEL T04
-http://eyplay.io:80/qYp06D/NxmlQ2/523
+http://eyplay.io:80/l1vHzB/RV6D06/523
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/yXN" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) BATES MOTEL T05
-http://eyplay.io:80/qYp06D/NxmlQ2/524
+http://eyplay.io:80/l1vHzB/RV6D06/524
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/fgp" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) BEN 10 2006 - 2008
-http://eyplay.io:80/qYp06D/NxmlQ2/525
+http://eyplay.io:80/l1vHzB/RV6D06/525
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/Se7" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) BEN 10 FORCA ALIENIGENA 2008 - 2010
-http://eyplay.io:80/qYp06D/NxmlQ2/526
+http://eyplay.io:80/l1vHzB/RV6D06/526
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/fRG" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) BEN 10 OMNIVERSE 2012 - 2014
-http://eyplay.io:80/qYp06D/NxmlQ2/527
+http://eyplay.io:80/l1vHzB/RV6D06/527
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/kAS" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) BEN 10 SUPREMACIA ALIENIGENA 2010 - 2012
-http://eyplay.io:80/qYp06D/NxmlQ2/528
+http://eyplay.io:80/l1vHzB/RV6D06/528
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/ZgD" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) BEYBLADE G REVOLUTION 2003
-http://eyplay.io:80/qYp06D/NxmlQ2/530
+http://eyplay.io:80/l1vHzB/RV6D06/530
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/Npo" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) BEYBLADE METAL FUSION 2010
-http://eyplay.io:80/qYp06D/NxmlQ2/531
+http://eyplay.io:80/l1vHzB/RV6D06/531
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/Ir2" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) BEYBLADE V FORCE
-http://eyplay.io:80/qYp06D/NxmlQ2/532
+http://eyplay.io:80/l1vHzB/RV6D06/532
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/hkX" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) BIBO PAI E BOB FILHO
-http://eyplay.io:80/qYp06D/NxmlQ2/533
+http://eyplay.io:80/l1vHzB/RV6D06/533
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/u2i" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) BICUDO
-http://eyplay.io:80/qYp06D/NxmlQ2/534
+http://eyplay.io:80/l1vHzB/RV6D06/534
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/NKM" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) BOB ESPONJA T01
-http://eyplay.io:80/qYp06D/NxmlQ2/535
+http://eyplay.io:80/l1vHzB/RV6D06/535
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/WL4" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) BOB ESPONJA T02
-http://eyplay.io:80/qYp06D/NxmlQ2/536
+http://eyplay.io:80/l1vHzB/RV6D06/536
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/lYX" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) BOB ESPONJA T03
-http://eyplay.io:80/qYp06D/NxmlQ2/537
+http://eyplay.io:80/l1vHzB/RV6D06/537
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/Esx" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) BOB ESPONJA T04
-http://eyplay.io:80/qYp06D/NxmlQ2/538
+http://eyplay.io:80/l1vHzB/RV6D06/538
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/eR6" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) BOB ESPONJA T06
-http://eyplay.io:80/qYp06D/NxmlQ2/540
+http://eyplay.io:80/l1vHzB/RV6D06/540
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/8mV" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) BOB ESPONJA T07
-http://eyplay.io:80/qYp06D/NxmlQ2/541
+http://eyplay.io:80/l1vHzB/RV6D06/541
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/qzG" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) BOB ESPONJA T08
-http://eyplay.io:80/qYp06D/NxmlQ2/542
+http://eyplay.io:80/l1vHzB/RV6D06/542
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/Z9a" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) BOB ESPONJA T09
-http://eyplay.io:80/qYp06D/NxmlQ2/543
+http://eyplay.io:80/l1vHzB/RV6D06/543
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/6tk" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) BOB ESPONJA T10
-http://eyplay.io:80/qYp06D/NxmlQ2/544
+http://eyplay.io:80/l1vHzB/RV6D06/544
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/6k6" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) BREAKING BAD T01
-http://eyplay.io:80/qYp06D/NxmlQ2/545
+http://eyplay.io:80/l1vHzB/RV6D06/545
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/2kU" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) BREAKING BAD T02
-http://eyplay.io:80/qYp06D/NxmlQ2/546
+http://eyplay.io:80/l1vHzB/RV6D06/546
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/363" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) BREAKING BAD T03
-http://eyplay.io:80/qYp06D/NxmlQ2/547
+http://eyplay.io:80/l1vHzB/RV6D06/547
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/jhW" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) BREAKING BAD T04
-http://eyplay.io:80/qYp06D/NxmlQ2/548
+http://eyplay.io:80/l1vHzB/RV6D06/548
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/pMr" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) BUCKY JIBAKU KUN
-http://eyplay.io:80/qYp06D/NxmlQ2/550
+http://eyplay.io:80/l1vHzB/RV6D06/550
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/hXv" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) BUZZ LIGHTYEAR DO COMANDO
-http://eyplay.io:80/qYp06D/NxmlQ2/551
+http://eyplay.io:80/l1vHzB/RV6D06/551
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/MZY" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) CADILLACS E DINOSSAUROS
-http://eyplay.io:80/qYp06D/NxmlQ2/552
+http://eyplay.io:80/l1vHzB/RV6D06/552
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/XRp" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) CAEZINHOS DO CANIL
-http://eyplay.io:80/qYp06D/NxmlQ2/553
+http://eyplay.io:80/l1vHzB/RV6D06/553
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/zGs" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) CAMPEOES DO SENDOKAI
-http://eyplay.io:80/qYp06D/NxmlQ2/554
+http://eyplay.io:80/l1vHzB/RV6D06/554
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/SUS" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) CAPITAO PLANETA
-http://eyplay.io:80/qYp06D/NxmlQ2/555
+http://eyplay.io:80/l1vHzB/RV6D06/555
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/amw" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) CARMEN SANDIEGO
-http://eyplay.io:80/qYp06D/NxmlQ2/556
+http://eyplay.io:80/l1vHzB/RV6D06/556
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/4C5" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) CASTELO RA TIM BUM
-http://eyplay.io:80/qYp06D/NxmlQ2/557
+http://eyplay.io:80/l1vHzB/RV6D06/557
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/cZj" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) CAVERNA DO DRAGÃO
-http://eyplay.io:80/qYp06D/NxmlQ2/558
+http://eyplay.io:80/l1vHzB/RV6D06/558
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/11W" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) CHAVES CLASSICO EXTRA
-http://eyplay.io:80/qYp06D/NxmlQ2/560
+http://eyplay.io:80/l1vHzB/RV6D06/560
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/iAa" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) CHAVES CLÁSSICO T01
-http://eyplay.io:80/qYp06D/NxmlQ2/561
+http://eyplay.io:80/l1vHzB/RV6D06/561
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/OdH" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) CHAVES CLÁSSICO T02
-http://eyplay.io:80/qYp06D/NxmlQ2/562
+http://eyplay.io:80/l1vHzB/RV6D06/562
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/rAe" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) CHAVES CLÁSSICO T03
-http://eyplay.io:80/qYp06D/NxmlQ2/563
+http://eyplay.io:80/l1vHzB/RV6D06/563
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/P1G" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) CHAVES CLÁSSICO T04
-http://eyplay.io:80/qYp06D/NxmlQ2/564
+http://eyplay.io:80/l1vHzB/RV6D06/564
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/qbn" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) CHAVES CLÁSSICO T05
-http://eyplay.io:80/qYp06D/NxmlQ2/565
+http://eyplay.io:80/l1vHzB/RV6D06/565
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/Dye" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) CHAVES CLÁSSICO T06
-http://eyplay.io:80/qYp06D/NxmlQ2/566
+http://eyplay.io:80/l1vHzB/RV6D06/566
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/57D" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) CHOWDER
-http://eyplay.io:80/qYp06D/NxmlQ2/567
+http://eyplay.io:80/l1vHzB/RV6D06/567
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/8n7" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) CLARENCIO O OTIMISTA
-http://eyplay.io:80/qYp06D/NxmlQ2/568
+http://eyplay.io:80/l1vHzB/RV6D06/568
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/Epd" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) CLUBE DOS CARROS
-http://eyplay.io:80/qYp06D/NxmlQ2/570
+http://eyplay.io:80/l1vHzB/RV6D06/570
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/pa5" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) COELHO RICOCHETE
-http://eyplay.io:80/qYp06D/NxmlQ2/571
+http://eyplay.io:80/l1vHzB/RV6D06/571
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/veL" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) COLECAO BOB ZOOM
-http://eyplay.io:80/qYp06D/NxmlQ2/572
+http://eyplay.io:80/l1vHzB/RV6D06/572
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/u1Z" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) CONTOS DA CRYPTA ANIMACAO
-http://eyplay.io:80/qYp06D/NxmlQ2/573
+http://eyplay.io:80/l1vHzB/RV6D06/573
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/vSX" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) CORAGEM O CAO COVARDE
-http://eyplay.io:80/qYp06D/NxmlQ2/574
+http://eyplay.io:80/l1vHzB/RV6D06/574
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/Zti" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) CORRIDA ESPACIAL
-http://eyplay.io:80/qYp06D/NxmlQ2/575
+http://eyplay.io:80/l1vHzB/RV6D06/575
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/6fm" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) CORRIDA MALUCA
-http://eyplay.io:80/qYp06D/NxmlQ2/576
+http://eyplay.io:80/l1vHzB/RV6D06/576
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/nYT" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) CYBERCHASE A CORRIDA DO ESPACO
-http://eyplay.io:80/qYp06D/NxmlQ2/577
+http://eyplay.io:80/l1vHzB/RV6D06/577
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/oLh" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) DANNY PHANTOM 2004 - 2007
-http://eyplay.io:80/qYp06D/NxmlQ2/578
+http://eyplay.io:80/l1vHzB/RV6D06/578
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/sRx" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) De Ferias Com Ex T02
-http://eyplay.io:80/qYp06D/NxmlQ2/580
+http://eyplay.io:80/l1vHzB/RV6D06/580
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/i9q" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) De Ferias Com Ex T03
-http://eyplay.io:80/qYp06D/NxmlQ2/581
+http://eyplay.io:80/l1vHzB/RV6D06/581
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/zCp" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) DE VOLTA PARA O FUTURO
-http://eyplay.io:80/qYp06D/NxmlQ2/582
+http://eyplay.io:80/l1vHzB/RV6D06/582
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/H2U" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) DEBY E LOID
-http://eyplay.io:80/qYp06D/NxmlQ2/583
+http://eyplay.io:80/l1vHzB/RV6D06/583
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/IaZ" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) DENIS O PIMENTINHA
-http://eyplay.io:80/qYp06D/NxmlQ2/584
+http://eyplay.io:80/l1vHzB/RV6D06/584
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/TG1" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) DICK VIGARISTA E MUTTLEY - MAQUINAS VOADORAS
-http://eyplay.io:80/qYp06D/NxmlQ2/585
+http://eyplay.io:80/l1vHzB/RV6D06/585
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/J4f" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) DIGIMON DIGITAL MONSTERS T01
-http://eyplay.io:80/qYp06D/NxmlQ2/586
+http://eyplay.io:80/l1vHzB/RV6D06/586
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/pef" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) DIGIMON DIGITAL MONSTERS T02
-http://eyplay.io:80/qYp06D/NxmlQ2/587
+http://eyplay.io:80/l1vHzB/RV6D06/587
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/Gq4" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) DIGIMON DIGITAL MONSTERS T03
-http://eyplay.io:80/qYp06D/NxmlQ2/588
+http://eyplay.io:80/l1vHzB/RV6D06/588
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/CTA" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) DIGIMON DIGITAL MONSTERS T05
-http://eyplay.io:80/qYp06D/NxmlQ2/590
+http://eyplay.io:80/l1vHzB/RV6D06/590
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/mVd" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) DIGITAL MONSTERS T03
-http://eyplay.io:80/qYp06D/NxmlQ2/591
+http://eyplay.io:80/l1vHzB/RV6D06/591
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/n1l" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) DINOSSAURO REI
-http://eyplay.io:80/qYp06D/NxmlQ2/592
+http://eyplay.io:80/l1vHzB/RV6D06/592
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/KYC" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) DOIS HOMENS E MEIO T01
-http://eyplay.io:80/qYp06D/NxmlQ2/593
+http://eyplay.io:80/l1vHzB/RV6D06/593
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/Dkt" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) DOIS HOMENS E MEIO T02
-http://eyplay.io:80/qYp06D/NxmlQ2/594
+http://eyplay.io:80/l1vHzB/RV6D06/594
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/zYB" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) DOIS HOMENS E MEIO T03
-http://eyplay.io:80/qYp06D/NxmlQ2/595
+http://eyplay.io:80/l1vHzB/RV6D06/595
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/Mys" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) DOIS HOMENS E MEIO T04
-http://eyplay.io:80/qYp06D/NxmlQ2/596
+http://eyplay.io:80/l1vHzB/RV6D06/596
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/GPm" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) DOIS HOMENS E MEIO T05
-http://eyplay.io:80/qYp06D/NxmlQ2/597
+http://eyplay.io:80/l1vHzB/RV6D06/597
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/fyH" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) DOIS HOMENS E MEIO T06
-http://eyplay.io:80/qYp06D/NxmlQ2/598
+http://eyplay.io:80/l1vHzB/RV6D06/598
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/dhH" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) DOIS HOMENS E MEIO T08
-http://eyplay.io:80/qYp06D/NxmlQ2/600
+http://eyplay.io:80/l1vHzB/RV6D06/600
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/3fZ" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) DOIS HOMENS E MEIO T09
-http://eyplay.io:80/qYp06D/NxmlQ2/601
+http://eyplay.io:80/l1vHzB/RV6D06/601
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/x1G" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) DOIS HOMENS E MEIO T10
-http://eyplay.io:80/qYp06D/NxmlQ2/602
+http://eyplay.io:80/l1vHzB/RV6D06/602
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/YmJ" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) DOIS HOMENS E MEIO T11
-http://eyplay.io:80/qYp06D/NxmlQ2/603
+http://eyplay.io:80/l1vHzB/RV6D06/603
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/kx3" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) DOIS HOMENS E MEIO T12
-http://eyplay.io:80/qYp06D/NxmlQ2/604
+http://eyplay.io:80/l1vHzB/RV6D06/604
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/vDF" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) DON DRACULA
-http://eyplay.io:80/qYp06D/NxmlQ2/605
+http://eyplay.io:80/l1vHzB/RV6D06/605
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/lkJ" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) DORA A AVENTUREIRA
-http://eyplay.io:80/qYp06D/NxmlQ2/606
+http://eyplay.io:80/l1vHzB/RV6D06/606
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/Slf" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) DOUG
-http://eyplay.io:80/qYp06D/NxmlQ2/607
+http://eyplay.io:80/l1vHzB/RV6D06/607
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/h9f" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) DR CALCA DIMENSIONAL
-http://eyplay.io:80/qYp06D/NxmlQ2/608
+http://eyplay.io:80/l1vHzB/RV6D06/608
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/Jlv" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) DRAGON BALL SUPER T01
-http://eyplay.io:80/qYp06D/NxmlQ2/610
+http://eyplay.io:80/l1vHzB/RV6D06/610
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/HWs" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) DRAGON BALL SUPER T02
-http://eyplay.io:80/qYp06D/NxmlQ2/611
+http://eyplay.io:80/l1vHzB/RV6D06/611
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/b0Z" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) DRAGON BALL SUPER T03
-http://eyplay.io:80/qYp06D/NxmlQ2/612
+http://eyplay.io:80/l1vHzB/RV6D06/612
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/KYN" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) DRAGON BALL SUPER T04
-http://eyplay.io:80/qYp06D/NxmlQ2/613
+http://eyplay.io:80/l1vHzB/RV6D06/613
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/4VB" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) DRAGON BALL SUPER T05
-http://eyplay.io:80/qYp06D/NxmlQ2/614
+http://eyplay.io:80/l1vHzB/RV6D06/614
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/pbF" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) DRAGON BALL Z SAGA DE CELL
-http://eyplay.io:80/qYp06D/NxmlQ2/615
+http://eyplay.io:80/l1vHzB/RV6D06/615
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/jHn" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) DRAGON BALL Z SAGA DE FREEZA
-http://eyplay.io:80/qYp06D/NxmlQ2/616
+http://eyplay.io:80/l1vHzB/RV6D06/616
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/zZW" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) DRAGON BALL Z SAGA DE GARLIC JR
-http://eyplay.io:80/qYp06D/NxmlQ2/617
+http://eyplay.io:80/l1vHzB/RV6D06/617
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/F90" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) DRAGON BALL Z SAGA DE MAJIN BOO
-http://eyplay.io:80/qYp06D/NxmlQ2/618
+http://eyplay.io:80/l1vHzB/RV6D06/618
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/VAS" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) DRAGON BALL Z SAGA DOS ANDROIDES
-http://eyplay.io:80/qYp06D/NxmlQ2/620
+http://eyplay.io:80/l1vHzB/RV6D06/620
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/6cz" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) DRAGON BALL Z SAGA DOS SAYAJINS
-http://eyplay.io:80/qYp06D/NxmlQ2/621
+http://eyplay.io:80/l1vHzB/RV6D06/621
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/dwx" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) DRAKE AND JOSH
-http://eyplay.io:80/qYp06D/NxmlQ2/622
+http://eyplay.io:80/l1vHzB/RV6D06/622
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/7x7" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) DUCK TALES
-http://eyplay.io:80/qYp06D/NxmlQ2/623
+http://eyplay.io:80/l1vHzB/RV6D06/623
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/0rr" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) DUDLEY DO RIGHT
-http://eyplay.io:80/qYp06D/NxmlQ2/624
+http://eyplay.io:80/l1vHzB/RV6D06/624
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/jNr" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) DUELO XIAOLIN
-http://eyplay.io:80/qYp06D/NxmlQ2/625
+http://eyplay.io:80/l1vHzB/RV6D06/625
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/vem" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) E O LOBO
-http://eyplay.io:80/qYp06D/NxmlQ2/626
+http://eyplay.io:80/l1vHzB/RV6D06/626
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/eFU" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) EEK! THE CAT
-http://eyplay.io:80/qYp06D/NxmlQ2/627
+http://eyplay.io:80/l1vHzB/RV6D06/627
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/jNu" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) EL CHAPO T01
-http://eyplay.io:80/qYp06D/NxmlQ2/628
+http://eyplay.io:80/l1vHzB/RV6D06/628
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/Fxh" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) EL CHAPO T03
-http://eyplay.io:80/qYp06D/NxmlQ2/630
+http://eyplay.io:80/l1vHzB/RV6D06/630
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/BfT" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) ESQUADRAO DO TEMPO
-http://eyplay.io:80/qYp06D/NxmlQ2/631
+http://eyplay.io:80/l1vHzB/RV6D06/631
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/p21" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) ESQUADRAO ESPECIAL WINSPECTOR
-http://eyplay.io:80/qYp06D/NxmlQ2/632
+http://eyplay.io:80/l1vHzB/RV6D06/632
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/aut" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) ESQUADRAO MARTE 2
-http://eyplay.io:80/qYp06D/NxmlQ2/633
+http://eyplay.io:80/l1vHzB/RV6D06/633
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/1Kk" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) ESQUILO SEM GRILO
-http://eyplay.io:80/qYp06D/NxmlQ2/634
+http://eyplay.io:80/l1vHzB/RV6D06/634
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/7Fj" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) EU A PATROA E AS CRIANCAS T02
-http://eyplay.io:80/qYp06D/NxmlQ2/635
+http://eyplay.io:80/l1vHzB/RV6D06/635
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/LxP" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) EU A PATROA E AS CRIANCAS T03
-http://eyplay.io:80/qYp06D/NxmlQ2/636
+http://eyplay.io:80/l1vHzB/RV6D06/636
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/zkl" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) EU A PATROA E AS CRIANCAS T04
-http://eyplay.io:80/qYp06D/NxmlQ2/637
+http://eyplay.io:80/l1vHzB/RV6D06/637
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/8QT" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) EU A PATROA E AS CRIANCAS T05
-http://eyplay.io:80/qYp06D/NxmlQ2/638
+http://eyplay.io:80/l1vHzB/RV6D06/638
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/KYD" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) EU SOU O MAXIMO
-http://eyplay.io:80/qYp06D/NxmlQ2/640
+http://eyplay.io:80/l1vHzB/RV6D06/640
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/Pw5" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) FABULAS DA DISNEY
-http://eyplay.io:80/qYp06D/NxmlQ2/641
+http://eyplay.io:80/l1vHzB/RV6D06/641
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/ZoH" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) FAISCA E FUMACA
-http://eyplay.io:80/qYp06D/NxmlQ2/642
+http://eyplay.io:80/l1vHzB/RV6D06/642
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/pSv" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) FALCAO AZUL E O BIONICAO
-http://eyplay.io:80/qYp06D/NxmlQ2/643
+http://eyplay.io:80/l1vHzB/RV6D06/643
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/ztc" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) FANTASMINHA LEGAL
-http://eyplay.io:80/qYp06D/NxmlQ2/644
+http://eyplay.io:80/l1vHzB/RV6D06/644
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/bFr" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) FANTASMINO O FANTASMA GALOPANTE
-http://eyplay.io:80/qYp06D/NxmlQ2/645
+http://eyplay.io:80/l1vHzB/RV6D06/645
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/ipb" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) FLY O PEQUENO GUERREIRO
-http://eyplay.io:80/qYp06D/NxmlQ2/646
+http://eyplay.io:80/l1vHzB/RV6D06/646
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/Qrv" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) FRANKENSTEIN JUNIOR
-http://eyplay.io:80/qYp06D/NxmlQ2/647
+http://eyplay.io:80/l1vHzB/RV6D06/647
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/TDB" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) FREAKAZOID
-http://eyplay.io:80/qYp06D/NxmlQ2/648
+http://eyplay.io:80/l1vHzB/RV6D06/648
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/RTr" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) FRIENDS T02
-http://eyplay.io:80/qYp06D/NxmlQ2/650
+http://eyplay.io:80/l1vHzB/RV6D06/650
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/OZn" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) FRIENDS T03
-http://eyplay.io:80/qYp06D/NxmlQ2/651
+http://eyplay.io:80/l1vHzB/RV6D06/651
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/Hj3" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) FRIENDS T04
-http://eyplay.io:80/qYp06D/NxmlQ2/652
+http://eyplay.io:80/l1vHzB/RV6D06/652
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/T13" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) FRIENDS T05
-http://eyplay.io:80/qYp06D/NxmlQ2/653
+http://eyplay.io:80/l1vHzB/RV6D06/653
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/w6Y" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) FRIENDS T06
-http://eyplay.io:80/qYp06D/NxmlQ2/654
+http://eyplay.io:80/l1vHzB/RV6D06/654
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/FkF" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) FRIENDS T07
-http://eyplay.io:80/qYp06D/NxmlQ2/655
+http://eyplay.io:80/l1vHzB/RV6D06/655
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/6BL" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) FRIENDS T08
-http://eyplay.io:80/qYp06D/NxmlQ2/656
+http://eyplay.io:80/l1vHzB/RV6D06/656
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/oYH" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) FRIENDS T09 (LEG)
-http://eyplay.io:80/qYp06D/NxmlQ2/657
+http://eyplay.io:80/l1vHzB/RV6D06/657
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/OSl" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) FRIENDS T10
-http://eyplay.io:80/qYp06D/NxmlQ2/658
+http://eyplay.io:80/l1vHzB/RV6D06/658
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/Hl7" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) GALINHA PINTADINHA
-http://eyplay.io:80/qYp06D/NxmlQ2/660
+http://eyplay.io:80/l1vHzB/RV6D06/660
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/8Tr" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) Game Of Thrones T01
-http://eyplay.io:80/qYp06D/NxmlQ2/661
+http://eyplay.io:80/l1vHzB/RV6D06/661
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/7uy" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) Game Of Thrones T02
-http://eyplay.io:80/qYp06D/NxmlQ2/662
+http://eyplay.io:80/l1vHzB/RV6D06/662
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/Pq2" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) Game Of Thrones T03
-http://eyplay.io:80/qYp06D/NxmlQ2/663
+http://eyplay.io:80/l1vHzB/RV6D06/663
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/xXF" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) Game Of Thrones T04
-http://eyplay.io:80/qYp06D/NxmlQ2/664
+http://eyplay.io:80/l1vHzB/RV6D06/664
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/dUm" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) Game Of Thrones T06
-http://eyplay.io:80/qYp06D/NxmlQ2/665
+http://eyplay.io:80/l1vHzB/RV6D06/665
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/UpV" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) Game Of Thrones T07
-http://eyplay.io:80/qYp06D/NxmlQ2/666
+http://eyplay.io:80/l1vHzB/RV6D06/666
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/LXs" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) Game Of Thrones T08
-http://eyplay.io:80/qYp06D/NxmlQ2/667
+http://eyplay.io:80/l1vHzB/RV6D06/667
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/q1W" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) GASPARZINHO E AMIGOS
-http://eyplay.io:80/qYp06D/NxmlQ2/668
+http://eyplay.io:80/l1vHzB/RV6D06/668
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/Ex7" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) GO DIEGO GO
-http://eyplay.io:80/qYp06D/NxmlQ2/670
+http://eyplay.io:80/l1vHzB/RV6D06/670
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/Mk7" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) GUERREIRAS MAGICAS DE RAYEARTH
-http://eyplay.io:80/qYp06D/NxmlQ2/671
+http://eyplay.io:80/l1vHzB/RV6D06/671
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/BSV" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) GUNDAM WING
-http://eyplay.io:80/qYp06D/NxmlQ2/672
+http://eyplay.io:80/l1vHzB/RV6D06/672
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/51P" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) HAMTARO
-http://eyplay.io:80/qYp06D/NxmlQ2/673
+http://eyplay.io:80/l1vHzB/RV6D06/673
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/MRc" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) HELLO KITTY
-http://eyplay.io:80/qYp06D/NxmlQ2/674
+http://eyplay.io:80/l1vHzB/RV6D06/674
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/cCp" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) HEY ARNOLD T01
-http://eyplay.io:80/qYp06D/NxmlQ2/675
+http://eyplay.io:80/l1vHzB/RV6D06/675
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/zJX" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) HEY ARNOLD T02
-http://eyplay.io:80/qYp06D/NxmlQ2/676
+http://eyplay.io:80/l1vHzB/RV6D06/676
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/J0E" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) HEY ARNOLD T03
-http://eyplay.io:80/qYp06D/NxmlQ2/677
+http://eyplay.io:80/l1vHzB/RV6D06/677
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/pfJ" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) HEY ARNOLD T05
-http://eyplay.io:80/qYp06D/NxmlQ2/678
+http://eyplay.io:80/l1vHzB/RV6D06/678
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/lsZ" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) HISTÓRIAS ANIMADAS DO NOVO TESTAMENTO
-http://eyplay.io:80/qYp06D/NxmlQ2/680
+http://eyplay.io:80/l1vHzB/RV6D06/680
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/pIs" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) HISTÓRIAS ANIMADAS DO VELHO TESTAMENTO
-http://eyplay.io:80/qYp06D/NxmlQ2/681
+http://eyplay.io:80/l1vHzB/RV6D06/681
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/HFb" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) HOMEM ARANHA ACAO SEM LIMITES
-http://eyplay.io:80/qYp06D/NxmlQ2/682
+http://eyplay.io:80/l1vHzB/RV6D06/682
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/uRl" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) HOMEM PASSARO
-http://eyplay.io:80/qYp06D/NxmlQ2/683
+http://eyplay.io:80/l1vHzB/RV6D06/683
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/1bU" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) HOT WHEELS BATTLE FORCE 5
-http://eyplay.io:80/qYp06D/NxmlQ2/684
+http://eyplay.io:80/l1vHzB/RV6D06/684
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/659" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) ICARLY T01
-http://eyplay.io:80/qYp06D/NxmlQ2/685
+http://eyplay.io:80/l1vHzB/RV6D06/685
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/qxa" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) iCarly T02
-http://eyplay.io:80/qYp06D/NxmlQ2/686
+http://eyplay.io:80/l1vHzB/RV6D06/686
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/ZI2" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) iCarly T03
-http://eyplay.io:80/qYp06D/NxmlQ2/687
+http://eyplay.io:80/l1vHzB/RV6D06/687
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/N8V" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) iCarly T04
-http://eyplay.io:80/qYp06D/NxmlQ2/688
+http://eyplay.io:80/l1vHzB/RV6D06/688
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/3Q9" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) iCarly T06
-http://eyplay.io:80/qYp06D/NxmlQ2/690
+http://eyplay.io:80/l1vHzB/RV6D06/690
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/XFo" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) iCarly T07
-http://eyplay.io:80/qYp06D/NxmlQ2/691
+http://eyplay.io:80/l1vHzB/RV6D06/691
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/fgD" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) ILHA DOS DESAFIOS
-http://eyplay.io:80/qYp06D/NxmlQ2/692
+http://eyplay.io:80/l1vHzB/RV6D06/692
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/9UR" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) INVASOR ZIM
-http://eyplay.io:80/qYp06D/NxmlQ2/693
+http://eyplay.io:80/l1vHzB/RV6D06/693
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/Np9" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) IRMAO DO JOREL
-http://eyplay.io:80/qYp06D/NxmlQ2/694
+http://eyplay.io:80/l1vHzB/RV6D06/694
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/A2l" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) JAMBO E RUIVAO
-http://eyplay.io:80/qYp06D/NxmlQ2/695
+http://eyplay.io:80/l1vHzB/RV6D06/695
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/yq9" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) JASPION
-http://eyplay.io:80/qYp06D/NxmlQ2/696
+http://eyplay.io:80/l1vHzB/RV6D06/696
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/n2x" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) JOHNNY BRAVO
-http://eyplay.io:80/qYp06D/NxmlQ2/697
+http://eyplay.io:80/l1vHzB/RV6D06/697
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/4qj" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) JONNY QUEST
-http://eyplay.io:80/qYp06D/NxmlQ2/698
+http://eyplay.io:80/l1vHzB/RV6D06/698
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/dAI" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) JUBEI CHAN THE NINJA GIRL
-http://eyplay.io:80/qYp06D/NxmlQ2/700
+http://eyplay.io:80/l1vHzB/RV6D06/700
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/vZf" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) KENAN E KELL
-http://eyplay.io:80/qYp06D/NxmlQ2/701
+http://eyplay.io:80/l1vHzB/RV6D06/701
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/8Y6" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) KIM POSSIBLE
-http://eyplay.io:80/qYp06D/NxmlQ2/702
+http://eyplay.io:80/l1vHzB/RV6D06/702
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/7hI" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) KND A TURMA DO BAIRRO
-http://eyplay.io:80/qYp06D/NxmlQ2/703
+http://eyplay.io:80/l1vHzB/RV6D06/703
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/B6a" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) Largados e Pelados A Tribo T01
-http://eyplay.io:80/qYp06D/NxmlQ2/704
+http://eyplay.io:80/l1vHzB/RV6D06/704
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/et9" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) Largados e Pelados A Tribo T02
-http://eyplay.io:80/qYp06D/NxmlQ2/705
+http://eyplay.io:80/l1vHzB/RV6D06/705
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/lGq" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) Largados e Pelados A Tribo T03
-http://eyplay.io:80/qYp06D/NxmlQ2/706
+http://eyplay.io:80/l1vHzB/RV6D06/706
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/Tb9" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) LARVAS
-http://eyplay.io:80/qYp06D/NxmlQ2/707
+http://eyplay.io:80/l1vHzB/RV6D06/707
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/01h" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) LAZY TOWN
-http://eyplay.io:80/qYp06D/NxmlQ2/708
+http://eyplay.io:80/l1vHzB/RV6D06/708
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/fhf" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) LIPPY E HARDY
-http://eyplay.io:80/qYp06D/NxmlQ2/710
+http://eyplay.io:80/l1vHzB/RV6D06/710
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/cnA" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) LORDE GATO E A TURMA DO ABOBRINHA
-http://eyplay.io:80/qYp06D/NxmlQ2/711
+http://eyplay.io:80/l1vHzB/RV6D06/711
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/9S6" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) LULUZINHA
-http://eyplay.io:80/qYp06D/NxmlQ2/712
+http://eyplay.io:80/l1vHzB/RV6D06/712
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/fce" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) MADELINE
-http://eyplay.io:80/qYp06D/NxmlQ2/713
+http://eyplay.io:80/l1vHzB/RV6D06/713
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/ktB" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) MAGUILA O GORILA
-http://eyplay.io:80/qYp06D/NxmlQ2/714
+http://eyplay.io:80/l1vHzB/RV6D06/714
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/OQK" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) MANDA CHUVA
-http://eyplay.io:80/qYp06D/NxmlQ2/715
+http://eyplay.io:80/l1vHzB/RV6D06/715
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/Ufc" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) MANUAL DO NED
-http://eyplay.io:80/qYp06D/NxmlQ2/716
+http://eyplay.io:80/l1vHzB/RV6D06/716
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/Ab7" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) MARCELINO PAO E VINHO
-http://eyplay.io:80/qYp06D/NxmlQ2/717
+http://eyplay.io:80/l1vHzB/RV6D06/717
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/MAh" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) MARTIN MYSTERY
-http://eyplay.io:80/qYp06D/NxmlQ2/718
+http://eyplay.io:80/l1vHzB/RV6D06/718
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/GpD" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) MECANIMAIS
-http://eyplay.io:80/qYp06D/NxmlQ2/720
+http://eyplay.io:80/l1vHzB/RV6D06/720
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/6D5" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) MEDABOTS
-http://eyplay.io:80/qYp06D/NxmlQ2/721
+http://eyplay.io:80/l1vHzB/RV6D06/721
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/20m" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) MEGAMAN
-http://eyplay.io:80/qYp06D/NxmlQ2/722
+http://eyplay.io:80/l1vHzB/RV6D06/722
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/Nzk" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) MEGAS XR
-http://eyplay.io:80/qYp06D/NxmlQ2/723
+http://eyplay.io:80/l1vHzB/RV6D06/723
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/93Z" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) MEU MELHOR AMIGO DA ESCOLA E UM MACACO
-http://eyplay.io:80/qYp06D/NxmlQ2/724
+http://eyplay.io:80/l1vHzB/RV6D06/724
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/MZz" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) MIB HOMENS DE PRETO
-http://eyplay.io:80/qYp06D/NxmlQ2/725
+http://eyplay.io:80/l1vHzB/RV6D06/725
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/4rN" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) MISSION HILL
-http://eyplay.io:80/qYp06D/NxmlQ2/726
+http://eyplay.io:80/l1vHzB/RV6D06/726
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/qWZ" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) MOBY DICK
-http://eyplay.io:80/qYp06D/NxmlQ2/727
+http://eyplay.io:80/l1vHzB/RV6D06/727
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/C5C" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) MORANGUINHO CLASSICO
-http://eyplay.io:80/qYp06D/NxmlQ2/728
+http://eyplay.io:80/l1vHzB/RV6D06/728
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/c3b" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) MOSQUITO MOSQUETE E MOSCARDO
-http://eyplay.io:80/qYp06D/NxmlQ2/730
+http://eyplay.io:80/l1vHzB/RV6D06/730
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/I7v" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) MR. BEAN
-http://eyplay.io:80/qYp06D/NxmlQ2/731
+http://eyplay.io:80/l1vHzB/RV6D06/731
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/WFu" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) MUCHA LUCHA
-http://eyplay.io:80/qYp06D/NxmlQ2/732
+http://eyplay.io:80/l1vHzB/RV6D06/732
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/yPq" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) MUSCULO TOTAL
-http://eyplay.io:80/qYp06D/NxmlQ2/733
+http://eyplay.io:80/l1vHzB/RV6D06/733
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/GZr" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) MUTANTE REX 2010 - 2013
-http://eyplay.io:80/qYp06D/NxmlQ2/734
+http://eyplay.io:80/l1vHzB/RV6D06/734
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/elM" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) NARCOS T01
-http://eyplay.io:80/qYp06D/NxmlQ2/735
+http://eyplay.io:80/l1vHzB/RV6D06/735
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/YWS" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) NARCOS T02
-http://eyplay.io:80/qYp06D/NxmlQ2/736
+http://eyplay.io:80/l1vHzB/RV6D06/736
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/1l0" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) NARUTO CLASSICO T01
-http://eyplay.io:80/qYp06D/NxmlQ2/737
+http://eyplay.io:80/l1vHzB/RV6D06/737
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/eah" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) NARUTO CLASSICO T02
-http://eyplay.io:80/qYp06D/NxmlQ2/738
+http://eyplay.io:80/l1vHzB/RV6D06/738
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/bOQ" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) NARUTO CLASSICO T04
-http://eyplay.io:80/qYp06D/NxmlQ2/740
+http://eyplay.io:80/l1vHzB/RV6D06/740
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/zhG" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) NARUTO CLASSICO T05
-http://eyplay.io:80/qYp06D/NxmlQ2/741
+http://eyplay.io:80/l1vHzB/RV6D06/741
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/j8p" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) NARUTO CLASSICO T06
-http://eyplay.io:80/qYp06D/NxmlQ2/742
+http://eyplay.io:80/l1vHzB/RV6D06/742
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/xbY" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) NARUTO CLASSICO T07
-http://eyplay.io:80/qYp06D/NxmlQ2/743
+http://eyplay.io:80/l1vHzB/RV6D06/743
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/d5J" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) NARUTO CLASSICO T08
-http://eyplay.io:80/qYp06D/NxmlQ2/744
+http://eyplay.io:80/l1vHzB/RV6D06/744
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/I1Q" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) NARUTO CLASSICO T09
-http://eyplay.io:80/qYp06D/NxmlQ2/745
+http://eyplay.io:80/l1vHzB/RV6D06/745
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/5qH" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) NOVO BANANA DE PIJAMAS
-http://eyplay.io:80/qYp06D/NxmlQ2/746
+http://eyplay.io:80/l1vHzB/RV6D06/746
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/dqi" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) O ACAMPAMENTO DE LAZLO
-http://eyplay.io:80/qYp06D/NxmlQ2/747
+http://eyplay.io:80/l1vHzB/RV6D06/747
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/fSl" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) O CHAPOLIN COLORADO
-http://eyplay.io:80/qYp06D/NxmlQ2/748
+http://eyplay.io:80/l1vHzB/RV6D06/748
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/vY3" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) O GATO DE BOTAS
-http://eyplay.io:80/qYp06D/NxmlQ2/750
+http://eyplay.io:80/l1vHzB/RV6D06/750
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/Xdv" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) O INSPETOR
-http://eyplay.io:80/qYp06D/NxmlQ2/751
+http://eyplay.io:80/l1vHzB/RV6D06/751
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/tWQ" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) O MASKARA 1995 - SERIA ANIMADA
-http://eyplay.io:80/qYp06D/NxmlQ2/752
+http://eyplay.io:80/l1vHzB/RV6D06/752
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/YdU" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) O MUNDO DE BITA
-http://eyplay.io:80/qYp06D/NxmlQ2/753
+http://eyplay.io:80/l1vHzB/RV6D06/753
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/Hmv" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) O ONIBUS MAGICO
-http://eyplay.io:80/qYp06D/NxmlQ2/754
+http://eyplay.io:80/l1vHzB/RV6D06/754
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/ma1" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) O PEQUENO PRINCIPE
-http://eyplay.io:80/qYp06D/NxmlQ2/755
+http://eyplay.io:80/l1vHzB/RV6D06/755
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/SMw" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) O PEQUENO SCOOBY DOO
-http://eyplay.io:80/qYp06D/NxmlQ2/756
+http://eyplay.io:80/l1vHzB/RV6D06/756
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/aWB" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) O PEQUENO URSO 1995
-http://eyplay.io:80/qYp06D/NxmlQ2/757
+http://eyplay.io:80/l1vHzB/RV6D06/757
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/IBd" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) O QUE HA DE NOVO SCOOBY DOO
-http://eyplay.io:80/qYp06D/NxmlQ2/758
+http://eyplay.io:80/l1vHzB/RV6D06/758
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/dOu" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) O SHOW DA LUNA
-http://eyplay.io:80/qYp06D/NxmlQ2/760
+http://eyplay.io:80/l1vHzB/RV6D06/760
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/DRM" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) O SHOW DO NOVO PICA-PAU
-http://eyplay.io:80/qYp06D/NxmlQ2/761
+http://eyplay.io:80/l1vHzB/RV6D06/761
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/vQz" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) O SHOW DO ZE COLMEIA
-http://eyplay.io:80/qYp06D/NxmlQ2/762
+http://eyplay.io:80/l1vHzB/RV6D06/762
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/cwR" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) O XODO DA VOVO
-http://eyplay.io:80/qYp06D/NxmlQ2/763
+http://eyplay.io:80/l1vHzB/RV6D06/763
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/6nM" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) OS ANIMAIS DO BOSQUE DOS VINTENS
-http://eyplay.io:80/qYp06D/NxmlQ2/764
+http://eyplay.io:80/l1vHzB/RV6D06/764
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/MvL" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) OS CASTORES PIRADOS
-http://eyplay.io:80/qYp06D/NxmlQ2/765
+http://eyplay.io:80/l1vHzB/RV6D06/765
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/N2f" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) OS CAVALEIROS DOS ZODIACOS COMPLETO
-http://eyplay.io:80/qYp06D/NxmlQ2/766
+http://eyplay.io:80/l1vHzB/RV6D06/766
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/3We" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) OS CAVALEIROS DOS ZODIACOS SAGA DE ASGARD
-http://eyplay.io:80/qYp06D/NxmlQ2/767
+http://eyplay.io:80/l1vHzB/RV6D06/767
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/7nd" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) OS CAVALEIROS DOS ZODIACOS SAGA DE HADES
-http://eyplay.io:80/qYp06D/NxmlQ2/768
+http://eyplay.io:80/l1vHzB/RV6D06/768
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/c3R" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) OS CAVALEIROS DOS ZODIACOS SAGA DO SANTUARIO
-http://eyplay.io:80/qYp06D/NxmlQ2/770
+http://eyplay.io:80/l1vHzB/RV6D06/770
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/zb6" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) OS FLINTSTONES T01
-http://eyplay.io:80/qYp06D/NxmlQ2/771
+http://eyplay.io:80/l1vHzB/RV6D06/771
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/RvY" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) OS FLINTSTONES T02
-http://eyplay.io:80/qYp06D/NxmlQ2/772
+http://eyplay.io:80/l1vHzB/RV6D06/772
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/aJd" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) OS FLINTSTONES T03
-http://eyplay.io:80/qYp06D/NxmlQ2/773
+http://eyplay.io:80/l1vHzB/RV6D06/773
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/eaJ" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) OS FLINTSTONES T04
-http://eyplay.io:80/qYp06D/NxmlQ2/774
+http://eyplay.io:80/l1vHzB/RV6D06/774
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/25k" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) OS FLINTSTONES T05
-http://eyplay.io:80/qYp06D/NxmlQ2/775
+http://eyplay.io:80/l1vHzB/RV6D06/775
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/Bmj" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) OS FLINTSTONES T06
-http://eyplay.io:80/qYp06D/NxmlQ2/776
+http://eyplay.io:80/l1vHzB/RV6D06/776
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/tPj" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) OS GARGULAS
-http://eyplay.io:80/qYp06D/NxmlQ2/777
+http://eyplay.io:80/l1vHzB/RV6D06/777
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/RQQ" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) OS IMPOSSIVEIS
-http://eyplay.io:80/qYp06D/NxmlQ2/778
+http://eyplay.io:80/l1vHzB/RV6D06/778
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/XdH" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) OS JOVENS TITAS 2003 - 2006
-http://eyplay.io:80/qYp06D/NxmlQ2/780
+http://eyplay.io:80/l1vHzB/RV6D06/780
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/h9I" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) OS PINGUINS DE MADAGASCAR
-http://eyplay.io:80/qYp06D/NxmlQ2/781
+http://eyplay.io:80/l1vHzB/RV6D06/781
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/TwL" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) OS SETE MONSTRINHOS
-http://eyplay.io:80/qYp06D/NxmlQ2/782
+http://eyplay.io:80/l1vHzB/RV6D06/782
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/2Zc" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) OS SIMPSONS T01
-http://eyplay.io:80/qYp06D/NxmlQ2/783
+http://eyplay.io:80/l1vHzB/RV6D06/783
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/4CO" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) OS SIMPSONS T02
-http://eyplay.io:80/qYp06D/NxmlQ2/784
+http://eyplay.io:80/l1vHzB/RV6D06/784
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/pXu" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) OS SIMPSONS T03
-http://eyplay.io:80/qYp06D/NxmlQ2/785
+http://eyplay.io:80/l1vHzB/RV6D06/785
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/Rv3" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) OS SIMPSONS T04
-http://eyplay.io:80/qYp06D/NxmlQ2/786
+http://eyplay.io:80/l1vHzB/RV6D06/786
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/SZI" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) OS SIMPSONS T05
-http://eyplay.io:80/qYp06D/NxmlQ2/787
+http://eyplay.io:80/l1vHzB/RV6D06/787
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/4nq" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) OS SIMPSONS T06
-http://eyplay.io:80/qYp06D/NxmlQ2/788
+http://eyplay.io:80/l1vHzB/RV6D06/788
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/6oy" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) OS SIMPSONS T08
-http://eyplay.io:80/qYp06D/NxmlQ2/790
+http://eyplay.io:80/l1vHzB/RV6D06/790
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/TpJ" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) OS SIMPSONS T09
-http://eyplay.io:80/qYp06D/NxmlQ2/791
+http://eyplay.io:80/l1vHzB/RV6D06/791
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/cUF" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) OS SIMPSONS T10
-http://eyplay.io:80/qYp06D/NxmlQ2/792
+http://eyplay.io:80/l1vHzB/RV6D06/792
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/yBH" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) OS SIMPSONS T11
-http://eyplay.io:80/qYp06D/NxmlQ2/793
+http://eyplay.io:80/l1vHzB/RV6D06/793
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/tMY" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) OS SIMPSONS T12
-http://eyplay.io:80/qYp06D/NxmlQ2/794
+http://eyplay.io:80/l1vHzB/RV6D06/794
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/7Gg" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) OS SIMPSONS T13
-http://eyplay.io:80/qYp06D/NxmlQ2/795
+http://eyplay.io:80/l1vHzB/RV6D06/795
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/LPs" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) OS SIMPSONS T14
-http://eyplay.io:80/qYp06D/NxmlQ2/796
+http://eyplay.io:80/l1vHzB/RV6D06/796
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/FUN" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) OS SIMPSONS T15
-http://eyplay.io:80/qYp06D/NxmlQ2/797
+http://eyplay.io:80/l1vHzB/RV6D06/797
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/h2J" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) OS SIMPSONS T16
-http://eyplay.io:80/qYp06D/NxmlQ2/798
+http://eyplay.io:80/l1vHzB/RV6D06/798
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/TFL" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) OS SIMPSONS T18
-http://eyplay.io:80/qYp06D/NxmlQ2/800
+http://eyplay.io:80/l1vHzB/RV6D06/800
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/MJl" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) OS SIMPSONS T19
-http://eyplay.io:80/qYp06D/NxmlQ2/801
+http://eyplay.io:80/l1vHzB/RV6D06/801
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/SKZ" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) OS SIMPSONS T20
-http://eyplay.io:80/qYp06D/NxmlQ2/802
+http://eyplay.io:80/l1vHzB/RV6D06/802
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/YYK" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) OS SIMPSONS T21
-http://eyplay.io:80/qYp06D/NxmlQ2/803
+http://eyplay.io:80/l1vHzB/RV6D06/803
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/hhA" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) OS SIMPSONS T22
-http://eyplay.io:80/qYp06D/NxmlQ2/804
+http://eyplay.io:80/l1vHzB/RV6D06/804
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/V7J" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) OS SIMPSONS T23
-http://eyplay.io:80/qYp06D/NxmlQ2/805
+http://eyplay.io:80/l1vHzB/RV6D06/805
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/evz" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) OS SIMPSONS T24
-http://eyplay.io:80/qYp06D/NxmlQ2/806
+http://eyplay.io:80/l1vHzB/RV6D06/806
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/cZP" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) OS SIMPSONS T25
-http://eyplay.io:80/qYp06D/NxmlQ2/807
+http://eyplay.io:80/l1vHzB/RV6D06/807
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/SHX" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) OS SIMPSONS T26
-http://eyplay.io:80/qYp06D/NxmlQ2/808
+http://eyplay.io:80/l1vHzB/RV6D06/808
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/w5w" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) OS SIMPSONS T28
-http://eyplay.io:80/qYp06D/NxmlQ2/810
+http://eyplay.io:80/l1vHzB/RV6D06/810
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/YpC" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) OS SUPER PATOS
-http://eyplay.io:80/qYp06D/NxmlQ2/811
+http://eyplay.io:80/l1vHzB/RV6D06/811
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/ayX" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) OS TRAPALHOES
-http://eyplay.io:80/qYp06D/NxmlQ2/812
+http://eyplay.io:80/l1vHzB/RV6D06/812
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/CRF" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) OS TRAPALHOES CLASSICO
-http://eyplay.io:80/qYp06D/NxmlQ2/813
+http://eyplay.io:80/l1vHzB/RV6D06/813
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/mfL" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) OS URSINHOS GUMMI
-http://eyplay.io:80/qYp06D/NxmlQ2/814
+http://eyplay.io:80/l1vHzB/RV6D06/814
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/BKX" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) OS VALENTES COWBOYS DE MOO MESA
-http://eyplay.io:80/qYp06D/NxmlQ2/815
+http://eyplay.io:80/l1vHzB/RV6D06/815
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/1eJ" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) OS VIDEOS MAIS INCRIVEIS DO MUNDO
-http://eyplay.io:80/qYp06D/NxmlQ2/816
+http://eyplay.io:80/l1vHzB/RV6D06/816
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/MTP" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) OS VINGADORES
-http://eyplay.io:80/qYp06D/NxmlQ2/817
+http://eyplay.io:80/l1vHzB/RV6D06/817
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/39R" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) OSWALDO
-http://eyplay.io:80/qYp06D/NxmlQ2/818
+http://eyplay.io:80/l1vHzB/RV6D06/818
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/kbx" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) PARTOBA
-http://eyplay.io:80/qYp06D/NxmlQ2/820
+http://eyplay.io:80/l1vHzB/RV6D06/820
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/mzy" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) PATRULHA CANINA T01
-http://eyplay.io:80/qYp06D/NxmlQ2/821
+http://eyplay.io:80/l1vHzB/RV6D06/821
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/Lb9" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) PATRULHA CANINA T02
-http://eyplay.io:80/qYp06D/NxmlQ2/822
+http://eyplay.io:80/l1vHzB/RV6D06/822
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/uDn" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) PATRULHA CANINA T03
-http://eyplay.io:80/qYp06D/NxmlQ2/823
+http://eyplay.io:80/l1vHzB/RV6D06/823
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/ZeK" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) PATRULHA ESTELAR
-http://eyplay.io:80/qYp06D/NxmlQ2/824
+http://eyplay.io:80/l1vHzB/RV6D06/824
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/6vc" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) PEGADINHAS JOAO KLEBER
-http://eyplay.io:80/qYp06D/NxmlQ2/825
+http://eyplay.io:80/l1vHzB/RV6D06/825
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/kWL" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) PEGADINHAS SILVIO SANTOS
-http://eyplay.io:80/qYp06D/NxmlQ2/826
+http://eyplay.io:80/l1vHzB/RV6D06/826
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/3xF" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) PEPE LE PEW
-http://eyplay.io:80/qYp06D/NxmlQ2/827
+http://eyplay.io:80/l1vHzB/RV6D06/827
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/Gpg" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) PEPPA PIG
-http://eyplay.io:80/qYp06D/NxmlQ2/828
+http://eyplay.io:80/l1vHzB/RV6D06/828
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/HzB" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) PERDIDOS NO ESPACO
-http://eyplay.io:80/qYp06D/NxmlQ2/830
+http://eyplay.io:80/l1vHzB/RV6D06/830
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/Ep5" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) PERNALONGA E SUA TURMA
-http://eyplay.io:80/qYp06D/NxmlQ2/831
+http://eyplay.io:80/l1vHzB/RV6D06/831
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/N6s" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) PHINEAS E FERB
-http://eyplay.io:80/qYp06D/NxmlQ2/832
+http://eyplay.io:80/l1vHzB/RV6D06/832
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/HNy" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) PICA PAU (WOODY WOODPECKER)
-http://eyplay.io:80/qYp06D/NxmlQ2/833
+http://eyplay.io:80/l1vHzB/RV6D06/833
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/y57" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) PINKY E CEREBRO
-http://eyplay.io:80/qYp06D/NxmlQ2/834
+http://eyplay.io:80/l1vHzB/RV6D06/834
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/ldr" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) PLANET SURVIVAL
-http://eyplay.io:80/qYp06D/NxmlQ2/835
+http://eyplay.io:80/l1vHzB/RV6D06/835
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/PXw" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) POCOYO
-http://eyplay.io:80/qYp06D/NxmlQ2/836
+http://eyplay.io:80/l1vHzB/RV6D06/836
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/3Ib" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) POKEMON T01 LIGA INDIGO
-http://eyplay.io:80/qYp06D/NxmlQ2/837
+http://eyplay.io:80/l1vHzB/RV6D06/837
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/bVP" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) POKEMON T02 LIGA LARANJA
-http://eyplay.io:80/qYp06D/NxmlQ2/838
+http://eyplay.io:80/l1vHzB/RV6D06/838
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/i7x" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) POKEMON T04 CAMPEOES DA LIGA JOHTO
-http://eyplay.io:80/qYp06D/NxmlQ2/840
+http://eyplay.io:80/l1vHzB/RV6D06/840
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/2Da" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) POKEMON T05 MASTER QUEST
-http://eyplay.io:80/qYp06D/NxmlQ2/841
+http://eyplay.io:80/l1vHzB/RV6D06/841
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/F87" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) POKEMON T06 ADVANCED GENERATION
-http://eyplay.io:80/qYp06D/NxmlQ2/842
+http://eyplay.io:80/l1vHzB/RV6D06/842
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/AYt" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) POKEMON T07 ADVANCED CHALLENGE
-http://eyplay.io:80/qYp06D/NxmlQ2/843
+http://eyplay.io:80/l1vHzB/RV6D06/843
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/SGY" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) POKEMON T08 ADVANCED.BATTLE
-http://eyplay.io:80/qYp06D/NxmlQ2/844
+http://eyplay.io:80/l1vHzB/RV6D06/844
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/qIW" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) POKEMON T09 BATTLE FRONTIER
-http://eyplay.io:80/qYp06D/NxmlQ2/845
+http://eyplay.io:80/l1vHzB/RV6D06/845
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/r1I" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) POKEMON T10 DIAMOND E PEARL
-http://eyplay.io:80/qYp06D/NxmlQ2/846
+http://eyplay.io:80/l1vHzB/RV6D06/846
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/Eqd" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) POKEMON T11 BATALHA DIMENCIONAL
-http://eyplay.io:80/qYp06D/NxmlQ2/847
+http://eyplay.io:80/l1vHzB/RV6D06/847
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/l8t" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) POKEMON T12 BATALHAS GALATICAS
-http://eyplay.io:80/qYp06D/NxmlQ2/848
+http://eyplay.io:80/l1vHzB/RV6D06/848
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/iBB" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) POPEYE 75TH ANNIVERSARY
-http://eyplay.io:80/qYp06D/NxmlQ2/850
+http://eyplay.io:80/l1vHzB/RV6D06/850
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/rTm" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) POWER RANGERS MIGHTY MORPHIN 1 TEMPORADA
-http://eyplay.io:80/qYp06D/NxmlQ2/851
+http://eyplay.io:80/l1vHzB/RV6D06/851
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/9SW" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) PROJETO ZETA
-http://eyplay.io:80/qYp06D/NxmlQ2/852
+http://eyplay.io:80/l1vHzB/RV6D06/852
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/Fou" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) RAGNAROK
-http://eyplay.io:80/qYp06D/NxmlQ2/853
+http://eyplay.io:80/l1vHzB/RV6D06/853
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/q5J" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) RECRUTA ZERO
-http://eyplay.io:80/qYp06D/NxmlQ2/854
+http://eyplay.io:80/l1vHzB/RV6D06/854
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/ACF" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) REDAKAI
-http://eyplay.io:80/qYp06D/NxmlQ2/855
+http://eyplay.io:80/l1vHzB/RV6D06/855
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/H4C" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) REN E STIMPY
-http://eyplay.io:80/qYp06D/NxmlQ2/856
+http://eyplay.io:80/l1vHzB/RV6D06/856
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/ypo" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) RIQUINHO
-http://eyplay.io:80/qYp06D/NxmlQ2/857
+http://eyplay.io:80/l1vHzB/RV6D06/857
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/yOC" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) RUGRATS OS ANJINHOS
-http://eyplay.io:80/qYp06D/NxmlQ2/858
+http://eyplay.io:80/l1vHzB/RV6D06/858
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/u2I" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) Sai de Baixo T01
-http://eyplay.io:80/qYp06D/NxmlQ2/860
+http://eyplay.io:80/l1vHzB/RV6D06/860
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/G9W" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) Sai de Baixo T02
-http://eyplay.io:80/qYp06D/NxmlQ2/861
+http://eyplay.io:80/l1vHzB/RV6D06/861
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/9E8" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) Sai de Baixo T03
-http://eyplay.io:80/qYp06D/NxmlQ2/862
+http://eyplay.io:80/l1vHzB/RV6D06/862
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/hQ7" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) Sai de Baixo T04
-http://eyplay.io:80/qYp06D/NxmlQ2/863
+http://eyplay.io:80/l1vHzB/RV6D06/863
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/6TV" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) Sai de Baixo T05
-http://eyplay.io:80/qYp06D/NxmlQ2/864
+http://eyplay.io:80/l1vHzB/RV6D06/864
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/7Od" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) Sai de Baixo T06
-http://eyplay.io:80/qYp06D/NxmlQ2/865
+http://eyplay.io:80/l1vHzB/RV6D06/865
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/Wqe" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) Sai de Baixo T07
-http://eyplay.io:80/qYp06D/NxmlQ2/866
+http://eyplay.io:80/l1vHzB/RV6D06/866
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/GR8" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) Sai de Baixo T08
-http://eyplay.io:80/qYp06D/NxmlQ2/867
+http://eyplay.io:80/l1vHzB/RV6D06/867
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/kKc" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) SAKURA CARD CAPTORS
-http://eyplay.io:80/qYp06D/NxmlQ2/868
+http://eyplay.io:80/l1vHzB/RV6D06/868
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/H3W" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) SAMURAI WARRIORS
-http://eyplay.io:80/qYp06D/NxmlQ2/870
+http://eyplay.io:80/l1vHzB/RV6D06/870
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/UfF" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) SCOOB DOO SHOW
-http://eyplay.io:80/qYp06D/NxmlQ2/871
+http://eyplay.io:80/l1vHzB/RV6D06/871
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/PeO" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) SERIE HERCULES
-http://eyplay.io:80/qYp06D/NxmlQ2/872
+http://eyplay.io:80/l1vHzB/RV6D06/872
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/ikD" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) SHAMAN KING
-http://eyplay.io:80/qYp06D/NxmlQ2/873
+http://eyplay.io:80/l1vHzB/RV6D06/873
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/IXk" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) SHE-RA
-http://eyplay.io:80/qYp06D/NxmlQ2/874
+http://eyplay.io:80/l1vHzB/RV6D06/874
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/Wfi" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) SHINZO
-http://eyplay.io:80/qYp06D/NxmlQ2/875
+http://eyplay.io:80/l1vHzB/RV6D06/875
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/j9Y" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) SHURATO
-http://eyplay.io:80/qYp06D/NxmlQ2/876
+http://eyplay.io:80/l1vHzB/RV6D06/876
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/B7S" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) SILVERHAWKS (LEGENDADO)
-http://eyplay.io:80/qYp06D/NxmlQ2/877
+http://eyplay.io:80/l1vHzB/RV6D06/877
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/TI4" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) SITIO DO PICAPAU AMARELO
-http://eyplay.io:80/qYp06D/NxmlQ2/878
+http://eyplay.io:80/l1vHzB/RV6D06/878
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/1vE" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) Smallville T02
-http://eyplay.io:80/qYp06D/NxmlQ2/880
+http://eyplay.io:80/l1vHzB/RV6D06/880
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/ucF" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) Smallville T03
-http://eyplay.io:80/qYp06D/NxmlQ2/881
+http://eyplay.io:80/l1vHzB/RV6D06/881
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/pnY" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) Smallville T04
-http://eyplay.io:80/qYp06D/NxmlQ2/882
+http://eyplay.io:80/l1vHzB/RV6D06/882
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/EYK" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) Smallville T05
-http://eyplay.io:80/qYp06D/NxmlQ2/883
+http://eyplay.io:80/l1vHzB/RV6D06/883
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/t6H" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) Smallville T06
-http://eyplay.io:80/qYp06D/NxmlQ2/884
+http://eyplay.io:80/l1vHzB/RV6D06/884
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/Pvl" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) Smallville T07
-http://eyplay.io:80/qYp06D/NxmlQ2/885
+http://eyplay.io:80/l1vHzB/RV6D06/885
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/KBv" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) Smallville T08
-http://eyplay.io:80/qYp06D/NxmlQ2/886
+http://eyplay.io:80/l1vHzB/RV6D06/886
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/1xu" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) Smallville T09
-http://eyplay.io:80/qYp06D/NxmlQ2/887
+http://eyplay.io:80/l1vHzB/RV6D06/887
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/qvQ" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) Smallville T10
-http://eyplay.io:80/qYp06D/NxmlQ2/888
+http://eyplay.io:80/l1vHzB/RV6D06/888
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/Xv7" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) SONIC X
-http://eyplay.io:80/qYp06D/NxmlQ2/890
+http://eyplay.io:80/l1vHzB/RV6D06/890
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/aCA" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) SOUTH PARK T01
-http://eyplay.io:80/qYp06D/NxmlQ2/891
+http://eyplay.io:80/l1vHzB/RV6D06/891
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/1dZ" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) SOUTH PARK T02
-http://eyplay.io:80/qYp06D/NxmlQ2/892
+http://eyplay.io:80/l1vHzB/RV6D06/892
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/Z5m" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) SOUTH PARK T03
-http://eyplay.io:80/qYp06D/NxmlQ2/893
+http://eyplay.io:80/l1vHzB/RV6D06/893
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/sQh" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) SOUTH PARK T04
-http://eyplay.io:80/qYp06D/NxmlQ2/894
+http://eyplay.io:80/l1vHzB/RV6D06/894
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/cjh" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) SOUTH PARK T05
-http://eyplay.io:80/qYp06D/NxmlQ2/895
+http://eyplay.io:80/l1vHzB/RV6D06/895
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/YZL" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) SOUTH PARK T06
-http://eyplay.io:80/qYp06D/NxmlQ2/896
+http://eyplay.io:80/l1vHzB/RV6D06/896
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/LDM" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) SOUTH PARK T07
-http://eyplay.io:80/qYp06D/NxmlQ2/897
+http://eyplay.io:80/l1vHzB/RV6D06/897
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/Ubh" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) SOUTH PARK T08
-http://eyplay.io:80/qYp06D/NxmlQ2/898
+http://eyplay.io:80/l1vHzB/RV6D06/898
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/ciC" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) SOUTH PARK T10
-http://eyplay.io:80/qYp06D/NxmlQ2/900
+http://eyplay.io:80/l1vHzB/RV6D06/900
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/OoE" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) SOUTH PARK T11
-http://eyplay.io:80/qYp06D/NxmlQ2/901
+http://eyplay.io:80/l1vHzB/RV6D06/901
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/laY" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) SOUTH PARK T12
-http://eyplay.io:80/qYp06D/NxmlQ2/902
+http://eyplay.io:80/l1vHzB/RV6D06/902
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/PJz" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) SOUTH PARK T13
-http://eyplay.io:80/qYp06D/NxmlQ2/903
+http://eyplay.io:80/l1vHzB/RV6D06/903
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/sEn" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) SOUTH PARK T15
-http://eyplay.io:80/qYp06D/NxmlQ2/904
+http://eyplay.io:80/l1vHzB/RV6D06/904
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/s5x" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) SOUTH PARK T16
-http://eyplay.io:80/qYp06D/NxmlQ2/905
+http://eyplay.io:80/l1vHzB/RV6D06/905
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/Hii" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) SOUTH PARK T17
-http://eyplay.io:80/qYp06D/NxmlQ2/906
+http://eyplay.io:80/l1vHzB/RV6D06/906
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/GAd" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) SOUTH PARK T18
-http://eyplay.io:80/qYp06D/NxmlQ2/907
+http://eyplay.io:80/l1vHzB/RV6D06/907
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/Tz5" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) SOUTH PARK T19
-http://eyplay.io:80/qYp06D/NxmlQ2/908
+http://eyplay.io:80/l1vHzB/RV6D06/908
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/ya8" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) SOUTH PARK T21
-http://eyplay.io:80/qYp06D/NxmlQ2/910
+http://eyplay.io:80/l1vHzB/RV6D06/910
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/9lA" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) SPACE GOST
-http://eyplay.io:80/qYp06D/NxmlQ2/911
+http://eyplay.io:80/l1vHzB/RV6D06/911
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/9rq" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) SPEED RACER A NOVA GERACAO
-http://eyplay.io:80/qYp06D/NxmlQ2/912
+http://eyplay.io:80/l1vHzB/RV6D06/912
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/AKU" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) SPEED RACER CLASSICO
-http://eyplay.io:80/qYp06D/NxmlQ2/913
+http://eyplay.io:80/l1vHzB/RV6D06/913
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/JjF" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) SUPER AMIGOS
-http://eyplay.io:80/qYp06D/NxmlQ2/914
+http://eyplay.io:80/l1vHzB/RV6D06/914
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/SXv" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) SUPER MARIO BROS 3
-http://eyplay.io:80/qYp06D/NxmlQ2/915
+http://eyplay.io:80/l1vHzB/RV6D06/915
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/BgY" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) SUPERNATURAL T02
-http://eyplay.io:80/qYp06D/NxmlQ2/916
+http://eyplay.io:80/l1vHzB/RV6D06/916
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/2iw" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) Supernatural T02
-http://eyplay.io:80/qYp06D/NxmlQ2/917
+http://eyplay.io:80/l1vHzB/RV6D06/917
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/PaW" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) Supernatural T03
-http://eyplay.io:80/qYp06D/NxmlQ2/918
+http://eyplay.io:80/l1vHzB/RV6D06/918
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/r5g" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) Supernatural T05
-http://eyplay.io:80/qYp06D/NxmlQ2/920
+http://eyplay.io:80/l1vHzB/RV6D06/920
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/XLo" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) Supernatural T06
-http://eyplay.io:80/qYp06D/NxmlQ2/921
+http://eyplay.io:80/l1vHzB/RV6D06/921
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/pT7" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) Supernatural T07
-http://eyplay.io:80/qYp06D/NxmlQ2/922
+http://eyplay.io:80/l1vHzB/RV6D06/922
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/X47" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) Supernatural T08
-http://eyplay.io:80/qYp06D/NxmlQ2/923
+http://eyplay.io:80/l1vHzB/RV6D06/923
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/L2g" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) Supernatural T09
-http://eyplay.io:80/qYp06D/NxmlQ2/924
+http://eyplay.io:80/l1vHzB/RV6D06/924
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/fJz" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) Supernatural T10
-http://eyplay.io:80/qYp06D/NxmlQ2/925
+http://eyplay.io:80/l1vHzB/RV6D06/925
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/GeA" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) Supernatural T11
-http://eyplay.io:80/qYp06D/NxmlQ2/926
+http://eyplay.io:80/l1vHzB/RV6D06/926
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/IDm" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) Supernatural T12
-http://eyplay.io:80/qYp06D/NxmlQ2/927
+http://eyplay.io:80/l1vHzB/RV6D06/927
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/UJW" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) Supernatural T13
-http://eyplay.io:80/qYp06D/NxmlQ2/928
+http://eyplay.io:80/l1vHzB/RV6D06/928
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/8VE" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) TARTARUGA TOUCHE E DUM DUM
-http://eyplay.io:80/qYp06D/NxmlQ2/930
+http://eyplay.io:80/l1vHzB/RV6D06/930
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/KGD" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) TARZAN
-http://eyplay.io:80/qYp06D/NxmlQ2/931
+http://eyplay.io:80/l1vHzB/RV6D06/931
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/aG1" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) TARZAN O REI DA SELVA
-http://eyplay.io:80/qYp06D/NxmlQ2/932
+http://eyplay.io:80/l1vHzB/RV6D06/932
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/cCz" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) TAZ-MANIA
-http://eyplay.io:80/qYp06D/NxmlQ2/933
+http://eyplay.io:80/l1vHzB/RV6D06/933
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/Ato" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) TEAM GALAXY
-http://eyplay.io:80/qYp06D/NxmlQ2/934
+http://eyplay.io:80/l1vHzB/RV6D06/934
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/pyD" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) TELETUBBIES CLASSICO
-http://eyplay.io:80/qYp06D/NxmlQ2/935
+http://eyplay.io:80/l1vHzB/RV6D06/935
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/C3s" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) TELETUBBIES NOVO
-http://eyplay.io:80/qYp06D/NxmlQ2/936
+http://eyplay.io:80/l1vHzB/RV6D06/936
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/l04" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) TELETUBBIES STOP MOTION
-http://eyplay.io:80/qYp06D/NxmlQ2/937
+http://eyplay.io:80/l1vHzB/RV6D06/937
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/zTx" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) The Big Bang Theory T01
-http://eyplay.io:80/qYp06D/NxmlQ2/938
+http://eyplay.io:80/l1vHzB/RV6D06/938
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/Jp9" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) The Big Bang Theory T03
-http://eyplay.io:80/qYp06D/NxmlQ2/940
+http://eyplay.io:80/l1vHzB/RV6D06/940
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/CWd" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) The Big Bang Theory T04
-http://eyplay.io:80/qYp06D/NxmlQ2/941
+http://eyplay.io:80/l1vHzB/RV6D06/941
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/Vhp" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) The Big Bang Theory T05
-http://eyplay.io:80/qYp06D/NxmlQ2/942
+http://eyplay.io:80/l1vHzB/RV6D06/942
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/BAH" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) The Big Bang Theory T06
-http://eyplay.io:80/qYp06D/NxmlQ2/943
+http://eyplay.io:80/l1vHzB/RV6D06/943
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/4AY" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) The Big Bang Theory T07
-http://eyplay.io:80/qYp06D/NxmlQ2/944
+http://eyplay.io:80/l1vHzB/RV6D06/944
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/buP" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) The Big Bang Theory T08
-http://eyplay.io:80/qYp06D/NxmlQ2/945
+http://eyplay.io:80/l1vHzB/RV6D06/945
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/wjV" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) The Big Bang Theory T09
-http://eyplay.io:80/qYp06D/NxmlQ2/946
+http://eyplay.io:80/l1vHzB/RV6D06/946
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/P4e" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) The Big Bang Theory T10
-http://eyplay.io:80/qYp06D/NxmlQ2/947
+http://eyplay.io:80/l1vHzB/RV6D06/947
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/tjm" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) The Big Bang Theory T11
-http://eyplay.io:80/qYp06D/NxmlQ2/948
+http://eyplay.io:80/l1vHzB/RV6D06/948
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/Ge3" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) THE OBLONGS
-http://eyplay.io:80/qYp06D/NxmlQ2/950
+http://eyplay.io:80/l1vHzB/RV6D06/950
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/Tca" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) THOMAS E SEUS AMIGOS
-http://eyplay.io:80/qYp06D/NxmlQ2/951
+http://eyplay.io:80/l1vHzB/RV6D06/951
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/cFF" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) THUNDERCATS
-http://eyplay.io:80/qYp06D/NxmlQ2/952
+http://eyplay.io:80/l1vHzB/RV6D06/952
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/pnM" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) TIMAO E PUMBA
-http://eyplay.io:80/qYp06D/NxmlQ2/953
+http://eyplay.io:80/l1vHzB/RV6D06/953
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/3KF" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) TITA SIMBIONICO
-http://eyplay.io:80/qYp06D/NxmlQ2/954
+http://eyplay.io:80/l1vHzB/RV6D06/954
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/Q5G" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) TITIO AVO
-http://eyplay.io:80/qYp06D/NxmlQ2/955
+http://eyplay.io:80/l1vHzB/RV6D06/955
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/8g9" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) TODO MUNDO ODEIA O CHRIS T01
-http://eyplay.io:80/qYp06D/NxmlQ2/956
+http://eyplay.io:80/l1vHzB/RV6D06/956
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/RQg" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) TODO MUNDO ODEIA O CHRIS T02
-http://eyplay.io:80/qYp06D/NxmlQ2/957
+http://eyplay.io:80/l1vHzB/RV6D06/957
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/B4j" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) TODO MUNDO ODEIA O CHRIS T03
-http://eyplay.io:80/qYp06D/NxmlQ2/958
+http://eyplay.io:80/l1vHzB/RV6D06/958
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/aWn" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) TOM & JERRY
-http://eyplay.io:80/qYp06D/NxmlQ2/960
+http://eyplay.io:80/l1vHzB/RV6D06/960
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/xBR" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) TOURADAS
-http://eyplay.io:80/qYp06D/NxmlQ2/961
+http://eyplay.io:80/l1vHzB/RV6D06/961
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/uMK" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) TRES ESPIAS DEMAIS T01
-http://eyplay.io:80/qYp06D/NxmlQ2/962
+http://eyplay.io:80/l1vHzB/RV6D06/962
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/U6N" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) TRES ESPIAS DEMAIS T02
-http://eyplay.io:80/qYp06D/NxmlQ2/963
+http://eyplay.io:80/l1vHzB/RV6D06/963
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/LXV" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) TRES ESPIAS DEMAIS T03
-http://eyplay.io:80/qYp06D/NxmlQ2/964
+http://eyplay.io:80/l1vHzB/RV6D06/964
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/0ve" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) TRES ESPIAS DEMAIS T04
-http://eyplay.io:80/qYp06D/NxmlQ2/965
+http://eyplay.io:80/l1vHzB/RV6D06/965
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/tb6" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) TRES ESPIAS DEMAIS T05
-http://eyplay.io:80/qYp06D/NxmlQ2/966
+http://eyplay.io:80/l1vHzB/RV6D06/966
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/QMo" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) TUNEL DO TEMPO
-http://eyplay.io:80/qYp06D/NxmlQ2/967
+http://eyplay.io:80/l1vHzB/RV6D06/967
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/nPV" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) TUTUBARAO
-http://eyplay.io:80/qYp06D/NxmlQ2/968
+http://eyplay.io:80/l1vHzB/RV6D06/968
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/MUT" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) UM MALUCO NO PEDACO T01
-http://eyplay.io:80/qYp06D/NxmlQ2/970
+http://eyplay.io:80/l1vHzB/RV6D06/970
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/oIu" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) UM MALUCO NO PEDACO T02
-http://eyplay.io:80/qYp06D/NxmlQ2/971
+http://eyplay.io:80/l1vHzB/RV6D06/971
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/vXz" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) UM MALUCO NO PEDACO T03
-http://eyplay.io:80/qYp06D/NxmlQ2/972
+http://eyplay.io:80/l1vHzB/RV6D06/972
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/SDH" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) UM MALUCO NO PEDACO T04
-http://eyplay.io:80/qYp06D/NxmlQ2/973
+http://eyplay.io:80/l1vHzB/RV6D06/973
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/xYY" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) UM MALUCO NO PEDACO T05
-http://eyplay.io:80/qYp06D/NxmlQ2/974
+http://eyplay.io:80/l1vHzB/RV6D06/974
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/NRm" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) UM MALUCO NO PEDACO T06
-http://eyplay.io:80/qYp06D/NxmlQ2/975
+http://eyplay.io:80/l1vHzB/RV6D06/975
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/cnb" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) URSINHOS CARINHOSOS
-http://eyplay.io:80/qYp06D/NxmlQ2/976
+http://eyplay.io:80/l1vHzB/RV6D06/976
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/ggD" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) VALE DOS DINOSSAUROS
-http://eyplay.io:80/qYp06D/NxmlQ2/977
+http://eyplay.io:80/l1vHzB/RV6D06/977
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/sSw" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) WALLY GATOR
-http://eyplay.io:80/qYp06D/NxmlQ2/978
+http://eyplay.io:80/l1vHzB/RV6D06/978
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/LzF" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) YU-GI-OH CLASSICO T0
-http://eyplay.io:80/qYp06D/NxmlQ2/980
+http://eyplay.io:80/l1vHzB/RV6D06/980
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/tMV" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) YU-GI-OH CLASSICO T01
-http://eyplay.io:80/qYp06D/NxmlQ2/981
+http://eyplay.io:80/l1vHzB/RV6D06/981
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/uqG" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) YU-GI-OH CLASSICO T02
-http://eyplay.io:80/qYp06D/NxmlQ2/982
+http://eyplay.io:80/l1vHzB/RV6D06/982
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/K8U" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) YU-GI-OH CLASSICO T03
-http://eyplay.io:80/qYp06D/NxmlQ2/983
+http://eyplay.io:80/l1vHzB/RV6D06/983
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/w7Z" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) YU-GI-OH CLASSICO T04
-http://eyplay.io:80/qYp06D/NxmlQ2/984
+http://eyplay.io:80/l1vHzB/RV6D06/984
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/r97" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) YU-GI-OH CLASSICO T06
-http://eyplay.io:80/qYp06D/NxmlQ2/985
+http://eyplay.io:80/l1vHzB/RV6D06/985
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/4U8" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) YU-GI-OH CLASSICO T07
-http://eyplay.io:80/qYp06D/NxmlQ2/986
+http://eyplay.io:80/l1vHzB/RV6D06/986
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/phA" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) ZATCH BELL
-http://eyplay.io:80/qYp06D/NxmlQ2/987
+http://eyplay.io:80/l1vHzB/RV6D06/987
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/TQ2" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) ZE BUSCAPE
-http://eyplay.io:80/qYp06D/NxmlQ2/988
+http://eyplay.io:80/l1vHzB/RV6D06/988
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/VvN" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) ZORRA TOTAL (2008)
-http://eyplay.io:80/qYp06D/NxmlQ2/990
+http://eyplay.io:80/l1vHzB/RV6D06/990
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/DKO" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) ZORRA TOTAL (2009)
-http://eyplay.io:80/qYp06D/NxmlQ2/991
+http://eyplay.io:80/l1vHzB/RV6D06/991
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/v4F" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) ZORRA TOTAL (2010)
-http://eyplay.io:80/qYp06D/NxmlQ2/992
+http://eyplay.io:80/l1vHzB/RV6D06/992
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/58G" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) ZORRA TOTAL (2011)
-http://eyplay.io:80/qYp06D/NxmlQ2/993
+http://eyplay.io:80/l1vHzB/RV6D06/993
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/9j6" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) ZORRA TOTAL (2012)
-http://eyplay.io:80/qYp06D/NxmlQ2/994
+http://eyplay.io:80/l1vHzB/RV6D06/994
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/bkb" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) ZORRA TOTAL (2013)
-http://eyplay.io:80/qYp06D/NxmlQ2/995
+http://eyplay.io:80/l1vHzB/RV6D06/995
 
 
 #EXTINF:-1 tvg-logo="http://iv.pe/3sI" aspect-ratio="16:9" group-title="Canais | 24 Horas",(24H) ZORRA TOTAL (2014)
-http://eyplay.io:80/qYp06D/NxmlQ2/996
+http://eyplay.io:80/l1vHzB/RV6D06/996
 
 
 
@@ -5103,1705 +5103,1705 @@ http://eyplay.io:80/movie/iAndHz/bZ0obx/14941.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/16aa6d79e2a85410d7f1f1963a6f1c78.jpg" group-title="Filmes | Acao",Comando Justiceiro - 2019
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/14943.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/14943.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/f77a2c4627aafff325e5fac5463ccb18.jpg" group-title="Filmes | Acao",Comando Para Matar - 1985
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/14944.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/14944.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/14de194c2e3c22d242d85c08262acbaa.jpg" group-title="Filmes | Acao",Con Air: A Rota da Fuga - 1997
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/14945.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/14945.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zbks565OOTYsO3Cd9capcGz5hXX.jpg" group-title="Filmes | Acao",Conan, o Bárbaro - 2011
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/14947.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/14947.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/7d7f16395632bf33ae4fdb038d278bf1.jpg" group-title="Filmes | Acao",Conan, O Destruidor - 1984
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/14946.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/14946.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/69f56099864db8b369ea5ace15b8d80a.jpg" group-title="Filmes | Acao",Condenação Brutal - 1989
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/14948.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/14948.mp4
 
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/18aa5adb6a6ba5549ffaaaa8c092fb5e.jpg" group-title="Filmes | Acao",Conexão Jamaica - 2002
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/14949.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/14949.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/38aeca0e0da961adb164f7f68bd32837.jpg" group-title="Filmes | Acao",Coração Valente - 1995
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/14950.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/14950.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/5eed52ce06437f5d69bbaadcbc988ef1.jpg" group-title="Filmes | Acao",Corações de Ferro - 2014
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/14951.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/14951.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/5e1ca5da475133dc4bc5516a192c810e.jpg" group-title="Filmes | Acao",Corrida Mortal - 2008
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/14952.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/14952.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rrGcj3TbaeIYlr5itXoLONI2Ki7.jpg" group-title="Filmes | Acao",Corrida Mortal 2 - 2010
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/14953.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/14953.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/dd4989d331f2f3e64b120d1ba0b54fe4.jpg" group-title="Filmes | Acao",Corrida Mortal 3 - Inferno - 2013
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/14954.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/14954.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/a320f90a0e6221483bd75bf8746294c7.jpg" group-title="Filmes | Acao",Corrida Mortal 4 - Além da Anarquia - 2018
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/14955.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/14955.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/f81d0909d3e68a437ceb13a30d317e0e.jpg" group-title="Filmes | Acao",Corridas Clandestinas - 2003
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/14956.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/14956.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/dddad9a633fb3339fc7f776ee838355d.jpg" group-title="Filmes | Acao",Cortina de Fogo 2 - 2019
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/14957.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/14957.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/e2bddb5003f6576a91656a4d0f905bff.jpg" group-title="Filmes | Acao",Covil de Ladrões - 2018
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/14958.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/14958.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/55f4e46ffac0ef147f0f346be908a9df.jpg" group-title="Filmes | Acao",Creed II - 2018
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/14959.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/14959.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wp2Vk9XmK8XbGeJ8YmH3N14juw9.jpg" group-title="Filmes | Acao",Creed 1 - Nascido para Lutar - 2015
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/16289.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/16289.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/19c2627e10c1b5d5a4dd02c8649b781d.jpg" group-title="Filmes | Acao",Crimes Obscuros - 2018
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/14960.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/14960.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/df56f73ba73905a03879f00124d81d4b.jpg" group-title="Filmes | Acao",Cão de Briga - 2005
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/14926.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/14926.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/2fbf389fac3a0262dade3aed00ed5832.jpg" group-title="Filmes | Acao",Cão Selvagem - 2017
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/14927.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/14927.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/48387b6a1f8e50bc32dd85e59d6339d4.jpg" group-title="Filmes | Acao",Círculo de Fogo: A Revolta - 2018
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/14942.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/14942.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/20095bdab3951906a04beae220cbfb20.jpg" group-title="Filmes | Acao",Darc - 2018
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/14961.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/14961.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/06a5f5bb6e705bb49d1aa1acbe7c7e59.jpg" group-title="Filmes | Acao",Darkman 2: O Retorno de Durant - 1995
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/14962.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/14962.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/86474f155064c4ac1f17a53c46085977.jpg" group-title="Filmes | Acao",Darkman 3: Enfrentando a Morte - 1996
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/14963.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/14963.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/c189248910b6826a2c595b0cc5d9afd0.jpg" group-title="Filmes | Acao",Darkman: Vingança Sem Rosto - 1990
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/14964.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/14964.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/c7151ccf7efb1b637da308435458bc52.jpg" group-title="Filmes | Acao",Deja Vu - 1985
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/14965.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/14965.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/4252db154ebef61e08a09d633e744d3b.jpg" group-title="Filmes | Acao",Desejo de Matar - 1974
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/14966.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/14966.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/f4c1c39ba8dcf4108a669babfd9c7168.jpg" group-title="Filmes | Acao",Desejo de Matar 2 - 1982
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/14967.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/14967.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/99d6e47db712324a04d39e89b6d66896.jpg" group-title="Filmes | Acao",Desejo de Matar 3 - 1985
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/14968.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/14968.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/c7255a19d09ebb0ad453a8aad8ed8861.jpg" group-title="Filmes | Acao",Desejo de Matar 4: Operação Crackdown - 1987
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/14969.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/14969.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/df5d7bb00db52cb32d7c00bc7fcdf636.jpg" group-title="Filmes | Acao",Deus da Guerra - 2017
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/14970.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/14970.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/1b26190697f1d3ac8540dde1b41b4c7b.jpg" group-title="Filmes | Acao",Deuses do Egito - 2016
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/14971.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/14971.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/17e1a311215cd387e962e3ca8e98431b.jpg" group-title="Filmes | Acao",Dia de Treinamento - 2001
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/14972.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/14972.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/bf023f08d7f532f5211b837619c2cfb3.jpg" group-title="Filmes | Acao",Dias de Trovão - 2015
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/14973.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/14973.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/45ae356374cafcdd889aa05f949f6838.jpg" group-title="Filmes | Acao",Direção Explosiva - 2018
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/14974.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/14974.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/1f9c0d5e054833776140fed9851dd6fc.jpg" group-title="Filmes | Acao",Dirty Harry na Lista Negra - 1988
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/14975.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/14975.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/723fcb51b4681b899c3c0f2a64561d14.jpg" group-title="Filmes | Acao",Divisão de Homicídios - 2003
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/14976.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/14976.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gbDNaZJt9bqEaDB6OU3aYEskj72.jpg" group-title="Filmes | Acao",Do Fundo do Mar - 1999
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/14977.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/14977.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/31bdc7106cade79d75ca4b876c43b99a.jpg" group-title="Filmes | Acao",Do Fundo do Mar 2 - 2018
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/14978.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/14978.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/fcb3b2dfc5197e8689905ed7c99ec669.jpg" group-title="Filmes | Acao",Doom: A Porta do Inferno - 2005
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/14979.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/14979.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/5d91f561c74f2ade3556df5d996a67b2.jpg" group-title="Filmes | Acao",Doze Homens e Outro Segredo - 2004
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/14980.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/14980.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/64c1fcfb3dac1f82b09c966f4c1293f2.jpg" group-title="Filmes | Acao",Dupla Explosiva - 2002
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/14981.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/14981.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/6b0125b4a6592e2d293881b075e30199.jpg" group-title="Filmes | Acao",Dupla Implacável - 2010
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/14982.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/14982.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/f61664487d9a3bc7029c4a420cbf780d.jpg" group-title="Filmes | Acao",Duro de Matar 3: A Vingança - 1995
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/14985.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/14985.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/en0r76LdougNDBimL1tLzpTvTau.jpg" group-title="Filmes | Acao",Duro de Matar - 1988
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/14983.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/14983.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z5uiLFzjgeYhnpHmBlFg7s1YHwp.jpg" group-title="Filmes | Acao",Duro de Matar 2 - 1990
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/14984.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/14984.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/8f3926cf1d8350a6644cc92ea09ae03d.jpg" group-title="Filmes | Acao",Duro de Matar 4.0 - 2007
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/14986.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/14986.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/f805b3adce5fb8514a045f8b71a1b5ca.jpg" group-title="Filmes | Acao",Duro de Matar 5: Um Bom Dia para Morrer - 2013
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/14987.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/14987.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/591d501c7d44dd85d5da63beb3a9b98c.jpg" group-title="Filmes | Acao",Efeito Colateral - 2002
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/14988.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/14988.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/f2f2a9931072af8a36000d46dc565b2c.jpg" group-title="Filmes | Acao",Elektra - 2005
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/14989.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/14989.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/2ab93bd5e659225bf3bb13c69041eb56.jpg" group-title="Filmes | Acao",Em Busca da Vitória - 2019
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/14990.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/14990.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/ae7c911aac44810b5447499f0923061e.jpg" group-title="Filmes | Acao",Em Busca de Vingança - 2017
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/14991.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/14991.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/cd60b087bca2aa214b7ca9b7cccd77da.jpg" group-title="Filmes | Acao",Em Ritmo de Fuga - 2017
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/14993.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/14993.mp4
 
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDk1MDFkMjgtMjA2My00ODNhLTgzN2MtZDI4Yzg2YjE0ZDA3XkEyXkFqcGdeQXVyMzU0NzkwMDg@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="Filmes | Acao",Empire State - 1988
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/14992.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/14992.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/974023d17d02db5b403a4f983a2083c2.jpg" group-title="Filmes | Acao",Encontro Explosivo - 2010
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/14994.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/14994.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/bcefc69b949728c08e77328b2c4629a0.jpg" group-title="Filmes | Acao",Entre dos mundos
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/14995.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/14995.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/2e5aedb809c4abf3fadf2cfc3c8fa8cc.jpg" group-title="Filmes | Acao",Equilibrium - 2002
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/14996.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/14996.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/2fe4d2768f6a6c3fc434bf6f6625abfc.jpg" group-title="Filmes | Acao",Era Uma Vez Um Deadpool - 2018
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/14997.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/14997.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/2d65b40c782abd0151aeaf61e8377d35.jpg" group-title="Filmes | Acao",Esporte Sangrento - 1993
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/14998.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/14998.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/8abf744f65771a382b1bf17900606f13.jpg" group-title="Filmes | Acao",Esquadrão 6 - 2019
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/14999.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/14999.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/788ebb94cb7d112c6284e017bc802c63.jpg" group-title="Filmes | Acao",Esquadrão Suicida 2 - 2021
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15000.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15000.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/b46a730ea25c64b469bcacb41df8e0f5.jpg" group-title="Filmes | Acao",Eu Sou a Fúria - 2016
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15002.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15002.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/33b5985682b85537df14b1a435053ff1.jpg" group-title="Filmes | Acao",Eu, Robô - 2004
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15001.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15001.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/70a8a81c1f3f2a562f8afacc9a682f4c.jpg" group-title="Filmes | Acao",Falcão - O Campeão dos Campeões - 1987
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15003.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15003.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/a02c56f42a27360d1cd1259ed08d1562.jpg" group-title="Filmes | Acao",Falcão Negro em Perigo - 2001
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15004.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15004.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/cfd43e7e79c2b7c4ab7204a94ee778e4.jpg" group-title="Filmes | Acao",Feito na América - 2017
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15005.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15005.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/60cb47a4e3c3615136ad1b4afcb2f0eb.jpg" group-title="Filmes | Acao",Fim dos Dias - 1999
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15158.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15158.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/96b28dcbd768f7366cfa530f6ce2d945.jpg" group-title="Filmes | Acao",Fim dos Tempos - 2012
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15006.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15006.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/5ba6a280934c7606b704815dd17dd26c.jpg" group-title="Filmes | Acao",Fogo Contra Fogo - 2012
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15007.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15007.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/1704721a3ed7ab94b536b90a6a70feed.jpg" group-title="Filmes | Acao",Fúria de Titãs - 1981
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15008.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15008.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/596efd672380479853cf6737220a97dc.jpg" group-title="Filmes | Acao",Fúria de Titãs 2 - 2012
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15009.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15009.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/7eb3a88abf93dd890ba171eb034eb5c9.jpg" group-title="Filmes | Acao",Fúria em Alto Mar - 2018
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15010.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15010.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/9904895dbbc842eb65cfcdaec04aa452.jpg" group-title="Filmes | Acao",Fúria em Duas Rodas - 2004
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15011.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15011.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/691a5afd364061359aec4ca5f2a9eeb1.jpg" group-title="Filmes | Acao",Fúria Sobre Rodas - 2011
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15012.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15012.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/d18c48a220d89c0c78ca8222e3e433d1.jpg" group-title="Filmes | Acao",G.I. Joe - A Origem de Cobra - 2009
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15013.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15013.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/af5e332e9d0adc544e273280b5868c20.jpg" group-title="Filmes | Acao",G.I. Joe - Retaliação - 2013
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15014.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15014.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/bc440b08dd9bf300df521e7d5df09d4d.jpg" group-title="Filmes | Acao",Galveston - 2017
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15015.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15015.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/aa00f4b27c3c9ae74accbf57e17a50cd.jpg" group-title="Filmes | Acao",Garotas sem rumo - 2005
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15016.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15016.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/0973a335217e48e24ab43c9187598044.jpg" group-title="Filmes | Acao",Gigantes de Aço - 2011
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15017.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15017.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/c53090a116354619ed3822b33ddc482e.jpg" group-title="Filmes | Acao",Gladiadores - 2017
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15018.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15018.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/dacee99df4ecb7566d7854dc9e3787aa.jpg" group-title="Filmes | Acao",Godzilla II: Rei dos Monstros - 2019
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15019.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15019.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/22c0f252f7d4cecc188b00aec63a7ae9.jpg" group-title="Filmes | Acao",Golpe de Risco - 2017
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15020.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15020.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/be88f84809bd2c4c3e7e89637a43ad28.jpg" group-title="Filmes | Acao",Guerra contra Aliens - 2019
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15021.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15021.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/74b8bf3f2241cb4292abe9c0ffc3c706.jpg" group-title="Filmes | Acao",Guerreira De Sangue - 2016
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15022.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15022.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/de12dfa5b7e40d0731962c0491221561.jpg" group-title="Filmes | Acao",Guerreiro da Escuridão - 2017
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15023.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15023.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/374fd75f34b0b451712de035ddce8a90.jpg" group-title="Filmes | Acao",Hitman - Assassino 47 - 2007
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15024.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15024.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/06260c92e0e7dbc9de96729e742cf6ab.jpg" group-title="Filmes | Acao",Hitman: Agente 47 - 2015
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15025.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15025.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/2feb285ff825f2c365d0ea663980e97f.jpg" group-title="Filmes | Acao",Homem de Ferro 2 - 2010
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15031.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15031.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/fe0c409b77b85db06a3c4ce9383b836b.jpg" group-title="Filmes | Acao",Homem de Ferro 3 - 2013
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15032.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15032.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2T3GkzO6Ar5dlp6Bet43UnxZfQr.jpg" group-title="Filmes | Acao",Homem-Aranha - 2002
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15026.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15026.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ulY3TIeF3cNZKmLmrnQueNYZ0gn.jpg" group-title="Filmes | Acao",Homem-Aranha 2 - 2004
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15027.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15027.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h7goptmUGulOnr2jM4wwc5ypHL.jpg" group-title="Filmes | Acao",Homem-Aranha 3 - 2007
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15028.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15028.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Fgs1ewIZiBBTto1XDHeBN0D8ug.jpg" group-title="Filmes | Acao",Homem-Aranha: De Volta ao Lar - 2017
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15029.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15029.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/smRrzh8W4PfIYiqAEqc6U1D6Ekl.jpg" group-title="Filmes | Acao",Homem-Formiga e a Vespa - 2018
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15030.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15030.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/9992f89f03fe3d78903be83e9bd6b6a4.jpg" group-title="Filmes | Acao",Homens de Coragem - 2017
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15033.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15033.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/e73dbbe2372de71649f64a57a03c3fec.jpg" group-title="Filmes | Acao",Horas de Desespero - 1955
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15034.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15034.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7DacyzHeZsruzFn1C0H1hsnDfaO.jpg" group-title="Filmes | Acao",Horizonte Profundo - Desastre no Golfo - 2016
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15035.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15035.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/ddda554994139b144a12ee4d5137967d.jpg" group-title="Filmes | Acao",I Am Street Fighter - 2012
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15290.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15290.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/bfd857c5b10cc5e8472530d46bed755b.jpg" group-title="Filmes | Acao",Ilha das Sombras - 2010
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/17037.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/17037.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/949a295eb7be2913e14de44f5da70914.jpg" group-title="Filmes | Acao",Impacto Fulminante - 1983
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15036.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15036.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/aec99b735e4738a2d1f1a7cc68214239.jpg" group-title="Filmes | Acao",Impacto Profundo - 1998
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15037.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15037.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/4d5448a5d0b520441c0a580a6b00a546.jpg" group-title="Filmes | Acao",Independence Day: O Ressurgimento - 2016
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15038.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15038.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/43a85a2deff2aaf1e51c1b5ecf8d5e50.jpg" group-title="Filmes | Acao",Inimigo do Estado - 1998
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15039.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15039.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/f12311475997f5a0c08604cf154a189b.jpg" group-title="Filmes | Acao",Inimigo Mortal - 2017
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15040.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15040.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/2b519e67d9037ffc52f478203affe77b.jpg" group-title="Filmes | Acao",Invasão à Casa Branca - 2013
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15041.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15041.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/d8ac8dfe97047e0e058436b9395b8a2e.jpg" group-title="Filmes | Acao",Invasão à Londres - 2016
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15042.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15042.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/db99139c7f1a59cb5e34ddf1cef4853b.jpg" group-title="Filmes | Acao",Jack Reacher: O Último Tiro - 2012
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15045.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15045.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/6deb914daf5ce31470a203d9daf8d453.jpg" group-title="Filmes | Acao",Jack Reacher: Sem Retorno - 2016
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15044.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15044.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/203a822da31d1a40c3f0a2cc9b0adc69.jpg" group-title="Filmes | Acao",Jack: O Caçador de Gigantes - 2013
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15043.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15043.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/7b03fe7d090fa5dbb3eae7d5fd754db3.jpg" group-title="Filmes | Acao",Jogada Divina - 2014
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15046.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15046.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/045c95cd2c4228c17641b33ac872d38c.jpg" group-title="Filmes | Acao",Jogo Duplo - 2018
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15047.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15047.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/42089fb899c2050ed2fef2c156123ff4.jpg" group-title="Filmes | Acao",Jogos Vorazes - 2012
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15048.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15048.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m1lky5ftnhLRpkoYWKssH8qvlRU.jpg" group-title="Filmes | Acao",Jogos Vorazes: Em Chamas - 2013
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15049.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15049.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hekpVNWOROZm57RS4OLW0ySkxx9.jpg" group-title="Filmes | Acao",Jogos Vorazes: A Esperança - Parte 1 - 2014
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15050.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15050.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5KSQkozSelQj6bq8NCKtINvsSSj.jpg" group-title="Filmes | Acao",Jogos Vorazes: A Esperança - O Final - 2015
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15051.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15051.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rboZslo3eQWKBQ3QvlO6wGV0J3K.jpg" group-title="Filmes | Acao",John Wick 1: De Volta ao Jogo - 2014
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15052.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15052.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k36UzsRQaY6E055cdYPdYbyREer.jpg" group-title="Filmes | Acao",John Wick 2: Um Novo Dia para Matar - 2017
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15053.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15053.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mOoERCQCGrgFHOrco7wLy6CAYfp.jpg" group-title="Filmes | Acao",John Wick 3: Parabellum - 2019
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15054.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15054.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bgxdK2eFyXpFBhUYDXrJKvQFZkB.jpg" group-title="Filmes | Acao",Jurassic Park 2 - 1997
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15055.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15055.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/a77b2ae200da13da091eecbeee3530b2.jpg" group-title="Filmes | Acao",Jurassic Park 3 - 2001
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15056.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15056.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rDChbF4m9qPChlTXkg9rq0ZmTl9.jpg" group-title="Filmes | Acao",Jurassic World: O Mundo dos Dinossauros - 2015
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15057.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15057.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e50XYhyoaJpJUNn18Fs4FsZgtfx.jpg" group-title="Filmes | Acao",Kickboxer 1 - O Desafio do Dragão - 1989
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15058.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15058.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s8gjg0NGxaX0wyCv5x3UTBKRpFG.jpg" group-title="Filmes | Acao",Kickboxer 2 - A Vingança do Dragão - 1991
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15059.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15059.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7K9Nh9ACZfSTn7ngMMAFELiyUr6.jpg" group-title="Filmes | Acao",Kickboxer 3 - A Arte da Guerra - 1992
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15060.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15060.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1oaAi6GiIISCf7jkFeypMyztsPV.jpg" group-title="Filmes | Acao",Kickboxer 4 - O Agressor - 1994
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15061.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15061.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a6essQQLBu0YuYVau1xuihfkdGJ.jpg" group-title="Filmes | Acao",Kickboxer 5 - O Desafio Final - 1995
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15062.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15062.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qqhTNSrOcU0rgN7QSTckp9p5yyx.jpg" group-title="Filmes | Acao",Kickboxer 6 - A Vingança do Dragão - 2016
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15063.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15063.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2jdC3LhzCyHTaKUlW9FUsDd0106.jpg" group-title="Filmes | Acao",Kickboxer 7 - A Retaliação - 2018
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15064.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15064.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/74be49f6a2d9a6b1987bae4ce5126bf4.jpg" group-title="Filmes | Acao",Kingsman: O Círculo Dourado - 2017
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15065.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15065.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/0b0c72b66d07eadc5d40bade50d950f5.jpg" group-title="Filmes | Acao",Kingsman: Serviço Secreto - 2014
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15066.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15066.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/8ce3ade6d4b98da6f1b25d9f0f4138c1.jpg" group-title="Filmes | Acao",Kong: A Ilha da Caveira - 2017
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15067.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15067.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/ab32bc82c031124d3475c9d0db68af93.jpg" group-title="Filmes | Acao",Kung Fu Yoga - 2017
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15068.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15068.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/88631cc5a376fa4024fa740d76a2e928.jpg" group-title="Filmes | Acao",Kung Pow: O Mestre da Kung-Fu-São - 2002
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15069.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15069.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2yQUnpc1BXgesJrfcdoRa6jTAnA.jpg" group-title="Filmes | Acao",Pantera Negra - 2018
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15214.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15214.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/85c7ad3a5f9fbf0512727c9220c7313a.jpg" group-title="Filmes | Acao",Lanterna Verde - 2011
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15070.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15070.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/598cea410a8f21fdb65608b9cea2018d.jpg" group-title="Filmes | Acao",LEAL Só Existe Uma Maneira de Viver - 2018
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15071.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15071.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/44397f06b47c3f1de85b69c6534986dd.jpg" group-title="Filmes | Acao",Liga dos Deuses - 2016
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15072.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15072.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/d9a1eba5be8734b4f5c6399353a417b5.jpg" group-title="Filmes | Acao",Linha de Frente - 2013
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15073.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15073.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/4c9b220655996a265afa4d1662a4acaa.jpg" group-title="Filmes | Acao",Lobo Guerreiro 2 - 2017
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15074.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15074.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/9018c5e0a5198fc01e771e1f466f965b.jpg" group-title="Filmes | Acao",Logan - 2017
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15075.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15075.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rFTGCeuezNTpVyaMJsQX3gAAIGH.jpg" group-title="Filmes | Acao",Logan Lucky - Roubo em Família - 2017
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15076.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15076.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/7ac67b9a1e56b92b6f02387f1c95fd8e.jpg" group-title="Filmes | Acao",Los Tres Mosqueteros - 1942
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15205.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15205.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1RobAQaPIYV2PBmkb4XISbsQZPe.jpg" group-title="Filmes | Acao",Lua Negra - 1996
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15077.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15077.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6f10Yn1vooCMhb6DrY6AvsK19Yh.jpg" group-title="Filmes | Acao",Lucy - 2014
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15078.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15078.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z2Ujt0FwMwHhAo7QJC0u1HG1m1h.jpg" group-title="Filmes | Acao",Lukas - 2018
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15079.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15079.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nfX3u8DEdYl94IhDoyFWId1Dxd9.jpg" group-title="Filmes | Acao",Lutador de Rua - 2009
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15080.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15080.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5ad9TjDgRADhKqZjoed2M6h9TO2.jpg" group-title="Filmes | Acao",Mad Max - 1979
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15081.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15081.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hqDHnVaRV5NBTZs99kaz2RcyY5.jpg" group-title="Filmes | Acao",Mad Max: A Caçada Continua - 1981
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15082.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15082.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o4rv4JyeDmDKGaZgvmQxSkaCJXX.jpg" group-title="Filmes | Acao",Mad Max: Além da Cúpula do Trovão - 1985
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15083.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15083.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tH64gzAHDFg7EFcgfkkZyHdGM5P.jpg" group-title="Filmes | Acao",Mad Max: Estrada da Fúria - 2015
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15084.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15084.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v4dlt8HUBgCuUiJTXID8OB4cZLF.jpg" group-title="Filmes | Acao",Man Down - A Guerra - 2016
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15085.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15085.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wMCwGfjm0Z4YR0UCrjTvFt3TVo6.jpg" group-title="Filmes | Acao",Massacre no Bairro Japonês - 1991
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15090.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15090.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aOIuZAjPaRIE6CMzbazvcHuHXDc.jpg" group-title="Filmes | Acao",Matrix 1 - 1999
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15091.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15091.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTGg4gT6yBAxm6bskTkOjdRsbit.jpg" group-title="Filmes | Acao",Matrix 2 - Reloaded - 2003
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15092.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15092.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t1wm4PgOQ8e4z1C6tk1yDNrps4T.jpg" group-title="Filmes | Acao",Matrix 3 -Revolutions - 2003
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15093.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15093.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fOGtuC11sy3L4o2vJDdJqISakxF.jpg" group-title="Filmes | Acao",Maze Runner: A Cura Mortal - 2018
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15094.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15094.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6VscmBcqlTlOAZi7arTwtx8HStj.jpg" group-title="Filmes | Acao",Melhores Amigos - 2016
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15095.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15095.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mUGIrdTMy24EpkYvjKrzRzszDSS.jpg" group-title="Filmes | Acao",Mente Criminosa - 2016
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15096.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15096.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oHxt6fIRgFPpD1SeYHst9hk7sOP.jpg" group-title="Filmes | Acao",Mergulho Radical - 2005
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15097.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15097.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kVIayzNyobQW50ZSm7NK6ux86uX.jpg" group-title="Filmes | Acao",Meu Ex é um Espião - 2018
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15098.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15098.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mxopI5VyShCeAlJf3X4Q1T40Bub.jpg" group-title="Filmes | Acao",MIB: Homens de Preto - Internacional - 2019
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15099.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15099.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jNailYxoCT6L2DDBFNz7kNCULhG.jpg" group-title="Filmes | Acao",MIB: Homens de Preto - 1997
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15100.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15100.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/0ef6a0cb6bc48cfc64a7a55afad4a05f.jpg" group-title="Filmes | Acao",MIB: Homens de Preto II - 2002
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15101.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15101.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g3DyE2sU4Xr14XR1ZXirCn2lt7e.jpg" group-title="Filmes | Acao",MIB: Homens de Preto III - 2012
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15102.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15102.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/ae8c8c9756cdcf5f1134c06e3b833813.jpg" group-title="Filmes | Acao",Millennium: A Garota na Teia de Aranha - 2018
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15103.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15103.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/244080c41968740f3f4658ecac8d9515.jpg" group-title="Filmes | Acao",Miss Bala - 2019
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15112.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15112.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/70MV8TU1Lxc6vyj8BaEU3HLuU7W.jpg" group-title="Filmes | Acao",Missão: Impossível 1 - 1996
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15106.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15106.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Odva4vcrL6D7NRhIMlYf8Dg5nC.jpg" group-title="Filmes | Acao",Missão: Impossível 4 - Protocolo Fantasma - 2011
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15109.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15109.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fxL6ktSUDejDq9Ni6UsoY73DC2I.jpg" group-title="Filmes | Acao",Missão: Impossível 5 - Nação Secreta - 2015
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15110.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15110.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i273qQubszItr11lQNMFWnYP4J1.jpg" group-title="Filmes | Acao",Missão: Impossível 6 - Efeito Fallout - 2018
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15111.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15111.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/b0f9abe1d3d340258fba0cbf7355b0e8.jpg" group-title="Filmes | Acao",Missão Extraordinária - 2017
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15104.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15104.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/23a62499f73b2d7eea9249de81cbf10c.jpg" group-title="Filmes | Acao",Missão Final - 2018
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15105.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15105.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sT5hbs7rmMk2Edup7Pw9MB02x9G.jpg" group-title="Filmes | Acao",Missão: Impossível 2 - 2000
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15107.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15107.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ui7TCk3IzsjLcDRkZi08nLFvwRO.jpg" group-title="Filmes | Acao",Missão: Impossível 3 - 2006
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15108.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15108.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/5876b531a9af22f5ef6cdf6ae0028645.jpg" group-title="Filmes | Acao",Momento Crítico - 1996
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15113.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15113.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/3e46ca264060c1433072e8e35632170c.jpg" group-title="Filmes | Acao",Monster Trucks - 2016
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15114.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15114.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/8ac66f21e24d992d32c730f6c7bbaad8.jpg" group-title="Filmes | Acao",Mortal Kombat - 1995
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15115.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15115.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/8ac66f21e24d992d32c730f6c7bbaad8.jpg" group-title="Filmes | Acao",Mortal Kombat - 1995
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15116.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15116.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/abd91b831ff26d9f41b187b3da53fb54.jpg" group-title="Filmes | Acao",Morte Súbita - 2007
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15117.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15117.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/eeac7896fcd8332a375933330dd6d354.jpg" group-title="Filmes | Acao",Motoqueiros Selvagens - 2007
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15118.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15118.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/d30f8d2cadbbb3a87c83e1a1091d98ae.jpg" group-title="Filmes | Acao",Mulher Maravilha 1984 - 2020
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15120.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15120.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/c408bf20dc2699f109d030691bcaecd0.jpg" group-title="Filmes | Acao",Mulher-Gato - 2004
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15119.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15119.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xmLVl0IJuOuZn5RiyBgxEXQ5cai.jpg" group-title="Filmes | Acao",Máquina Mortífera 2 - 1989
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15086.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15086.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fkEX64OnvSNP2HnESRjPuuUsi2F.jpg" group-title="Filmes | Acao",Máquina Mortífera 3 - 1992
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15087.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15087.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6f2IQoZl2vwT95AaCQz6EgYQ7sL.jpg" group-title="Filmes | Acao",Máquina Mortífera 4 - 1998
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15088.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15088.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sBdtAsZNVPMOOYcq8zh0XULqU9T.jpg" group-title="Filmes | Acao",Máquinas Mortais - 2018
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15089.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15089.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/60dd715cae4af20a0d0158fc55176bf4.jpg" group-title="Filmes | Acao",Na Escuridão do Oceano - 2018
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15121.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15121.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xeRmg7ZRHjdQ9sFWAKAU7Z9lla8.jpg" group-title="Filmes | Acao",Na Mira dos Assassinos
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15122.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15122.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/a63a2b5056cd59356b4219dffd6b228e.jpg" group-title="Filmes | Acao",Na Teia da Conspiração - 2019
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15123.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15123.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/1a828e97595eeca6f479e04e51c8f3b7.jpg" group-title="Filmes | Acao",Next Gen - 2018
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15124.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15124.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/63354be2c056a0ac1881ae50ad452a60.jpg" group-title="Filmes | Acao",No Limite do Amanhã - 2014
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15126.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15126.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/e9e5cb50c6753c3a478a2d7e3856e793.jpg" group-title="Filmes | Acao",No Olho do Furacão - 2018
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15127.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15127.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/094daaa88781511a05fb8434fc7a0bc4.jpg" group-title="Filmes | Acao",No Olho do Tornado - 2014
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15128.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15128.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/2f8890a7d465884071621a07638719cb.jpg" group-title="Filmes | Acao",Nocaute - 2011
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15125.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15125.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/647139259bc4abda0fe0414e58b7342d.jpg" group-title="Filmes | Acao",Nós Somos os Campeões - 1992
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15129.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15129.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/8b29434fdf44e5ad9f7c9f5abdf78f14.jpg" group-title="Filmes | Acao",O Alvo - 1993
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15130.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15130.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/1e6c4c4c993c0bd1f62139fb13b90d07.jpg" group-title="Filmes | Acao",O Anel do Rei: A Última Batalha - 2018
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15131.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15131.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/3cc6a739d6f07bb2baf8a320fcc7e4c5.jpg" group-title="Filmes | Acao",O Assassino: O Primeiro Alvo - 2017
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15132.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15132.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/56ba1700c3d3d945086326894815ecb7.jpg" group-title="Filmes | Acao",O Atirador: O Extermínio Final - 2017
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15133.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15133.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/ecade00a556fadeeb7d64dd706465ec5.jpg" group-title="Filmes | Acao",O Beijo do Dragão - 2001
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15134.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15134.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/479eba5705b39e3721985fa30beb4d4b.jpg" group-title="Filmes | Acao",O Caminho Difícil - 2019
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15136.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15136.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/8ddc9167967fd8014806bdaf331e42f5.jpg" group-title="Filmes | Acao",O Carma de Um Assassino - 2018
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15137.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15137.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/f2b975875e5c230c369d3567aee06543.jpg" group-title="Filmes | Acao",O Caçador e a Rainha do Gelo - 2016
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15135.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15135.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/d0df6585741a9a4fe5ca22a0c66c1e96.jpg" group-title="Filmes | Acao",O Chacal - 1997
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15138.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15138.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/e090f014829dc0e92496c12997258dd1.jpg" group-title="Filmes | Acao",O Conde de Monte Cristo - 1975
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15139.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15139.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/50449df97bb9790f2932feccd6ec1b28.jpg" group-title="Filmes | Acao",O Confronto - 2001
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15140.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15140.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/aad194e1a17a6b9934a2b95084e21362.jpg" group-title="Filmes | Acao",O Contador - 2016
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15141.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15141.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/cbab3d061d27ecf7484850c6747d7a7c.jpg" group-title="Filmes | Acao",O Despertar da Lenda - 2014
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15142.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15142.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/840d038d951043fb0854d1729d120349.jpg" group-title="Filmes | Acao",O Destemido - 2010
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15143.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15143.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/728189cf7b5ec37c659e314db898d61a.jpg" group-title="Filmes | Acao",O Dia Depois de Amanhã - 2004
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15144.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15144.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/523df9a1ae0723ca8d4b513dcf09e9bc.jpg" group-title="Filmes | Acao",O Duelo Final - 2017
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15145.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15145.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Jm7qB3HdiXANt7EgTc3WCcSrLd.jpg" group-title="Filmes | Acao",O Escorpião Rei 1 - 2002
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15146.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15146.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6mPBRYOn4hl4151yWhs02ZLEdv9.jpg" group-title="Filmes | Acao",O Escorpião Rei 2 - A Saga de um Guerreiro - 2008
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15147.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15147.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/chDnDwzv9njnYHDr2lhsvujSaPb.jpg" group-title="Filmes | Acao",O Escorpião Rei 3 - Batalha pela Redenção - 2012
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15148.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15148.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5GISNwtHWbmYJdbFHMpLoaotYhL.jpg" group-title="Filmes | Acao",O Escorpião Rei 4 - Na Busca pelo Poder - 2015
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15149.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15149.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z5POjnFBZM7mvLi3HCfGyhs0s1e.jpg" group-title="Filmes | Acao",O Escorpião Rei 5 - O Livro das Almas - 2018
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15150.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15150.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/b7da27e736165806fe511149d6953b87.jpg" group-title="Filmes | Acao",O Espetacular Homem-Aranha - 2012
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15151.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15151.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pnLRNJXy0URPR5khEshbytlirDN.jpg" group-title="Filmes | Acao",O Estrangeiro - 2017
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15152.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15152.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iHVDy91mpqUbUDdG6hfyniFQPx4.jpg" group-title="Filmes | Acao",O Exterminador do Futuro 1 - 1984
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15153.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15153.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3TozsOOvgppyDQPVPQntmJhviRF.jpg" group-title="Filmes | Acao",O Exterminador do Futuro 2 - O Julgamento Final - 1991
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15154.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15154.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ycs9eita98mrcpkxXAL2GVPI0N8.jpg" group-title="Filmes | Acao",O Exterminador do Futuro 3 - A Rebelião das Máquinas - 2003
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15155.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15155.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tNKoEs9ovTLpJURT9WKJASUDktM.jpg" group-title="Filmes | Acao",O Exterminador do Futuro 4 - A Salvação - 2009
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15156.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15156.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mgFUi4xTual7RkcyobhP76Ctx6A.jpg" group-title="Filmes | Acao",A Lenda do Mestre Chinês - 2011
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15157.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15157.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/adcb06ab9319ae14292be587dcee5992.jpg" group-title="Filmes | Acao",O Fugitivo - 1993
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15159.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15159.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/a9b2417d4fa9a7da6afe40ec87d8c5a5.jpg" group-title="Filmes | Acao",O Grande Dragão Branco 2 - 1996
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15160.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15160.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/fcff25055ff732311860555925261410.jpg" group-title="Filmes | Acao",O Grande Herói - 2013
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15161.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15161.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3v06xJfco8hMDaMYOdUaxquh7hx.jpg" group-title="Filmes | Acao",O Grande Mestre 1 - 2008
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15162.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15162.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tGF7xNmbJVJYUj8kNggygUFMSaq.jpg" group-title="Filmes | Acao",O Grande Mestre 2 - 2013
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15163.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15163.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/c06629c3c3baeff87aa2152dd1bc0dfc.jpg" group-title="Filmes | Acao",O Grande Mestre 3 - 2015
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15164.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15164.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2VgZW2ZD3pNoV2j8U2GXNRwOsk9.jpg" group-title="Filmes | Acao",O Guarda-Costas - 1992
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15165.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15165.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/f10f1ebb3e92fb4218cdd96572489892.jpg" group-title="Filmes | Acao",O Incrível Hulk - 1977
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15169.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15169.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/b0b517e2ae4a8fced867739aa1feb92f.jpg" group-title="Filmes | Acao",O Inferno de Dante - 1997
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15170.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15170.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/6a9e44ce32d8f54272e9d03c7d4474ec.jpg" group-title="Filmes | Acao",O Justiceiro: Estrada do Caos - 2014
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15171.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15171.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/a72b008b95f93a16fb52ac871022364e.jpg" group-title="Filmes | Acao",O Legado Bourne - 2012
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15172.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15172.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/98ea0d0425fc43137cbe2cef104f5c69.jpg" group-title="Filmes | Acao",O Livro de Eli - 2010
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15173.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15173.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/29ba21ad92442167d06e6fc78d87b111.jpg" group-title="Filmes | Acao",O Matador - 2017
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15174.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15174.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/0a4aea4aa9eebf7cc105062929240fcc.jpg" group-title="Filmes | Acao",O Mestre das Armas - 2006
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15175.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15175.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/ca461723e4a6785be78612c85cae1861.jpg" group-title="Filmes | Acao",O Plano Perfeito 2 - 2019
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15184.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15184.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/46aa7a3153b4510963e605c45e7703db.jpg" group-title="Filmes | Acao",O Preço do Amanhã - 2011
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15185.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15185.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/a6084cd1e615220b60af815f17446054.jpg" group-title="Filmes | Acao",O Procurado - 2008
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15186.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15186.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/396e32ae62a8ac5f04625778c35b2548.jpg" group-title="Filmes | Acao",O Quebra Gelo - 2016
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/17114.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/17114.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/1015a9a47b622d510b6e7b4623aeed42.jpg" group-title="Filmes | Acao",O Rei das Drogas - 2018
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15188.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15188.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/22bf21e167b45e7f8b7a2203ef0646d6.jpg" group-title="Filmes | Acao",O Rei Guerreiro - 2017
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15189.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15189.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/76dc0a93c20b1a776ccc06dc6128a9a9.jpg" group-title="Filmes | Acao",O Reino das Espadas - 2018
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/17115.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/17115.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/497adbb321c07387635f88745bf9b224.jpg" group-title="Filmes | Acao",O Reino Proibido - 2008
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15190.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15190.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/bfdfff913cc6c941d4edb8258060b518.jpg" group-title="Filmes | Acao",O Retorno da Múmia - 2001
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15191.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15191.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/28791423fe2dd5420a04dc9ed1984fc2.jpg" group-title="Filmes | Acao",O Retorno do Dragão A Cidade Perdida - 2011
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15192.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15192.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/20b69238c9c3b08fa4e16745768631f5.jpg" group-title="Filmes | Acao",O Sétimo Filho - 2014
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15197.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15197.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/fae091e4c2d2081a4846bae48879b4ef.jpg" group-title="Filmes | Acao",O Ultimato Bourne - 2007
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15208.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15208.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/e2ae7fb5c9517cb6a7a6599acd5751c6.jpg" group-title="Filmes | Acao",O Vendedor Chinês - 2017
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15212.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15212.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/7d46ead4075e71a387aa952cd39f28b5.jpg" group-title="Filmes | Acao",O Último Assalto - 2017
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15209.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15209.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/25ccfac8777ceae756fa2994efd854bb.jpg" group-title="Filmes | Acao",O Último Desafio - 2013
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15210.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15210.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/a5797f6ae6fd2d50c6a31c418b429dcc.jpg" group-title="Filmes | Acao",O Último Samurai - 2003
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15211.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15211.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/f594faae7fe4a881d6bd75983de481a3.jpg" group-title="Filmes | Acao",O Último Viking - 2018
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/17124.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/17124.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ohlebuI95t8lLc6ukIN06L1vZ89.jpg" group-title="Filmes | Acao",Ong Bak 2 - O Começo - 2008
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15178.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15178.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gE0ouuxZ5NaM5nbL9xgJC1Hq1lf.jpg" group-title="Filmes | Acao",Ong Bak 3 - 2010
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15176.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15176.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7QJsZMasorm07MbqtaVOYKhbW9g.jpg" group-title="Filmes | Acao",Ong Bak 1 - Guerreiro Sagrado - 2003
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15177.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15177.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5dDHkDbzj8rYOCYqlFIna3sV8tg.jpg" group-title="Filmes | Acao",Operação Invasão 1 - 2011
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15181.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15181.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7wubJeBNod3z4UTG30XvEhXA7Xr.jpg" group-title="Filmes | Acao",Operação Invasão 2 - 2014
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15182.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15182.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/266336df28bc9477243fc107d6615a77.jpg" group-title="Filmes | Acao",Operação Fronteira - 2019
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15180.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15180.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/4817ffb20cf71380083da2f63c9df111.jpg" group-title="Filmes | Acao",Operação Sombra: Jack Ryan - 2014
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15183.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15183.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/1bc9cb12310434c9cf771201cb012453.jpg" group-title="Filmes | Acao",Os Aventureiros do Bairro Proibido - 1986
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15193.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15193.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/f1ae4030bf163ff609403037211d095a.jpg" group-title="Filmes | Acao",Os Bad Boys - 1995
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15194.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15194.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/3a1f6858c45daa56a80b3773714ebfbd.jpg" group-title="Filmes | Acao",Os Bad Boys II - 2003
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15195.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15195.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xeSqpHnvqOQACOodVI8O8MvLgkg.jpg" group-title="Filmes | Acao",Os Condenados 2 - 2015
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15196.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15196.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/848d08494159085eb7d651dc78b7da3d.jpg" group-title="Filmes | Acao",Os Indomáveis - 2007
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15198.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15198.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/glHqwsvFkQHFMFpA0FjFp8hPu6P.jpg" group-title="Filmes | Acao",Os Instrumentos Mortais: Cidade dos Ossos - 2013
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15199.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15199.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gEDpD6l2CJ8aLbtYLL2ecQ3yk09.jpg" group-title="Filmes | Acao",Os Mercenários 2 - 2012
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15200.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15200.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vd22faXhHRCr8d1FSiXuFfnpSKv.jpg" group-title="Filmes | Acao",Os Mercenários 3 - 2014
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15201.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15201.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/72d65f9e9dd434e0312a35ce0c050cd6.jpg" group-title="Filmes | Acao",Os Outros Caras - 2010
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15202.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15202.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/79290a3a8cd4f50f8b23aacbcc31d303.jpg" group-title="Filmes | Acao",Os Perdedores - 2010
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15203.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15203.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/a23e5358d7bcbd5e4afc8bb16c6fa78e.jpg" group-title="Filmes | Acao",Os Quatro 2: Reino Sem Lei - 2013
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15204.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15204.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xX2xp5QSQPhnqZK9BnluFg9v8qs.jpg" group-title="Filmes | Acao",Os Vingadores - 2012
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15206.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15206.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/abe5ec8e8a1878b75a43a8650dbb4a80.jpg" group-title="Filmes | Acao",Padre - 2016
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15213.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15213.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/c2832de5e283e3ce0ae77d4142bb0938.jpg" group-title="Filmes | Acao",Par Perfeito - 2018
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15216.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15216.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/8f85f3f31816633b44f9aacbaa146d03.jpg" group-title="Filmes | Acao",Paradise Beach - 2019
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15215.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15215.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/88de93aa74a8c7fc48c97d187f5e32ec.jpg" group-title="Filmes | Acao",Passageiro 57 - 1992
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15217.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15217.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/55860e87ba44c6dbe640ad2feb53a1cf.jpg" group-title="Filmes | Acao",Passageiros - 2008
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15179.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15179.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/46e6e18db330b0b746744ade4419c51c.jpg" group-title="Filmes | Acao",Perda Total - 2018
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15218.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15218.mp4
 
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/0cd05881651dd35e05a599573cf615d9.jpg" group-title="Filmes | Acao",Perigo Extremo - 1987
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15219.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15219.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/e28f1e40a848d1ed9335cb699498abbe.jpg" group-title="Filmes | Acao",Perseguidor Implacável - 1971
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15221.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15221.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/cf6bd10815767cea1987c3dc6ca2b4bb.jpg" group-title="Filmes | Acao",Perseguição Explosiva - 2017
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15220.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15220.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/7d5e5e680272d578abe42649a826440d.jpg" group-title="Filmes | Acao",Pixels - 2015
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15222.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15222.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/06968fae15026966e1f0d49305305246.jpg" group-title="Filmes | Acao",Platoon - 1986
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15223.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15223.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/20f349163f84cf14b93aa99acce75dc2.jpg" group-title="Filmes | Acao",Polícia Federal: A Lei é Para Todos - 2017
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15224.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15224.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/97cd6e6694fbe0b0a55c28b71bef285c.jpg" group-title="Filmes | Acao",Pompeia - 2014
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15225.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15225.mp4
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/22f15a046e5d0d428cdab79036a6bd8b.jpg" group-title="Filmes | Acao",Poseidon - 2006
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15226.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15226.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/c487b93120d280e5f17ae52a84111a24.jpg" group-title="Filmes | Acao",Preso no Tempo - 2016
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15227.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15227.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/3f056522da4c05f47761f5d85ec8cb81.jpg" group-title="Filmes | Acao",Próxima Parada: Apocalipse - 2018
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15228.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15228.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l7NpBV9CrHGTmUuLZbWTjsOFVal.jpg" group-title="Filmes | Acao",Quarteto Fantástico 1 - 1994
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15229.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15229.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l7NpBV9CrHGTmUuLZbWTjsOFVal.jpg" group-title="Filmes | Acao",Quarteto Fantástico 2 - 2005
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15230.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15230.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oeMpEsjmiT9PEJbRM1Fm7TZ1dE0.jpg" group-title="Filmes | Acao",Quarteto Fantástico 3 - 2015
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15231.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15231.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/0341bc22a994b68637677256e35ec0db.jpg" group-title="Filmes | Acao",Queima de Arquivo - 1996
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15232.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15232.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/52c68cb48807410f2c4d89017cee03a2.jpg" group-title="Filmes | Acao",Quem Sou Eu? - 1998
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15233.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15233.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/ae4dfa9db20a85cc147fbae939007524.jpg" group-title="Filmes | Acao",Rainhas do Crime - 2019
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15234.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15234.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6ocBqNSqG1hWbzjv2sZxLc07nLs.jpg" group-title="Filmes | Acao",Rambo 1 - Programado Para Matar - 1982
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15235.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15235.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vXJSUAu7ObRI6pBleXdGUBJyTos.jpg" group-title="Filmes | Acao",Rambo II - A Missão - 1985
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15236.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15236.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3SKg3XKEyNSZ2oAba3Ucfr0Sxw0.jpg" group-title="Filmes | Acao",Rambo III - 1988
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15237.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15237.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n8oAmmvqPF2PQuUn7p73wdbgciU.jpg" group-title="Filmes | Acao",Rambo IV - 2008
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15238.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15238.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vaoCd6iZ6xmBTvsiuWjcMWY6wdm.jpg" group-title="Filmes | Acao",Rambo: Até o Fim - 2019
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15239.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15239.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/0dcb23b2b1514821ebae24d34d8f0863.jpg" group-title="Filmes | Acao",Rampage: Destruição Total - 2018
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15240.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15240.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/bfa735c0161bd611feb5064f8b89e6a1.jpg" group-title="Filmes | Acao",Rapto - 2019
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15187.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15187.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/2a7541d277da9bef545a15fcfc3a1d78.jpg" group-title="Filmes | Acao",RED - Aposentados e Perigosos - 2010
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15241.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15241.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/6abf285e21be5054948742e65218b5f4.jpg" group-title="Filmes | Acao",RedBad: A Invasão dos Francos - 2018
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15242.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15242.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/56e60b083fedac37931ad5f3706c2b4a.jpg" group-title="Filmes | Acao",Rede de Corrupção - 2001
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15243.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15243.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/aa1a20000c524bab0de4472927c43a93.jpg" group-title="Filmes | Drama",Refugiado - 2014
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/16533.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/16533.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/0f938e40c941e415e65c7e2cfb8481f1.jpg" group-title="Filmes | Acao",Refém do Jogo - 2018
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15244.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15244.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/aa2774b5271d01312c481545ec9e0572.jpg" group-title="Filmes | Drama",Refém do Medo - 2016
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/16600.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/16600.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/34b4373836aa2c812f9c4de90555421a.jpg" group-title="Filmes | Acao",Reféns do Crime - 2010
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15245.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15245.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/47807687ba08b4d5193fd7a9b4fcd070.jpg" group-title="Filmes | Acao",Reféns do Desconhecido - 2008
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15246.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15246.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/457fa920ef9c5c4fdf672439c3cdb310.jpg" group-title="Filmes | Acao",Rei Arthur: A Lenda da Espada - 2017
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15247.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15247.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fNSFl35PqSqc3vpkl0txC3eZLm0.jpg" group-title="Filmes | Acao",Reino dos Assassinos - 2010
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15248.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15248.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/cd9fbba5aead68db1b5ce12163938521.jpg" group-title="Filmes | Acao",Resgate Mortal - 2018
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15249.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15249.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6lXVU7OZG0QaSk5rHla48czXyuU.jpg" group-title="Filmes | Acao",Resgate Sem Limites - 2003
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15250.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15250.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/3c61337c8844488ffad5098263672458.jpg" group-title="Filmes | Acao",Risco Máximo - 1996
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15251.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15251.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/fb794a2a96cdb58d596637b9c8dffacf.jpg" group-title="Filmes | Acao",Robin Hood - 1973
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15252.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15252.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gM5ql3BKYmHG3WtZ0buKXN7xY8O.jpg" group-title="Filmes | Acao",RoboCop - 2014
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15253.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15253.mp4
 
 
 #EXTINF:-1 tvg-logo="https://www.vortexcultural.com.br/images/2019/01/ROcobop-Prime-Directives.jpg" group-title="Filmes | Acao",RoboCop: Prime Directives - 2001
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15256.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15256.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lGeHKDxWHaSKwNPXYJjns81fR3P.jpg" group-title="Filmes | Acao",RoboCop 2 - 1990
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15254.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15254.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iXmx1JOrkBUYqvm2vTNPOiill7b.jpg" group-title="Filmes | Acao",RoboCop 3 - 1993
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15255.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15255.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/53d4b49a113265367535de90a15a4b93.jpg" group-title="Filmes | Acao",Rogue One: Uma História Star Wars - 2016
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15257.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15257.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/bdbab032b9ac66c3f6d6eba925fc000f.jpg" group-title="Filmes | Acao",Romeu Tem Que Morrer - 2000
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15258.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15258.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/04dc1128bccd48a17327dc657c3a043c.jpg" group-title="Filmes | Acao",Rota de Fuga - 2017
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15259.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15259.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/04dc1128bccd48a17327dc657c3a043c.jpg" group-title="Filmes | Acao",Rota de Fuga - 2017
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15260.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15260.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/48bef2963fca1123d9b6a71b4a1ebde1.jpg" group-title="Filmes | Acao",Rota de Fuga 3: O Resgate - 2019
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15261.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15261.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/b47232d526bdb9c5dd816cc8a14fb316.jpg" group-title="Filmes | Acao",Ruas Sangrentas - O Acerto Final - 2006
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15262.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15262.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pLH1uFhIhWlzmTwEui4CzjpV3PY.jpg" group-title="Filmes | Acao",S.W.A.T.: Comando Especial - 2003
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15263.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15263.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/a28af8752b7ce8cefc822471fdd7c17c.jpg" group-title="Filmes | Acao",Sabotagem - 2014
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15264.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15264.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/8325903c5d3c606df436986b190cacfc.jpg" group-title="Filmes | Nacionais",Sai de Baixo: O Filme - 2019
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/17237.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/17237.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/e0b1ffb2d3c84e1961c1fc756dfa29cc.jpg" group-title="Filmes | Acao",Sala de Fuga - 2019
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15265.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15265.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/db04132d5d61c99c266eb1defb01ace2.jpg" group-title="Filmes | Acao",Salyut 7: Missão Espacial - 2017
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/17146.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/17146.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/e640160ecb79235b061577d07daa6bec.jpg" group-title="Filmes | Acao",Samurai X: O Fim de Uma Lenda - 2014
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15266.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15266.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/577531ba3d93fd1d70ad0cbaa8107189.jpg" group-title="Filmes | Acao",Sangue na Veia - 2014
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15267.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15267.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t1qccBXQEt15vhDUwznfEvDgEgt.jpg" group-title="Filmes | Acao",Sansão - 2018
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15268.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15268.mp4
 
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j5hIPcdVIQg8cRCbnAtYvBh6aOa.jpg" group-title="Filmes | Acao",Scarface - 1983
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15269.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15269.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/153d51301e95ff880bfeec184f55c65b.jpg" group-title="Filmes | Acao",Sem Escalas - 2014
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15270.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15270.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fbHXfr2N4pI2j7i9RLYiddjotBl.jpg" group-title="Filmes | Acao",Sem Limites 2 - 2017
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15271.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15271.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/9c107851d21b9983844430eadfb41c27.jpg" group-title="Filmes | Acao",Sentença de Morte - 2007
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15272.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15272.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/aa7c7795169038aa642550766e935931.jpg" group-title="Filmes | Acao",Sequestro na Ilha - 2016
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15273.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15273.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/2285a3253d91a9c20505ced0ebae2196.jpg" group-title="Filmes | Acao",Shaft - 2019
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15274.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15274.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/c32d188866aee186c7762bbcea2a9e48.jpg" group-title="Filmes | Acao",Shazam! - 2019
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15275.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15275.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/e23340c616ac2e2c6e9a8ddfb71830ed.jpg" group-title="Filmes | Acao",Sherlock Holmes - 2009
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15276.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15276.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/ededd24e1662db23fe7cde7a46ad42ed.jpg" group-title="Filmes | Acao",Sherlock Holmes: O Jogo de Sombras - 2011
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15277.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15277.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/22eada78732cc32d2fa2077fde4e7424.jpg" group-title="Filmes | Acao",Show Dogs: O Agente Canino - 2018
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15278.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15278.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/375b2a4f76381a37f840b179fd87642a.jpg" group-title="Filmes | Acao",Sicário: Dia do Soldado - 2018
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15279.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15279.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/1f0c3a3249d0a8305729adcaa52ab944.jpg" group-title="Filmes | Acao",Sicário: Terra de Ninguém - 2015
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15280.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15280.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2bDFy7tS2tIxASXPdOeLO8pC5Xt.jpg" group-title="Filmes | Acao",Sin City: A Cidade do Pecado - 2005
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15281.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15281.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b8V2qtG58vjX1S0AT6uP9M2BDqY.jpg" group-title="Filmes | Acao",Sin City: A Dama Fatal - 2014
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15282.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15282.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/b390f3beca81a0fef0139dd0036c514d.jpg" group-title="Filmes | Acao",Sniper Americano - 2014
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15283.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15283.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/36b8178dbc9b809f98b29c45136e656a.jpg" group-title="Filmes | Acao",Sniper: Operações Especiais - 2016
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15284.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15284.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2w4QJF8uu7PknmKBhOLN1InKrhu.jpg" group-title="Filmes | Acao",Soldado Universal 2 - 1998
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15285.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15285.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r68RpZCZt5B7gHaZ6V9xYZ3kyA1.jpg" group-title="Filmes | Acao",Soldado Universal 3 - Regeneração - 2009
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15286.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15286.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AjJdy7RdVkPm5yCK5apBJKCXf49.jpg" group-title="Filmes | Acao",Soldado Universal 4 - Juízo Final - 2012
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15287.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15287.mp4
 
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/76932a8de2232ec70f37e0c37758892e.jpg" group-title="Filmes | Acao",Speed Racer - 2008
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15288.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15288.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/0bab6e5d7a68831be52367f642a4bdeb.jpg" group-title="Filmes | Acao",Stallone: Cobra - 1986
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15289.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15289.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/53f8308f0ad2ba9eba12b00d76eeb293.jpg" group-title="Filmes | Acao",Stuber - A Corrida Maluca - 2019
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15291.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15291.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/05d247211d57a3940809979110505729.jpg" group-title="Filmes | Acao",Submundo Das Lutas - 2016
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15292.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15292.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/a7e7e713ceb51b65ac2924bd12937fbc.jpg" group-title="Filmes | Acao",Sucker Punch: Mundo Surreal - 2011
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15293.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15293.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/830d584102ba49187eb2f8bbfab028cb.jpg" group-title="Filmes | Acao",Super Fly - 1972
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15295.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15295.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/74a9566407994ad4dd89e85dbc982235.jpg" group-title="Filmes | Acao",Supercross - 2005
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15294.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15294.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/85kutR0sRgvDFOXZQALcvTS3Lko.jpg" group-title="Filmes | Acao",Táxi 2 - 2000
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15297.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15297.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Yk3O5mNIYpIKIKaB2l4TJBDdlS.jpg" group-title="Filmes | Acao",Táxi 3 - 2003
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15298.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15298.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8OoVXQo23kgMw4ooLfi2mDGVfUE.jpg" group-title="Filmes | Acao",Táxi 4 - 2007
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15299.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15299.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/fc664b95bb4ed46a44682035a7ad97ba.jpg" group-title="Filmes | Acao",Terremoto: A Falha de San Andreas - 2015
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15300.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15300.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/745601fe0e5a0e179fae4e684f9e1866.jpg" group-title="Filmes | Acao",The Warriors - Os Selvagens da Noite - 1979
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15340.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15340.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/bd5c8b3c46e5671b93b8618111d5a16c.jpg" group-title="Filmes | Acao",Thor - 2011
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15301.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15301.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/5bac1ca4c04fd655ec0118efbb3bde0f.jpg" group-title="Filmes | Acao",Thor: O Mundo Sombrio - 2013
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15302.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15302.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/a29ed6595932df8a2c0d803093edad22.jpg" group-title="Filmes | Acao",Thor: Ragnarok - 2017
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15303.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15303.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/a3d8ec883d68de429a7f62ef4eedde68.jpg" group-title="Filmes | Acao",Tomb Raider: A Origem - 2018
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15304.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15304.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/dac0a27248564e13e2bf190df0b856ed.jpg" group-title="Filmes | Acao",Top Gun - Ases Indomáveis - 1986
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15305.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15305.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/b4519b6e0616e4c4b31101e23617f907.jpg" group-title="Filmes | Acao",Travessia - 2017
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/14892.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/14892.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/584eb024072af35f2ca69b1fedba3888.jpg" group-title="Filmes | Acao",Treze Homens e um Novo Segredo - 2007
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15306.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15306.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/86BnliVDBo2TjKmrgQTJIPHxAKd.jpg" group-title="Filmes | Acao",xXx 1 - 2002
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15307.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15307.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fnSzxO7T9AsRv4QbSILloZhgAAc.jpg" group-title="Filmes | Acao",xXx 2 - Estado de Emergência - 2005
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15308.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15308.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/3e330977f81353ae713eb5a774bbbc45.jpg" group-title="Filmes | Acao",Tropa de Elite - 2007
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15309.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15309.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/642c1d5ffc0a4c90a0c9ffe95b2f0811.jpg" group-title="Filmes | Acao",Tropas Estelares - 1997
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15310.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15310.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/58d2c16dcef17f85313d8f7cd9153e3b.jpg" group-title="Filmes | Acao",Tropas Estelares 2 - 2004
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15311.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15311.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/d1549d56afe909266fa2dbd7183f6260.jpg" group-title="Filmes | Acao",Tropas Estelares 3 - 2008
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15312.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15312.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/8f765338473790dca2a7471b1559f6b6.jpg" group-title="Filmes | Acao",Tropas Estelares: Invasores de Marte - 2017
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15313.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15313.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/be1432784ef8f415e321a6c837a68d06.jpg" group-title="Filmes | Acao",True Lies - 1994
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15314.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15314.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/7bbbc308f61b0c3d54cc2f47f11d9f0c.jpg" group-title="Filmes | Acao",Truque de Mestre: O 2º Ato - 2016
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15315.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15315.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/2fa1ebc95f9dc4a435810eb8f2b304a7.jpg" group-title="Filmes | Acao",Twister - 1996
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15316.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15316.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/7bb6da4f39496ea454bf0595b9008e1d.jpg" group-title="Filmes | Acao",Táxi - Velocidade nas Ruas - 1998
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15296.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15296.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/d761c00806d8e1af7d1de053b6dd7657.jpg" group-title="Filmes | Acao",Um Ninja da Pesada - 1997
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15318.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15318.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/9d10e0ffc8a821fd54cef423257cde58.jpg" group-title="Filmes | Acao",Uma Saída de Mestre - 2003
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15317.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15317.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hSPV4hM1Cz5EJ15rgmbjdT8Rtjn.jpg" group-title="Filmes | Acao",V de Vingança - 2006
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15319.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15319.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/7dbc2e2fa4f9a9761aeace610900bfe1.jpg" group-title="Filmes | Acao",Velocidade Máxima - 1994
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15320.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15320.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7FUqXrudOZ1jbvnVxPLoph0H8yF.jpg" group-title="Filmes | Acao",Velozes e Furiosos 1 - 2001
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15322.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15322.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bztZ5NWmsT7oq0vCWGQGWxd10Gf.jpg" group-title="Filmes | Acao",Velozes e Furiosos 2 - Turbo-Charged Prelude - 2003
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15323.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15323.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sHojCCXnSW4Kn294E0BYgq74D5o.jpg" group-title="Filmes | Acao",Velozes e Furiosos 3 - Desafio em Tóquio - 2006
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15324.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15324.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zvjQPVttJWaCSbzMijyc2x2MLr4.jpg" group-title="Filmes | Acao",Velozes e Furiosos 4 - 2009
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15325.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15325.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l1lvu5P4xfBicxuhgL0pmvkWReO.jpg" group-title="Filmes | Acao",Velozes e Furiosos 5 - Operação Rio - 2011
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15326.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15326.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/870V0yMDOEAKAv45WPLe7LzcMcL.jpg" group-title="Filmes | Acao",Velozes e Furiosos 6 - 2013
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15327.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15327.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vK3EINuibdkBwUe9jOhVUXtLeb6.jpg" group-title="Filmes | Acao",Velozes & Furiosos 7 - 2015
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15328.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15328.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3G6PUtqIKPKyZXXWB8jgZZJF1C8.jpg" group-title="Filmes | Acao",Velozes e Furiosos 8 - 2017
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15329.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15329.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mKRiLf2SCU9ySjByMLMxKYs5c1i.jpg" group-title="Filmes | Acao",Velozes e Furiosos: Hobbs & Shaw - 2019
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15321.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15321.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/fe123217481eb519990f55ad9ded92fa.jpg" group-title="Filmes | Acao",Viagem 2 - A Ilha Misteriosa - 2012
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15330.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15330.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yS7lsYDalDmZZgOYWVdE2hXdX3V.jpg" group-title="Filmes | Acao",Viagem ao Centro da Terra: O Filme - 2008
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15331.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15331.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/cb4ce415c0b443d7a81451d3d2a47939.jpg" group-title="Filmes | Acao",Viagem das Loucas - 2017
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15332.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15332.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/7ad3d5606ade137ac100db72bf42c7d0.jpg" group-title="Filmes | Acao",Viagem Insólita - 1987
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15333.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15333.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/4860605fb915221767e23bd788d3ac05.jpg" group-title="Filmes | Acao",Vidas à Deriva - 2018
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15334.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15334.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/337b9ed64ab3828bc740f1afd6918388.jpg" group-title="Filmes | Acao",Vingadores: Era de Ultron - 2015
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15335.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15335.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/8fbc3da02be93e8c32560e040a098088.jpg" group-title="Filmes | Acao",Vingadores: Guerra Infinita - 2018
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15337.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15337.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/97116339e40b8081e13817d9ab74e690.jpg" group-title="Filmes | Acao",Vingadores: Ultimato - 2019
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15336.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15336.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/1d9e33e61dd670dbdeaf92becb23e9c2.jpg" group-title="Filmes | Acao",Vingança à Sangue Frio - 2019
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15338.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15338.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/4c5c065045fef8a79b228e345d405813.jpg" group-title="Filmes | Acao",Warcraft - O Primeiro Encontro de Dois Mundos - 2016
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15339.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15339.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/e3c2fe33740d0a476393d4f1e7079b26.jpg" group-title="Filmes | Acao",Wolverine: Imortal - 2013
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15341.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15341.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eTAK1gU8vTaHt0W9I6PFYQsdhKP.jpg" group-title="Filmes | Acao",X-Men 1 - O Filme - 2000
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15342.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15342.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/74kUYdgpTx8xoCZ7vDuSN7t4P5V.jpg" group-title="Filmes | Acao",X-Men 2 - 2003
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15343.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15343.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fqwe4Asmlg1s3ZFN7fP2xVwlYNP.jpg" group-title="Filmes | Acao",X-Men 3 - O Confronto Final - 2006
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15344.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15344.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qUqx0nGiUGeDRQtCWItG3lpuFjY.jpg" group-title="Filmes | Acao",X-Men 4 - Origens: Wolverine - 2009
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15345.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15345.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4cZWMQUCAYaQk5CzUI6zRLhcWI2.jpg" group-title="Filmes | Acao",X-Men 5 - Primeira Classe - 2011
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15346.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15346.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bFBCWz9mfTXQ9fVwce8z99dGuXh.jpg" group-title="Filmes | Acao",X-Men 6 - Dias de um Futuro Esquecido - 2014
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15347.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15347.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/csohoj37afZPMZP5H6STMDEZjdx.jpg" group-title="Filmes | Acao",xXx 3 - Reativado - 2017
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15348.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15348.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/9c23bddc95c47c47f7be3a2813bd403e.jpg" group-title="Filmes | Acao",Zona de Perigo - 1993
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15349.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15349.mp4
 
 
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/a6814d00d40f0900a37ce89c49ef616e.jpg" group-title="Filmes | Acao",Zona Fria - 2017
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/15350.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/15350.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zFN9c739JHBoLXr3MBjGwrsR7ys.jpg" group-title="Filmes | Acao",À Queima-Roupa - 2019
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/14871.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/14871.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/EdZ49LtW3SQhPWIzJEbmcTTjpl.jpg" group-title="Filmes | Acao",Dentro do Labirinto Cinzento - 2015
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/17998.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/17998.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iFYV5UyP7RoKrYMd3iHBdE9X9Cm.jpg" group-title="Filmes | Acao",O Pacto - 2018
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/18003.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/18003.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l9YPHzsmaybkRkvYfxzTDn7LgRS.jpg" group-title="Filmes | Acao",Parker - 2013
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/18005.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/18005.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fNPFGg3S1Nirx1Nq4NfGjchNyzt.jpg" group-title="Filmes | Acao",Cano Serrado - 2018
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/18013.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/18013.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2xcutvWsZsqDAM9COlRF6wXRMiv.jpg" group-title="Filmes | Acao",Jason Bourne - 2016
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/18016.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/18016.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8rN7hvGDmje6CDAYuIuVB4UhT0c.jpg" group-title="Filmes | Acao",Lágrimas do Sol - 2003
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/18017.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/18017.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qi7jnR2yj4p6ibyoVWzaPU72cNR.jpg" group-title="Filmes | Acao",Os Bons Companheiros - 1990
-http://eyplay.io:80/movie/qYp06D/NxmlQ2/18018.mp4
+http://eyplay.io:80/movie/l1vHzB/RV6D06/18018.mp4
 
 

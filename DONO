@@ -23,531 +23,521 @@
 
 
 
-###########################################CANAIS ABERTOS################################################
+
+
+#####################################CANAIS ABERTOS##########################################
 
 
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/ybcwj7gv" group-title="Canais | Abertos",ELY DAVID
-https://facebook.com/xx.ely.david.xx
-
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/wrzf2ze" group-title="Canais | Abertos",SUPORTE VIA DISCORD: discord.gg/bVSswd
-https://videocdn.cos.tv/video/19306872956832768.mp4
-
-
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/band.png" aspect-ratio="16:9" group-title="Canais | Abertos",Band FHD (H265)
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thgband" group-title="Canais | Abertos",Band FHD (H265)
 http://eyplay.io:80/tHK69F/Lk2Yud/17
 
 
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/band.png" aspect-ratio="16:9" group-title="Canais | Abertos",Band HD
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thgband" group-title="Canais | Abertos",Band HD
 http://eyplay.io:80/tHK69F/Lk2Yud/18
 
 
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/band.png" aspect-ratio="16:9" group-title="Canais | Abertos",Band SD
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thgband" group-title="Canais | Abertos",Band SD
 http://eyplay.io:80/tHK69F/Lk2Yud/19
 
 
-#EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="Canais | Abertos",Boa Vontade TV SD 
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thgboavntd" group-title="Canais | Abertos",Boa Vontade TV SD 
 http://eyplay.io:80/tHK69F/Lk2Yud/14063
 
 
-
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/canaldoboi.png" aspect-ratio="16:9" group-title="Canais | Abertos",Canal do Boi SD
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thgboi" group-title="Canais | Abertos",Canal do Boi SD
 http://eyplay.io:80/tHK69F/Lk2Yud/59
 
 
-#EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="Canais | Abertos",Cancao Nova SD
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thgcnv" group-title="Canais | Abertos",Cancao Nova SD
 http://eyplay.io:80/tHK69F/Lk2Yud/14064
 
 
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/record.png" aspect-ratio="16:9" group-title="Canais | Abertos",RecordTV Bahia HD
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thgrecord" group-title="Canais | Abertos",RecordTV Bahia HD
 http://eyplay.io:80/tHK69F/Lk2Yud/367
 
 
-#EXTINF:-1 tvg-id="RecordTV Belém" tvg-logo="http://s.eyplay.io/logos/canais/record.png" aspect-ratio="16:9" group-title="Canais | Abertos",RecordTV Belem SD
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thgrecord" group-title="Canais | Abertos",RecordTV Belem SD
 http://eyplay.io:80/tHK69F/Lk2Yud/368
 
 
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/record.png" aspect-ratio="16:9" group-title="Canais | Abertos",RecordTV Brasilia HD
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thgrecord" group-title="Canais | Abertos",RecordTV Brasilia HD
 http://eyplay.io:80/tHK69F/Lk2Yud/369
 
 
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/record.png" aspect-ratio="16:9" group-title="Canais | Abertos",RecordTV FHD (H265)
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thgrecord" group-title="Canais | Abertos",RecordTV FHD (H265)
 http://eyplay.io:80/tHK69F/Lk2Yud/370
 
 
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/record.png" aspect-ratio="16:9" group-title="Canais | Abertos",RecordTV Goias SD
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thgrecord" group-title="Canais | Abertos",RecordTV Goias SD
 http://eyplay.io:80/tHK69F/Lk2Yud/371
 
 
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/record.png" aspect-ratio="16:9" group-title="Canais | Abertos",RecordTV HD
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thgrecord" group-title="Canais | Abertos",RecordTV HD
 http://eyplay.io:80/tHK69F/Lk2Yud/372
 
 
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/record.png" aspect-ratio="16:9" group-title="Canais | Abertos",RecordTV Minas HD
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thgrecord" group-title="Canais | Abertos",RecordTV Minas HD
 http://eyplay.io:80/tHK69F/Lk2Yud/373
 
 
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/record.png" aspect-ratio="16:9" group-title="Canais | Abertos",RecordTV Minas SD
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thgrecord" group-title="Canais | Abertos",RecordTV Minas SD
 http://eyplay.io:80/tHK69F/Lk2Yud/374
 
 
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/record.png" aspect-ratio="16:9" group-title="Canais | Abertos",RecordTV Rio HD
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thgrecord" group-title="Canais | Abertos",RecordTV Rio HD
 http://eyplay.io:80/tHK69F/Lk2Yud/375
 
 
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/record.png" aspect-ratio="16:9" group-title="Canais | Abertos",RecordTV RS HD
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thgrecord" group-title="Canais | Abertos",RecordTV RS HD
 http://eyplay.io:80/tHK69F/Lk2Yud/376
 
 
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/record.png" aspect-ratio="16:9" group-title="Canais | Abertos",RecordTV RS SD
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thgrecord" group-title="Canais | Abertos",RecordTV RS SD
 http://eyplay.io:80/tHK69F/Lk2Yud/377
 
 
-#EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="Canais | Abertos",Rede Gospel FHD (H265)
+#EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",Rede Gospel FHD (H265)
 http://eyplay.io:80/tHK69F/Lk2Yud/14068
 
 
-#EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="Canais | Abertos",Rede Gospel HD
+#EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",Rede Gospel HD
 http://eyplay.io:80/tHK69F/Lk2Yud/14067
 
 
-#EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="Canais | Abertos",Rede Gospel SD
+#EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",Rede Gospel SD
 http://eyplay.io:80/tHK69F/Lk2Yud/14069
 
 
-#EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="Canais | Abertos",Rede Super FHD (H265)
+#EXTINF:-1 tvg-id="Rede Super" tvg-logo="https://tinyurl.com/thgsuper" group-title="Canais | Abertos",Rede Super FHD (H265)
 http://eyplay.io:80/tHK69F/Lk2Yud/378
 
 
-#EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="Canais | Abertos",Rede Vida HD
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thgredevida" group-title="Canais | Abertos",Rede Vida HD
 http://eyplay.io:80/tHK69F/Lk2Yud/14066
 
 
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/redetv.png" aspect-ratio="16:9" group-title="Canais | Abertos",RedeTV FHD (H265)
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thgredetv" group-title="Canais | Abertos",RedeTV FHD (H265)
 http://eyplay.io:80/tHK69F/Lk2Yud/379
 
 
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/redetv.png" aspect-ratio="16:9" group-title="Canais | Abertos",RedeTV HD
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thgredetv" group-title="Canais | Abertos",RedeTV HD
 http://eyplay.io:80/tHK69F/Lk2Yud/380
 
 
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/redetv.png" aspect-ratio="16:9" group-title="Canais | Abertos",RedeTV SD
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thgredetv" group-title="Canais | Abertos",RedeTV SD
 http://eyplay.io:80/tHK69F/Lk2Yud/381
 
 
-#EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="Canais | Abertos",RiT TV SD
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thgrit" group-title="Canais | Abertos",RiT TV SD
 http://eyplay.io:80/tHK69F/Lk2Yud/14070
 
 
-#EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="Canais | Abertos",SBT Alterosa MG HD
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thgsbt" group-title="Canais | Abertos",SBT Alterosa MG HD
 http://eyplay.io:80/tHK69F/Lk2Yud/13904
 
 
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/sbt.png" aspect-ratio="16:9" group-title="Canais | Abertos",SBT FHD (H265)
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thgsbt" group-title="Canais | Abertos",SBT FHD (H265)
 http://eyplay.io:80/tHK69F/Lk2Yud/382
 
 
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/sbt.png" aspect-ratio="16:9" group-title="Canais | Abertos",SBT HD
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thgsbt" group-title="Canais | Abertos",SBT HD
 http://eyplay.io:80/tHK69F/Lk2Yud/383
 
 
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/sbt.png" aspect-ratio="16:9" group-title="Canais | Abertos",SBT SD
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thgsbt" group-title="Canais | Abertos",SBT SD
 http://eyplay.io:80/tHK69F/Lk2Yud/384
 
 
-#EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="Canais | Abertos",TV Aparecida SD
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thgaparecida" group-title="Canais | Abertos",TV Aparecida SD
 http://eyplay.io:80/tHK69F/Lk2Yud/14065
 
 
-#EXTINF:-1 tvg-id="Gazeta" tvg-logo="http://s.eyplay.io/logos/canais/tvgazeta.png" aspect-ratio="16:9" group-title="Canais | Abertos",TV Gazeta FHD (H265)
+#EXTINF:-1 tvg-id="Gazeta" tvg-logo="https://tinyurl.com/thggazeta" group-title="Canais | Abertos",TV Gazeta FHD (H265)
 http://eyplay.io:80/tHK69F/Lk2Yud/446
 
 
-#EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="Canais | Abertos",TV Novo Tempo FHD (H265)
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thgnvtemp" group-title="Canais | Abertos",TV Novo Tempo FHD (H265)
 http://eyplay.io:80/tHK69F/Lk2Yud/14071
 
 
-#EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="Canais | Abertos",TV Novo Tempo HD
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thgnvtemp" group-title="Canais | Abertos",TV Novo Tempo HD
 http://eyplay.io:80/tHK69F/Lk2Yud/14072
 
 
-#EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="Canais | Abertos",TV Novo Tempo SD
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thgnvtemp" group-title="Canais | Abertos",TV Novo Tempo SD
 http://eyplay.io:80/tHK69F/Lk2Yud/14073
 
 
 
-###########################################CANAIS DOCUMENTÁRIOS##########################################
+#####################################FIM CANAIS ABERTOS############################################
 
 
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/ybcwj7gv" group-title="Canais | Documentários",ELY DAVID
-https://facebook.com/xx.ely.david.xx
+#####################################CANAIS DOCUMENTÁRIOS##########################################
 
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/wrzf2ze" group-title="Canais | Documentários",SUPORTE VIA DISCORD: discord.gg/bVSswd
-https://facebook.com/xx.ely.david.xx
 
-
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/animalplanet.png" aspect-ratio="16:9" group-title="Canais | Documentários",Animal Planet FHD (H265)
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thganimal" group-title="Canais | Documentários",Animal Planet FHD (H265)
 http://eyplay.io:80/tHK69F/Lk2Yud/5
 
 
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/animalplanet.png" aspect-ratio="16:9" group-title="Canais | Documentários",Animal Planet HD
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thganimal" group-title="Canais | Documentários",Animal Planet HD
 http://eyplay.io:80/tHK69F/Lk2Yud/6
 
 
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/animalplanet.png" aspect-ratio="16:9" group-title="Canais | Documentários",Animal Planet SD
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thganimal" group-title="Canais | Documentários",Animal Planet SD
 http://eyplay.io:80/tHK69F/Lk2Yud/7
 
 
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/arte1.png" aspect-ratio="16:9" group-title="Canais | Documentários",Arte 1 FHD (H265)
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thgarte1" group-title="Canais | Documentários",Arte 1 FHD (H265)
 http://eyplay.io:80/tHK69F/Lk2Yud/8
 
 
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/arte1.png" aspect-ratio="16:9" group-title="Canais | Documentários",Arte 1 HD
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thgarte1" group-title="Canais | Documentários",Arte 1 HD
 http://eyplay.io:80/tHK69F/Lk2Yud/9
 
 
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/arte1.png" aspect-ratio="16:9" group-title="Canais | Documentários",Arte 1 SD
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thgarte1" group-title="Canais | Documentários",Arte 1 SD
 http://eyplay.io:80/tHK69F/Lk2Yud/10
 
 
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/curta.png" aspect-ratio="16:9" group-title="Canais | Documentários",Curta FHD (H265)
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thgcurta" group-title="Canais | Documentários",Curta FHD (H265)
 http://eyplay.io:80/tHK69F/Lk2Yud/90
 
 
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/curta.png" aspect-ratio="16:9" group-title="Canais | Documentários",Curta HD
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thgcurta" group-title="Canais | Documentários",Curta HD
 http://eyplay.io:80/tHK69F/Lk2Yud/91
 
 
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/curta.png" aspect-ratio="16:9" group-title="Canais | Documentários",Curta SD
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thgcurta" group-title="Canais | Documentários",Curta SD
 http://eyplay.io:80/tHK69F/Lk2Yud/92
 
 
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/discoverychannel.png" aspect-ratio="16:9" group-title="Canais | Documentários",Discovery Channel FHD (H265)
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thgdiscovery" group-title="Canais | Documentários",Discovery Channel FHD (H265)
 http://eyplay.io:80/tHK69F/Lk2Yud/95
 
 
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/discoverychannel.png" aspect-ratio="16:9" group-title="Canais | Documentários",Discovery Channel HD
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thgdiscovery" group-title="Canais | Documentários",Discovery Channel HD
 http://eyplay.io:80/tHK69F/Lk2Yud/96
 
 
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/discoverychannel.png" aspect-ratio="16:9" group-title="Canais | Documentários",Discovery Channel SD
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thgdiscovery" group-title="Canais | Documentários",Discovery Channel SD
 http://eyplay.io:80/tHK69F/Lk2Yud/97
 
 
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/discoveryscience.png" aspect-ratio="16:9" group-title="Canais | Documentários",Discovery Science FHD (H265)
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thgsci" group-title="Canais | Documentários",Discovery Science FHD (H265)
 http://eyplay.io:80/tHK69F/Lk2Yud/107
 
 
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/discoveryscience.png" aspect-ratio="16:9" group-title="Canais | Documentários",Discovery Science HD
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thgsci" group-title="Canais | Documentários",Discovery Science HD
 http://eyplay.io:80/tHK69F/Lk2Yud/108
 
 
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/discoveryscience.png" aspect-ratio="16:9" group-title="Canais | Documentários",Discovery Science SD
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thgsci" group-title="Canais | Documentários",Discovery Science SD
 http://eyplay.io:80/tHK69F/Lk2Yud/109
 
 
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/discoverytheater.png" aspect-ratio="16:9" group-title="Canais | Documentários",Discovery Theater FHD (H265)
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thgtheater" group-title="Canais | Documentários",Discovery Theater FHD (H265)
 http://eyplay.io:80/tHK69F/Lk2Yud/110
 
 
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/discoverytheater.png" aspect-ratio="16:9" group-title="Canais | Documentários",Discovery Theater HD
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thgtheater" group-title="Canais | Documentários",Discovery Theater HD
 http://eyplay.io:80/tHK69F/Lk2Yud/111
 
 
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/discoverytheater.png" aspect-ratio="16:9" group-title="Canais | Documentários",Discovery Theater SD
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thgtheater" group-title="Canais | Documentários",Discovery Theater SD
 http://eyplay.io:80/tHK69F/Lk2Yud/112
 
 
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/discoveryworld.png" aspect-ratio="16:9" group-title="Canais | Documentários",Discovery World FHD (H265)
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thgdiscoverywrld" group-title="Canais | Documentários",Discovery World FHD (H265)
 http://eyplay.io:80/tHK69F/Lk2Yud/116
 
 
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/discoveryworld.png" aspect-ratio="16:9" group-title="Canais | Documentários",Discovery World HD
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thgdiscoverywrld" group-title="Canais | Documentários",Discovery World HD
 http://eyplay.io:80/tHK69F/Lk2Yud/117
 
 
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/discoveryworld.png" aspect-ratio="16:9" group-title="Canais | Documentários",Discovery World SD
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thgdiscoverywrld" group-title="Canais | Documentários",Discovery World SD
 http://eyplay.io:80/tHK69F/Lk2Yud/118
 
 
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/hgtv.png" aspect-ratio="16:9" group-title="Canais | Documentários",HGTV FHD (H265)
-http://eyplay.io:80/tHK69F/Lk2Yud/98
-
-
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/hgtv.png" aspect-ratio="16:9" group-title="Canais | Documentários",HGTV HD
-http://eyplay.io:80/tHK69F/Lk2Yud/99
-
-
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/hgtv.png" aspect-ratio="16:9" group-title="Canais | Documentários",HGTV SD
-http://eyplay.io:80/tHK69F/Lk2Yud/100
-
-
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/history.png" aspect-ratio="16:9" group-title="Canais | Documentários",History FHD (H265)
-http://eyplay.io:80/tHK69F/Lk2Yud/288
-
-
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/history.png" aspect-ratio="16:9" group-title="Canais | Documentários",History HD
-http://eyplay.io:80/tHK69F/Lk2Yud/289
-
-
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/history.png" aspect-ratio="16:9" group-title="Canais | Documentários",History SD
-http://eyplay.io:80/tHK69F/Lk2Yud/290
-
-
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/h2.png" aspect-ratio="16:9" group-title="Canais | Documentários",H2 FHD (H265)
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thghist2" group-title="Canais | Documentários",H2 FHD (H265)
 http://eyplay.io:80/tHK69F/Lk2Yud/261
 
 
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/h2.png" aspect-ratio="16:9" group-title="Canais | Documentários",H2 HD
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thghist2" group-title="Canais | Documentários",H2 HD
 http://eyplay.io:80/tHK69F/Lk2Yud/262
 
 
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/h2.png" aspect-ratio="16:9" group-title="Canais | Documentários",H2 SD
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thghist2" group-title="Canais | Documentários",H2 SD
 http://eyplay.io:80/tHK69F/Lk2Yud/263
 
 
-#EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="Canais | Documentários",Love Nature FHD
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thghgtv" group-title="Canais | Documentários",HGTV FHD (H265)
+http://eyplay.io:80/tHK69F/Lk2Yud/98
+
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thghgtv" group-title="Canais | Documentários",HGTV HD
+http://eyplay.io:80/tHK69F/Lk2Yud/99
+
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thghgtv" group-title="Canais | Documentários",HGTV SD
+http://eyplay.io:80/tHK69F/Lk2Yud/100
+
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thghistorychannel" group-title="Canais | Documentários",History FHD (H265)
+http://eyplay.io:80/tHK69F/Lk2Yud/288
+
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thghistorychannel" group-title="Canais | Documentários",History HD
+http://eyplay.io:80/tHK69F/Lk2Yud/289
+
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thghistorychannel" group-title="Canais | Documentários",History SD
+http://eyplay.io:80/tHK69F/Lk2Yud/290
+
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yb7hcb42" group-title="Canais | Documentários",Love Nature FHD
 http://eyplay.io:80/tHK69F/Lk2Yud/2551
 
 
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/natgeowild.png" aspect-ratio="16:9" group-title="Canais | Documentários",Natgeo Wild FHD (H265)
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thgnatgeowild" group-title="Canais | Documentários",Natgeo Wild FHD (H265)
 http://eyplay.io:80/tHK69F/Lk2Yud/321
 
 
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/natgeowild.png" aspect-ratio="16:9" group-title="Canais | Documentários",Natgeo Wild HD
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thgnatgeowild" group-title="Canais | Documentários",Natgeo Wild HD
 http://eyplay.io:80/tHK69F/Lk2Yud/322
 
 
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/natgeowild.png" aspect-ratio="16:9" group-title="Canais | Documentários",Natgeo Wild SD
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thgnatgeowild" group-title="Canais | Documentários",Natgeo Wild SD
 http://eyplay.io:80/tHK69F/Lk2Yud/323
 
 
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/nationalgeographic.png" aspect-ratio="16:9" group-title="Canais | Documentários",National Geographic FHD (H265)
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thgnatgeo" group-title="Canais | Documentários",National Geographic FHD (H265)
 http://eyplay.io:80/tHK69F/Lk2Yud/315
 
 
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/nationalgeographic.png" aspect-ratio="16:9" group-title="Canais | Documentários",National Geographic HD
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thgnatgeo" group-title="Canais | Documentários",National Geographic HD
 http://eyplay.io:80/tHK69F/Lk2Yud/316
 
 
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/nationalgeographic.png" aspect-ratio="16:9" group-title="Canais | Documentários",National Geographic SD
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thgnatgeo" group-title="Canais | Documentários",National Geographic SD
 http://eyplay.io:80/tHK69F/Lk2Yud/320
 
 
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/trutv.png" aspect-ratio="16:9" group-title="Canais | Documentários",Tru TV FHD (H265)
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thgtrutv" group-title="Canais | Documentários",Tru TV FHD (H265)
 http://eyplay.io:80/tHK69F/Lk2Yud/443
 
 
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/trutv.png" aspect-ratio="16:9" group-title="Canais | Documentários",Tru TV HD
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thgtrutv" group-title="Canais | Documentários",Tru TV HD
 http://eyplay.io:80/tHK69F/Lk2Yud/444
 
 
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/trutv.png" aspect-ratio="16:9" group-title="Canais | Documentários",Tru TV SD
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thgtrutv" group-title="Canais | Documentários",Tru TV SD
 http://eyplay.io:80/tHK69F/Lk2Yud/445
 
 
 
-###########################################CANAIS ESPORTES###############################################
+#####################################FIM CANAIS DOCUMENTÁRIOS##########################################
 
 
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/ybcwj7gv" group-title="Canais | Esportes",ELY DAVID
-https://facebook.com/xx.ely.david.xx
+#####################################CANAIS ESPORTES###################################################
 
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/wrzf2ze" group-title="Canais | Esportes",SUPORTE VIA DISCORD: discord.gg/bVSswd
-https://facebook.com/xx.ely.david.xx
 
-
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/bandsports.png" aspect-ratio="16:9" group-title="Canais | Esportes",BandSports FHD (H265)
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thgbansports" group-title="Canais | Esportes",BandSports FHD (H265)
 http://eyplay.io:80/tHK69F/Lk2Yud/23
 
 
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/bandsports.png" aspect-ratio="16:9" group-title="Canais | Esportes",BandSports HD
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thgbansports" group-title="Canais | Esportes",BandSports HD
 http://eyplay.io:80/tHK69F/Lk2Yud/24
 
 
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/bandsports.png" aspect-ratio="16:9" group-title="Canais | Esportes",BandSports SD
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thgbansports" group-title="Canais | Esportes",BandSports SD
 http://eyplay.io:80/tHK69F/Lk2Yud/25
 
 
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/combate.png" aspect-ratio="16:9" group-title="Canais | Esportes",Combate FHD (H265)
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thgcombate" group-title="Canais | Esportes",Combate FHD (H265)
 http://eyplay.io:80/tHK69F/Lk2Yud/76
 
 
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/combate.png" aspect-ratio="16:9" group-title="Canais | Esportes",Combate HD
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thgcombate" group-title="Canais | Esportes",Combate HD
 http://eyplay.io:80/tHK69F/Lk2Yud/77
 
 
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/combate.png" aspect-ratio="16:9" group-title="Canais | Esportes",Combate SD
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thgcombate" group-title="Canais | Esportes",Combate SD
 http://eyplay.io:80/tHK69F/Lk2Yud/78
 
 
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/campeonatocatarinense.png" aspect-ratio="16:9" group-title="Canais | Esportes",Copa Catarinense 1 HD
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thgcopacatarinense" group-title="Canais | Esportes",Copa Catarinense 1 HD
 http://eyplay.io:80/tHK69F/Lk2Yud/82
 
 
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/campeonatocatarinense.png" aspect-ratio="16:9" group-title="Canais | Esportes",Copa Catarinense 1 SD
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thgcopacatarinense" group-title="Canais | Esportes",Copa Catarinense 1 SD
 http://eyplay.io:80/tHK69F/Lk2Yud/83
 
 
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/campeonatocatarinense.png" aspect-ratio="16:9" group-title="Canais | Esportes",Copa Catarinense 2 HD
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thgcopacatarinense" group-title="Canais | Esportes",Copa Catarinense 2 HD
 http://eyplay.io:80/tHK69F/Lk2Yud/84
 
 
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/campeonatocatarinense.png" aspect-ratio="16:9" group-title="Canais | Esportes",Copa Catarinense 2 SD
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thgcopacatarinense" group-title="Canais | Esportes",Copa Catarinense 2 SD
 http://eyplay.io:80/tHK69F/Lk2Yud/85
 
 
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/copanordeste.png" aspect-ratio="16:9" group-title="Canais | Esportes",Copa do Nordeste 1 HD
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thgcopanordeste" group-title="Canais | Esportes",Copa do Nordeste 1 HD
 http://eyplay.io:80/tHK69F/Lk2Yud/86
 
 
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/copanordeste.png" aspect-ratio="16:9" group-title="Canais | Esportes",Copa do Nordeste 1 SD
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thgcopanordeste" group-title="Canais | Esportes",Copa do Nordeste 1 SD
 http://eyplay.io:80/tHK69F/Lk2Yud/87
 
 
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/copanordeste.png" aspect-ratio="16:9" group-title="Canais | Esportes",Copa do Nordeste 2 HD
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thgcopanordeste" group-title="Canais | Esportes",Copa do Nordeste 2 HD
 http://eyplay.io:80/tHK69F/Lk2Yud/88
 
 
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/copanordeste.png" aspect-ratio="16:9" group-title="Canais | Esportes",Copa do Nordeste 2 SD
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thgcopanordeste" group-title="Canais | Esportes",Copa do Nordeste 2 SD
 http://eyplay.io:80/tHK69F/Lk2Yud/89
 
 
-#EXTINF:-1 tvg-logo="http://iv.pe/276" aspect-ratio="16:9" group-title="Canais | Esportes",Copa Libertadores HD
+#EXTINF:-1 tvg-logo="http://iv.pe/276" group-title="Canais | Esportes",Copa Libertadores HD
 http://eyplay.io:80/tHK69F/Lk2Yud/14074
 
 
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/dazn.png" aspect-ratio="16:9" group-title="Canais | Esportes",DAZN 1 FHD (H265)
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thgdazn1" group-title="Canais | Esportes",DAZN 1 FHD (H265)
 http://eyplay.io:80/tHK69F/Lk2Yud/93
 
 
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/dazn.png" aspect-ratio="16:9" group-title="Canais | Esportes",DAZN 1 HD
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thgdazn1" group-title="Canais | Esportes",DAZN 1 HD
 http://eyplay.io:80/tHK69F/Lk2Yud/94
 
 
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/eiplus.png" aspect-ratio="16:9" group-title="Canais | Esportes",Ei Plus 1 HD
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thgeiplus" group-title="Canais | Esportes",Ei Plus 1 HD
 http://eyplay.io:80/tHK69F/Lk2Yud/131
 
 
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/eiplus.png" aspect-ratio="16:9" group-title="Canais | Esportes",Ei Plus 1 SD
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thgeiplus" group-title="Canais | Esportes",Ei Plus 1 SD
 http://eyplay.io:80/tHK69F/Lk2Yud/132
 
 
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/eiplus.png" aspect-ratio="16:9" group-title="Canais | Esportes",Ei Plus 2 HD
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thgeiplus" group-title="Canais | Esportes",Ei Plus 2 HD
 http://eyplay.io:80/tHK69F/Lk2Yud/133
 
 
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/eiplus.png" aspect-ratio="16:9" group-title="Canais | Esportes",Ei Plus 2 SD
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thgeiplus" group-title="Canais | Esportes",Ei Plus 2 SD
 http://eyplay.io:80/tHK69F/Lk2Yud/134
 
 
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/eiplus.png" aspect-ratio="16:9" group-title="Canais | Esportes",Ei Plus 3 HD
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thgeiplus" group-title="Canais | Esportes",Ei Plus 3 HD
 http://eyplay.io:80/tHK69F/Lk2Yud/135
 
 
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/eiplus.png" aspect-ratio="16:9" group-title="Canais | Esportes",Ei Plus 3 SD
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thgeiplus" group-title="Canais | Esportes",Ei Plus 3 SD
 http://eyplay.io:80/tHK69F/Lk2Yud/136
 
 
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/eiplus.png" aspect-ratio="16:9" group-title="Canais | Esportes",Ei Plus 4 HD
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thgeiplus" group-title="Canais | Esportes",Ei Plus 4 HD
 http://eyplay.io:80/tHK69F/Lk2Yud/137
 
 
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/eiplus.png" aspect-ratio="16:9" group-title="Canais | Esportes",Ei Plus 4 SD
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thgeiplus" group-title="Canais | Esportes",Ei Plus 4 SD
 http://eyplay.io:80/tHK69F/Lk2Yud/138
 
 
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/eiplus.png" aspect-ratio="16:9" group-title="Canais | Esportes",Ei Plus 5 HD
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thgeiplus" group-title="Canais | Esportes",Ei Plus 5 HD
 http://eyplay.io:80/tHK69F/Lk2Yud/139
 
 
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/eiplus.png" aspect-ratio="16:9" group-title="Canais | Esportes",Ei Plus 5 SD
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thgeiplus" group-title="Canais | Esportes",Ei Plus 5 SD
 http://eyplay.io:80/tHK69F/Lk2Yud/140
 
 
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/eiplus.png" aspect-ratio="16:9" group-title="Canais | Esportes",Ei Plus 6 HD
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thgeiplus" group-title="Canais | Esportes",Ei Plus 6 HD
 http://eyplay.io:80/tHK69F/Lk2Yud/142
 
 
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/eiplus.png" aspect-ratio="16:9" group-title="Canais | Esportes",Ei Plus 6 SD
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thgeiplus" group-title="Canais | Esportes",Ei Plus 6 SD
 http://eyplay.io:80/tHK69F/Lk2Yud/141
 
 
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/espn.png" aspect-ratio="16:9" group-title="Canais | Esportes",ESPN FHD (H265)
-http://eyplay.io:80/tHK69F/Lk2Yud/152
-
-
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/espn.png" aspect-ratio="16:9" group-title="Canais | Esportes",ESPN HD
-http://eyplay.io:80/tHK69F/Lk2Yud/153
-
-
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/espn.png" aspect-ratio="16:9" group-title="Canais | Esportes",ESPN SD
-http://eyplay.io:80/tHK69F/Lk2Yud/154
-
-
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/espn2.png" aspect-ratio="16:9" group-title="Canais | Esportes",ESPN 2 FHD (H265)
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thgespn2" group-title="Canais | Esportes",ESPN 2 FHD (H265)
 http://eyplay.io:80/tHK69F/Lk2Yud/144
 
 
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/espn2.png" aspect-ratio="16:9" group-title="Canais | Esportes",ESPN 2 HD
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thgespn2" group-title="Canais | Esportes",ESPN 2 HD
 http://eyplay.io:80/tHK69F/Lk2Yud/145
 
 
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/espn2.png" aspect-ratio="16:9" group-title="Canais | Esportes",ESPN 2 SD
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thgespn2" group-title="Canais | Esportes",ESPN 2 SD
 http://eyplay.io:80/tHK69F/Lk2Yud/146
 
 
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/espnbrasil.png" aspect-ratio="16:9" group-title="Canais | Esportes",ESPN Brasil FHD (H265)
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thgespnbrasil" group-title="Canais | Esportes",ESPN Brasil FHD (H265)
 http://eyplay.io:80/tHK69F/Lk2Yud/147
 
 
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/espnbrasil.png" aspect-ratio="16:9" group-title="Canais | Esportes",ESPN Brasil HD
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thgespnbrasil" group-title="Canais | Esportes",ESPN Brasil HD
 http://eyplay.io:80/tHK69F/Lk2Yud/148
 
 
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/espnbrasil.png" aspect-ratio="16:9" group-title="Canais | Esportes",ESPN Brasil SD
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thgespnbrasil" group-title="Canais | Esportes",ESPN Brasil SD
 http://eyplay.io:80/tHK69F/Lk2Yud/149
 
 
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/espnextra.png" aspect-ratio="16:9" group-title="Canais | Esportes",ESPN Extra HD
+#EXTINF:-1 tvg-logo="https://tinyurl.com/espnextra" group-title="Canais | Esportes",ESPN Extra HD
 http://eyplay.io:80/tHK69F/Lk2Yud/150
 
 
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/espnextra.png" aspect-ratio="16:9" group-title="Canais | Esportes",ESPN Extra SD
+#EXTINF:-1 tvg-logo="https://tinyurl.com/espnextra" group-title="Canais | Esportes",ESPN Extra SD
 http://eyplay.io:80/tHK69F/Lk2Yud/151
 
 
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/foxsports1.png" aspect-ratio="16:9" group-title="Canais | Esportes",Fox Sports FHD (H265)
-http://eyplay.io:80/tHK69F/Lk2Yud/179
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thgespn" group-title="Canais | Esportes",ESPN FHD (H265)
+http://eyplay.io:80/tHK69F/Lk2Yud/152
 
 
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/foxsports1.png" aspect-ratio="16:9" group-title="Canais | Esportes",Fox Sports HD
-http://eyplay.io:80/tHK69F/Lk2Yud/180
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thgespn" group-title="Canais | Esportes",ESPN HD
+http://eyplay.io:80/tHK69F/Lk2Yud/153
 
 
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/foxsports1.png" aspect-ratio="16:9" group-title="Canais | Esportes",Fox Sports SD
-http://eyplay.io:80/tHK69F/Lk2Yud/181
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thgespn" group-title="Canais | Esportes",ESPN SD
+http://eyplay.io:80/tHK69F/Lk2Yud/154
 
 
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/foxsports2.png" aspect-ratio="16:9" group-title="Canais | Esportes",Fox Sports 2 FHD (H265)
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thgfoxsports2" group-title="Canais | Esportes",Fox Sports 2 FHD (H265)
 http://eyplay.io:80/tHK69F/Lk2Yud/176
 
 
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/foxsports2.png" aspect-ratio="16:9" group-title="Canais | Esportes",Fox Sports 2 HD
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thgfoxsports2" group-title="Canais | Esportes",Fox Sports 2 HD
 http://eyplay.io:80/tHK69F/Lk2Yud/177
 
 
-#EXTINF:-1 tvg-logo="http://s.eyplay.io/logos/canais/foxsports2.png" aspect-ratio="16:9" group-title="Canais | Esportes",Fox Sports 2 SD
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thgfoxsports2" group-title="Canais | Esportes",Fox Sports 2 SD
 http://eyplay.io:80/tHK69F/Lk2Yud/178
 
 
-#EXTINF:-1 tvg-logo="" aspect-ratio="16:9" group-title="Canais | Esportes",Real Madrid SD
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thgfoxsports" group-title="Canais | Esportes",Fox Sports FHD (H265)
+http://eyplay.io:80/tHK69F/Lk2Yud/179
+
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thgfoxsports" group-title="Canais | Esportes",Fox Sports HD
+http://eyplay.io:80/tHK69F/Lk2Yud/180
+
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thgfoxsports" group-title="Canais | Esportes",Fox Sports SD
+http://eyplay.io:80/tHK69F/Lk2Yud/181
+
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | Esportes",Real Madrid SD
 http://eyplay.io:80/tHK69F/Lk2Yud/363
+
+
+
+#####################################FIM CANAIS ESPORTES################################################
+
 
 
 

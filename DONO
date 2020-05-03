@@ -1,28 +1,5 @@
 #EXTM3U
 
-
-
-###########################################################
-##    DEU UM TRABALHO DO CACETE PARA FAZER A LISTA.      ##
-## SE FOR REPASSAR DEIXE OS DEVIDOS CREDITOS A ELY DAVID.##
-##       VOCÊ PODE OLHAR E ESPELHAR O CONTEÚDO.          ##
-## NÃO AUTORIZO RECEBER LUCROS EM CIMA DESSES LINKS.     ##
-## SE VER PARTE DESSE CONTEÚDO EM LISTA PAGA AVISE!      ##
-##  OBSERVACAO: LINKS SÂO ALTERADOS CONSTANTEMENTE.      ##
-##     GOSTOU, CONTRIBUA!                                ##
-###########################################################
-
-
-
-###################################################
-#                                                 #
-# Criado por Ely David.                           #
-# Facebook: https://facebook.com/xx.ely.david.xx  #
-#                                                 #
-###################################################
-
-
-
 #EXTINF:-1 tvg-logo="https://tinyurl.com/thgband" group-title="Canais | Abertos",Band FHD (H265)
 http://eyplay.io:80/3Pqqj2/OZPNK2/17
 
@@ -127,3 +104,126 @@ http://eyplay.io:80/3Pqqj2/OZPNK2/14072
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/thgnvtemp" group-title="Canais | Abertos",TV Novo Tempo SD
 http://eyplay.io:80/3Pqqj2/OZPNK2/14073
+
+#####################################CANAIS DOCUMENTÁRIOS##########################################
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thganimal" group-title="Canais | Documentários",Animal Planet FHD (H265)
+http://eyplay.io:80/3Pqqj2/OZPNK2/5
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thganimal" group-title="Canais | Documentários",Animal Planet HD
+http://eyplay.io:80/3Pqqj2/OZPNK2/6
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thganimal" group-title="Canais | Documentários",Animal Planet SD
+http://eyplay.io:80/3Pqqj2/OZPNK2/7
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thgarte1" group-title="Canais | Documentários",Arte 1 FHD (H265)
+http://eyplay.io:80/3Pqqj2/OZPNK2/8
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thgarte1" group-title="Canais | Documentários",Arte 1 HD
+http://eyplay.io:80/3Pqqj2/OZPNK2/9
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thgarte1" group-title="Canais | Documentários",Arte 1 SD
+http://eyplay.io:80/3Pqqj2/OZPNK2/10
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thgcurta" group-title="Canais | Documentários",Curta FHD (H265)
+http://eyplay.io:80/3Pqqj2/OZPNK2/90
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thgcurta" group-title="Canais | Documentários",Curta HD
+http://eyplay.io:80/3Pqqj2/OZPNK2/91
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thgcurta" group-title="Canais | Documentários",Curta SD
+http://eyplay.io:80/3Pqqj2/OZPNK2/92
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thgdiscovery" group-title="Canais | Documentários",Discovery Channel FHD (H265)
+http://eyplay.io:80/3Pqqj2/OZPNK2/95
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thgdiscovery" group-title="Canais | Documentários",Discovery Channel HD
+http://eyplay.io:80/3Pqqj2/OZPNK2/96
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thgdiscovery" group-title="Canais | Documentários",Discovery Channel SD
+http://eyplay.io:80/3Pqqj2/OZPNK2/97
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thgsci" group-title="Canais | Documentários",Discovery Science FHD (H265)
+http://eyplay.io:80/3Pqqj2/OZPNK2/107
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thgsci" group-title="Canais | Documentários",Discovery Science HD
+http://eyplay.io:80/3Pqqj2/OZPNK2/108
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thgsci" group-title="Canais | Documentários",Discovery Science SD
+http://eyplay.io:80/3Pqqj2/OZPNK2/109
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thgtheater" group-title="Canais | Documentários",Discovery Theater FHD (H265)
+http://eyplay.io:80/3Pqqj2/OZPNK2/110
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thgtheater" group-title="Canais | Documentários",Discovery Theater HD
+http://eyplay.io:80/3Pqqj2/OZPNK2/111
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thgtheater" group-title="Canais | Documentários",Discovery Theater SD
+http://eyplay.io:80/3Pqqj2/OZPNK2/112
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thgdiscoverywrld" group-title="Canais | Documentários",Discovery World FHD (H265)
+http://eyplay.io:80/3Pqqj2/OZPNK2/116
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thgdiscoverywrld" group-title="Canais | Documentários",Discovery World HD
+http://eyplay.io:80/3Pqqj2/OZPNK2/117
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thgdiscoverywrld" group-title="Canais | Documentários",Discovery World SD
+http://eyplay.io:80/3Pqqj2/OZPNK2/118
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thghist2" group-title="Canais | Documentários",H2 FHD (H265)
+http://eyplay.io:80/3Pqqj2/OZPNK2/261
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thghist2" group-title="Canais | Documentários",H2 HD
+http://eyplay.io:80/3Pqqj2/OZPNK2/262
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thghist2" group-title="Canais | Documentários",H2 SD
+http://eyplay.io:80/3Pqqj2/OZPNK2/263
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thghgtv" group-title="Canais | Documentários",HGTV FHD (H265)
+http://eyplay.io:80/3Pqqj2/OZPNK2/98
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thghgtv" group-title="Canais | Documentários",HGTV HD
+http://eyplay.io:80/3Pqqj2/OZPNK2/99
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thghgtv" group-title="Canais | Documentários",HGTV SD
+http://eyplay.io:80/3Pqqj2/OZPNK2/100
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thghistorychannel" group-title="Canais | Documentários",History FHD (H265)
+http://eyplay.io:80/3Pqqj2/OZPNK2/288
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thghistorychannel" group-title="Canais | Documentários",History HD
+http://eyplay.io:80/3Pqqj2/OZPNK2/289
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thghistorychannel" group-title="Canais | Documentários",History SD
+http://eyplay.io:80/3Pqqj2/OZPNK2/290
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yb7hcb42" group-title="Canais | Documentários",Love Nature FHD
+http://eyplay.io:80/3Pqqj2/OZPNK2/2551
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thgnatgeowild" group-title="Canais | Documentários",Natgeo Wild FHD (H265)
+http://eyplay.io:80/3Pqqj2/OZPNK2/321
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thgnatgeowild" group-title="Canais | Documentários",Natgeo Wild HD
+http://eyplay.io:80/3Pqqj2/OZPNK2/322
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thgnatgeowild" group-title="Canais | Documentários",Natgeo Wild SD
+http://eyplay.io:80/3Pqqj2/OZPNK2/323
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thgnatgeo" group-title="Canais | Documentários",National Geographic FHD (H265)
+http://eyplay.io:80/3Pqqj2/OZPNK2/315
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thgnatgeo" group-title="Canais | Documentários",National Geographic HD
+http://eyplay.io:80/3Pqqj2/OZPNK2/316
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thgnatgeo" group-title="Canais | Documentários",National Geographic SD
+http://eyplay.io:80/3Pqqj2/OZPNK2/320
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thgtrutv" group-title="Canais | Documentários",Tru TV FHD (H265)
+http://eyplay.io:80/3Pqqj2/OZPNK2/443
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thgtrutv" group-title="Canais | Documentários",Tru TV HD
+http://eyplay.io:80/3Pqqj2/OZPNK2/444
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/thgtrutv" group-title="Canais | Documentários",Tru TV SD
+http://eyplay.io:80/3Pqqj2/OZPNK2/445
+

@@ -1860,7 +1860,7 @@ http://eyplay.io:80/3Pqqj2/OZPNK2/996
 
 ###########################################FILMES LANCAMENTOS###############################################
 
-#EXTINF tvg-logo="https://tinyurl.com/ycd39uq3" group-title="Filmes | Lançamentos",A Arte da Autodefesa - 2019
+#EXTINF tvg-logo="http://eyplay.io/images/a47da282e4b4f0e3c80aed0b736d8bbc.jpg" group-title="Filmes | Lançamentos",A Arte da Autodefesa - 2019
 http://eyplay.io:80/movie/3Pqqj2/OZPNK2/16933.mp4
 #EXTINF:0 tvg-logo="https://tinyurl.com/y7wd3xva" group-title="Filmes | Lançamentos",A Creche do Papai 3 - 2019
 http://eyplay.io:80/movie/3Pqqj2/OZPNK2/16938.mp4
@@ -1914,8 +1914,6 @@ http://eyplay.io:80/movie/3Pqqj2/OZPNK2/16964.mp4
 http://eyplay.io:80/movie/3Pqqj2/OZPNK2/16966.mp4
 #EXTINF:0 tvg-logo="https://tinyurl.com/y7auxygw" group-title="Filmes | Lançamentos",Arctic Dogs - 2019
 http://eyplay.io:80/movie/3Pqqj2/OZPNK2/16967.mp4
-
-
 EXTINF:-1 tvg-logo="https://tinyurl.com/y7yykfpr" group-title="Filmes | Lançamentos",As Aventuras de Timmy Failure - 2020
 http://eyplay.io:80/movie/3Pqqj2/OZPNK2/16970.mp4
 #EXTINF:0 tvg-logo="https://tinyurl.com/yc8nakk3" group-title="Filmes | Lançamentos",As Estrelas Brilham na Cidade - 2019

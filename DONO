@@ -69,8 +69,6 @@ http://eyplay.io:80/3Pqqj2/OZPNK2/14071
 http://eyplay.io:80/3Pqqj2/OZPNK2/14072
 #EXTINF:0 tvg-logo="https://tinyurl.com/thgnvtemp" group-title="Canais | Abertos",TV Novo Tempo SD
 http://eyplay.io:80/3Pqqj2/OZPNK2/14073
-
-#####################################CANAIS DOCUMENTÁRIOS##########################################
 #EXTINF:0 tvg-logo="https://tinyurl.com/thganimal" group-title="Canais | Documentários",Animal Planet FHD (H265)
 http://eyplay.io:80/3Pqqj2/OZPNK2/5
 #EXTINF:0 tvg-logo="https://tinyurl.com/thganimal" group-title="Canais | Documentários",Animal Planet HD
@@ -151,8 +149,6 @@ http://eyplay.io:80/3Pqqj2/OZPNK2/443
 http://eyplay.io:80/3Pqqj2/OZPNK2/444
 #EXTINF:0 tvg-logo="https://tinyurl.com/thgtrutv" group-title="Canais | Documentários",Tru TV SD
 http://eyplay.io:80/3Pqqj2/OZPNK2/445
-
-#####################################CANAIS ESPORTES###################################################
 #EXTINF:0 tvg-logo="https://tinyurl.com/thgbansports" group-title="Canais | Esportes",BandSports FHD (H265)
 http://eyplay.io:80/3Pqqj2/OZPNK2/23
 #EXTINF:0 tvg-logo="https://tinyurl.com/thgbansports" group-title="Canais | Esportes",BandSports HD
@@ -247,8 +243,6 @@ http://eyplay.io:80/3Pqqj2/OZPNK2/177
 http://eyplay.io:80/3Pqqj2/OZPNK2/17
 #EXTINF:0 tvg-logo="" group-title="Canais | Esportes",Real Madrid SD
 http://eyplay.io:80/3Pqqj2/OZPNK2/363
-
-#####################################CANAIS FILMES E SÉRIES################################################
 #EXTINF:0 tvg-logo="https://tinyurl.com/thgamc" group-title="Canais | Filmes e Séries",AMC FHD (H265)
 http://eyplay.io:80/3Pqqj2/OZPNK2/474
 #EXTINF:0 tvg-logo="https://tinyurl.com/thgamc" group-title="Canais | Filmes e Séries",AMC HD
@@ -279,7 +273,6 @@ http://eyplay.io:80/3Pqqj2/OZPNK2/161
 http://eyplay.io:80/3Pqqj2/OZPNK2/162
 #EXTINF:0 tvg-logo="https://tinyurl.com/thgfox" group-title="Canais | Filmes e Séries",Fox SD
 http://eyplay.io:80/3Pqqj2/OZPNK2/175
-
 #EXTINF:0 tvg-logo="https://tinyurl.com/thgfoxpremium1" group-title="Canais | Filmes e Séries",Fox Premium 1 FHD (H265)
 http://eyplay.io:80/3Pqqj2/OZPNK2/169
 #EXTINF:0 tvg-logo="https://tinyurl.com/thgfoxpremium1" group-title="Canais | Filmes e Séries",Fox Premium 1 HD
@@ -364,8 +357,6 @@ http://eyplay.io:80/3Pqqj2/OZPNK2/461
 http://eyplay.io:80/3Pqqj2/OZPNK2/462
 #EXTINF:0 tvg-logo="https://tinyurl.com/thgwarnerchannel" group-title="Canais | Filmes e Séries",Warner Channel SD
 http://eyplay.io:80/3Pqqj2/OZPNK2/463
-
-#####################################CANAIS GLOBO################################################
 #EXTINF:0 tvg-logo="https://tinyurl.com/thgglobo" group-title="Canais | Globo",Globo Brasilia HD
 http://eyplay.io:80/3Pqqj2/OZPNK2/185
 #EXTINF:0 tvg-logo="https://tinyurl.com/thgglobo" group-title="Canais | Globo",Globo Brasilia SD
@@ -490,8 +481,6 @@ http://eyplay.io:80/3Pqqj2/OZPNK2/249
 http://eyplay.io:80/3Pqqj2/OZPNK2/250
 #EXTINF:0 tvg-logo="https://tinyurl.com/thgglobo" group-title="Canais | Globo",Globo TV Verdes Mares SD
 http://eyplay.io:80/3Pqqj2/OZPNK2/251
-
-###########################################CANAIS HBO################################################
 #EXTINF:0 tvg-logo="https://tinyurl.com/thghbo" group-title="Canais | HBO",HBO FHD (H265)
 http://eyplay.io:80/3Pqqj2/OZPNK2/270
 #EXTINF:0 tvg-logo="https://tinyurl.com/thghbo" group-title="Canais | HBO",HBO HD
@@ -540,8 +529,6 @@ http://eyplay.io:80/3Pqqj2/OZPNK2/285
 http://eyplay.io:80/3Pqqj2/OZPNK2/286
 #EXTINF:0 tvg-logo="https://tinyurl.com/thghboextreme" group-title="Canais | HBO",HBO Xtreme SD
 http://eyplay.io:80/3Pqqj2/OZPNK2/287
-
-###########################################CANAIS INFANTIS################################################
 #EXTINF:0 tvg-logo="https://tinyurl.com/thgbabytv" group-title="Canais | Infantis",BabyTV FHD (H265)
 http://eyplay.io:80/3Pqqj2/OZPNK2/14
 #EXTINF:0 tvg-logo="https://tinyurl.com/thgbabytv" group-title="Canais | Infantis",BabyTV HD
@@ -626,8 +613,6 @@ http://eyplay.io:80/3Pqqj2/OZPNK2/447
 http://eyplay.io:80/3Pqqj2/OZPNK2/448
 #EXTINF:0 tvg-logo="http://s.eyplay.io/logos/canais/ratimbum.png" group-title="Canais | Infantis",TV Ra Tim Bum SD
 http://eyplay.io:80/3Pqqj2/OZPNK2/449
-
-###########################################CANAIS NOTÍCIAS################################################
 #EXTINF:0 tvg-logo="https://tinyurl.com/thgbandnews" group-title="Canais | Notícias",BandNews FHD (H265)
 http://eyplay.io:80/3Pqqj2/OZPNK2/20
 #EXTINF:0 tvg-logo="https://tinyurl.com/thgbandnews" group-title="Canais | Notícias",BandNews HD
@@ -668,8 +653,6 @@ http://eyplay.io:80/3Pqqj2/OZPNK2/364
 http://eyplay.io:80/3Pqqj2/OZPNK2/365
 #EXTINF:0 tvg-logo="https://tinyurl.com/thgrecordnews" group-title="Canais | Notícias",Record News SD
 http://eyplay.io:80/3Pqqj2/OZPNK2/366
-
-###########################################CANAIS PREMIERE################################################
 #EXTINF:0 tvg-logo="https://tinyurl.com/thgpremiere2" group-title="Canais | Premiere",Premiere Clubes FHD (H265)
 http://eyplay.io:80/3Pqqj2/OZPNK2/357
 #EXTINF:0 tvg-logo="https://tinyurl.com/thgpremiere2" group-title="Canais | Premiere",Premiere Clubes HD
@@ -712,8 +695,6 @@ http://eyplay.io:80/3Pqqj2/OZPNK2/354
 http://eyplay.io:80/3Pqqj2/OZPNK2/355
 #EXTINF:0 tvg-logo="https://tinyurl.com/thgpremiere2" group-title="Canais | Premiere",Premiere 7 SD
 http://eyplay.io:80/3Pqqj2/OZPNK2/356
-
-###########################################CANAIS SPORTV################################################
 #EXTINF:0 tvg-logo="https://tinyurl.com/thgsportv" group-title="Canais | SporTV",SporTV FHD (H265)
 http://eyplay.io:80/3Pqqj2/OZPNK2/398
 #EXTINF:0 tvg-logo="https://tinyurl.com/thgsportv" group-title="Canais | SporTV",SporTV HD
@@ -732,8 +713,6 @@ http://eyplay.io:80/3Pqqj2/OZPNK2/395
 http://eyplay.io:80/3Pqqj2/OZPNK2/396
 #EXTINF:0 tvg-logo="https://tinyurl.com/thgsportv3" group-title="Canais | SporTV",SporTV 3 SD
 http://eyplay.io:80/3Pqqj2/OZPNK2/397
-
-###########################################CANAIS VARIEDADES################################################
 #EXTINF:0 tvg-logo="https://tinyurl.com/thgaee" group-title="Canais | Variedades",A&E FHD (H265)
 http://eyplay.io:80/3Pqqj2/OZPNK2/2
 #EXTINF:0 tvg-logo="https://tinyurl.com/thgaee" group-title="Canais | Variedades",A&E HD
@@ -890,8 +869,6 @@ http://eyplay.io:80/3Pqqj2/OZPNK2/459
 http://eyplay.io:80/3Pqqj2/OZPNK2/460
 #EXTINF:0 tvg-logo="https://tinyurl.com/thgwoohoo" group-title="Canais | Variedades",Woohoo FHD (H265)
 http://eyplay.io:80/3Pqqj2/OZPNK2/464
-
-##############################################CANAIS ADULTOS####################################################
 #EXTINF:0 tvg-logo="https://tinyurl.com/thgplayboy1" group-title="Canais | Adultos  (+18)",XXX: Playboy FHD (H265)
 http://eyplay.io:80/3Pqqj2/OZPNK2/465
 #EXTINF:0 tvg-logo="https://tinyurl.com/thgplayboy1" group-title="Canais | Adultos  (+18)",XXX: Playboy HD
@@ -910,8 +887,6 @@ http://eyplay.io:80/3Pqqj2/OZPNK2/471
 http://eyplay.io:80/3Pqqj2/OZPNK2/472
 #EXTINF:0 tvg-logo="https://tinyurl.com/thgsexyhot" group-title="Canais | Adultos  (+18)",XXX: Sexy Hot SD
 http://eyplay.io:80/3Pqqj2/OZPNK2/473
-
-###########################################CANAIS 24 HORAS###############################################
 #EXTINF:0 tvg-logo="http://iv.pe/W2q" group-title="Canais | 24 Horas",(24H) 101 DALMATAS
 http://eyplay.io:80/3Pqqj2/OZPNK2/478
 #EXTINF:0 tvg-logo="http://iv.pe/Oym" group-title="Canais | 24 Horas",(24H) 3 PALAVRINHAS
@@ -1857,9 +1832,6 @@ http://eyplay.io:80/3Pqqj2/OZPNK2/995
 
 #EXTINF:0 tvg-logo="http://iv.pe/3sI" group-title="Canais | 24 Horas",(24H) ZORRA TOTAL (2014)
 http://eyplay.io:80/3Pqqj2/OZPNK2/996
-
-###########################################FILMES LANCAMENTOS###############################################
-
 #EXTINF tvg-logo="http://eyplay.io/images/a47da282e4b4f0e3c80aed0b736d8bbc.jpg" group-title="Filmes | Lançamentos",A Arte da Autodefesa - 2019
 http://eyplay.io:80/movie/3Pqqj2/OZPNK2/16933.mp4
 #EXTINF:0 tvg-logo="https://tinyurl.com/y7wd3xva" group-title="Filmes | Lançamentos",A Creche do Papai 3 - 2019

@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0 tvg-logo="https://tinyurl.com/ycsgc4tr" group-title="Informações e Suporte",Bem-Vindo ao TheGuardian IPTV [P2P]
+https://1259667713.vod2.myqcloud.com/a6c7e39cvodusw1259667713/a4d93f705285890801691418754/kKxtFmPxEpwA.mp4
 #EXTINF:0 tvg-logo="https://tinyurl.com/thgband" group-title="Canais | Abertos",Band FHD (H265)
 http://eyplay.io:80/PHUo8w/IDOhlG/17
 #EXTINF:0 tvg-logo="https://tinyurl.com/thgband" group-title="Canais | Abertos",Band HD

@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="https://url.gratis/UkXSw" group-title="Canais | Abertos",Inscrição [COLOR green]Ativa![/COLOR]
+#EXTINF:0 tvg-logo="https://url.gratis/UkXSw" group-title="Sua Inscrição",Inscrição [COLOR green]Ativa![/COLOR]
 https://url.gratis/xMkU7
-#EXTINF:0 tvg-logo="https://url.gratis/Aj94t" group-title="Canais | Abertos",Usuário: José Victor Castro
+#EXTINF:0 tvg-logo="https://url.gratis/Aj94t" group-title="Sua Inscrição",Usuário: José Victor Castro
 https://url.gratis/xMkU7
 #EXTINF:0 tvg-logo="https://url.gratis/kMEq9" group-title="Canais | Abertos",Band FHD (H265)
 http://eyplay.io:80/G023V1/02pFH7/17

@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:0 tvg-logo="https://url.gratis/UkXSw" group-title="Sua Inscrição",Inscrição [COLOR green]Ativa![/COLOR]
+https://url.gratis/xMkU7
+#EXTINF:0 tvg-logo="https://url.gratis/OXkBV" group-title="Sua Inscrição",Usuário: Ely David
+https://url.gratis/xMkU7
 #EXTINF:0 tvg-logo="https://url.gratis/kMEq9" group-title="Canais | Abertos",Band FHD (H265)
 http://eyplay.io:80/8gNNFn/bPBKyL/17
 #EXTINF:0 tvg-logo="https://url.gratis/kMEq9" group-title="Canais | Abertos",Band HD

@@ -1,8 +1,3 @@
-Projeto de Lista IPTV
-
-1º Passo: Formato da lista = M3U8
-2º Compactado 100%
-
 #EXTM3U
 #EXTINF:0 tvg-logo="" group-title="Sua Assinatura",THE GUARDIAN IPTV
 https://url.gratis/sgXCX
@@ -12,11 +7,11 @@ https://url.gratis/sgXCX
 https://url.gratis/sgXCX
 #EXTINF:0 tvg-logo="" group-title="Sua Assinatura",Usuário: **
 https://url.gratis/sgXCX
-#EXTINF:0 tvg-logo="https://url.gratis/VpGc1" group-title="Canais | Abertos",Band FHD
+#EXTINF:0 tvg-logo="https://url.gratis/MSs5s" group-title="Canais | Abertos",Band FHD
 http://eyplay.io:80/abvY0e/zBN8TA/17
-#EXTINF:0 tvg-logo="https://url.gratis/VpGc1" group-title="Canais | Abertos",Band HD
+#EXTINF:0 tvg-logo="https://url.gratis/MSs5s" group-title="Canais | Abertos",Band HD
 http://eyplay.io:80/abvY0e/zBN8TA/18
-#EXTINF:0 tvg-logo="https://url.gratis/VpGc1" group-title="Canais | Abertos",Band SD
+#EXTINF:0 tvg-logo="https://url.gratis/MSs5s" group-title="Canais | Abertos",Band SD
 http://eyplay.io:80/abvY0e/zBN8TA/19
 #EXTINF:0 tvg-logo="https://url.gratis/uDV9Z" group-title="Canais | Abertos",Boa Vontade TV SD 
 http://eyplay.io:80/abvY0e/zBN8TA/14063

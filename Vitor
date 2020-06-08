@@ -1,12 +1,14 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="https://url.gratis/UkXSw" group-title="Sua Inscrição",The Guardian IPTV
-https://url.gratis/xMkU7
-#EXTINF:0 tvg-logo="https://url.gratis/UkXSw" group-title="Sua Inscrição",Plano Ativo!
-https://url.gratis/xMkU7
-#EXTINF:0 tvg-logo="https://url.gratis/DY4Ty" group-title="Sua Inscrição",Plano: Básico | R$ 10,00
-https://url.gratis/xMkU7
-#EXTINF:0 tvg-logo="https://url.gratis/2sCcA" group-title="Sua Inscrição",Usuário: José Victor
-https://url.gratis/xMkU7
+#EXTINF:0 tvg-logo="https://url.gratis/rTaBZ" group-title="Sua Assinatura",THE GUARDIAN IPTV
+https://url.gratis/a7JpS
+#EXTINF:0 tvg-logo="" group-title="Sua Assinatura",Plano: Premium | R$ 20.00
+https://url.gratis/sgXCX
+#EXTINF:0 tvg-logo="" group-title="Sua Assinatura",Renovação: dia 08
+https://url.gratis/sgXCX
+#EXTINF:0 tvg-logo="https://url.gratis/rStsg" group-title="Sua Assinatura",Status: Ativo!
+https://url.gratis/sgXCX
+#EXTINF:0 tvg-logo="https://url.gratis/V3Fd4" group-title="Sua Assinatura",Usuário: José Victor
+https://url.gratis/sgXCX
 #EXTINF:0 tvg-logo="https://url.gratis/kMEq9" group-title="Canais | Abertos",Band FHD (H265)
 http://eyplay.io:80/scv3hV/khAMGU/17
 #EXTINF:0 tvg-logo="https://url.gratis/kMEq9" group-title="Canais | Abertos",Band HD

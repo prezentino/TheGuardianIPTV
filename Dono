@@ -1,13 +1,15 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="https://url.gratis/UkXSw" group-title="Sua Inscrição",Plano Ativo!
+#EXTINF:0 tvg-logo="https://url.gratis/JH4ie" group-title="Sua Inscrição",Guardian TV
 https://url.gratis/xMkU7
-#EXTINF:0 tvg-logo="http://m3uiptv.co/kAhg" group-title="Sua Inscrição",Plano: Premium | R$ 30.00
+#EXTINF:0 tvg-logo="https://url.gratis/tVnCo" group-title="Sua Inscrição",Plano Ativo!
 https://url.gratis/xMkU7
-#EXTINF:0 tvg-logo="http://m3uiptv.co/peYU" group-title="Sua Inscrição",Usuário: Desenvolvedor
+#EXTINF:0 tvg-logo="https://url.gratis/t126d" group-title="Sua Inscrição",Plano: Premium | R$ 30.00
 https://url.gratis/xMkU7
-#EXTINF:0 tvg-logo="http://m3uiptv.co/Ydjm" group-title="Canais | Abertos",Band FHD
+#EXTINF:0 tvg-logo="https://url.gratis/zqfB9" group-title="Sua Inscrição",Usuário: Desenvolvedor
+https://url.gratis/xMkU7
+#EXTINF:0 tvg-logo="https://url.gratis/kMEq9" group-title="Canais | Abertos",Band FHD
 http://eyplay.io:80/dCZtXg/7UG2IU/17
-#EXTINF:0 tvg-logo="http://m3uiptv.co/Ydjm" group-title="Canais | Abertos",Band HD
+#EXTINF:0 tvg-logo="https://url.gratis/kMEq9" group-title="Canais | Abertos",Band HD
 http://eyplay.io:80/dCZtXg/7UG2IU/18
-#EXTINF:0 tvg-logo="http://m3uiptv.co/Ydjm" group-title="Canais | Abertos",Band SD
+#EXTINF:0 tvg-logo="https://url.gratis/kMEq9" group-title="Canais | Abertos",Band SD
 http://eyplay.io:80/dCZtXg/7UG2IU/19
